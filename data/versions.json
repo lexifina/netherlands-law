@@ -81602,6 +81602,496 @@
      "sha256": "b9105c2335c7bca0fa16dec717c534b02512bc1522cd148f7e9238d4d123d95b"
     }
    ]
+  },
+  {
+   "slug": "wet-arbeidsvoorwaarden-gedetacheerde-werknemers-in-de-europese-unie",
+   "short": "Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie",
+   "title": "Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie",
+   "url": "https://wetten.overheid.nl/BWBR0038054",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 35,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038054/2024-01-01_0/xml/BWBR0038054_2024-01-01_0.xml",
+     "sha256": "73cf29d72fa9d0e04200f5d3a1e1182ac71afe63f8ef9d9bf506b564ef24d6ae"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bescherming-klokkenluiders",
+   "short": "Wet bescherming klokkenluiders",
+   "title": "Wet bescherming klokkenluiders",
+   "url": "https://wetten.overheid.nl/BWBR0037852",
+   "versions": [
+    {
+     "from": "2023-02-18",
+     "units": 70,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037852/2023-02-18_0/xml/BWBR0037852_2023-02-18_0.xml",
+     "sha256": "ba429bdef9ad4a28f1a63cce5e0d6ef7ecd8e017458fa3a1d8a6360e2f66c861"
+    }
+   ]
+  },
+  {
+   "slug": "wet-precursoren-voor-explosieven",
+   "short": "Wet precursoren voor explosieven",
+   "title": "Wet precursoren voor explosieven",
+   "url": "https://wetten.overheid.nl/BWBR0037995",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 18,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037995/2021-07-01_0/xml/BWBR0037995_2021-07-01_0.xml",
+     "sha256": "969115809fdcc6b139b03f9e9d24c5ba056b20001a247f71de90dbceb24ddc90"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-zorgverzekeringswet-zvw-pgb",
+   "short": "Wijzigingswet Zorgverzekeringswet (Zvw-pgb)",
+   "title": "Wijzigingswet Zorgverzekeringswet (Zvw-pgb)",
+   "url": "https://wetten.overheid.nl/BWBR0037745",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037745/2017-01-01_0/xml/BWBR0037745_2017-01-01_0.xml",
+     "sha256": "df3239af0a6f78e577d7fb81ce186450f3c62fc75af646f22b4ac788c36c2a0b"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-schijndel-sint-oedenrode-en-veghel",
+   "short": "Wet samenvoeging gemeenten Schijndel, Sint-Oedenrode en Veghel",
+   "title": "Wet samenvoeging gemeenten Schijndel, Sint-Oedenrode en Veghel",
+   "url": "https://wetten.overheid.nl/BWBR0037758",
+   "versions": [
+    {
+     "from": "2016-05-14",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037758/2016-05-14_0/xml/BWBR0037758_2016-05-14_0.xml",
+     "sha256": "909e5ee61bc0f0e745f309ba07101b7dbe6e5e172a6147ae1ff5dd3b99777793"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-mediawet-2008-toekomstbestendig-maken-publieke-mediadienst",
+   "short": "Wijzigingswet Mediawet 2008 (toekomstbestendig maken publieke mediadienst)",
+   "title": "Wijzigingswet Mediawet 2008 (toekomstbestendig maken publieke mediadienst)",
+   "url": "https://wetten.overheid.nl/BWBR0037768",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037768/2017-01-01_0/xml/BWBR0037768_2017-01-01_0.xml",
+     "sha256": "305dc18414a6acfced7ab4767f381f23a564901631ae49dfa9094662b4b0c0a0"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-luchtvaart-en-luchtvaartwet-invoering-nieuw-normen-en-handhavingstelsel",
+   "short": "Wijzigingswet Wet luchtvaart en Luchtvaartwet (invoering nieuw normen- en handhavingstelsel luchthaven Schiphol)",
+   "title": "Wijzigingswet Wet luchtvaart en Luchtvaartwet (invoering nieuw normen- en handhavingstelsel luchthaven Schiphol)",
+   "url": "https://wetten.overheid.nl/BWBR0037770",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 2,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037770/2018-07-01_0/xml/BWBR0037770_2018-07-01_0.xml",
+     "sha256": "3848f244f860b55397efea7bb41ef5cd56daf1b9ee291f586768eff7844ff72c"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-rijkswet-op-het-nederlanderschap-verruiming-mogelijkheden-ontneming-nederlan",
+   "short": "Wijzigingswet Rijkswet op het Nederlanderschap (verruiming mogelijkheden ontneming Nederlanderschap bij terroristische misdrijven)",
+   "title": "Wijzigingswet Rijkswet op het Nederlanderschap (verruiming mogelijkheden ontneming Nederlanderschap bij terroristische misdrijven)",
+   "url": "https://wetten.overheid.nl/BWBR0037779",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037779/2016-03-31_0/xml/BWBR0037779_2016-03-31_0.xml",
+     "sha256": "538b12e3cac556f648d67b508abd6681dea65caa07db2f41eb83b3a582021017"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-gemeentewet-verruiming-bevoegdheid-burgemeester-tot-inzet-van-cameratoezicht",
+   "short": "Wijzigingswet Gemeentewet (verruiming bevoegdheid burgemeester tot inzet van cameratoezicht)",
+   "title": "Wijzigingswet Gemeentewet (verruiming bevoegdheid burgemeester tot inzet van cameratoezicht)",
+   "url": "https://wetten.overheid.nl/BWBR0037793",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 2,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037793/2016-07-01_0/xml/BWBR0037793_2016-07-01_0.xml",
+     "sha256": "ae2fc6c79feb8a64161df3366c1dced40cfeb92a8141f531669235029c6c5758"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-zorgverzekeringswet-structureel-regelen-bekostiging-anonieme-e-mental-health",
+   "short": "Wijzigingswet Zorgverzekeringswet (structureel regelen bekostiging anonieme e-mental health en mogelijk maken anonieme financiering zorg aan ernstig bedreigde cliënten)",
+   "title": "Wijzigingswet Zorgverzekeringswet (structureel regelen bekostiging anonieme e-mental health en mogelijk maken anonieme financiering zorg aan ernstig bedreigde cliënten)",
+   "url": "https://wetten.overheid.nl/BWBR0037846",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037846/2017-01-01_0/xml/BWBR0037846_2017-01-01_0.xml",
+     "sha256": "f0bb7d6660c0a5f5e894ce8ec81785c8afb31aa9e532db336f8ecf8f082ea7a2"
+    }
+   ]
+  },
+  {
+   "slug": "wet-elektriciteit-en-drinkwater-bes",
+   "short": "Wet elektriciteit en drinkwater BES",
+   "title": "Wet elektriciteit en drinkwater BES",
+   "url": "https://wetten.overheid.nl/BWBR0037861",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 56,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037861/2023-01-01_0/xml/BWBR0037861_2023-01-01_0.xml",
+     "sha256": "40a450d92bdae7759c38407fab3553ff23ec0f1603113ab172746cbb369d25bd"
+    }
+   ]
+  },
+  {
+   "slug": "wet-civielrechtelijk-bestuursverbod",
+   "short": "Wet civielrechtelijk bestuursverbod",
+   "title": "Wet civielrechtelijk bestuursverbod",
+   "url": "https://wetten.overheid.nl/BWBR0037864",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037864/2016-07-01_0/xml/BWBR0037864_2016-07-01_0.xml",
+     "sha256": "fcbc9eb1eb5fb2e30e1b6566c9a6837eb7a2e1053fb306abf2816547f2214547"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafvordering-enz-aanvulling-van-spreekrecht-in-het-strafproces",
+   "short": "Wijzigingswet Wetboek van Strafvordering, enz. (aanvulling van spreekrecht in het strafproces en uitbreiding mogelijkheid uitkering aan nabestaanden)",
+   "title": "Wijzigingswet Wetboek van Strafvordering, enz. (aanvulling van spreekrecht in het strafproces en uitbreiding mogelijkheid uitkering aan nabestaanden)",
+   "url": "https://wetten.overheid.nl/BWBR0037880",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037880/2016-07-01_0/xml/BWBR0037880_2016-07-01_0.xml",
+     "sha256": "583493c195f25ae035211958e02e576b6601b84d64f2e517e024603eda9609dd"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassingen-aan-het-douanewetboek-van-de-unie",
+   "short": "Wet aanpassingen aan het Douanewetboek van de Unie",
+   "title": "Wet aanpassingen aan het Douanewetboek van de Unie",
+   "url": "https://wetten.overheid.nl/BWBR0037889",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 19,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037889/2016-05-01_0/xml/BWBR0037889_2016-05-01_0.xml",
+     "sha256": "8df556eec7b99961f1ec56cb7f77b810c2e8ff66eb027afaec0daee851926150"
+    }
+   ]
+  },
+  {
+   "slug": "wet-doorstroming-huurmarkt-2015",
+   "short": "Wet doorstroming huurmarkt 2015",
+   "title": "Wet doorstroming huurmarkt 2015",
+   "url": "https://wetten.overheid.nl/BWBR0037891",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037891/2017-01-01_0/xml/BWBR0037891_2017-01-01_0.xml",
+     "sha256": "a94b996ff5447041fa947b50fe4043e96f02eae9fd2781a8bd961c04c85ae998"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-7-enz-aanvulling-opzeggingsgrond-dringend-eigen-gebr",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (aanvulling opzeggingsgrond dringend eigen gebruik voor tijdelijke huisvesting van jongeren)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (aanvulling opzeggingsgrond dringend eigen gebruik voor tijdelijke huisvesting van jongeren)",
+   "url": "https://wetten.overheid.nl/BWBR0037892",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037892/2016-07-01_0/xml/BWBR0037892_2016-07-01_0.xml",
+     "sha256": "ca65339c4b3a0bec422f689f08bf498fac7896f42ca2c52bd2207290b3ee77a6"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-zorgverzekeringswet-enz-overgang-van-aantal-taken-van-zorginstituut-nederlan",
+   "short": "Wijzigingswet Zorgverzekeringswet, enz. (overgang van aantal taken van Zorginstituut Nederland naar CAK)",
+   "title": "Wijzigingswet Zorgverzekeringswet, enz. (overgang van aantal taken van Zorginstituut Nederland naar CAK)",
+   "url": "https://wetten.overheid.nl/BWBR0037917",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 20,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037917/2020-01-01_0/xml/BWBR0037917_2020-01-01_0.xml",
+     "sha256": "aa00afba05aa17a49d5928d5939c8e0939cd2a0a6918b32c3712fd869183c39e"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-kernenergiewet-instelling-autoriteit-nucleaire-veiligheid-en-stralingsbesche",
+   "short": "Wijzigingswet Kernenergiewet (instelling Autoriteit Nucleaire Veiligheid en Stralingsbescherming)",
+   "title": "Wijzigingswet Kernenergiewet (instelling Autoriteit Nucleaire Veiligheid en Stralingsbescherming)",
+   "url": "https://wetten.overheid.nl/BWBR0037972",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037972/2017-08-01_0/xml/BWBR0037972_2017-08-01_0.xml",
+     "sha256": "cf3d732c414fdef339e255661203b50ba62664ce3772bf1221bef3f4d23bcb21"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-primair-onderwijs-enz-doeltreffender-regeling-van-het-onderwijsto",
+   "short": "Wijzigingswet Wet op het primair onderwijs, enz. (doeltreffender regeling van het onderwijstoezicht)",
+   "title": "Wijzigingswet Wet op het primair onderwijs, enz. (doeltreffender regeling van het onderwijstoezicht)",
+   "url": "https://wetten.overheid.nl/BWBR0037977",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 17,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037977/2020-04-01_0/xml/BWBR0037977_2020-04-01_0.xml",
+     "sha256": "6c52bb4ced830f57f4f63af9982453f8dfe17abb2b23241bc7259ef17c77aa0b"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-politiewet-2012-enz-inbedding-politieacademie-in-nieuwe-politiebestel",
+   "short": "Wijzigingswet Politiewet 2012, enz. (inbedding Politieacademie in nieuwe politiebestel)",
+   "title": "Wijzigingswet Politiewet 2012, enz. (inbedding Politieacademie in nieuwe politiebestel)",
+   "url": "https://wetten.overheid.nl/BWBR0038021",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038021/2017-01-01_0/xml/BWBR0038021_2017-01-01_0.xml",
+     "sha256": "7b22ed34b6bcddeedd8a3d9396c76b11dd0b518071a3b9d8e7e69a4953588955"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-vws-2016",
+   "short": "Verzamelwet VWS 2016",
+   "title": "Verzamelwet VWS 2016",
+   "url": "https://wetten.overheid.nl/BWBR0038034",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 42,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038034/2016-10-01_0/xml/BWBR0038034_2016-10-01_0.xml",
+     "sha256": "44a820dfd7aa81a104d9dcc59d8ec63edf09d6592977d1d87f9e750e7bdd0c06"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bescherming-erfgenamen-tegen-schulden",
+   "short": "Wet bescherming erfgenamen tegen schulden",
+   "title": "Wet bescherming erfgenamen tegen schulden",
+   "url": "https://wetten.overheid.nl/BWBR0038061",
+   "versions": [
+    {
+     "from": "2016-09-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038061/2016-09-01_0/xml/BWBR0038061_2016-09-01_0.xml",
+     "sha256": "2e0e57648ed7fc35889a582b61fc60bdac89f43ffbd64d0c15f346dcc87d627e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-verbetering-hybride-markt-wga",
+   "short": "Wet verbetering hybride markt WGA",
+   "title": "Wet verbetering hybride markt WGA",
+   "url": "https://wetten.overheid.nl/BWBR0038063",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038063/2017-01-01_0/xml/BWBR0038063_2017-01-01_0.xml",
+     "sha256": "254086dcf67e8e092e1cdbb810fa986c0b70620cd2be5ca601c5a173feed6739"
+    }
+   ]
+  },
+  {
+   "slug": "wet-verbeterde-premieregeling",
+   "short": "Wet verbeterde premieregeling",
+   "title": "Wet verbeterde premieregeling",
+   "url": "https://wetten.overheid.nl/BWBR0038177",
+   "versions": [
+    {
+     "from": "2016-09-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038177/2016-09-01_0/xml/BWBR0038177_2016-09-01_0.xml",
+     "sha256": "d02e7a9a69f8bcebaea5e193893e6b2f03d386b3c3b1653f1f3571e7bac2bd85"
+    }
+   ]
+  },
+  {
+   "slug": "rijkssanctiewet",
+   "short": "Rijkssanctiewet",
+   "title": "Rijkssanctiewet",
+   "url": "https://wetten.overheid.nl/BWBR0038211",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038211/2017-01-01_0/xml/BWBR0038211_2017-01-01_0.xml",
+     "sha256": "7e900230cf94b7e287f0a1f7a06e5c7434b37ac41a8bb7c7ee3db29f6ab9f2f6"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-concentratie-scheepvaartzaken-bij-de",
+   "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (concentratie scheepvaartzaken bij de rechtbank Rotterdam)",
+   "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (concentratie scheepvaartzaken bij de rechtbank Rotterdam)",
+   "url": "https://wetten.overheid.nl/BWBR0038212",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038212/2017-01-01_0/xml/BWBR0038212_2017-01-01_0.xml",
+     "sha256": "507bdb1899cb72e362742c6f008a2293c16a9b11375ef7cb034649412f0b2b62"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-financieel-toezicht-enz-voor-bewoning-bestemde-onroerende-goedere",
+   "short": "Wijzigingswet Wet op het financieel toezicht, enz. (voor bewoning bestemde onroerende goederen)",
+   "title": "Wijzigingswet Wet op het financieel toezicht, enz. (voor bewoning bestemde onroerende goederen)",
+   "url": "https://wetten.overheid.nl/BWBR0038227",
+   "versions": [
+    {
+     "from": "2016-07-14",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038227/2016-07-14_0/xml/BWBR0038227_2016-07-14_0.xml",
+     "sha256": "33383aca2f9bc8e9abbbf8b680d60b1f436a755dd0973c8b2bf41d56eb5e8a12"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-langdurige-zorg-enz",
+   "short": "Wijzigingswet Wet langdurige zorg, enz.",
+   "title": "Wijzigingswet Wet langdurige zorg, enz.",
+   "url": "https://wetten.overheid.nl/BWBR0038259",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038259/2016-10-01_0/xml/BWBR0038259_2016-10-01_0.xml",
+     "sha256": "50c2cb35146936eab8a2394168b6a3171537d42e3ae46b83477a8a498dce7255"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitwerking-autobrief-ii",
+   "short": "Wet uitwerking Autobrief II",
+   "title": "Wet uitwerking Autobrief II",
+   "url": "https://wetten.overheid.nl/BWBR0038313",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 33,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038313/2025-01-01_0/xml/BWBR0038313_2025-01-01_0.xml",
+     "sha256": "ee34eebc685858d3f2eb57d107c3fcbeddc43bcb308c97a83e913f6479538b37"
+    }
+   ]
+  },
+  {
+   "slug": "invoeringswet-vereenvoudiging-en-digitalisering-procesrecht",
+   "short": "Invoeringswet vereenvoudiging en digitalisering procesrecht",
+   "title": "Invoeringswet vereenvoudiging en digitalisering procesrecht",
+   "url": "https://wetten.overheid.nl/BWBR0038329",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 73,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038329/2021-04-01_0/xml/BWBR0038329_2021-04-01_0.xml",
+     "sha256": "5c178fd718506b1dcd48c060c061fc15c316165ea02754a00699344641f971d4"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-vereenvoudiging-en-digitalisering-pr",
+   "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (vereenvoudiging en digitalisering procesrecht in hoger beroep en cassatie)",
+   "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (vereenvoudiging en digitalisering procesrecht in hoger beroep en cassatie)",
+   "url": "https://wetten.overheid.nl/BWBR0038331",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038331/2021-04-01_0/xml/BWBR0038331_2021-04-01_0.xml",
+     "sha256": "84eeb8460f908c1c297635875cb769169978f3b77163826981a0378eda51e798"
+    }
+   ]
+  },
+  {
+   "slug": "invoeringsrijkswet-vereenvoudiging-en-digitalisering-procesrecht-en-uitbreiding-prejudicie",
+   "short": "Invoeringsrijkswet vereenvoudiging en digitalisering procesrecht en uitbreiding prejudiciële vragen",
+   "title": "Invoeringsrijkswet vereenvoudiging en digitalisering procesrecht en uitbreiding prejudiciële vragen",
+   "url": "https://wetten.overheid.nl/BWBR0038345",
+   "versions": [
+    {
+     "from": "2017-03-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038345/2017-03-01_0/xml/BWBR0038345_2017-03-01_0.xml",
+     "sha256": "b9d04bfd23ad1820f02a2fd63433db5406ea22af40958fb15a0c3c4d2fedb52a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-vereenvoudiging-en-digitaliserin",
+   "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (vereenvoudiging en digitalisering van het procesrecht)",
+   "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (vereenvoudiging en digitalisering van het procesrecht)",
+   "url": "https://wetten.overheid.nl/BWBR0038353",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038353/2021-04-01_0/xml/BWBR0038353_2021-04-01_0.xml",
+     "sha256": "36946e77bc541c98a0de4835a183d2531794ad77894599307fd20a26370067cf"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-verordening-en-richtlijn-marktmisbruik",
+   "short": "Wet implementatie verordening en richtlijn marktmisbruik",
+   "title": "Wet implementatie verordening en richtlijn marktmisbruik",
+   "url": "https://wetten.overheid.nl/BWBR0038407",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038407/2016-08-11_0/xml/BWBR0038407_2016-08-11_0.xml",
+     "sha256": "1e6566beeffbeb9a18188fb1c2fa349a2cba7772071eb1a05add17b3601c2c94"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-openbaarheid-van-bestuur-aanvullingen-ter-voorkoming-van-misbruik",
+   "short": "Wijzigingswet Wet openbaarheid van bestuur (aanvullingen ter voorkoming van misbruik)",
+   "title": "Wijzigingswet Wet openbaarheid van bestuur (aanvullingen ter voorkoming van misbruik)",
+   "url": "https://wetten.overheid.nl/BWBR0038431",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038431/2016-10-01_0/xml/BWBR0038431_2016-10-01_0.xml",
+     "sha256": "c0be216ca851e804338ed2497bd306464da8a298cf27ed1011c4419e130d8853"
+    }
+   ]
   }
  ]
 }
