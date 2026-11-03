@@ -98,6 +98,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -397,6 +399,505 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wet-agrarisch-grondverkeer` | Wet agrarisch grondverkeer | 20 | 2002-04-01 to 2026-06-04 |
 | `wet-algemene-regels-herindeling` | Wet algemene regels herindeling | 23 | 2002-01-01 to 2024-01-01 |
 | `wet-inzake-spaarbewijzen` | Wet inzake spaarbewijzen | 2 | 1996-06-01 to 2005-01-01 |
+| `besluit-opgave-bijdragende-olie` | Besluit opgave bijdragende olie | 1 | 1982-09-15 to 1982-09-15 |
+| `besluit-ex-artikel-153-lid-4-en-263-lid-4-van-boek-2-van-het-burgerlijk-wetboek` | Besluit ex artikel 153 lid 4 en 263 lid 4 van boek 2 van het Burgerlijk Wetboek | 1 | 1982-12-02 to 1982-12-02 |
+| `besluit-ex-artikel-12-wet-buitengewoon-pensioen-1940-1945` | Besluit ex artikel 12 Wet buitengewoon pensioen 1940-1945 | 1 | 2015-01-01 to 2015-01-01 |
+| `besluit-grondbankstelsel` | Besluit grondbankstelsel | 1 | 2007-10-31 to 2007-10-31 |
+| `warenwetbesluit-containers` | Warenwetbesluit containers | 1 | 2006-04-01 to 2006-04-01 |
+| `besluit-ex-artikel-2-uitvoeringswet-europees-verdrag-inzake-rechtspositie-migrerende-werkn` | Besluit ex artikel 2 Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers | 1 | 2013-01-01 to 2013-01-01 |
+| `vaststellingsbesluit-binnenvaartpolitiereglement` | Vaststellingsbesluit Binnenvaartpolitiereglement | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-modellen-jaarrekening` | Besluit modellen jaarrekening | 1 | 2015-11-01 to 2015-11-01 |
+| `overgangsregeling-minimumbezoldiging-militairen-zeemacht-1983` | Overgangsregeling minimumbezoldiging militairen zeemacht 1983 | 1 | 1983-07-01 to 1983-07-01 |
+| `besluit-afbreking-zwangerschap` | Besluit afbreking zwangerschap | 1 | 2025-10-25 to 2025-10-25 |
+| `besluit-vergoeding-verstrekking-afschriften` | Besluit vergoeding verstrekking afschriften | 1 | 1984-08-30 to 1984-08-30 |
+| `besluit-samenloop-wettelijke-regelingen` | Besluit samenloop wettelijke regelingen | 1 | 1986-08-01 to 1986-08-01 |
+| `besluit-draagkracht-burger-oorlogsslachtoffers` | Besluit draagkracht burger-oorlogsslachtoffers | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-rijksmilieuhygienische-commissie` | Besluit Rijksmilieuhygiënische commissie | 1 | 1992-10-01 to 1992-10-01 |
+| `besluit-vaststelling-overgangsregelen-in-verband-met-wijziging-bezoldigingsvoorschriften-m` | Besluit vaststelling overgangsregelen in verband met wijziging bezoldigingsvoorschriften militairen | 1 | 1985-06-01 to 1985-06-01 |
+| `besluit-medezeggenschap-onderwijs` | Besluit medezeggenschap onderwijs | 1 | 2022-08-01 to 2022-08-01 |
+| `besluit-verstrekking-financiele-informatie-aan-ondernemingsraden-1985` | Besluit verstrekking financiële informatie aan ondernemingsraden 1985 | 1 | 2022-01-01 to 2022-01-01 |
+| `reglement-minimummaten-en-gesloten-tijden-1985` | Reglement minimummaten en gesloten tijden 1985 | 1 | 2012-10-01 to 2012-10-01 |
+| `besluit-vrijstelling-leerplicht-trekkende-bevolking` | Besluit vrijstelling leerplicht trekkende bevolking | 1 | 2002-10-02 to 2002-10-02 |
+| `besluit-trekkende-bevolking-wpo` | Besluit trekkende bevolking WPO | 1 | 2026-08-01 to 2026-08-01 |
+| `onderwijskundig-besluit-wec` | Onderwijskundig besluit WEC | 1 | 2026-08-01 to 2026-08-01 |
+| `regeling-georganiseerd-overleg-personeelsovergang-flevoland` | Regeling georganiseerd overleg personeelsovergang Flevoland | 1 | 1985-12-12 to 1985-12-12 |
+| `besluit-gelijkstelling-van-wonen-buiten-het-rijk-met-wonen-binnen-het-rijk-algemene-ouderd` | Besluit gelijkstelling van wonen buiten het Rijk met wonen binnen het Rijk (Algemene Ouderdomswet) | 1 | 2022-07-01 to 2022-07-01 |
+| `warenwetbesluit-draagbaar-klimmaterieel` | Warenwetbesluit draagbaar klimmaterieel | 1 | 2021-07-01 to 2021-07-01 |
+| `besluit-voorwaarden-schone-en-beperkt-schone-personenauto-s` | Besluit voorwaarden schone en beperkt schone personenauto's | 1 | 1986-04-01 to 1986-04-01 |
+| `tno-besluit-1986` | TNO-besluit 1986 | 1 | 2012-12-07 to 2012-12-07 |
+| `besluit-op-de-erkende-onderwijsinstellingen` | Besluit op de erkende onderwijsinstellingen | 1 | 2014-01-06 to 2014-01-06 |
+| `warenwetbesluit-spaanplaat` | Warenwetbesluit spaanplaat | 1 | 2026-08-07 to 2026-08-07 |
+| `besluit-bepalingen-met-betrekking-tot-de-betaling-van-de-vakantie-uitkering-in-1985-en-vas` | Besluit bepalingen met betrekking tot de betaling van de vakantie-uitkering in 1985 en vaststelling van een overgangsregeling in verband met de Wet afschaffing overneming premie A.O.W./A.W.W. | 1 | 1985-06-01 to 1985-06-01 |
+| `besluit-ex-artikel-15-wet-buitengewoon-pensioen-indisch-verzet` | Besluit ex artikel 15 Wet buitengewoon pensioen Indisch verzet | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-ex-artikel-18-wet-buitengewoon-pensioen-indisch-verzet` | Besluit ex artikel 18 Wet buitengewoon pensioen Indisch verzet | 1 | 2011-01-01 to 2011-01-01 |
+| `besluit-ex-artikel-29-tweede-lid-wet-buitengewoon-pensioen-indisch-verzet` | Besluit ex artikel 29, tweede lid, Wet buitengewoon pensioen Indisch verzet | 1 | 1987-01-17 to 1987-01-17 |
+| `besluit-ex-artikel-58-wet-overdracht-tenuitvoerlegging-strafvonnissen` | Besluit ex artikel 58 Wet overdracht tenuitvoerlegging strafvonnissen | 1 | 1988-01-01 to 1988-01-01 |
+| `besluit-aanwijzing-gevallen-waarin-arbeidsverhouding-als-dienstbetrekking-wordt-beschouwd` | Besluit aanwijzing gevallen waarin arbeidsverhouding als dienstbetrekking wordt beschouwd | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-gelijkstelling-loondervingsuitkering-toeslagenwet` | Besluit gelijkstelling loondervingsuitkering Toeslagenwet | 1 | 2016-12-28 to 2016-12-28 |
+| `besluit-nadere-regeling-verlies-van-arbeidsuren` | Besluit nadere regeling verlies van arbeidsuren | 1 | 2013-06-01 to 2013-06-01 |
+| `regeling-financiele-voorzieningen-overgang-surinaamse-krijgsmacht` | Regeling financiële voorzieningen overgang Surinaamse krijgsmacht | 1 | 1982-12-08 to 1982-12-08 |
+| `besluit-ex-artikel-2-tweede-lid-wet-buitengewoon-pensioen-indisch-verzet` | Besluit ex artikel 2, tweede lid, Wet buitengewoon pensioen Indisch verzet | 1 | 1987-05-09 to 1987-05-09 |
+| `besluit-ex-artikel-162-wetboek-van-strafvordering` | Besluit ex artikel 162 Wetboek van Strafvordering | 1 | 2015-07-01 to 2015-07-01 |
+| `besluit-regels-betreffende-vergoeding-voor-het-verstrekken-van-fotocopieen` | Besluit regels betreffende vergoeding voor het verstrekken van fotocopieën | 1 | 1992-05-09 to 1992-05-09 |
+| `besluit-oude-eigendoms-en-huurscholen-wpo` | Besluit oude eigendoms- en huurscholen WPO | 1 | 2006-03-08 to 2006-03-08 |
+| `besluit-bescherming-oorspronkelijke-topografieen-van-halfgeleiderprodukten` | Besluit bescherming oorspronkelijke topografieën van halfgeleiderprodukten | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-reserve-overdracht-n-s-personeel` | Besluit reserve-overdracht N.S.-personeel | 1 | 2013-01-01 to 2013-01-01 |
+| `administratiebesluit-milieugevaarlijke-stoffen-en-preparaten` | Administratiebesluit milieugevaarlijke stoffen en preparaten | 1 | 2010-12-01 to 2010-12-01 |
+| `besluit-vaststelling-algemene-maatregel-van-bestuur-als-bedoeld-in-artikel-5-van-de-wet-va` | Besluit vaststelling algemene maatregel van bestuur als bedoeld in artikel 5 van de wet van 1 mei 1987, Stb. 242 tot verhoging aantal daglonen ingevolge WAO, WWV en WW voor bepaalde categorieën werknemers | 1 | 1985-01-01 to 1985-01-01 |
+| `academisch-statuut` | Academisch Statuut | 1 | 1995-12-31 to 1995-12-31 |
+| `uitvoeringsbesluit-ex-artikel-173-mediawet` | Uitvoeringsbesluit ex artikel 173 Mediawet | 1 | 1988-07-28 to 1988-07-28 |
+| `besluit-kennisgevingen-nederlandse-loodsencorporatie` | Besluit kennisgevingen Nederlandse loodsencorporatie | 1 | 2021-07-01 to 2021-07-01 |
+| `besluit-regiogrenzen-loodsencorporaties` | Besluit regiogrenzen loodsencorporaties | 1 | 1988-09-01 to 1988-09-01 |
+| `wijzigingsbesluit-besluit-herziening-bezoldiging-militairen-zeemacht-1954-enz` | Wijzigingsbesluit Besluit herziening bezoldiging militairen zeemacht 1954, enz. | 1 | 1993-07-01 to 1993-07-01 |
+| `kortingsbesluit-wiv` | Kortingsbesluit WIV | 1 | 2015-02-01 to 2015-02-01 |
+| `besluit-organisch-halogeengehalte-van-brandstoffen` | Besluit organisch-halogeengehalte van brandstoffen | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-beroepsactiviteiten-waarvoor-het-geslacht-bepalend-kan-zijn` | Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn | 1 | 2005-11-01 to 2005-11-01 |
+| `scheepvaartreglement-eemsmonding` | Scheepvaartreglement Eemsmonding | 1 | 2002-06-26 to 2002-06-26 |
+| `besluit-beperking-vrije-visserij-kustwateren` | Besluit beperking vrije visserij kustwateren | 1 | 1994-01-26 to 1994-01-26 |
+| `besluit-opneming-buitenlandse-kinderen-ter-adoptie` | Besluit opneming buitenlandse kinderen ter adoptie | 1 | 2020-02-13 to 2020-02-13 |
+| `besluit-uitbreiding-en-beperking-kring-verzekerden-werknemersverzekeringen-1990` | Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-luchtkussenvoertuigen-wet-geluidhinder` | Besluit luchtkussenvoertuigen Wet geluidhinder | 1 | 2010-12-31 to 2010-12-31 |
+| `kiesbesluit` | Kiesbesluit | 1 | 2025-08-01 to 2025-08-01 |
+| `besluit-toepassingverklaring-internationale-bepalingen-ter-voorkoming-van-aanvaringen-op-z` | Besluit toepassingverklaring Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 | 1 | 2025-07-01 to 2025-07-01 |
+| `besluit-vrijstelling-gemoedsbezwaarden-aansprakelijkheidsverzekering-motorrijtuigen` | Besluit vrijstelling gemoedsbezwaarden aansprakelijkheidsverzekering motorrijtuigen | 1 | 1990-01-12 to 1990-01-12 |
+| `besluit-ex-artikel-9-algemene-ouderdomswet-enz` | Besluit ex artikel 9 Algemene Ouderdomswet enz. | 1 | 1992-01-01 to 1992-01-01 |
+| `overgangsregeling-cibb` | Overgangsregeling CIBB | 1 | 1996-01-01 to 1996-01-01 |
+| `warenwetbesluit-kinderbedden-en-boxen` | Warenwetbesluit Kinderbedden en -boxen | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-ex-artikel-951f-wetboek-van-koophandel` | Besluit ex artikel 951f Wetboek van Koophandel | 1 | 1995-02-01 to 1995-02-01 |
+| `uitvoeringsbesluit-ex-artikel-740f-wetboek-van-koophandel` | Uitvoeringsbesluit ex artikel 740f Wetboek van Koophandel | 1 | 1990-09-01 to 1990-09-01 |
+| `subsidiebesluit-openbare-lichamen-milieubeheer` | Subsidiebesluit openbare lichamen milieubeheer | 1 | 2024-01-01 to 2024-01-01 |
+| `uitvoeringsbesluit-invorderingswet-1990` | Uitvoeringsbesluit Invorderingswet 1990 | 1 | 2025-12-12 to 2025-12-12 |
+| `reglement-verkeersregels-en-verkeerstekens-1990-rvv-1990` | Reglement verkeersregels en verkeerstekens 1990 (RVV 1990) | 1 | 2026-07-01 to 2026-07-01 |
+| `besluit-ex-artikel-28-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften` | Besluit ex artikel 28 Wet administratiefrechtelijke handhaving verkeersvoorschriften | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-buitengebruikstelling-voertuigen` | Besluit buitengebruikstelling voertuigen | 1 | 2018-01-01 to 2018-01-01 |
+| `besluit-gemeentelijke-parkeerbelastingen` | Besluit gemeentelijke parkeerbelastingen | 1 | 2026-01-01 to 2026-01-01 |
+| `tarievenbesluit-geregeld-luchtvervoer` | Tarievenbesluit geregeld luchtvervoer | 1 | 2010-06-12 to 2010-06-12 |
+| `rangschikkingsbesluit-natuurschoonwet-1928` | Rangschikkingsbesluit Natuurschoonwet 1928 | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-eenmalige-uitkering-militairen-1990` | Besluit éénmalige uitkering militairen 1990 | 1 | 1990-04-01 to 1990-04-01 |
+| `besluit-ex-artikel-85-van-boek-8-van-het-burgerlijk-wetboek` | Besluit ex artikel 85 van Boek 8 van het Burgerlijk Wetboek | 1 | 2021-01-01 to 2021-01-01 |
+| `besluit-ex-artikel-905-van-boek-8-van-het-burgerlijk-wetboek` | Besluit ex artikel 905 van Boek 8 van het Burgerlijk Wetboek | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-ex-artikel-983-van-boek-8-van-het-burgerlijk-wetboek` | Besluit ex artikel 983 van Boek 8 van het Burgerlijk Wetboek | 1 | 2021-01-01 to 2021-01-01 |
+| `besluit-ex-artikel-1105-van-boek-8-van-het-burgerlijk-wetboek` | Besluit ex artikel 1105 van Boek 8 van het Burgerlijk Wetboek | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-ex-artikel-1157-van-boek-8-van-het-burgerlijk-wetboek` | Besluit ex artikel 1157 van Boek 8 van het Burgerlijk Wetboek | 1 | 2013-03-14 to 2013-03-14 |
+| `besluit-ex-artikel-1182-van-boek-8-van-het-burgerlijk-wetboek` | Besluit ex artikel 1182 van Boek 8 van het Burgerlijk Wetboek | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-ex-artikel-110-van-boek-8-van-het-burgerlijk-wetboek` | Besluit ex artikel 110 van Boek 8 van het Burgerlijk Wetboek | 1 | 2021-01-01 to 2021-01-01 |
+| `besluit-ex-artikel-c7-spoorwegpensioenwet` | Besluit ex artikel C7 Spoorwegpensioenwet | 1 | 1991-05-01 to 1991-05-01 |
+| `besluit-bedrag-eigen-risico-aanspraken-op-het-waarborgfonds-motorverkeer` | Besluit bedrag eigen risico aanspraken op het Waarborgfonds Motorverkeer | 1 | 2007-06-11 to 2007-06-11 |
+| `besluit-klachtrecht-militairen` | Besluit klachtrecht militairen | 1 | 2002-09-13 to 2002-09-13 |
+| `wijzigingsbesluit-besluit-emissie-eisen-stookinstallaties-wet-inzake-de-luchtverontreinigi` | Wijzigingsbesluit Besluit emissie-eisen stookinstallaties Wet inzake de luchtverontreiniging, enz. | 1 | 1991-08-17 to 1991-08-17 |
+| `aanwijzingsbesluit-economische-noodwetgeving` | Aanwijzingsbesluit economische noodwetgeving | 1 | 2015-06-20 to 2015-06-20 |
+| `besluit-ex-artikel-249-boek-3-burgerlijk-wetboek` | Besluit ex artikel 249 Boek 3 Burgerlijk Wetboek | 1 | 1992-01-01 to 1992-01-01 |
+| `besluit-gevonden-voorwerpen` | Besluit gevonden voorwerpen | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-ex-artikel-448-wetboek-van-burgerlijke-rechtsvordering` | Besluit ex artikel 448 Wetboek van Burgerlijke Rechtsvordering | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-verklaring-derdenbeslag` | Besluit Verklaring derdenbeslag | 1 | 2021-01-01 to 2021-01-01 |
+| `besluit-ex-artikel-396-en-397-van-boek-2-van-het-burgerlijk-wetboek` | Besluit ex artikel 396 en 397 van boek 2 van het Burgerlijk Wetboek | 1 | 2015-11-01 to 2015-11-01 |
+| `wijzigingsbesluit-militaire-wachtgeldregeling-1961` | Wijzigingsbesluit Militaire wachtgeldregeling 1961 | 1 | 1996-01-01 to 1996-01-01 |
+| `besluit-loondagen-werkloosheidswet-en-wet-werk-en-inkomen-naar-arbeidsvermogen` | Besluit loondagen Werkloosheidswet en Wet werk en inkomen naar arbeidsvermogen | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-aanwijzing-diensten-wet-op-het-consumentenkrediet` | Besluit aanwijzing diensten Wet op het consumentenkrediet | 1 | 1992-01-01 to 1992-01-01 |
+| `besluit-kredietvergoeding` | Besluit kredietvergoeding | 1 | 2024-07-01 to 2024-07-01 |
+| `kadasterbesluit` | Kadasterbesluit | 1 | 2019-07-01 to 2019-07-01 |
+| `maatregel-teboekgestelde-schepen-1992` | Maatregel teboekgestelde schepen 1992 | 1 | 2025-07-01 to 2025-07-01 |
+| `wijzigingsbesluit-besluit-voorkoming-dubbele-belasting-1989` | Wijzigingsbesluit Besluit voorkoming dubbele belasting 1989 | 1 | 1991-11-28 to 1991-11-28 |
+| `besluit-inkomen-voor-de-grondslagvaststelling-wuv-en-wubo` | Besluit inkomen voor de grondslagvaststelling Wuv en Wubo | 1 | 1985-06-01 to 1985-06-01 |
+| `scheepvaartreglement-voor-het-kanaal-van-gent-naar-terneuzen` | Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen | 1 | 2012-09-26 to 2012-09-26 |
+| `uitvoeringsbesluit-accijns` | Uitvoeringsbesluit accijns | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingsbesluit-besluit-douane-en-accijnzen-2-tijdelijke-opslag-entrepots-en-de-invoerin` | Wijzigingsbesluit Besluit douane en accijnzen (2) (tijdelijke opslag, entrepots en de invoering van de Wet op de accijns) | 1 | 1992-01-01 to 1992-01-01 |
+| `uitvoeringsbesluit-ex-artikel-437-eerste-lid-van-het-wetboek-van-strafrecht` | Uitvoeringsbesluit ex artikel 437, eerste lid, van het Wetboek van Strafrecht | 1 | 2013-01-01 to 2013-01-01 |
+| `scheepvaartreglement-westerschelde-1990` | Scheepvaartreglement Westerschelde 1990 | 1 | 2017-01-01 to 2017-01-01 |
+| `besluit-bijdragen-waterstaatswerken` | Besluit bijdragen waterstaatswerken | 1 | 1992-04-01 to 1992-04-01 |
+| `wijzigingsbesluit-jaarwedden-gedeputeerde-staten` | Wijzigingsbesluit Jaarwedden Gedeputeerde Staten | 1 | 1992-02-28 to 1992-02-28 |
+| `warenwetbesluit-doorstraalde-waren` | Warenwetbesluit Doorstraalde waren | 1 | 2016-05-24 to 2016-05-24 |
+| `wijzigingsbesluit-bezoldigingsregeling-militairen-zeemacht-1947` | Wijzigingsbesluit Bezoldigingsregeling militairen zeemacht 1947 | 1 | 1992-06-05 to 1992-06-05 |
+| `wijzigingsbesluit-reglement-i` | Wijzigingsbesluit Reglement I | 1 | 1992-07-01 to 1992-07-01 |
+| `warenwetbesluit-machines` | Warenwetbesluit machines | 1 | 2020-02-01 to 2020-02-01 |
+| `wijzigingsbesluit-besluit-genetisch-gemodificeerde-organismen-wet-milieugevaarlijke-stoffe` | Wijzigingsbesluit Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen | 1 | 1992-08-16 to 1992-08-16 |
+| `besluit-sociaal-beleidskader-reorganisatie-politiebestel` | Besluit sociaal beleidskader reorganisatie politiebestel | 1 | 1994-12-21 to 1994-12-21 |
+| `besluit-begripsomschrijving-indexcijfer-der-lonen` | Besluit begripsomschrijving indexcijfer der lonen | 1 | 2003-08-29 to 2003-08-29 |
+| `wijzigingsbesluit-uitvoeringsbesluit-omzetbelasting-1968-vrijstellingen-prestaties-van-ond` | Wijzigingsbesluit Uitvoeringsbesluit omzetbelasting 1968 (vrijstellingen prestaties van onderwijskundige aard en van sociale of culturele aard) | 1 | 1993-07-01 to 1993-07-01 |
+| `warenwetbesluit-bereiding-en-behandeling-van-levensmiddelen` | Warenwetbesluit Bereiding en behandeling van levensmiddelen | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-grenswijziging-tussen-de-gemeenten-leidschendam-nootdorp-en-zoetermeer` | Besluit grenswijziging tussen de gemeenten Leidschendam, Nootdorp en Zoetermeer | 1 | 1992-12-31 to 1992-12-31 |
+| `besluit-aanwijzing-instanties-of-personen-die-de-raden-voor-de-kinderbescherming-kosteloos` | Besluit aanwijzing instanties of personen die de raden voor de kinderbescherming kosteloos inlichtingen verschaffen | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingsbesluit-besluit-opleiding-rechterlijke-ambtenaren` | Wijzigingsbesluit Besluit opleiding rechterlijke ambtenaren | 1 | 1993-01-15 to 1993-01-15 |
+| `uitvoeringsbesluit-verbruiksbelasting-van-alcoholvrije-dranken` | Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken | 1 | 2023-02-16 to 2023-02-16 |
+| `uitvoeringsbesluit-belasting-van-personenauto-s-en-motorrijwielen-1992` | Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992 | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingsbesluit-uitvoeringsbesluit-accijns` | Wijzigingsbesluit Uitvoeringsbesluit accijns | 1 | 1993-01-01 to 1993-01-01 |
+| `wijzigingsbesluit-besluit-douane-en-accijnzen-aanpassing-aan-de-voltooiing-van-de-interne` | Wijzigingsbesluit Besluit douane en accijnzen (aanpassing aan de voltooiing van de interne markt) | 1 | 1993-01-01 to 1993-01-01 |
+| `wijzigingsbesluit-gevangenismaatregel` | Wijzigingsbesluit Gevangenismaatregel | 1 | 1993-03-10 to 1993-03-10 |
+| `besluit-vergoeding-reorganisatiekosten-politie` | Besluit vergoeding reorganisatiekosten politie | 1 | 1993-04-23 to 1993-04-23 |
+| `wijzigingsbesluit-besluit-ter-uitvoering-artikel-1-wet-buitengewoon-pensioen` | Wijzigingsbesluit Besluit ter uitvoering artikel 1 Wet buitengewoon pensioen | 1 | 1993-06-02 to 1993-06-02 |
+| `besluit-toekenning-eenmalige-uitkering-wethouders` | Besluit toekenning eenmalige uitkering wethouders | 1 | 1993-04-23 to 1993-04-23 |
+| `besluit-toekenning-eenmalige-uitkeringen-leden-van-gedeputeerde-staten` | Besluit toekenning eenmalige uitkeringen leden van gedeputeerde staten | 1 | 1993-04-23 to 1993-04-23 |
+| `besluit-jaarrekening-banken` | Besluit jaarrekening banken | 1 | 2012-01-01 to 2012-01-01 |
+| `warenwetbesluit-uitvoer-van-waren` | Warenwetbesluit Uitvoer van waren | 1 | 2006-01-01 to 2006-01-01 |
+| `besluit-uitvoering-voorzieningen-rampbestrijders` | Besluit uitvoering voorzieningen rampbestrijders | 1 | 1994-01-01 to 1994-01-01 |
+| `besluit-overleg-rampbestrijders` | Besluit overleg rampbestrijders | 1 | 1993-07-14 to 1993-07-14 |
+| `burgerlijk-ambtenarenreglement-defensie` | Burgerlijk ambtenarenreglement defensie | 1 | 2026-08-26 to 2026-08-26 |
+| `besluit-uitkering-wegens-functioneel-leeftijdsontslag-burgerlijke-ambtenaren-defensie` | Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie | 1 | 2025-01-17 to 2025-01-17 |
+| `besluit-georganiseerd-overleg-sector-defensie` | Besluit georganiseerd overleg sector Defensie | 1 | 2020-01-01 to 2020-01-01 |
+| `besluit-aanvulling-arbeidsongeschiktheidsuitkering-burgerlijke-ambtenaren-defensie` | Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie | 1 | 2020-01-01 to 2020-01-01 |
+| `wijzigingsbesluit-besluit-genetisch-gemodificeerde-organismen-wet-milieugevaarlijke-stoffe-2` | Wijzigingsbesluit Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen (2) | 1 | 1993-10-01 to 1993-10-01 |
+| `wijzigingsbesluit-besluit-subsidiering-en-stimulering-voorzieningen-van-maatschappelijk-en` | Wijzigingsbesluit Besluit subsidiëring en stimulering voorzieningen van maatschappelijk en sociaal-cultureel welzijn | 1 | 1993-09-01 to 1993-09-01 |
+| `besluit-eenmalige-uitkering-militairen-1992` | Besluit eenmalige uitkering militairen 1992 | 1 | 1993-10-29 to 1993-10-29 |
+| `uitvoeringsbesluit-whw-2008` | Uitvoeringsbesluit WHW 2008 | 1 | 2026-08-01 to 2026-08-01 |
+| `staatsexamenbesluit-nederlands-als-tweede-taal` | Staatsexamenbesluit Nederlands als tweede taal | 1 | 2022-08-01 to 2022-08-01 |
+| `besluit-kostenopslag-inning-kinderalimentaties-en-partneralimentaties` | Besluit kostenopslag inning kinderalimentaties en partneralimentaties | 1 | 2009-08-01 to 2009-08-01 |
+| `besluit-aanpassing-douanewetgeving-1994` | Besluit aanpassing douanewetgeving 1994 | 1 | 1994-01-01 to 1994-01-01 |
+| `besluit-administratieve-bepalingen-scheepvaartverkeer` | Besluit administratieve bepalingen scheepvaartverkeer | 1 | 2025-01-01 to 2025-01-01 |
+| `warenwetbesluit-invoer-levensmiddelen-uit-derde-landen` | Warenwetbesluit Invoer levensmiddelen uit derde landen | 1 | 2019-12-14 to 2019-12-14 |
+| `besluit-proceskosten-bestuursrecht` | Besluit proceskosten bestuursrecht | 1 | 2026-01-01 to 2026-01-01 |
+| `eer-uitvoeringsbesluit` | EER-Uitvoeringsbesluit | 1 | 1994-01-01 to 1994-01-01 |
+| `besluit-rechtsbijstand-en-toevoegcriteria` | Besluit rechtsbijstand- en toevoegcriteria | 1 | 2022-01-01 to 2022-01-01 |
+| `wijzigingsbesluit-beroepsreglement-enz-inzake-voltooiing-van-de-eerste-fase-van-de-herzien` | Wijzigingsbesluit Beroepsreglement, enz. inzake voltooiing van de eerste fase van de herziening van de rechterlijke organisatie | 1 | 1994-01-21 to 1994-01-21 |
+| `warenwetbesluit-algemene-chemische-productveiligheid` | Warenwetbesluit algemene chemische productveiligheid | 1 | 2021-01-01 to 2021-01-01 |
+| `warenwetbesluit-veilige-verpakking-huishoudchemicalien` | Warenwetbesluit veilige verpakking huishoudchemicaliën | 1 | 2014-11-14 to 2014-11-14 |
+| `besluit-bijdrage-vergoeding-wegenzorg` | Besluit bijdrage vergoeding wegenzorg | 1 | 1994-06-22 to 1994-06-22 |
+| `wijzigingsbesluit-besluit-subsidies-energiebesparingstechnieken` | Wijzigingsbesluit Besluit subsidies energiebesparingstechnieken | 1 | 1994-03-18 to 1994-03-18 |
+| `besluit-algemene-rechtspositie-politie` | Besluit algemene rechtspositie politie | 1 | 2026-04-18 to 2026-04-18 |
+| `besluit-bezoldiging-politie` | Besluit bezoldiging politie | 1 | 2026-04-18 to 2026-04-18 |
+| `besluit-overleg-en-medezeggenschap-politie-1994` | Besluit overleg en medezeggenschap politie 1994 | 1 | 2025-04-01 to 2025-04-01 |
+| `besluit-particuliere-participatiemaatschappijen` | Besluit particuliere participatiemaatschappijen | 1 | 2009-07-01 to 2009-07-01 |
+| `besluit-rechtspositie-rechterlijke-ambtenaren` | Besluit rechtspositie rechterlijke ambtenaren | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingsbesluit-uitvoeringsbesluit-inkomstenbelasting-1964-inzake-invoeringstermijn-iden` | Wijzigingsbesluit Uitvoeringsbesluit inkomstenbelasting 1964 inzake invoeringstermijn identificatieplicht voor de loonbelasting | 1 | 1995-06-01 to 1995-06-01 |
+| `besluit-integratie-uitkering-wuw-middelen-gemeentefonds` | Besluit integratie-uitkering WUW-middelen gemeentefonds | 1 | 2002-01-01 to 2002-01-01 |
+| `ambtsinstructie-voor-de-politie-de-koninklijke-marechaussee-en-andere-opsporingsambtenaren` | Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-houdende-regels-non-activiteitswedde-rijksambtenaren-lid-van-de-staten-generaal-of` | Besluit houdende regels non-activiteitswedde rijksambtenaren lid van de Staten-Generaal of het Europees Parlement | 1 | 2020-01-01 to 2020-01-01 |
+| `besluit-scheepvaartreglement-gemeenschappelijke-maas` | Besluit Scheepvaartreglement Gemeenschappelijke Maas | 1 | 1994-05-01 to 1994-05-01 |
+| `besluit-aanwijzing-van-personen-over-wie-de-politietaak-van-de-koninklijke-marechaussee-zi` | Besluit aanwijzing van personen over wie de politietaak van de Koninklijke marechaussee zich mede uitstrekt | 1 | 2013-07-01 to 2013-07-01 |
+| `wijzigingsbesluit-besluit-op-de-ruimtelijke-ordening-1985-enz-in-verband-met-de-kaderwet-b` | Wijzigingsbesluit Besluit op de ruimtelijke ordening 1985, enz. (in verband met de Kaderwet bestuur in verandering) | 1 | 1994-07-01 to 1994-07-01 |
+| `besluit-subsidies-zeescheepsnieuwbouw-1994` | Besluit subsidies zeescheepsnieuwbouw 1994 | 1 | 2009-07-01 to 2009-07-01 |
+| `wijzigingsbesluit-verplaatsingskostenbesluit-militairen` | Wijzigingsbesluit Verplaatsingskostenbesluit militairen | 1 | 1994-07-08 to 1994-07-08 |
+| `ambtsinstructie-commissaris-van-de-koning` | Ambtsinstructie commissaris van de Koning | 1 | 2024-03-30 to 2024-03-30 |
+| `besluit-informatie-inzake-rampen-en-crises` | Besluit informatie inzake rampen en crises | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingsbesluit-ambtenarenreglement-voor-de-rijkspolitie-1975-enz` | Wijzigingsbesluit Ambtenarenreglement voor de rijkspolitie 1975, enz. | 1 | 1994-07-15 to 1994-07-15 |
+| `besluit-ex-artikel-1638nn-van-boek-7a-van-het-burgerlijk-wetboek-2` | Besluit ex artikel 1638nn van Boek 7A van het Burgerlijk Wetboek (2) | 1 | 1994-07-29 to 1994-07-29 |
+| `wijzigingsbesluit-besluit-reglement-onderzoek-schepen-op-de-rijn` | Wijzigingsbesluit Besluit Reglement onderzoek schepen op de Rijn | 1 | 1994-10-01 to 1994-10-01 |
+| `wijzigingsbesluit-besluit-subsidiering-voogdij-en-gezinsvoogdij-instellingen-en-inrichting` | Wijzigingsbesluit Besluit subsidiëring voogdij- en gezinsvoogdij-instellingen en inrichtingen voor justitiële kinderbescherming | 1 | 1994-09-01 to 1994-09-01 |
+| `besluit-administratiefrechtelijke-handhaving-verkeersvoorschriften` | Besluit administratiefrechtelijke handhaving verkeersvoorschriften | 1 | 2018-01-01 to 2018-01-01 |
+| `besluit-kroonbenoemingen-politie` | Besluit Kroonbenoemingen politie | 1 | 2017-12-15 to 2017-12-15 |
+| `wijzigingsbesluit-premiespaarregeling-rijksambtenaren-1968-toegang-van-de-regeling-voor-mi` | Wijzigingsbesluit Premiespaarregeling Rijksambtenaren 1968 (toegang van de regeling voor militaire ambtenaren en burgerambtenaren werkzaam bij het Ministerie van Defensie) | 1 | 1994-09-30 to 1994-09-30 |
+| `besluit-rijnvaartpolitiereglement-1995` | Besluit Rijnvaartpolitiereglement 1995 | 1 | 2024-10-23 to 2024-10-23 |
+| `besluit-gemeentelijke-indeling-van-het-tot-de-provincie-noord-holland-behorende-deel-van-h` | Besluit gemeentelijke indeling van het tot de provincie Noord-Holland behorende deel van het IJsselmeer langs de oever van de gemeenten Amsterdam, Diemen en Muiden | 1 | 1994-11-02 to 1994-11-02 |
+| `kentekenreglement` | Kentekenreglement | 1 | 2026-07-04 to 2026-07-04 |
+| `besluit-rangen-politie` | Besluit rangen politie | 1 | 2025-04-01 to 2025-04-01 |
+| `warenwetbesluit-zuivel` | Warenwetbesluit Zuivel | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-toekenning-eindejaarsuitkering-over-1993-aan-militairen-en-burgerlijk-defensiepers` | Besluit toekenning eindejaarsuitkering over 1993 aan militairen en burgerlijk defensiepersoneel | 1 | 1995-02-01 to 1995-02-01 |
+| `besluit-verkeersbegeleidingstarieven-scheepvaartverkeer` | Besluit verkeersbegeleidingstarieven scheepvaartverkeer | 1 | 1996-01-12 to 1996-01-12 |
+| `inkomensbesluit-wetten-buitengewoon-pensioen` | Inkomensbesluit wetten buitengewoon pensioen | 1 | 2011-01-01 to 2011-01-01 |
+| `besluit-buitengewoon-opsporingsambtenaar` | Besluit buitengewoon opsporingsambtenaar | 1 | 2022-01-01 to 2022-01-01 |
+| `uitvoeringsbesluit-aansprakelijkheid-gevaarlijke-stoffen-en-milieuverontreiniging` | Uitvoeringsbesluit aansprakelijkheid gevaarlijke stoffen en milieuverontreiniging | 1 | 2019-07-01 to 2019-07-01 |
+| `uitvoeringsbesluit-ex-artikel-4-wegenverkeerswet-1994-inzake-verkeersvoorschriften-voor-he` | Uitvoeringsbesluit ex artikel 4 Wegenverkeerswet 1994 inzake verkeersvoorschriften voor het militaire verkeer | 1 | 2009-08-01 to 2009-08-01 |
+| `uitvoeringsbesluit-belastingen-op-milieugrondslag` | Uitvoeringsbesluit belastingen op milieugrondslag | 1 | 2026-01-01 to 2026-01-01 |
+| `uitvoeringsbesluit-onderbouwing-en-uitvoering-waardebepaling-wet-waardering-onroerende-zak` | Uitvoeringsbesluit onderbouwing en uitvoering waardebepaling Wet waardering onroerende zaken | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingsbesluit-besluit-voorkoming-dubbele-belasting-1989-maatregelen-met-het-oog-op-het` | Wijzigingsbesluit Besluit voorkoming dubbele belasting 1989 (maatregelen met het oog op het fiscale vestigingsklimaat) | 1 | 1995-01-01 to 1995-01-01 |
+| `wijzigingsbesluit-besluit-ex-artikel-106-algemene-pensioenwet-politieke-ambtsdragers` | Wijzigingsbesluit Besluit ex artikel 106 Algemene pensioenwet politieke ambtsdragers | 1 | 1995-01-27 to 1995-01-27 |
+| `uitvoeringsbesluit-kostenverrekening-en-gegevensuitwisseling-wet-waardering-onroerende-zak` | Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-gelijke-behandeling` | Besluit gelijke behandeling | 1 | 2012-12-21 to 2012-12-21 |
+| `uitvoeringsbesluit-motorrijtuigenbelasting-1994` | Uitvoeringsbesluit motorrijtuigenbelasting 1994 | 1 | 2026-07-01 to 2026-07-01 |
+| `besluit-aanwijzing-ambtenaren-belast-met-opsporing-ex-artikel-159-wegenverkeerswet-1994` | Besluit aanwijzing ambtenaren belast met opsporing ex artikel 159 Wegenverkeerswet 1994 | 1 | 2026-07-04 to 2026-07-04 |
+| `besluit-ingangsdatum-voorzieningen-wuv` | Besluit ingangsdatum voorzieningen Wuv | 1 | 2011-01-01 to 2011-01-01 |
+| `besluit-buitenslands-gediplomeerden-volksgezondheid` | Besluit buitenslands gediplomeerden volksgezondheid | 1 | 2020-10-01 to 2020-10-01 |
+| `besluit-inzake-het-onderzoek-naar-buitenlandse-contacten-van-aspirant-adoptiefouders` | Besluit inzake het onderzoek naar buitenlandse contacten van aspirant-adoptiefouders | 1 | 1998-10-01 to 1998-10-01 |
+| `warenwetbesluit-etikettering-van-schoeisel` | Warenwetbesluit etikettering van schoeisel | 1 | 2012-05-09 to 2012-05-09 |
+| `besluit-ex-artikel-xviii-wet-op-de-bezoldiging-van-de-rechterlijke-ambtenaren-wijziging-be` | Besluit ex artikel XVIII Wet op de bezoldiging van de rechterlijke ambtenaren (wijziging bezoldigingsstructuur) | 1 | 1995-06-28 to 1995-06-28 |
+| `wijzigingsbesluit-bijdragenbesluit-openbare-lichamen-milieubeheer` | Wijzigingsbesluit Bijdragenbesluit openbare lichamen milieubeheer | 1 | 1995-07-26 to 1995-07-26 |
+| `besluit-gegevensverstrekking-gemeentelijke-belastingheffing` | Besluit gegevensverstrekking gemeentelijke belastingheffing | 1 | 2009-03-18 to 2009-03-18 |
+| `besluit-bevolkingsonderzoek` | Besluit bevolkingsonderzoek | 1 | 2020-10-01 to 2020-10-01 |
+| `warenwetbesluit-motor-en-bromfietshelmen` | Warenwetbesluit motor- en bromfietshelmen | 1 | 2018-04-21 to 2018-04-21 |
+| `loodsplichtbesluit-1995` | Loodsplichtbesluit 1995 | 1 | 2019-04-01 to 2019-04-01 |
+| `besluit-verklaringhouders-scheepvaartverkeerswet` | Besluit verklaringhouders Scheepvaartverkeerswet | 1 | 2014-01-01 to 2014-01-01 |
+| `besluit-ex-artikel-810a-wetboek-van-burgerlijke-rechtsvordering` | Besluit ex artikel 810a Wetboek van Burgerlijke Rechtsvordering | 1 | 2010-11-01 to 2010-11-01 |
+| `besluit-uitvoering-artikel-66-van-de-wet-financiele-voorzieningen-privatisering-abp` | Besluit uitvoering artikel 66 van de Wet financiële voorzieningen privatisering ABP | 1 | 2003-05-23 to 2003-05-23 |
+| `besluit-geluidproduktie-sportmotoren` | Besluit geluidproduktie sportmotoren | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingsbesluit-kansspelenbesluit` | Wijzigingsbesluit Kansspelenbesluit | 1 | 1996-01-01 to 1996-01-01 |
+| `registratiebesluit-big` | Registratiebesluit BIG | 1 | 2022-08-27 to 2022-08-27 |
+| `wijzigingsbesluit-besluit-herziening-bezoldiging-militairen-zeemacht-1954-enz-inzake-aanpa` | Wijzigingsbesluit Besluit herziening bezoldiging militairen zeemacht 1954, enz. (inzake aanpassing salaris Wet financiële voorzieningen privatisering ABP) | 1 | 1996-03-29 to 1996-03-29 |
+| `arbeidstijdenbesluit` | Arbeidstijdenbesluit | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-uitzonderingen-oorlogsschepen-scheepvaartverkeerswet` | Besluit uitzonderingen oorlogsschepen Scheepvaartverkeerswet | 1 | 2021-01-01 to 2021-01-01 |
+| `overdrachtsbesluit-wet-toezicht-effectenverkeer-1995` | Overdrachtsbesluit Wet toezicht effectenverkeer 1995 | 1 | 2003-12-01 to 2003-12-01 |
+| `wijzigingsbesluit-besluit-vergoedingen-luchtverkeersbeveiliging` | Wijzigingsbesluit Besluit vergoedingen luchtverkeersbeveiliging | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingsbesluit-besluit-homeopatische-farmaceutische-produkten` | Wijzigingsbesluit Besluit homeopatische farmaceutische produkten | 1 | 2002-01-01 to 2002-01-01 |
+| `archiefbesluit-1995` | Archiefbesluit 1995 | 1 | 2020-01-01 to 2020-01-01 |
+| `besluit-vaststelling-overhevelingstoeslag-1996` | Besluit vaststelling overhevelingstoeslag 1996 | 1 | 1996-01-01 to 1996-01-01 |
+| `inkomstenbesluit-militairen` | Inkomstenbesluit militairen | 1 | 2026-08-26 to 2026-08-26 |
+| `besluit-inbeslaggenomen-voorwerpen` | Besluit inbeslaggenomen voorwerpen | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingsbesluit-besluit-brood-of-banketbakkerijen-milieubeheer-enz-voorschriften-brengen` | Wijzigingsbesluit Besluit brood- of banketbakkerijen milieubeheer, enz. (voorschriften brengen van bedrijfsafvalwater in een voorziening voor de inzameling en het bedrijfsafvaltransport van afvalwater) | 1 | 1996-03-01 to 1996-03-01 |
+| `wijzigingsbesluit-besluit-aanvulling-arbeidsongeschiktheidsuitkering-militairen-enz` | Wijzigingsbesluit Besluit aanvulling arbeidsongeschiktheidsuitkering militairen, enz. | 1 | 1996-02-16 to 1996-02-16 |
+| `wijzigingsbesluit-uitvoeringsbesluit-belastingen-van-rechtsverkeer` | Wijzigingsbesluit Uitvoeringsbesluit belastingen van rechtsverkeer | 1 | 1996-03-01 to 1996-03-01 |
+| `scheepvaartreglement-territoriale-zee` | Scheepvaartreglement territoriale zee | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingsbesluit-amar-enz-akkoord-arbeidsvoorwaarden-en-werkgelegenheidsbeleid-1995-1997` | Wijzigingsbesluit AMAR, enz (Akkoord arbeidsvoorwaarden- en werkgelegenheidsbeleid 1995-1997 sector Defensie) | 1 | 1996-04-01 to 1996-04-01 |
+| `vrijstellingenbesluit-winkeltijdenwet` | Vrijstellingenbesluit Winkeltijdenwet | 1 | 2015-07-04 to 2015-07-04 |
+| `besluit-dienstreizen-defensie` | Besluit dienstreizen defensie | 1 | 2020-01-01 to 2020-01-01 |
+| `warenwetbesluit-drukverpakkingen` | Warenwetbesluit drukverpakkingen | 1 | 2014-11-14 to 2014-11-14 |
+| `wijzigingsbesluit-wet-op-de-rechterlijke-organisatie-en-andere-wetten-in-verband-met-de-op` | Wijzigingsbesluit Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout (Stb. 155), en aanpassing van lagere regelgeving aan die wet | 1 | 2001-01-01 to 2001-01-01 |
+| `wijzigingsbesluit-rechtspositiebesluit-voorzitters-waterschappen-1996` | Wijzigingsbesluit Rechtspositiebesluit voorzitters waterschappen (1996) | 1 | 1996-05-22 to 1996-05-22 |
+| `warenwetbesluit-toevoeging-micro-voedingsstoffen-aan-levensmiddelen` | Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen | 1 | 2014-11-14 to 2014-11-14 |
+| `reglement-rijbewijzen` | Reglement rijbewijzen | 1 | 2026-10-01 to 2026-10-01 |
+| `besluit-vervoer-gevaarlijke-stoffen` | Besluit vervoer gevaarlijke stoffen | 1 | 2026-08-01 to 2026-08-01 |
+| `aanpassingsbesluit-van-een-aantal-amvb-s-gebaseerd-op-de-wegenverkeerswet-1994-ivm-verzelf` | Aanpassingsbesluit van een aantal amvb's gebaseerd op de Wegenverkeerswet 1994 ivm verzelfstandiging Rijksdienst voor het Wegverkeer | 1 | 1996-07-01 to 1996-07-01 |
+| `besluit-rivierdijkversterking-hoofdwaterkeringen-provinciefonds` | Besluit rivierdijkversterking/hoofdwaterkeringen Provinciefonds | 1 | 2007-08-17 to 2007-08-17 |
+| `besluit-gegevensverstrekking-wet-waardering-onroerende-zaken` | Besluit gegevensverstrekking Wet waardering onroerende zaken | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingsbesluit-regeling-ziektekostenvoorziening-overheidspersoneel` | Wijzigingsbesluit Regeling ziektekostenvoorziening overheidspersoneel | 1 | 1996-08-16 to 1996-08-16 |
+| `wijzigingsbesluit-betreffende-intrekking-algemene-weduwen-en-wezenwet-en-inwerkingtreding` | Wijzigingsbesluit betreffende intrekking Algemene Weduwen- en Wezenwet en inwerkingtreding Algemene nabestaandenwet | 1 | 1996-08-16 to 1996-08-16 |
+| `wijzigingsbesluit-aantal-amvb-s-op-grond-van-isovso-en-enkele-andere-wetten-ivm-onder-meer` | Wijzigingsbesluit aantal amvb's op grond van ISOVSO en enkele andere wetten ivm onder meer onderwijs aan visueel gehandicapte kinderen | 1 | 1996-11-01 to 1996-11-01 |
+| `besluit-minimumloon-en-minimumvakantiebijslag` | Besluit minimumloon en minimumvakantiebijslag | 1 | 2023-01-01 to 2023-01-01 |
+| `maatregel-te-boek-gestelde-luchtvaartuigen-1996` | Maatregel te boek gestelde luchtvaartuigen 1996 | 1 | 2008-01-01 to 2008-01-01 |
+| `besluit-grenswijziging-tussen-de-gemeenten-meppel-en-staphorst-tevens-provinciegrens-tusse` | Besluit grenswijziging tussen de gemeenten Meppel en Staphorst, tevens provinciegrens tussen Drenthe en Overijssel | 1 | 1996-10-11 to 1996-10-11 |
+| `wijzigingsbesluit-van-enkele-op-de-werkloosheidswet-gebaseerde-besluiten` | Wijzigingsbesluit van enkele op de Werkloosheidswet gebaseerde besluiten | 1 | 1997-01-01 to 1997-01-01 |
+| `uitvoeringsbesluit-artikel-755-tweede-lid-boek-8-burgerlijk-wetboek` | Uitvoeringsbesluit artikel 755, tweede lid, Boek 8 Burgerlijk Wetboek | 1 | 1997-01-01 to 1997-01-01 |
+| `uitvoeringsbesluit-artikel-1065-boek-8-burgerlijk-wetboek` | Uitvoeringsbesluit artikel 1065, Boek 8 Burgerlijk Wetboek | 1 | 2025-03-01 to 2025-03-01 |
+| `wijzigingsbesluit-besluit-voorkoming-olieverontreiniging-door-schepen-enz` | Wijzigingsbesluit Besluit voorkoming olieverontreiniging door schepen, enz. | 1 | 1997-03-01 to 1997-03-01 |
+| `besluit-vaststelling-overhevelingstoeslag-1997` | Besluit vaststelling overhevelingstoeslag 1997 | 1 | 1997-01-01 to 1997-01-01 |
+| `invoeringsbesluit-financiele-verhoudingswet` | Invoeringsbesluit Financiële-verhoudingswet | 1 | 1997-01-01 to 1997-01-01 |
+| `uitvoeringsbesluit-verdrag-chemische-wapens` | Uitvoeringsbesluit verdrag chemische wapens | 1 | 2011-07-01 to 2011-07-01 |
+| `besluit-procedure-geneeskundig-onderzoek-blijvende-dienstongeschiktheid-en-pensioenkeuring` | Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen | 1 | 2006-08-02 to 2006-08-02 |
+| `warenwetbesluit-deponering-informatie-preparaten` | Warenwetbesluit deponering informatie preparaten | 1 | 2011-07-01 to 2011-07-01 |
+| `arbeidsomstandighedenbesluit` | Arbeidsomstandighedenbesluit | 1 | 2026-08-01 to 2026-08-01 |
+| `uitvoeringsbesluit-wet-waardering-onroerende-zaken` | Uitvoeringsbesluit Wet waardering onroerende zaken | 1 | 2007-07-18 to 2007-07-18 |
+| `wijzigingsbesluit-rechtspositiebesluit-gedeputeerden-en-het-rechtspositiebesluit-wethouder` | Wijzigingsbesluit Rechtspositiebesluit gedeputeerden en het Rechtspositiebesluit wethouders | 1 | 1997-04-06 to 1997-04-06 |
+| `besluit-certificaat-gewasbeschermingsmiddelen` | Besluit certificaat gewasbeschermingsmiddelen | 1 | 2002-01-01 to 2002-01-01 |
+| `uitvoeringsbesluit-voorzieningen-in-de-huisvesting-po-vo` | Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO | 1 | 2022-08-01 to 2022-08-01 |
+| `besluit-verlenging-recht-op-premievrijstelling-van-banenpool-op-grond-van-de-voormalige-we` | Besluit verlenging recht op premievrijstelling van banenpool op grond van de voormalige Wet ter bevordering van de werkgelegenheid voor werkzoekenden die zeer langdurig werkloos zijn | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingsbesluit-rechtspositiebesluit-burgemeesters-1994` | Wijzigingsbesluit Rechtspositiebesluit burgemeesters 1994 | 1 | 1997-04-09 to 1997-04-09 |
+| `besluit-geweldgebruik-bij-uitoefening-buitengewone-bevoegdheden` | Besluit geweldgebruik bij uitoefening buitengewone bevoegdheden | 1 | 1997-05-01 to 1997-05-01 |
+| `tuchtrechtbesluit-big` | Tuchtrechtbesluit BIG | 1 | 2022-04-01 to 2022-04-01 |
+| `reglement-verpleging-ter-beschikking-gestelden` | Reglement verpleging ter beschikking gestelden | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-op-de-huurtoeslag` | Besluit op de huurtoeslag | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-vaststelling-van-de-dood-bij-postmortale-orgaandonatie` | Besluit vaststelling van de dood bij postmortale orgaandonatie | 1 | 2026-07-01 to 2026-07-01 |
+| `besluit-heffing-scholing-en-vorming-ondernemingsraadsleden-bij-de-overheid` | Besluit heffing scholing en vorming ondernemingsraadsleden bij de overheid | 1 | 2020-01-01 to 2020-01-01 |
+| `wijzigingsbesluit-besluit-voorkoming-dubbele-belasting-1989-aanpassing-wijze-waarop-vermin` | Wijzigingsbesluit besluit voorkoming dubbele belasting 1989 (aanpassing wijze waarop vermindering ter voorkoming van dubbele belasting wordt verleend voor passieve winst uit buitenlandse onderneming) | 1 | 1997-07-25 to 1997-07-25 |
+| `besluit-statistische-gegevens-scheepvaartverkeer` | Besluit statistische gegevens scheepvaartverkeer | 1 | 2011-05-25 to 2011-05-25 |
+| `besluit-vervanging-regeling-ziektekostenvoorziening-overheidspersoneel-door-sectorale-rege` | Besluit vervanging Regeling ziektekostenvoorziening overheidspersoneel door sectorale regelingen | 1 | 1998-01-01 to 1998-01-01 |
+| `besluit-opleidingseisen-arts` | Besluit opleidingseisen arts | 1 | 2024-07-01 to 2024-07-01 |
+| `besluit-opleidingseisen-en-deskundigheidsgebied-tandprotheticus` | Besluit opleidingseisen en deskundigheidsgebied tandprotheticus | 1 | 1997-12-01 to 1997-12-01 |
+| `besluit-deskundigheidsgebied-heilgymnast-masseur` | Besluit deskundigheidsgebied heilgymnast-masseur | 1 | 1997-12-01 to 1997-12-01 |
+| `besluit-opleidingseisen-apotheker` | Besluit opleidingseisen apotheker | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-bijzondere-akten-van-de-burgerlijke-stand` | Besluit bijzondere akten van de burgerlijke stand | 1 | 2014-04-01 to 2014-04-01 |
+| `besluit-uitsluiting-oproepingsprocedure` | Besluit uitsluiting oproepingsprocedure | 1 | 1998-02-01 to 1998-02-01 |
+| `wijzigingsbesluit-inkomstenbesluit-militairen-en-bezoldigingsbesluit-burgerlijke-ambtenare` | Wijzigingsbesluit Inkomstenbesluit militairen en Bezoldigingsbesluit burgerlijke ambtenaren defensie | 1 | 1997-10-22 to 1997-10-22 |
+| `besluit-opleiding-en-deskundigheidsgebied-apothekersassistent` | Besluit opleiding en deskundigheidsgebied apothekersassistent | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-opleidingseisen-tandarts` | Besluit opleidingseisen tandarts | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-geslachtsnaamswijziging` | Besluit geslachtsnaamswijziging | 1 | 2024-10-01 to 2024-10-01 |
+| `besluit-routerings-en-meldingssystemen-voor-schepen-in-volle-zee-voor-de-nederlandse-kust` | Besluit routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust | 1 | 2005-05-18 to 2005-05-18 |
+| `besluit-opleidingseisen-en-deskundigheidsgebied-fysiotherapeut` | Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-dietist-ergotherapeut-logopedist-mondhygienist-oefentherapeut-orthoptist-en-podoth` | Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut | 1 | 2023-01-01 to 2023-01-01 |
+| `aanpassingsbesluit-van-minimumcontributie-voor-omroepverenigingen` | Aanpassingsbesluit van minimumcontributie voor omroepverenigingen | 1 | 2002-01-01 to 2002-01-01 |
+| `suppletieregeling-gedeeltelijk-arbeidsongeschikten-sector-defensie` | Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie | 1 | 2020-01-01 to 2020-01-01 |
+| `besluit-functionele-zelfstandigheid` | Besluit functionele zelfstandigheid | 1 | 2024-07-01 to 2024-07-01 |
+| `besluit-opleidingseisen-en-deskundigheidsgebied-radiodiagnostisch-laborant-en-radiotherape` | Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant | 1 | 2023-01-01 to 2023-01-01 |
+| `reglement-voor-de-binnenvisserij-1985` | Reglement voor de binnenvisserij 1985 | 1 | 2019-07-01 to 2019-07-01 |
+| `besluit-slotallocatie` | Besluit slotallocatie | 1 | 2020-04-01 to 2020-04-01 |
+| `besluit-vrijstelling-branchebeschermingsovereenkomsten` | Besluit vrijstelling branchebeschermingsovereenkomsten | 1 | 2008-12-19 to 2008-12-19 |
+| `kansspelenbesluit` | Kansspelenbesluit | 1 | 2021-04-01 to 2021-04-01 |
+| `wijzigingsbesluit-ivm-arbeidsvoorwaardenakkoord-sector-defensie-voor-de-periode-van-1-apri` | Wijzigingsbesluit ivm arbeidsvoorwaardenakkoord sector Defensie voor de periode van 1 april 1997 tot en met 31 mei 1999 | 1 | 1999-01-01 to 1999-01-01 |
+| `besluit-op-de-lijkbezorging` | Besluit op de lijkbezorging | 1 | 2025-07-01 to 2025-07-01 |
+| `besluit-vrijstellingen-samenwerkingsovereenkomsten-detailhandel` | Besluit vrijstellingen samenwerkingsovereenkomsten detailhandel | 1 | 2014-08-01 to 2014-08-01 |
+| `besluit-vervoer-ontplofbare-stoffen-krijgsmacht` | Besluit vervoer ontplofbare stoffen krijgsmacht | 1 | 1998-01-01 to 1998-01-01 |
+| `inkomensbesluit-waz` | Inkomensbesluit Waz | 1 | 2005-05-25 to 2005-05-25 |
+| `kostuum-en-titulatuurbesluit-rechterlijke-organisatie` | Kostuum- en titulatuurbesluit rechterlijke organisatie | 1 | 2015-01-01 to 2015-01-01 |
+| `besluit-aanwijzing-registraties-gezamenlijke-huishouding-1998` | Besluit aanwijzing registraties gezamenlijke huishouding 1998 | 1 | 2015-01-01 to 2015-01-01 |
+| `besluit-uitbreiding-en-beperking-kring-verzekerden-waz` | Besluit uitbreiding en beperking kring verzekerden Waz | 1 | 2005-12-29 to 2005-12-29 |
+| `besluit-uitbreiding-en-beperking-kring-ingezetenen-wajong` | Besluit uitbreiding en beperking kring ingezetenen Wajong | 1 | 2025-07-01 to 2025-07-01 |
+| `besluit-draagbare-blustoestellen-1997` | Besluit draagbare blustoestellen 1997 | 1 | 2016-09-18 to 2016-09-18 |
+| `warenwetbesluit-eiwitproducten` | Warenwetbesluit Eiwitproducten | 1 | 2016-02-19 to 2016-02-19 |
+| `besluit-registratie-vissersvaartuigen-1998` | Besluit registratie vissersvaartuigen 1998 | 1 | 2018-01-01 to 2018-01-01 |
+| `arbeidstijdenbesluit-vervoer` | Arbeidstijdenbesluit vervoer | 1 | 2025-09-16 to 2025-09-16 |
+| `penitentiaire-maatregel` | Penitentiaire maatregel | 1 | 2025-11-01 to 2025-11-01 |
+| `instructie-voor-het-militair-gezag` | Instructie voor het militair gezag | 1 | 1998-03-18 to 1998-03-18 |
+| `wijzigingsbesluit-besluit-beheer-sociale-huursector-enz-verbetering-van-toezicht-op-de-soc` | Wijzigingsbesluit Besluit beheer sociale-huursector, enz. (verbetering van toezicht op de sociale-huursector, verbetering van werkwijze van het Centraal Fonds voor de Volkshuisvesting) | 1 | 1998-05-18 to 1998-05-18 |
+| `besluit-psychotherapeut` | Besluit psychotherapeut | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-gezondheidszorgpsycholoog` | Besluit gezondheidszorgpsycholoog | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingsbesluit-metingsbesluit-binnenvaartuigen-1978` | Wijzigingsbesluit Metingsbesluit Binnenvaartuigen 1978 | 1 | 1998-05-01 to 1998-05-01 |
+| `warenwetbesluit-gereserveerde-aanduidingen` | Warenwetbesluit Gereserveerde aanduidingen | 1 | 2024-01-01 to 2024-01-01 |
+| `warenwetbesluit-specerijen-en-kruiden` | Warenwetbesluit Specerijen en kruiden | 1 | 2016-02-19 to 2016-02-19 |
+| `besluit-gelijkstelling-vreemdelingen-participatiewet-ioaw-en-ioaz` | Besluit gelijkstelling vreemdelingen Participatiewet, IOAW en IOAZ | 1 | 2015-01-01 to 2015-01-01 |
+| `warenwetbesluit-meel-en-brood` | Warenwetbesluit Meel en brood | 1 | 2020-07-01 to 2020-07-01 |
+| `warenwetbesluit-vlees-gehakt-en-vleesproducten` | Warenwetbesluit Vlees, gehakt en vleesproducten | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-omschrijving-indexcijfer` | Besluit omschrijving indexcijfer | 1 | 2009-07-01 to 2009-07-01 |
+| `besluit-ex-artikel-66a-anw` | Besluit ex artikel 66a ANW | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-register-schuldsaneringsregeling` | Besluit register schuldsaneringsregeling | 1 | 2017-09-01 to 2017-09-01 |
+| `warenwetbesluit-verpakte-waters` | Warenwetbesluit Verpakte waters | 1 | 2023-01-12 to 2023-01-12 |
+| `besluit-bescherming-antarctica` | Besluit bescherming Antarctica | 1 | 2015-03-01 to 2015-03-01 |
+| `besluit-kwik-en-kwikhoudende-producten-milieubeheer` | Besluit kwik en kwikhoudende producten milieubeheer | 1 | 2023-04-19 to 2023-04-19 |
+| `wijzigingsbesluit-subsidiebesluit-openbare-lichamen-milieubeheer` | Wijzigingsbesluit Subsidiebesluit openbare lichamen milieubeheer | 1 | 1998-11-11 to 1998-11-11 |
+| `besluit-overgangsrecht-telecommunicatiewet` | Besluit overgangsrecht Telecommunicatiewet | 1 | 2013-03-15 to 2013-03-15 |
+| `besluit-nummerportabiliteit` | Besluit nummerportabiliteit | 1 | 2022-03-02 to 2022-03-02 |
+| `besluit-aftappen-openbare-telecommunicatienetwerken-en-diensten` | Besluit aftappen openbare telecommunicatienetwerken en -diensten | 1 | 2003-01-24 to 2003-01-24 |
+| `besluit-tegemoetkoming-schade-bij-rampen` | Besluit tegemoetkoming schade bij rampen | 1 | 2010-10-01 to 2010-10-01 |
+| `besluit-staatstoezicht-op-de-volksgezondheid` | Besluit Staatstoezicht op de volksgezondheid | 1 | 2018-08-01 to 2018-08-01 |
+| `wijzigingsbesluit-uitvoeringsbesluit-omzetbelasting-1968-btw-regime-voor-bad-en-zweminrich` | Wijzigingsbesluit Uitvoeringsbesluit omzetbelasting 1968 (BTW-regime voor bad- en zweminrichtingen) | 1 | 1999-01-01 to 1999-01-01 |
+| `besluit-vaststelling-overhevelingstoeslag-1999` | Besluit vaststelling overhevelingstoeslag 1999 | 1 | 1999-01-01 to 1999-01-01 |
+| `besluit-uitbreiding-kring-studerenden-wajong` | Besluit uitbreiding kring studerenden Wajong | 1 | 2020-09-01 to 2020-09-01 |
+| `besluit-beperkingen-burgerluchtverkeer-waddenzee` | Besluit beperkingen burgerluchtverkeer Waddenzee | 1 | 2024-02-20 to 2024-02-20 |
+| `wijzigingsbesluit-uitvoeringsbesluit-kostenverrekening-en-gegevensuitwisseling-wet-waarder` | Wijzigingsbesluit Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken (aanpassing van het standaarduitwisselingsformaat) | 1 | 1999-02-10 to 1999-02-10 |
+| `wijzigingsbesluit-besluit-proceskosten-bestuursrecht-herziening-van-fiscale-procesrecht` | Wijzigingsbesluit Besluit proceskosten bestuursrecht (herziening van fiscale procesrecht) | 1 | 2000-01-01 to 2000-01-01 |
+| `besluit-personenchauffeurs-defensie` | Besluit personenchauffeurs defensie | 1 | 2026-08-26 to 2026-08-26 |
+| `wijzigingsbesluit-warenwetbesluit-toevoeging-micro-voedingsstoffen-aan-levensmiddelen` | Wijzigingsbesluit Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen | 1 | 1999-03-17 to 1999-03-17 |
+| `besluit-toekenning-bevoegdheden-aan-minister-van-vws-om-organisatie-zorgonderzoek-nederlan` | Besluit toekenning bevoegdheden aan Minister van VWS om organisatie ZorgOnderzoek Nederland bepaalde werkzaamheden terzake op te dragen | 1 | 1999-03-19 to 1999-03-19 |
+| `besluit-centrale-beoordeling-medisch-wetenschappelijk-onderzoek-met-mensen` | Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen | 1 | 2021-05-26 to 2021-05-26 |
+| `besluit-vergoedingen-telecommunicatiewet-en-wet-telecommunicatievoorzieningen-bes` | Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES | 1 | 2022-05-13 to 2022-05-13 |
+| `subsidiebesluit-raad-voor-rechtsbijstand` | Subsidiebesluit raad voor rechtsbijstand | 1 | 2010-07-01 to 2010-07-01 |
+| `wijzigingsbesluit-besluit-gegevensverstrekking-gemeentelijke-belastingheffing-en-besluit-g` | Wijzigingsbesluit Besluit gegevensverstrekking gemeentelijke belastingheffing en Besluit gemeentelijke parkeerbelastingen (aanpassing aan de derde tranche Awb) | 1 | 1999-04-23 to 1999-04-23 |
+| `besluit-ondernemingsplan-notaris` | Besluit ondernemingsplan notaris | 1 | 2004-08-01 to 2004-08-01 |
+| `besluit-bovenwettelijke-uitkeringen-bij-werkloosheid-voor-de-sector-defensie` | Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie | 1 | 2026-08-26 to 2026-08-26 |
+| `besluit-bewijzen-van-bevoegdheid-voor-de-luchtvaart` | Besluit bewijzen van bevoegdheid voor de luchtvaart | 1 | 2026-01-09 to 2026-01-09 |
+| `uitvoeringsbesluit-web` | Uitvoeringsbesluit WEB | 1 | 2024-08-01 to 2024-08-01 |
+| `wijzigingsbesluit-reglement-verkeersregels-en-verkeerstekens-1990-enz-toekennen-van-verkee` | Wijzigingsbesluit Reglement verkeersregels en verkeerstekens 1990, enz. (toekennen van verkeersregelende bevoegdheden aan verkeersregelaars) | 1 | 2000-05-01 to 2000-05-01 |
+| `besluit-cockpitpersoneel-en-luchtverkeersdienstverleningspersoneel-krijgsmacht` | Besluit cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht | 1 | 1999-10-01 to 1999-10-01 |
+| `warenwetbesluit-smeerbare-vetproducten` | Warenwetbesluit Smeerbare vetproducten | 1 | 2016-10-06 to 2016-10-06 |
+| `besluit-ex-artikel-46b-vierde-lid-wet-toezicht-effectenverkeer-1995` | Besluit ex artikel 46b, vierde lid, Wet toezicht effectenverkeer 1995 | 1 | 1999-12-01 to 1999-12-01 |
+| `besluit-verhaal-van-onroerende-zaakbelasting` | Besluit verhaal van onroerende-zaakbelasting | 1 | 2017-12-09 to 2017-12-09 |
+| `besluit-verzorgende-in-de-individuele-gezondheidszorg` | Besluit verzorgende in de individuele gezondheidszorg | 1 | 2023-01-01 to 2023-01-01 |
+| `wijzigingsbesluit-warenwetbesluit-etikettering-van-levensmiddelen-1999` | Wijzigingsbesluit Warenwetbesluit Etikettering van levensmiddelen (1999) | 1 | 2000-02-14 to 2000-02-14 |
+| `wijzigingsbesluit-warenwetbesluit-doorstraalde-waren-enz` | Wijzigingsbesluit Warenwetbesluit Doorstraalde waren, enz. | 1 | 2000-09-20 to 2000-09-20 |
+| `wijzigingsbesluit-besluit-bijzondere-voorzieningen-militair-nabestaandenpensioen` | Wijzigingsbesluit Besluit bijzondere voorzieningen militair nabestaandenpensioen | 1 | 2000-01-12 to 2000-01-12 |
+| `wijzigingsbesluit-uitvoeringsbesluit-omzetbelasting-1968-invoering-van-een-verleggingsrege` | Wijzigingsbesluit Uitvoeringsbesluit omzetbelasting 1968 (invoering van een verleggingsregeling voor (beleggings)goud) | 1 | 2000-01-01 to 2000-01-01 |
+| `wijzigingsbesluit-boek-2-van-het-burgerlijk-wetboek-verhoging-van-de-grensbedragen` | Wijzigingsbesluit boek 2 van het Burgerlijk Wetboek (verhoging van de grensbedragen) | 1 | 2015-11-01 to 2015-11-01 |
+| `wijzigingsbesluit-besluit-ex-artikel-12-van-de-wet-buitengewoon-pensioen-1940-1945-enz` | Wijzigingsbesluit Besluit ex artikel 12 van de Wet buitengewoon pensioen 1940-1945, enz. | 1 | 2000-01-01 to 2000-01-01 |
+| `besluit-bewaren-en-vernietigen-niet-gevoegde-stukken` | Besluit bewaren en vernietigen niet-gevoegde stukken | 1 | 2017-01-01 to 2017-01-01 |
+| `wijzigingsbesluit-uitvoeringsbesluit-kostenverrekening-en-gegevensuitwisseling-wet-waarder-2` | Wijzigingsbesluit Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken (invoering nieuwe systematiek verrekening waarderingskosten) | 1 | 1999-12-29 to 1999-12-29 |
+| `besluit-vergoedingen-rechtsbijstand-2000` | Besluit vergoedingen rechtsbijstand 2000 | 1 | 2026-02-01 to 2026-02-01 |
+| `besluit-vaststelling-overhevelingstoeslag-2000-en-overhevelingstoeslag-2001` | Besluit vaststelling overhevelingstoeslag 2000 en overhevelingstoeslag 2001 | 1 | 2000-01-01 to 2000-01-01 |
+| `besluit-regels-export-uitkeringen` | Besluit regels export uitkeringen | 1 | 2018-11-14 to 2018-11-14 |
+| `wijzigingsbesluit-algemeen-militair-ambtenarenreglement-enz-arbeidsvoorwaardenovereenkomst` | Wijzigingsbesluit Algemeen militair ambtenarenreglement, enz. (arbeidsvoorwaardenovereenkomst voor de sector Defensie) | 1 | 2000-02-18 to 2000-02-18 |
+| `besluit-verstrekking-gegevens-telecommunicatie` | Besluit verstrekking gegevens telecommunicatie | 1 | 2022-03-02 to 2022-03-02 |
+| `besluit-extramurale-vrijheidsbeneming-en-sociale-zekerheid` | Besluit extramurale vrijheidsbeneming en sociale zekerheid | 1 | 2016-01-01 to 2016-01-01 |
+| `besluit-regels-avarij-grosse-ex-artikel-1022-boek-8-burgerlijk-wetboek` | Besluit regels avarij-grosse ex artikel 1022 Boek 8 Burgerlijk Wetboek | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-regels-avarij-grosse-ex-artikel-613-boek-8-burgerlijk-wetboek` | Besluit regels avarij-grosse ex artikel 613 Boek 8 Burgerlijk Wetboek | 1 | 2000-05-01 to 2000-05-01 |
+| `wijzigingsbesluit-regeling-ziektekostenvoorziening-defensiepersoneel-ziektekostenverzekeri` | Wijzigingsbesluit Regeling ziektekostenvoorziening defensiepersoneel (ziektekostenverzekering voor gewezen militairen) | 1 | 2000-03-31 to 2000-03-31 |
+| `besluit-klachtencommissie-vergunninghouders-interlandelijke-adoptie` | Besluit klachtencommissie vergunninghouders interlandelijke adoptie | 1 | 2018-08-01 to 2018-08-01 |
+| `besluit-grenzen-nederlandse-exclusieve-economische-zone` | Besluit grenzen Nederlandse exclusieve economische zone | 1 | 2000-04-28 to 2000-04-28 |
+| `wijzigingsbesluit-warenwetbesluit-produkten-voor-bijzondere-voeding-enz` | Wijzigingsbesluit Warenwetbesluit Produkten voor bijzondere voeding, enz. | 1 | 2000-04-12 to 2000-04-12 |
+| `wijzigingsbesluit-besluit-veiligheid-attractie-en-speeltoestellen` | Wijzigingsbesluit Besluit veiligheid attractie- en speeltoestellen | 1 | 2003-09-01 to 2003-09-01 |
+| `besluit-plaatsen-bestuurlijke-ophouding` | Besluit plaatsen bestuurlijke ophouding | 1 | 2010-10-10 to 2010-10-10 |
+| `speelautomatenbesluit-2000` | Speelautomatenbesluit 2000 | 1 | 2024-07-01 to 2024-07-01 |
+| `wijzigingsbesluit-besluit-trekkende-bevolking-wpo-enz-decentralisatie-van-huisvestingsvoor` | Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (decentralisatie van huisvestingsvoorzieningen) | 1 | 2004-12-29 to 2004-12-29 |
+| `uitvoeringsbesluit-les-en-cursusgeldwet-2000` | Uitvoeringsbesluit Les- en cursusgeldwet 2000 | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingsbesluit-besluit-draagkrachtcriteria-rechtsbijstand` | Wijzigingsbesluit Besluit draagkrachtcriteria rechtsbijstand | 1 | 2000-06-15 to 2000-06-15 |
+| `besluit-opleidingseisen-en-deskundigheidsgebied-optometrist` | Besluit opleidingseisen en deskundigheidsgebied optometrist | 1 | 2023-01-01 to 2023-01-01 |
+| `schattingsbesluit-arbeidsongeschiktheidswetten` | Schattingsbesluit arbeidsongeschiktheidswetten | 1 | 2024-07-01 to 2024-07-01 |
+| `besluit-studiefinanciering-2000` | Besluit studiefinanciering 2000 | 1 | 2026-06-12 to 2026-06-12 |
+| `legesbesluit-visserijdocumenten` | Legesbesluit visserijdocumenten | 1 | 2006-04-12 to 2006-04-12 |
+| `besluit-asbestwegen-milieubeheer` | Besluit asbestwegen milieubeheer | 1 | 2008-06-01 to 2008-06-01 |
+| `besluit-opheffing-landbouwschap` | Besluit opheffing Landbouwschap | 1 | 2002-01-01 to 2002-01-01 |
+| `boetebesluit-socialezekerheidswetten` | Boetebesluit socialezekerheidswetten | 1 | 2018-11-14 to 2018-11-14 |
+| `besluit-etikettering-energiegebruik-personenauto-s` | Besluit etikettering energiegebruik personenauto's | 1 | 2014-03-20 to 2014-03-20 |
+| `vreemdelingenbesluit-2000` | Vreemdelingenbesluit 2000 | 1 | 2026-09-25 to 2026-09-25 |
+| `besluit-bovenwettelijke-uitkeringen-bij-werkloosheid-van-rechterlijke-ambtenaren` | Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren | 1 | 2017-01-01 to 2017-01-01 |
+| `warenwetbesluit-bestuurlijke-boeten` | Warenwetbesluit bestuurlijke boeten | 1 | 2026-08-07 to 2026-08-07 |
+| `wijzigingsbesluit-besluit-administratieve-verplichtingen-waterschapsbelastingen-en-rijksre` | Wijzigingsbesluit Besluit administratieve verplichtingen waterschapsbelastingen en Rijksreglement ontgrondingen | 1 | 2000-12-15 to 2000-12-15 |
+| `besluit-actualisering-uitvoeringsbesluit-voorzieningen-in-de-huisvesting-po-vo-alsmede-wij` | Besluit actualisering Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO alsmede wijziging Besluit informatievoorziening WVO | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-bekostiging-invoering-werkloosheidswet-en-ziektewet-voor-overheidspersoneel` | Besluit bekostiging invoering Werkloosheidswet en Ziektewet voor overheidspersoneel | 1 | 2000-12-22 to 2000-12-22 |
+| `besluit-personenvervoer-2000` | Besluit personenvervoer 2000 | 1 | 2025-07-01 to 2025-07-01 |
+| `besluit-leningvoorwaarden-decentrale-overheden` | Besluit leningvoorwaarden decentrale overheden | 1 | 2001-01-01 to 2001-01-01 |
+| `scheepsafvalstoffenbesluit-rijn-en-binnenvaart` | Scheepsafvalstoffenbesluit Rijn- en binnenvaart | 1 | 2026-10-01 to 2026-10-01 |
+| `wijzigingsbesluit-18-december-2000-besluit-draagkrachtcriteria-rechtsbijstand` | Wijzigingsbesluit 18 december 2000 Besluit draagkrachtcriteria rechtsbijstand | 1 | 2001-01-01 to 2001-01-01 |
+| `besluit-bovenwettelijke-werkloosheidsuitkering-politie` | Besluit bovenwettelijke werkloosheidsuitkering politie | 1 | 2025-04-01 to 2025-04-01 |
+| `besluit-tot-verlenging-van-de-vrijstelling-accijns-voor-de-binnenvaart` | Besluit tot verlenging van de vrijstelling accijns voor de binnenvaart | 1 | 2001-01-01 to 2001-01-01 |
+| `aanpassingsbesluit-van-enige-uitvoeringsbesluiten-belastingherziening-2001` | Aanpassingsbesluit van enige uitvoeringsbesluiten (belastingherziening 2001) | 1 | 2007-07-18 to 2007-07-18 |
+| `uitvoeringsbesluit-inkomstenbelasting-2001` | Uitvoeringsbesluit inkomstenbelasting 2001 | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-meldingsregeling-wet-bpf-2000` | Besluit meldingsregeling Wet Bpf 2000 | 1 | 2007-01-01 to 2007-01-01 |
+| `vrijstellings-en-boetebesluit-wet-bpf-2000` | Vrijstellings- en boetebesluit Wet Bpf 2000 | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-voorkoming-dubbele-belasting-2001` | Besluit voorkoming dubbele belasting 2001 | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-winstbepaling-en-reserves-verzekeraars-2001` | Besluit winstbepaling en reserves verzekeraars 2001 | 1 | 2011-01-01 to 2011-01-01 |
+| `warenwetbesluit-kruidenpreparaten` | Warenwetbesluit Kruidenpreparaten | 1 | 2022-07-01 to 2022-07-01 |
+| `wijzigingsbesluit-rechtspositiebesluit-burgemeesters-1994-en-rechtspositiebesluit-commissa` | Wijzigingsbesluit Rechtspositiebesluit burgemeesters 1994 en Rechtspositiebesluit commissarissen van de Koning (invoering van Werkloosheidswet voor overheidspersoneel | 1 | 2001-01-31 to 2001-01-31 |
+| `besluit-financiele-verhouding-2001` | Besluit financiële verhouding 2001 | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingsbesluit-besluit-donorregister` | Wijzigingsbesluit Besluit donorregister | 1 | 2001-03-01 to 2001-03-01 |
+| `besluit-bijzondere-militaire-pensioenen` | Besluit bijzondere militaire pensioenen | 1 | 2018-11-24 to 2018-11-24 |
+| `besluit-aanvullende-arbeidsongeschiktheids-en-invaliditeitsvoorzieningen-militairen` | Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-samenstelling-en-werkwijze-toetsingscommissie-uittreding-zittende-magistratuur` | Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur | 1 | 2017-01-01 to 2017-01-01 |
+| `wijzigingsbesluit-reglement-verkeersregels-en-verkeerstekens-1990-enz-invoering-gehandicap` | Wijzigingsbesluit Reglement verkeersregels en verkeerstekens 1990, enz. (invoering gehandicaptenparkeerkaart volgens communautair model) | 1 | 2001-10-01 to 2001-10-01 |
+| `wijzigingsbesluit-besluit-huwelijksgoederenregister-1969-enz-wijziging-van-tijdstip-waarop` | Wijzigingsbesluit Besluit Huwelijksgoederenregister 1969, enz. (wijziging van tijdstip waarop scheiding van tafel en bed is geëindigd) | 1 | 2001-06-01 to 2001-06-01 |
+| `besluit-voorkoming-dubbele-belasting-nederland-en-taiwan` | Besluit voorkoming dubbele belasting Nederland en Taiwan | 1 | 2001-06-08 to 2001-06-08 |
+| `warenwetbesluit-koffie-en-cichorei-extracten` | Warenwetbesluit Koffie- en cichorei-extracten | 1 | 2001-05-16 to 2001-05-16 |
+| `wijzigingsbesluit-besluit-subsidies-bedrijfsgerichte-technologische-samenwerkingsprojecten` | Wijzigingsbesluit Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten | 1 | 2001-05-18 to 2001-05-18 |
+| `besluit-subsidies-niet-fysieke-stadseconomie-grote-steden` | Besluit subsidies niet-fysieke stadseconomie grote steden | 1 | 2003-07-16 to 2003-07-16 |
+| `wijzigingsbesluit-besluit-eindejaarsuitkering-rechterlijke-ambtenaren-enz-uitvoering-arbei` | Wijzigingsbesluit Besluit eindejaarsuitkering rechterlijke ambtenaren, enz. (uitvoering Arbeidsvoorwaardenovereenkomst 1999-2000 sector Rechterlijke Macht) | 1 | 2001-07-01 to 2001-07-01 |
+| `wijzigingsbesluit-rechtspositiebesluit-voorzitters-waterschappen-2001` | Wijzigingsbesluit Rechtspositiebesluit voorzitters waterschappen (2001) | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-voorkoming-dubbele-belasting-nederland-en-indonesie` | Besluit voorkoming dubbele belasting Nederland en Indonesië | 1 | 2001-05-18 to 2001-05-18 |
+| `wijzigingsbesluit-uitvoeringsbesluit-kostenverrekening-en-gegevensuitwisseling-wet-waarder-3` | Wijzigingsbesluit Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken (verrekening van de waarderingskosten) | 1 | 2003-01-01 to 2003-01-01 |
+| `wijzigingsbesluit-huursubsidiebesluit-en-besluit-vangnetregeling-huursubsidie-verklaring-h` | Wijzigingsbesluit Huursubsidiebesluit en Besluit vangnetregeling huursubsidie (verklaring huurgegevens, verlaging kostenvergoeding, tolerantiemarge, enz.) | 1 | 2001-07-01 to 2001-07-01 |
+| `wijzigingsbesluit-algemeen-militair-ambtenarenreglement-enz-ouderschapsverlof-en-meerlinge` | Wijzigingsbesluit Algemeen militair ambtenarenreglement, enz. (ouderschapsverlof en meerlingen) | 1 | 2001-07-11 to 2001-07-11 |
+| `besluit-ondernemingsplan-gerechtsdeurwaarder` | Besluit ondernemingsplan gerechtsdeurwaarder | 1 | 2001-07-15 to 2001-07-15 |
+| `besluit-tarieven-ambtshandelingen-gerechtsdeurwaarders` | Besluit tarieven ambtshandelingen gerechtsdeurwaarders | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingsbesluit-inrichtingen-en-vergunningenbesluit-milieubeheer-enz-storten-van-afvalst` | Wijzigingsbesluit Inrichtingen- en vergunningenbesluit milieubeheer, enz. (storten van afvalstoffen) | 1 | 2001-07-13 to 2001-07-13 |
+| `wijzigingsbesluit-besluit-drukapparatuur-houdende-regels-inzake-de-samenbouw-van-druksyste` | Wijzigingsbesluit Besluit drukapparatuur houdende regels inzake de samenbouw van druksystemen en de ingebruikneming van drukapparatuur, samenstellen en druksystemen en enige andere besluiten | 1 | 2005-08-01 to 2005-08-01 |
+| `besluit-tegemoetkoming-onderwijsbijdrage-en-schoolkosten` | Besluit tegemoetkoming onderwijsbijdrage en schoolkosten | 1 | 2026-06-12 to 2026-06-12 |
+| `reglement-justitiele-jeugdinrichtingen` | Reglement justitiële jeugdinrichtingen | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-wegslepen-van-voertuigen` | Besluit wegslepen van voertuigen | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingsbesluit-rechtspositiebesluiten-gemeente-en-provinciebestuurders` | Wijzigingsbesluit rechtspositiebesluiten gemeente- en provinciebestuurders | 1 | 2001-08-17 to 2001-08-17 |
+| `besluit-dna-onderzoek-in-strafzaken` | Besluit DNA-onderzoek in strafzaken | 1 | 2024-07-01 to 2024-07-01 |
+| `vaststellingsbesluit-eenmalige-uitkering-en-wijziging-van-enige-besluiten-arbeidsvoorwaard` | Vaststellingsbesluit eenmalige uitkering en wijziging van enige besluiten (arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 augustus 2000 tot en met 30 september 2001) | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-bepalingen-met-betrekking-tot-toezicht-ex-artikel-10-spoorwegwet-enz-instelling-in` | Besluit bepalingen met betrekking tot toezicht ex artikel 10 Spoorwegwet, enz. (instelling Inspectie Verkeer en Waterstaat) | 1 | 2002-07-01 to 2002-07-01 |
+| `wijzigingsbesluit-besluit-bewijzen-van-bevoegdheid-voor-de-luchtvaart` | Wijzigingsbesluit Besluit bewijzen van bevoegdheid voor de luchtvaart | 1 | 2001-11-01 to 2001-11-01 |
+| `warenwetbesluit-cacao-en-chocolade` | Warenwetbesluit Cacao en chocolade | 1 | 2014-12-13 to 2014-12-13 |
+| `besluit-beroepsvereisten-raad-van-state` | Besluit beroepsvereisten Raad van State | 1 | 2010-09-01 to 2010-09-01 |
+| `besluit-aanstellingskeuringen` | Besluit aanstellingskeuringen | 1 | 2012-10-01 to 2012-10-01 |
+| `besluit-klachtenbehandeling-aanstellingskeuringen` | Besluit klachtenbehandeling aanstellingskeuringen | 1 | 2017-07-01 to 2017-07-01 |
+| `besluit-vaststelling-zomertijd` | Besluit vaststelling zomertijd | 1 | 2001-12-19 to 2001-12-19 |
+| `besluit-verwisseling-en-intrekking-van-bankbiljetten` | Besluit verwisseling en intrekking van bankbiljetten | 1 | 2002-01-28 to 2002-01-28 |
+| `aanpassingsbesluit-besluit-subsidies-energieprogramma-s` | Aanpassingsbesluit besluit subsidies energieprogramma's | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-uitoefening-rechtspositionele-bevoegdheden-gerechtsambtenaren-en-ambtenaren-bureau` | Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak | 1 | 2020-01-01 to 2020-01-01 |
+| `besluit-rechtspositie-leden-gerechtsbesturen-en-raad-voor-de-rechtspraak` | Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak | 1 | 2020-10-01 to 2020-10-01 |
+| `besluit-orde-van-dienst-gerechten` | Besluit orde van dienst gerechten | 1 | 2023-10-01 to 2023-10-01 |
+| `besluit-beediging-en-vergoeding-buitengriffiers-en-waarnemend-griffiers` | Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers | 1 | 2020-02-15 to 2020-02-15 |
+| `aanpassingsbesluit-uitvoeringsbesluiten-belastingplan-2002` | Aanpassingsbesluit uitvoeringsbesluiten Belastingplan 2002 | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-bijzondere-vergaring-nummergegevens-telecommunicatie` | Besluit bijzondere vergaring nummergegevens telecommunicatie | 1 | 2017-07-01 to 2017-07-01 |
+| `wijzigingsbesluit-uitvoeringsbesluit-omzetbelasting-1968` | Wijzigingsbesluit Uitvoeringsbesluit omzetbelasting 1968 | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingsbesluit-besluit-trekkende-bevolking-wpo-enz-fusie-van-de-scholen-voor-ligplaatso` | Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (fusie van de scholen voor ligplaatsonderwijs) | 1 | 2004-07-23 to 2004-07-23 |
+| `besluit-suwi` | Besluit SUWI | 1 | 2026-05-02 to 2026-05-02 |
+| `besluit-bijzondere-euromunten` | Besluit bijzondere euromunten | 1 | 2008-10-15 to 2008-10-15 |
+| `vuurwerkbesluit` | Vuurwerkbesluit | 1 | 2026-08-01 to 2026-08-01 |
+| `besluit-toepassing-maatregelen-in-het-belang-van-het-onderzoek` | Besluit toepassing maatregelen in het belang van het onderzoek | 1 | 2024-07-01 to 2024-07-01 |
+| `besluit-rijksbijdragen-bijstands-en-bestrijdingskosten` | Besluit rijksbijdragen bijstands- en bestrijdingskosten | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-modellen-artikel-9-tweede-lid-wet-op-de-lijkbezorging` | Besluit modellen artikel 9, tweede lid, Wet op de lijkbezorging | 1 | 2016-07-01 to 2016-07-01 |
+| `vaststellingsbesluit-regels-met-betrekking-tot-commissies-bedoeld-in-wet-toetsing-levensbe` | Vaststellingsbesluit regels met betrekking tot commissies bedoeld in Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-energy-star-etiketteringsprogramma` | Besluit Energy Star-etiketteringsprogramma | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-vervoer-gevaarlijke-stoffen-door-de-lucht` | Besluit vervoer gevaarlijke stoffen door de lucht | 1 | 2023-06-13 to 2023-06-13 |
+| `wijzigingsbesluit-besluit-huurprijzen-woonruimte-enz-aanpassingen-als-gevolg-van-het-huurb` | Wijzigingsbesluit Besluit huurprijzen woonruimte, enz. (aanpassingen als gevolg van het huurbeleid vanaf 1 juli 2002) | 1 | 2002-07-01 to 2002-07-01 |
+| `besluit-beheer-autowrakken` | Besluit beheer autowrakken | 1 | 2026-09-12 to 2026-09-12 |
+| `wijzigingsbesluit-loodsplichtbesluit-1995-en-besluit-verklaringhouders-scheepvaartverkeers` | Wijzigingsbesluit Loodsplichtbesluit 1995 en Besluit verklaringhouders Scheepvaartverkeerswet (flexibilisering loodsplichtstelsel) | 1 | 2003-01-01 to 2003-01-01 |
+| `voorzieningenbesluit-ministers-en-staatssecretarissen` | Voorzieningenbesluit ministers en staatssecretarissen | 1 | 2026-06-19 to 2026-06-19 |
+| `uitvoering-euratom-richtlijn-basisnormen` | Uitvoering Euratom-richtlijn basisnormen | 1 | 2002-10-01 to 2002-10-01 |
+| `overdrachtsbesluit-sanctiewet-1977` | Overdrachtsbesluit Sanctiewet 1977 | 1 | 2015-01-01 to 2015-01-01 |
+| `vrijstellingsbesluit-defensie-kernenergiewet` | Vrijstellingsbesluit defensie Kernenergiewet | 1 | 2018-02-06 to 2018-02-06 |
+| `vaststellingsbesluit-eenmalige-uitkering-enz-arbeidsvoorwaardenovereenkomst-sector-defensi` | Vaststellingsbesluit eenmalige uitkering, enz. (Arbeidsvoorwaardenovereenkomst sector Defensie) | 1 | 2002-11-01 to 2002-11-01 |
+| `warenwetbesluit-verduurzaamde-vruchtenproducten` | Warenwetbesluit verduurzaamde vruchtenproducten | 1 | 2026-06-14 to 2026-06-14 |
+| `besluit-voortzetting-integratie-uitkering-precariobelasting-op-telecommunicatiekabels` | Besluit voortzetting integratie-uitkering precariobelasting op telecommunicatiekabels | 1 | 2002-10-25 to 2002-10-25 |
+| `besluit-detectie-radioactief-besmet-schroot` | Besluit detectie radioactief besmet schroot | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-opleidingseisen-en-deskundigheidsgebied-huidtherapeut` | Besluit opleidingseisen en deskundigheidsgebied huidtherapeut | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-melding-transacties-financiering-terrorisme` | Besluit melding transacties financiering terrorisme | 1 | 2017-07-01 to 2017-07-01 |
+| `besluit-alternatieve-verdeling-nummers` | Besluit alternatieve verdeling nummers | 1 | 2013-04-01 to 2013-04-01 |
+| `besluit-aanpassing-enkele-amvb-s-aan-de-vreemdelingenwet-2000-en-wijziging-bekostigingsbes` | Besluit aanpassing enkele amvb's aan de Vreemdelingenwet 2000 en wijziging Bekostigingsbesluit WPO (verlaging drempel groeiregeling) | 1 | 2003-04-02 to 2003-04-02 |
+| `luchthavenindelingbesluit-schiphol` | Luchthavenindelingbesluit Schiphol | 1 | 2025-07-01 to 2025-07-01 |
+| `luchthavenverkeerbesluit-schiphol` | Luchthavenverkeerbesluit Schiphol | 1 | 2025-11-01 to 2025-11-01 |
+| `vaststellingsbesluit-vergoeding-voor-reprografisch-verveelvoudigen-en-vrijstelling-van-de` | Vaststellingsbesluit vergoeding voor reprografisch verveelvoudigen en vrijstelling van de opgaveplicht | 1 | 2009-03-10 to 2009-03-10 |
+| `besluit-reprografisch-verveelvoudigen` | Besluit reprografisch verveelvoudigen | 1 | 2009-03-10 to 2009-03-10 |
+| `wijzigingsbesluit-bijdragebesluit-kosten-ruiming-explosieven-tweede-wereldoorlog-1999-over` | Wijzigingsbesluit Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999 (overdracht verantwoordelijkheid uitvoering van het besluit en aanpassing bijdragesystematiek) | 1 | 2003-01-01 to 2003-01-01 |
+| `mijnbouwbesluit` | Mijnbouwbesluit | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-beveiliging-burgerluchtvaart` | Besluit beveiliging burgerluchtvaart | 1 | 2022-01-01 to 2022-01-01 |
+| `opiumwetbesluit` | Opiumwetbesluit | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-boedelregister` | Besluit boedelregister | 1 | 2015-08-17 to 2015-08-17 |
+| `besluit-beschikbaarstelling-politieambtenaren-ten-behoeve-van-vredesmissies` | Besluit beschikbaarstelling politieambtenaren ten behoeve van vredesmissies | 1 | 2024-06-22 to 2024-06-22 |
+| `wijzigingsbesluit-besluit-tankstations-milieubeheer-enz-financiele-zekerheid-keuringsdocum` | Wijzigingsbesluit Besluit tankstations milieubeheer, enz. (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen) | 1 | 2004-07-01 to 2004-07-01 |
+| `besluit-fiscale-eenheid-2003` | Besluit fiscale eenheid 2003 | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingsbesluit-subsidies-c02-reductieplan` | Wijzigingsbesluit subsidies C02-reductieplan | 1 | 2003-02-07 to 2003-02-07 |
+| `besluit-begroting-en-verantwoording-provincies-en-gemeenten` | Besluit begroting en verantwoording provincies en gemeenten | 1 | 2025-04-17 to 2025-04-17 |
+| `uitvoeringsbesluit-btw-compensatiefonds` | Uitvoeringsbesluit BTW-compensatiefonds | 1 | 2010-05-13 to 2010-05-13 |
+| `wijzigingsbesluit-besluit-genetisch-gemodificeerde-organismen-wet-milieugevaarlijke-stoffe-3` | Wijzigingsbesluit Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen (locatiewijziging en verkorting vergunningprocedure introductie in het milieu) | 1 | 2003-04-03 to 2003-04-03 |
+| `warenwetbesluit-voedingssupplementen` | Warenwetbesluit voedingssupplementen | 1 | 2014-12-13 to 2014-12-13 |
+| `besluit-vergoedingen-raad-voor-strafrechtstoepassing-en-jeugdbescherming` | Besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming | 1 | 2021-01-01 to 2021-01-01 |
+| `wijzigingsbesluit-besluit-centrale-beoordeling-medisch-wetenschappelijk-onderzoek-met-mens` | Wijzigingsbesluit Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen | 1 | 2003-04-25 to 2003-04-25 |
+| `wijzigingsbesluit-besluit-tot-uitvoering-van-artikel-12-der-wet-buitengewoon-pensioen-1940` | Wijzigingsbesluit Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945 enz, in verband met inwerkingtreding Wet inkomstenbelasting 2001 | 1 | 2003-04-25 to 2003-04-25 |
+| `warenwetbesluit-suikers` | Warenwetbesluit suikers | 1 | 2014-12-13 to 2014-12-13 |
+| `besluit-kleine-herstellingen` | Besluit kleine herstellingen | 1 | 2003-08-01 to 2003-08-01 |
+| `besluit-servicekosten` | Besluit servicekosten | 1 | 2014-07-01 to 2014-07-01 |
+| `besluit-bibob` | Besluit Bibob | 1 | 2020-08-01 to 2020-08-01 |
+| `wijzigingsbesluit-organisatiebesluit-raad-voor-de-kinderbescherming` | Wijzigingsbesluit Organisatiebesluit raad voor de kinderbescherming | 1 | 2003-06-01 to 2003-06-01 |
+| `besluit-prijsaanduiding-producten` | Besluit prijsaanduiding producten | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-vervoer-gevaarlijke-stoffen-door-de-lucht-met-militaire-luchtvaartuigen` | Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen | 1 | 2021-08-19 to 2021-08-19 |
+| `wijzigingsbesluit-besluit-uitbreiding-en-beperking-kring-verzekerden-werknemersverzekering` | Wijzigingsbesluit Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 | 1 | 2003-08-01 to 2003-08-01 |
+| `wijzigingsbesluit-formatiebesluit-wpo-en-bekostigingsbesluit-wpo` | Wijzigingsbesluit Formatiebesluit WPO en Bekostigingsbesluit WPO | 1 | 2003-10-24 to 2003-10-24 |
 | `belastingwet-bes` | Belastingwet BES | 1 | 2026-04-11 to 2026-04-11 |
 | `tno-wet` | TNO-wet | 1 | 2022-05-01 to 2022-05-01 |
 | `wet-op-de-internationale-bijstandsverlening-bij-de-heffing-van-belastingen` | Wet op de internationale bijstandsverlening bij de heffing van belastingen | 1 | 2026-04-11 to 2026-04-11 |
@@ -3025,11 +3526,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `besluit-regiem-voor-militairen-die-voorlopig-arrest-resp-gevangenisstraf-hechtenis-of-mili` | Besluit regiem voor militairen, die voorlopig arrest, resp. gevangenisstraf, hechtenis of militaire detentie ondergaan | 1 | 2008-12-17 to 2008-12-17 |
 | `besluit-aanwijzing-medebetrokken-ministers-wet-agrarisch-grondverkeer` | Besluit aanwijzing medebetrokken ministers Wet agrarisch grondverkeer | 1 | 2012-12-07 to 2012-12-07 |
 
-The build made 9389 commits:
+The build made 9888 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2919 | first version of an act |
+| 3418 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -3037,7 +3538,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 81 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 14710 tags.
+- 15209 tags.
 
 ## Dates
 
@@ -3049,7 +3550,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2822be61f44f73ab7ca128836b0c90d2574910a7611017fc64e7000952f45d48` (192331355 bytes).
+- Corpus: sha256 `2160bfed654f86c174036fb44b694073dfa1642c4027b4019caeaff739aa7b88` (200807465 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -3295,6 +3796,9 @@ No second build of this corpus has been compared yet.
 - leerplichtwet-1969: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
 - algemene-pensioen-en-uitkeringswet-politieke-ambtsdragers: 9 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
 - wet-algemene-regels-herindeling: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- Current text only (breadth first, Alan 2026-11-02): 499 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 - Current text only (breadth first, Alan 2026-11-02): 496 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
@@ -3363,6 +3867,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

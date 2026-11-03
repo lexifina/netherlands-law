@@ -1,0 +1,8 @@
+# Wijzigingsbesluit Uitvoeringsbesluit omzetbelasting 1968 (invoering van een verleggingsregeling voor (beleggings)goud)
+
+Wijzigingsbesluit Uitvoeringsbesluit omzetbelasting 1968 (invoering van een verleggingsregeling voor (beleggings)goud) · 1 versions, from 2000-01-01 (latest in force: 2000-01-01) · <https://wetten.overheid.nl/BWBR0010903>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. I | [add-art-01.md](add-art-01.md) | 0 |  |
+| Art. II | [add-art-02.md](add-art-02.md) | 0 |  |
