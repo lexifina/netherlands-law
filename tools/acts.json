@@ -167715,5 +167715,4012 @@
   "part": "bwb-now-wetr-002",
   "current_label": "2004-09-29_0",
   "as_of": "2026-11-03"
+ },
+ "besluit-premieheffing-ziekenfondsverzekering-pro-rata-pensioenen": {
+  "bwb": "BWBR0004094",
+  "short": "Besluit premieheffing ziekenfondsverzekering pro rata-pensioenen",
+  "title": "Besluit premieheffing ziekenfondsverzekering pro rata-pensioenen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-11-24_0",
+  "as_of": "2026-11-03",
+  "no_zip": true
+ },
+ "besluit-voorschriften-inzake-aanspraken-bij-werkloosheid-voor-bepaalde-groepen-ambtenaren": {
+  "bwb": "BWBR0004095",
+  "short": "Besluit voorschriften inzake aanspraken bij werkloosheid voor bepaalde groepen ambtenaren in de zin van de Algemene Burgerlijke Pensioenwet",
+  "title": "Besluit voorschriften inzake aanspraken bij werkloosheid voor bepaalde groepen ambtenaren in de zin van de Algemene Burgerlijke Pensioenwet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-01-01_0",
+  "as_of": "2026-11-03",
+  "no_zip": true
+ },
+ "besluit-geluidhinder-spoorwegen": {
+  "bwb": "BWBR0004137",
+  "short": "Bgs",
+  "title": "Besluit geluidhinder spoorwegen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-03-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-emissie-eisen-stookinstallaties-milieubeheer-a": {
+  "bwb": "BWBR0004147",
+  "short": "Bees",
+  "title": "Besluit emissie-eisen stookinstallaties milieubeheer A",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "inkomensbesluit-ioaz": {
+  "bwb": "BWBR0004167",
+  "short": "Ib IOAZ",
+  "title": "Inkomensbesluit IOAZ",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-emissie-eisen-nox-salpeterzuurfabrieken": {
+  "bwb": "BWBR0004174",
+  "short": "Besluit emissie-eisen NOx salpeterzuurfabrieken",
+  "title": "Besluit emissie-eisen NOx salpeterzuurfabrieken",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-02-25_0",
+  "as_of": "2026-11-03"
+ },
+ "invoerbesluit-landbouwprodukten-derde-landen-1987": {
+  "bwb": "BWBR0004182",
+  "short": "Invoerbesluit landbouwprodukten derde landen 1987",
+  "title": "Invoerbesluit landbouwprodukten derde landen 1987",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1987-09-30_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiereglement-wetenschappelijk-onderwijs": {
+  "bwb": "BWBR0004192",
+  "short": "RRWO",
+  "title": "Rechtspositiereglement Wetenschappelijk Onderwijs",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "binnenschepenbesluit": {
+  "bwb": "BWBR0004196",
+  "short": "Bsb",
+  "title": "Binnenschepenbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-11-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-gemiddeld-premiepercentage-werkloosheidswet-en-ziektewet": {
+  "bwb": "BWBR0004198",
+  "short": "Besluit vaststelling gemiddeld premiepercentage Werkloosheidswet en Ziektewet",
+  "title": "Besluit vaststelling gemiddeld premiepercentage Werkloosheidswet en Ziektewet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-01-01_0",
+  "as_of": "2026-11-03",
+  "no_zip": true
+ },
+ "besluit-bijzondere-verkrijging-diploma-a-als-scheepswerktuigkundige": {
+  "bwb": "BWBR0004216",
+  "short": "Besluit bijzondere verkrijging diploma A als scheepswerktuigkundige",
+  "title": "Besluit bijzondere verkrijging diploma A als scheepswerktuigkundige",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-03",
+  "no_zip": true
+ },
+ "besluit-verpakking-en-aanduiding-milieugevaarlijke-stoffen-en-preparaten": {
+  "bwb": "BWBR0004220",
+  "short": "Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten",
+  "title": "Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-07-11_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-afbouw-querido-regeling-wetenschappelijk-personeel-niet-zijnde-medisch-specialist": {
+  "bwb": "BWBR0004227",
+  "short": "Besluit afbouw Querido-regeling wetenschappelijk personeel niet zijnde medisch specialist",
+  "title": "Besluit afbouw Querido-regeling wetenschappelijk personeel niet zijnde medisch specialist",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1988-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-premieheffing-ziekenfondsverzekering-bij-samenloop-van-verzekeringsgronden": {
+  "bwb": "BWBR0004232",
+  "short": "Besluit premieheffing ziekenfondsverzekering bij samenloop van verzekeringsgronden",
+  "title": "Besluit premieheffing ziekenfondsverzekering bij samenloop van verzekeringsgronden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-07-06_0",
+  "as_of": "2026-11-03",
+  "no_zip": true
+ },
+ "mediabesluit": {
+  "bwb": "BWBR0004237",
+  "short": "Mediab",
+  "title": "Mediabesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-07-01_0",
+  "as_of": "2026-11-03",
+  "no_zip": true
+ },
+ "besluit-verlaagde-wekeneis-werkloosheidswet-en-wet-werk-en-inkomen-naar-arbeidsvermogen": {
+  "bwb": "BWBR0004246",
+  "short": "Besluit verlaagde wekeneis Werkloosheidswet en Wet werk en inkomen naar arbeidsvermogen",
+  "title": "Besluit verlaagde wekeneis Werkloosheidswet en Wet werk en inkomen naar arbeidsvermogen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-12-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bekostiging-wec": {
+  "bwb": "BWBR0004259",
+  "short": "Besluit bekostiging WEC",
+  "title": "Besluit bekostiging WEC",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2021-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-spoorwegbruggen": {
+  "bwb": "BWBR0004294",
+  "short": "Besluit spoorwegbruggen",
+  "title": "Besluit spoorwegbruggen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-opheffing-bedrijfschap-voor-het-maatkledingbedrijf": {
+  "bwb": "BWBR0004301",
+  "short": "Besluit Opheffing Bedrijfschap voor het Maatkledingbedrijf",
+  "title": "Besluit Opheffing Bedrijfschap voor het Maatkledingbedrijf",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1988-04-21_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-voorzitters-huurcommissies": {
+  "bwb": "BWBR0004304",
+  "short": "Rechtspositiebesluit voorzitters huurcommissies",
+  "title": "Rechtspositiebesluit voorzitters huurcommissies",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-voorkoming-verontreiniging-door-met-schepen-in-bulk-vervoerde-schadelijke-vloeisto": {
+  "bwb": "BWBR0004306",
+  "short": "Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen",
+  "title": "Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-05-18_0",
+  "as_of": "2026-11-03"
+ },
+ "vacatiegeldenbesluit-1988": {
+  "bwb": "BWBR0004317",
+  "short": "Vgbesl 1988",
+  "title": "Vacatiegeldenbesluit 1988",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1997-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-lpg-tankstations-milieubeheer": {
+  "bwb": "BWBR0004327",
+  "short": "Blpg",
+  "title": "Besluit LPG-tankstations milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verhandeling-teeltmateriaal-tuinbouwgewassen": {
+  "bwb": "BWBR0004347",
+  "short": "Besluit verhandeling teeltmateriaal tuinbouwgewassen",
+  "title": "Besluit verhandeling teeltmateriaal tuinbouwgewassen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-02-16_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-houdende-regelen-betreffende-de-monsterneming-bij-vee": {
+  "bwb": "BWBR0004357",
+  "short": "Besluit houdende regelen betreffende de monsterneming bij vee",
+  "title": "Besluit houdende regelen betreffende de monsterneming bij vee",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03",
+  "no_zip": true
+ },
+ "besluit-legbatterijen": {
+  "bwb": "BWBR0004373",
+  "short": "Besluit legbatterijen",
+  "title": "Besluit legbatterijen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-adspirant-registerloodsen": {
+  "bwb": "BWBR0004391",
+  "short": "Besluit adspirant-registerloodsen",
+  "title": "Besluit adspirant-registerloodsen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-08-20_0",
+  "as_of": "2026-11-03"
+ },
+ "loodsenregisterbesluit": {
+  "bwb": "BWBR0004393",
+  "short": "Loodsenregisterbesluit",
+  "title": "Loodsenregisterbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-08-20_0",
+  "as_of": "2026-11-03"
+ },
+ "voorschriftenbesluit-registerloodsen": {
+  "bwb": "BWBR0004394",
+  "short": "Voorschriftenbesluit registerloodsen",
+  "title": "Voorschriftenbesluit registerloodsen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-05-27_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bijdragen-regionale-brandweren-1988": {
+  "bwb": "BWBR0004402",
+  "short": "Besluit bijdragen regionale brandweren 1988",
+  "title": "Besluit bijdragen regionale brandweren 1988",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1988-10-22_0",
+  "as_of": "2026-11-03"
+ },
+ "dbb-besluit-milieubeheer": {
+  "bwb": "BWBR0004403",
+  "short": "DBB-besluit milieubeheer",
+  "title": "DBB-besluit milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-ministers-wet-energiebesparing-toestellen": {
+  "bwb": "BWBR0004404",
+  "short": "Besluit aanwijzing ministers Wet energiebesparing toestellen",
+  "title": "Besluit aanwijzing ministers Wet energiebesparing toestellen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1988-11-05_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-jaarlijkse-registratievergoeding": {
+  "bwb": "BWBR0004405",
+  "short": "Besluit jaarlijkse registratievergoeding",
+  "title": "Besluit jaarlijkse registratievergoeding",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-indicatie-advisering-bejaardenoorden-en-verpleeginrichtingen": {
+  "bwb": "BWBR0004408",
+  "short": "Besluit indicatie-advisering bejaardenoorden en verpleeginrichtingen",
+  "title": "Besluit indicatie-advisering bejaardenoorden en verpleeginrichtingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-17_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositieregeling-voor-deelnemers-aan-initiele-opleidingen": {
+  "bwb": "BWBR0004410",
+  "short": "Rechtspositieregeling voor deelnemers aan initiële opleidingen",
+  "title": "Rechtspositieregeling voor deelnemers aan initiële opleidingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-08-28_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-bijdrageregeling-provinciale-bevordering-van-beeldende-kunst": {
+  "bwb": "BWBR0004415",
+  "short": "Tijdelijke bijdrageregeling provinciale bevordering van beeldende kunst",
+  "title": "Tijdelijke bijdrageregeling provinciale bevordering van beeldende kunst",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1988-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-inrichting-en-gebruik-niet-aangewezen-luchtvaartterreinen": {
+  "bwb": "BWBR0004417",
+  "short": "Bignal",
+  "title": "Besluit inrichting en gebruik niet aangewezen luchtvaartterreinen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-09-03_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-centraal-fonds-voor-de-volkshuisvesting": {
+  "bwb": "BWBR0004418",
+  "short": "Besluit Centraal Fonds voor de Volkshuisvesting",
+  "title": "Besluit Centraal Fonds voor de Volkshuisvesting",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rijksexamen-brandweeropleidingen": {
+  "bwb": "BWBR0004435",
+  "short": "Besluit rijksexamen brandweeropleidingen",
+  "title": "Besluit rijksexamen brandweeropleidingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-03-03_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-draadomroep-en-kabelinrichtingen": {
+  "bwb": "BWBR0004451",
+  "short": "Besluit draadomroep- en kabelinrichtingen",
+  "title": "Besluit draadomroep- en kabelinrichtingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-nominale-premieheffing-ziekenfondswet": {
+  "bwb": "BWBR0004466",
+  "short": "Besluit nominale premieheffing Ziekenfondswet",
+  "title": "Besluit nominale premieheffing Ziekenfondswet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-voorkoming-verontreiniging-door-vuilnis-van-schepen": {
+  "bwb": "BWBR0004469",
+  "short": "Besluit voorkoming verontreiniging door vuilnis van schepen",
+  "title": "Besluit voorkoming verontreiniging door vuilnis van schepen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-10-15_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-melding-voorvallen-van-verontreiniging-door-schepen": {
+  "bwb": "BWBR0004472",
+  "short": "Besluit melding voorvallen van verontreiniging door schepen",
+  "title": "Besluit melding voorvallen van verontreiniging door schepen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-11-04_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-toepassingverklaring-artikel-9-en-11-veewet": {
+  "bwb": "BWBR0004478",
+  "short": "Besluit toepassingverklaring artikel 9 en 11 Veewet",
+  "title": "Besluit toepassingverklaring artikel 9 en 11 Veewet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1989-07-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitgifte-staatsblad-en-staatscourant": {
+  "bwb": "BWBR0004484",
+  "short": "BuSS",
+  "title": "Besluit uitgifte Staatsblad en Staatscourant",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1989-01-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-ambtenaren-belast-met-grensbewaking-werkzaamheden-ten-behoeve-van-binne": {
+  "bwb": "BWBR0004498",
+  "short": "Besluit aanwijzing ambtenaren belast met grensbewaking werkzaamheden ten behoeve van Binnenlandse Veiligheidsdienst",
+  "title": "Besluit aanwijzing ambtenaren belast met grensbewaking werkzaamheden ten behoeve van Binnenlandse Veiligheidsdienst",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1989-03-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-sterilisatiebedrijven-medische-hulpmiddelen": {
+  "bwb": "BWBR0004504",
+  "short": "Besluit sterilisatiebedrijven medische hulpmiddelen",
+  "title": "Besluit sterilisatiebedrijven medische hulpmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2011-05-04_0",
+  "as_of": "2026-11-03"
+ },
+ "standaardenbesluit-1989": {
+  "bwb": "BWBR0004527",
+  "short": "Standaardenbesluit 1989",
+  "title": "Standaardenbesluit 1989",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1989-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-imitatieprodukten": {
+  "bwb": "BWBR0004567",
+  "short": "Warenwetbesluit Imitatieprodukten",
+  "title": "Warenwetbesluit Imitatieprodukten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-wachtgeld-en-uitkering-bij-privatisering": {
+  "bwb": "BWBR0004583",
+  "short": "Regeling wachtgeld en uitkering bij privatisering",
+  "title": "Regeling wachtgeld en uitkering bij privatisering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-01-13_0",
+  "as_of": "2026-11-03"
+ },
+ "eindexamenbesluit-vo": {
+  "bwb": "BWBR0004593",
+  "short": "Eindexamenbesluit VO",
+  "title": "Eindexamenbesluit VO",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2022-04-06_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bescherming-waterleidingbedrijven-1989": {
+  "bwb": "BWBR0004603",
+  "short": "Besluit bescherming waterleidingbedrijven 1989",
+  "title": "Besluit bescherming waterleidingbedrijven 1989",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-van-de-wettelijke-tijd-in-1990-1991-1992": {
+  "bwb": "BWBR0004615",
+  "short": "Besluit wijziging van de wettelijke tijd in 1990, 1991, 1992",
+  "title": "Besluit wijziging van de wettelijke tijd in 1990, 1991, 1992",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1989-09-22_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositieregeling-assistenten-in-opleiding-en-akademie-onderzoekers-bij-de-rijksonderz": {
+  "bwb": "BWBR0004616",
+  "short": "Rechtspositieregeling assistenten in opleiding en akademie-onderzoekers bij de rijksonderzoekinstituten",
+  "title": "Rechtspositieregeling assistenten in opleiding en akademie-onderzoekers bij de rijksonderzoekinstituten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verplaatsingskostenbesluit-1989": {
+  "bwb": "BWBR0004630",
+  "short": "Verplaatsingskostenbesluit 1989",
+  "title": "Verplaatsingskostenbesluit 1989",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "residubesluit-diergeneesmiddelen": {
+  "bwb": "BWBR0004631",
+  "short": "Residubesluit diergeneesmiddelen",
+  "title": "Residubesluit diergeneesmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-11-29_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-ex-artikel-9-veewet": {
+  "bwb": "BWBR0004634",
+  "short": "Uitvoeringsbesluit ex artikel 9 Veewet",
+  "title": "Uitvoeringsbesluit ex artikel 9 Veewet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1989-12-09_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kinderveilige-verpakking-geneesmiddelen": {
+  "bwb": "BWBR0004636",
+  "short": "Besluit kinderveilige verpakking geneesmiddelen",
+  "title": "Besluit kinderveilige verpakking geneesmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-06-19_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-voorschriften-voor-magistrale-bereiding-ambulante-handel-en-aflevering-van-diergen": {
+  "bwb": "BWBR0004640",
+  "short": "Besluit voorschriften voor magistrale bereiding, ambulante handel en aflevering van diergeneesmiddelen",
+  "title": "Besluit voorschriften voor magistrale bereiding, ambulante handel en aflevering van diergeneesmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-12-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rechtspositie-en-bezoldiging-voorzitter-en-leden-van-commissariaat-voor-de-media": {
+  "bwb": "BWBR0004641",
+  "short": "Besluit rechtspositie en bezoldiging voorzitter en leden van Commissariaat voor de Media",
+  "title": "Besluit rechtspositie en bezoldiging voorzitter en leden van Commissariaat voor de Media",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-zoetstoffen": {
+  "bwb": "BWBR0004652",
+  "short": "Warenwetbesluit Zoetstoffen",
+  "title": "Warenwetbesluit Zoetstoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-01-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-radar-en-bochtaanwijzerapparatuur-rijnvaart-1989": {
+  "bwb": "BWBR0004653",
+  "short": "Besluit radar- en bochtaanwijzerapparatuur Rijnvaart 1989",
+  "title": "Besluit radar- en bochtaanwijzerapparatuur Rijnvaart 1989",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-09-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rijkssubsidiering-onderhoud-monumenten": {
+  "bwb": "BWBR0004654",
+  "short": "BROM",
+  "title": "Besluit rijkssubsidiëring onderhoud monumenten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-06-18_0",
+  "as_of": "2026-11-03"
+ },
+ "ugilec-121-ugilec-141-en-dbbt-besluit-milieubeheer": {
+  "bwb": "BWBR0004664",
+  "short": "Ugilec 121-, Ugilec 141- en DBBT-besluit milieubeheer",
+  "title": "Ugilec 121-, Ugilec 141- en DBBT-besluit milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanpassing-inkomensbesluit-ioaz-overheveling-opslagpremies": {
+  "bwb": "BWBR0004667",
+  "short": "Besluit aanpassing inkomensbesluit IOAZ overheveling opslagpremies",
+  "title": "Besluit aanpassing inkomensbesluit IOAZ overheveling opslagpremies",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanpassing-inkomensbesluit-ioaw-overheveling-opslagpremies": {
+  "bwb": "BWBR0004668",
+  "short": "Besluit aanpassing inkomensbesluit IOAW overheveling opslagpremies",
+  "title": "Besluit aanpassing inkomensbesluit IOAW overheveling opslagpremies",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beperking-verkoop-en-gebruik-tabaksprodukten": {
+  "bwb": "BWBR0004685",
+  "short": "Besluit beperking verkoop en gebruik tabaksprodukten",
+  "title": "Besluit beperking verkoop en gebruik tabaksprodukten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "instellingsbesluit-rawoo": {
+  "bwb": "BWBR0004688",
+  "short": "Instellingsbesluit RAWOO",
+  "title": "Instellingsbesluit RAWOO",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1997-01-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bedrijfsbrandweren": {
+  "bwb": "BWBR0004694",
+  "short": "Besluit bedrijfsbrandweren",
+  "title": "Besluit bedrijfsbrandweren",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-genetisch-gemodificeerde-organismen-milieubeheer": {
+  "bwb": "BWBR0004703",
+  "short": "BGGO",
+  "title": "Besluit genetisch gemodificeerde organismen milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-melding-nieuwe-kennis-milieugevaarlijke-stoffen": {
+  "bwb": "BWBR0004709",
+  "short": "Besluit melding nieuwe kennis milieugevaarlijke stoffen",
+  "title": "Besluit melding nieuwe kennis milieugevaarlijke stoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1997-11-19_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-college-van-advies-voor-de-justitiele-kinderbescherming": {
+  "bwb": "BWBR0004723",
+  "short": "Besluit College van advies voor de justitiële kinderbescherming",
+  "title": "Besluit College van advies voor de justitiële kinderbescherming",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1997-01-29_0",
+  "as_of": "2026-11-03"
+ },
+ "kwekersrechtbesluit-1990": {
+  "bwb": "BWBR0004750",
+  "short": "Kwekersrechtbesluit 1990",
+  "title": "Kwekersrechtbesluit 1990",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-09-18_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsregeling-waterhuishouding": {
+  "bwb": "BWBR0004778",
+  "short": "Uitvoeringsregeling waterhuishouding",
+  "title": "Uitvoeringsregeling waterhuishouding",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-financiering-uitvoeringsorganisatie-bijzondere-ziektekostenverzekering": {
+  "bwb": "BWBR0004783",
+  "short": "Besluit financiering uitvoeringsorganisatie Bijzondere Ziektekostenverzekering",
+  "title": "Besluit financiering uitvoeringsorganisatie Bijzondere Ziektekostenverzekering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-07-06_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kwaliteitsregels-en-taken-voogdij-en-gezinsvoogdij-instellingen": {
+  "bwb": "BWBR0004793",
+  "short": "BKVGI",
+  "title": "Besluit kwaliteitsregels en taken voogdij- en gezinsvoogdij-instellingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-08-23_0",
+  "as_of": "2026-11-03"
+ },
+ "legesbesluit-visa": {
+  "bwb": "BWBR0004799",
+  "short": "Legesbesluit visa",
+  "title": "Legesbesluit visa",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tarieven-ontheffingen-ijkwet": {
+  "bwb": "BWBR0004812",
+  "short": "Besluit tarieven ontheffingen IJkwet",
+  "title": "Besluit tarieven ontheffingen IJkwet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "organisatiebesluit-volkshuisvesting": {
+  "bwb": "BWBR0004814",
+  "short": "Organisatiebesluit volkshuisvesting",
+  "title": "Organisatiebesluit volkshuisvesting",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-02-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-emissie-eisen-stookinstallaties-milieubeheer-b": {
+  "bwb": "BWBR0004833",
+  "short": "Besluit emissie-eisen stookinstallaties milieubeheer B",
+  "title": "Besluit emissie-eisen stookinstallaties milieubeheer B",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-04-30_0",
+  "as_of": "2026-11-03"
+ },
+ "overdrachtsbesluit-wet-toezicht-beleggingsinstellingen": {
+  "bwb": "BWBR0004838",
+  "short": "Overdrachtsbesluit Wet toezicht beleggingsinstellingen",
+  "title": "Overdrachtsbesluit Wet toezicht beleggingsinstellingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-integratie-welzijnsmiddelen-provinciefonds": {
+  "bwb": "BWBR0004851",
+  "short": "Besluit integratie welzijnsmiddelen provinciefonds",
+  "title": "Besluit integratie welzijnsmiddelen provinciefonds",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kwaliteitsregels-jeugdhulpverlening": {
+  "bwb": "BWBR0004855",
+  "short": "BKJHV",
+  "title": "Besluit kwaliteitsregels jeugdhulpverlening",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-decentralisatie-onderdelen-personeels-en-arbeidsvoorwaardenbeleid-wetenschappelijk": {
+  "bwb": "BWBR0004860",
+  "short": "Besluit decentralisatie onderdelen personeels- en arbeidsvoorwaardenbeleid wetenschappelijk onderwijs",
+  "title": "Besluit decentralisatie onderdelen personeels- en arbeidsvoorwaardenbeleid wetenschappelijk onderwijs",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-certificaatloodsen": {
+  "bwb": "BWBR0004865",
+  "short": "Besluit certificaatloodsen",
+  "title": "Besluit certificaatloodsen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-08-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-toezicht-beleggingsinstellingen": {
+  "bwb": "BWBR0004866",
+  "short": "Besluit toezicht beleggingsinstellingen",
+  "title": "Besluit toezicht beleggingsinstellingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-afrekening-autokostenvergoedingen-voor-niet-woon-werkverkeer": {
+  "bwb": "BWBR0004880",
+  "short": "Besluit afrekening autokostenvergoedingen voor niet woon-werkverkeer",
+  "title": "Besluit afrekening autokostenvergoedingen voor niet woon-werkverkeer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tijdelijke-regeling-subsidiering-jeugdhulpverlening": {
+  "bwb": "BWBR0004892",
+  "short": "Btrsjh",
+  "title": "Besluit tijdelijke regeling subsidiëring jeugdhulpverlening",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-fonds-luchtverontreiniging-1990": {
+  "bwb": "BWBR0004894",
+  "short": "Besluit Fonds Luchtverontreiniging 1990",
+  "title": "Besluit Fonds Luchtverontreiniging 1990",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-nadere-regeling-rechtspositie-nationale-ombudsman": {
+  "bwb": "BWBR0004905",
+  "short": "Besluit nadere regeling rechtspositie Nationale ombudsman",
+  "title": "Besluit nadere regeling rechtspositie Nationale ombudsman",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-02-08_0",
+  "as_of": "2026-11-03"
+ },
+ "examenbesluit-wet-op-de-architectentitel": {
+  "bwb": "BWBR0004907",
+  "short": "Examenbesluit Wet op de architectentitel",
+  "title": "Examenbesluit Wet op de architectentitel",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-typegoedkeuring-navigatielantaarns-rijnvaart-1990": {
+  "bwb": "BWBR0004926",
+  "short": "Besluit typegoedkeuring navigatielantaarns Rijnvaart 1990",
+  "title": "Besluit typegoedkeuring navigatielantaarns Rijnvaart 1990",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ex-artikel-16d-auteurswet-1912": {
+  "bwb": "BWBR0004950",
+  "short": "Besluit ex artikel 16d Auteurswet 1912",
+  "title": "Besluit ex artikel 16d Auteurswet 1912",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-12-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-geluidsbelasting-kleine-luchtvaart": {
+  "bwb": "BWBR0004958",
+  "short": "Bgkl",
+  "title": "Besluit geluidsbelasting kleine luchtvaart",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-mestbassins-milieubeheer": {
+  "bwb": "BWBR0004990",
+  "short": "Bmest",
+  "title": "Besluit mestbassins milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-politieregisters": {
+  "bwb": "BWBR0004996",
+  "short": "BPolr",
+  "title": "Besluit politieregisters",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-10-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ex-artikel-518-van-boek-8-van-het-burgerlijk-wetboek": {
+  "bwb": "BWBR0005012",
+  "short": "Besluit ex artikel 518 van Boek 8 van het Burgerlijk Wetboek",
+  "title": "Besluit ex artikel 518 van Boek 8 van het Burgerlijk Wetboek",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-van-de-hoofdstukken-i-en-ii-alsmede-de-vaststelling-van-hoofdstuk-iv-van": {
+  "bwb": "BWBR0005019",
+  "short": "Besluit wijziging van de hoofdstukken I en II alsmede de vaststelling van hoofdstuk IV van het Rechtspositiereglement Wetenschappelijk Onderwijs",
+  "title": "Besluit wijziging van de hoofdstukken I en II alsmede de vaststelling van hoofdstuk IV van het Rechtspositiereglement Wetenschappelijk Onderwijs",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-04-11_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vakbekwaamheidseisen-gevolmachtigde-agent": {
+  "bwb": "BWBR0005023",
+  "short": "Besluit vakbekwaamheidseisen gevolmachtigde agent",
+  "title": "Besluit vakbekwaamheidseisen gevolmachtigde agent",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vakbekwaamheidseisen-assurantiebemiddelingsbedrijf": {
+  "bwb": "BWBR0005024",
+  "short": "Besluit vakbekwaamheidseisen assurantiebemiddelingsbedrijf",
+  "title": "Besluit vakbekwaamheidseisen assurantiebemiddelingsbedrijf",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-03-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beperking-reikwijdte-wet-assurantiebemiddelingsbedrijf": {
+  "bwb": "BWBR0005027",
+  "short": "Besluit beperking reikwijdte Wet assurantiebemiddelingsbedrijf",
+  "title": "Besluit beperking reikwijdte Wet assurantiebemiddelingsbedrijf",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-03-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-laad-en-lostijden-en-overliggeld-in-de-binnenvaart-1991": {
+  "bwb": "BWBR0005035",
+  "short": "Blltb 1991",
+  "title": "Besluit laad- en lostijden en overliggeld in de binnenvaart 1991",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-bekostigingsbesluit-isovso-oisovso-en-huisvestingsbesluit-isovso-in-verb": {
+  "bwb": "BWBR0005036",
+  "short": "Besluit wijziging Bekostigingsbesluit ISOVSO/OISOVSO en Huisvestingsbesluit ISOVSO in verband met afstoten dislocaties",
+  "title": "Besluit wijziging Bekostigingsbesluit ISOVSO/OISOVSO en Huisvestingsbesluit ISOVSO in verband met afstoten dislocaties",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beperking-pensioenbijdrage": {
+  "bwb": "BWBR0005049",
+  "short": "Besluit beperking pensioenbijdrage",
+  "title": "Besluit beperking pensioenbijdrage",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1989-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "p-c-b-p-c-t-en-chlooretheen-besluit-milieubeheer": {
+  "bwb": "BWBR0005059",
+  "short": "P.C.B.-, P.C.T.- en chlooretheen-besluit milieubeheer",
+  "title": "P.C.B.-, P.C.T.- en chlooretheen-besluit milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-05-29_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-cosmeticabesluit-warenwet-1979": {
+  "bwb": "BWBR0005063",
+  "short": "Wijzigingsbesluit Cosmeticabesluit (Warenwet) 1979",
+  "title": "Wijzigingsbesluit Cosmeticabesluit (Warenwet) 1979",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-06-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-brandweerpersoneel": {
+  "bwb": "BWBR0005073",
+  "short": "Besluit brandweerpersoneel",
+  "title": "Besluit brandweerpersoneel",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-03-03_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-nominale-hoeveelheden-voorverpakte-breigarens": {
+  "bwb": "BWBR0005089",
+  "short": "Warenwetbesluit nominale hoeveelheden voorverpakte breigarens",
+  "title": "Warenwetbesluit nominale hoeveelheden voorverpakte breigarens",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-09-21_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-uitvoeringsbesluit-les-en-cursusgeldwet-verhoging-van-een-aantal-cursusg": {
+  "bwb": "BWBR0005092",
+  "short": "Wijzigingsbesluit Uitvoeringsbesluit Les- en cursusgeldwet (verhoging van een aantal cursusgeldtarieven)",
+  "title": "Wijzigingsbesluit Uitvoeringsbesluit Les- en cursusgeldwet (verhoging van een aantal cursusgeldtarieven)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-rijkswachtgeldbesluit-1959": {
+  "bwb": "BWBR0005093",
+  "short": "Wijzigingsbesluit Rijkswachtgeldbesluit 1959",
+  "title": "Wijzigingsbesluit Rijkswachtgeldbesluit 1959",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-speelgoed": {
+  "bwb": "BWBR0005094",
+  "short": "Warenwetbesluit Speelgoed",
+  "title": "Warenwetbesluit Speelgoed",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-avondscholen-v-w-o-h-a-v-o-m-a-v-o-m-e-a-o": {
+  "bwb": "BWBR0005119",
+  "short": "Wijzigingsbesluit Besluit avondscholen v.w.o-h.a.v.o.-m.a.v.o.-m.e.a.o.",
+  "title": "Wijzigingsbesluit Besluit avondscholen v.w.o-h.a.v.o.-m.a.v.o.-m.e.a.o.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-betreffende-vakantie": {
+  "bwb": "BWBR0005128",
+  "short": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. betreffende vakantie",
+  "title": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. betreffende vakantie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-07-11_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-dagscholen-v-w-o-h-a-v-o-m-a-v-o": {
+  "bwb": "BWBR0005136",
+  "short": "Wijzigingsbesluit Besluit dagscholen v.w.o.-h.a.v.o.-m.a.v.o.",
+  "title": "Wijzigingsbesluit Besluit dagscholen v.w.o.-h.a.v.o.-m.a.v.o.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verplaatsingskostenbesluit-militairen": {
+  "bwb": "BWBR0005137",
+  "short": "Verplaatsingskostenbesluit militairen",
+  "title": "Verplaatsingskostenbesluit militairen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-03-03_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-l-b-o-l-a-v-o-besluit-invoering-avmb": {
+  "bwb": "BWBR0005140",
+  "short": "Wijzigingsbesluit Besluit l.b.o./l.a.v.o. (Besluit invoering AVMB)",
+  "title": "Wijzigingsbesluit Besluit l.b.o./l.a.v.o. (Besluit invoering AVMB)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-aanpassing-nadere-regeling-diensttijduitloop-ambtenaren-voor-1-januari-1": {
+  "bwb": "BWBR0005156",
+  "short": "Wijzigingsbesluit aanpassing nadere regeling diensttijduitloop ambtenaren voor 1 januari 1984 in dienst van de Binnenlandse Veiligheidsdienst",
+  "title": "Wijzigingsbesluit aanpassing nadere regeling diensttijduitloop ambtenaren voor 1 januari 1984 in dienst van de Binnenlandse Veiligheidsdienst",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1989-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-melkrundveehouderijen-milieubeheer": {
+  "bwb": "BWBR0005158",
+  "short": "Bmv",
+  "title": "Besluit melkrundveehouderijen milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-aanbesteding-van-werken-1973": {
+  "bwb": "BWBR0005198",
+  "short": "Wijzigingsbesluit Besluit aanbesteding van werken 1973",
+  "title": "Wijzigingsbesluit Besluit aanbesteding van werken 1973",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-07-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-op-de-stads-en-dorpsvernieuwing": {
+  "bwb": "BWBR0005201",
+  "short": "Wijzigingsbesluit Besluit op de stads- en dorpsvernieuwing",
+  "title": "Wijzigingsbesluit Besluit op de stads- en dorpsvernieuwing",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-11-27_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-bloembollenkeuringsdienst": {
+  "bwb": "BWBR0005204",
+  "short": "Besluit aanwijzing Bloembollenkeuringsdienst",
+  "title": "Besluit aanwijzing Bloembollenkeuringsdienst",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-09-28_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bestrijding-schadelijke-organismen": {
+  "bwb": "BWBR0005206",
+  "short": "Besluit bestrijding schadelijke organismen",
+  "title": "Besluit bestrijding schadelijke organismen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-asbestvrije-frictiematerialen-wet-milieugevaarlijke-stoffen": {
+  "bwb": "BWBR0005207",
+  "short": "Besluit asbestvrije frictiematerialen Wet milieugevaarlijke stoffen",
+  "title": "Besluit asbestvrije frictiematerialen Wet milieugevaarlijke stoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tot-uitvoering-van-artikel-1-vierde-lid-wud": {
+  "bwb": "BWBR0005208",
+  "short": "Besluit tot uitvoering van artikel 1, vierde lid, WUD",
+  "title": "Besluit tot uitvoering van artikel 1, vierde lid, WUD",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-bijzondere-medische-verrichtingen": {
+  "bwb": "BWBR0005209",
+  "short": "Besluit aanwijzing bijzondere medische verrichtingen",
+  "title": "Besluit aanwijzing bijzondere medische verrichtingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-paraveterinairen": {
+  "bwb": "BWBR0005210",
+  "short": "Besluit paraveterinairen",
+  "title": "Besluit paraveterinairen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-08-09_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bezoldigingsbesluit-burgerlijke-rijksambtenaren-1984-4": {
+  "bwb": "BWBR0005211",
+  "short": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (4)",
+  "title": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (4)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-regeling-betaling-interimregeling-ziektekosten-ambtenaren-1982-bij-on": {
+  "bwb": "BWBR0005224",
+  "short": "Besluit vaststelling regeling betaling Interimregeling ziektekosten ambtenaren 1982 bij onderwijsinstellingen",
+  "title": "Besluit vaststelling regeling betaling Interimregeling ziektekosten ambtenaren 1982 bij onderwijsinstellingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-06-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-provisie-kredietbemiddeling": {
+  "bwb": "BWBR0005227",
+  "short": "Besluit provisie kredietbemiddeling",
+  "title": "Besluit provisie kredietbemiddeling",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bezoldigingsbesluit-burgerlijke-rijksambtenaren-1984-1": {
+  "bwb": "BWBR0005232",
+  "short": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (1)",
+  "title": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (1)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bestrijding-aardappelmoeheid-1991": {
+  "bwb": "BWBR0005234",
+  "short": "Besluit bestrijding aardappelmoeheid 1991",
+  "title": "Besluit bestrijding aardappelmoeheid 1991",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-03-02_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-rechtspositionele-aanspraken": {
+  "bwb": "BWBR0005236",
+  "short": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (rechtspositionele aanspraken)",
+  "title": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (rechtspositionele aanspraken)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1991-11-16_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kredietaanbiedingen": {
+  "bwb": "BWBR0005237",
+  "short": "BKA",
+  "title": "Besluit kredietaanbiedingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-03-08_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-voorzitters-waterschappen": {
+  "bwb": "BWBR0005238",
+  "short": "Rechtspositiebesluit voorzitters waterschappen",
+  "title": "Rechtspositiebesluit voorzitters waterschappen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-05-11_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergunningaanvraag-wet-op-het-consumentenkrediet": {
+  "bwb": "BWBR0005241",
+  "short": "Besluit vergunningaanvraag Wet op het consumentenkrediet",
+  "title": "Besluit vergunningaanvraag Wet op het consumentenkrediet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-oprichting-waterschap-dollardzijlvest": {
+  "bwb": "BWBR0005250",
+  "short": "Besluit oprichting waterschap Dollardzijlvest",
+  "title": "Besluit oprichting waterschap Dollardzijlvest",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "bemanningseisenbesluit": {
+  "bwb": "BWBR0005266",
+  "short": "Bemanningseisenbesluit",
+  "title": "Bemanningseisenbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-zorgaanspraken-bijzondere-ziektekostenverzekering": {
+  "bwb": "BWBR0005283",
+  "short": "Besluit zorgaanspraken bijzondere ziektekostenverzekering",
+  "title": "Besluit zorgaanspraken bijzondere ziektekostenverzekering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-verduurzaamde-vruchtenprodukten": {
+  "bwb": "BWBR0005307",
+  "short": "Warenwetbesluit Verduurzaamde vruchtenprodukten",
+  "title": "Warenwetbesluit Verduurzaamde vruchtenprodukten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-02-14_0",
+  "as_of": "2026-11-03"
+ },
+ "comptabiliteitsvoorschriften-waterschappen": {
+  "bwb": "BWBR0005309",
+  "short": "Comptabiliteitsvoorschriften waterschappen",
+  "title": "Comptabiliteitsvoorschriften waterschappen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-etikettering-van-levensmiddelen": {
+  "bwb": "BWBR0005310",
+  "short": "WEL",
+  "title": "Warenwetbesluit Etikettering van levensmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-05-09_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-raadskamers": {
+  "bwb": "BWBR0005317",
+  "short": "Besluit Raadskamers",
+  "title": "Besluit Raadskamers",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "bouwbesluit": {
+  "bwb": "BWBR0005321",
+  "short": "Bouwbesluit",
+  "title": "Bouwbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "examenbesluit-zeevaartdiploma-s-1991": {
+  "bwb": "BWBR0005324",
+  "short": "Examenbesluit zeevaartdiploma's 1991",
+  "title": "Examenbesluit zeevaartdiploma's 1991",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-taak-fez": {
+  "bwb": "BWBR0005333",
+  "short": "Besluit Taak FEZ",
+  "title": "Besluit Taak FEZ",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "inschrijvingsbesluit-bijzondere-ziektekostenverzekering-1992": {
+  "bwb": "BWBR0005335",
+  "short": "Inschrijvingsbesluit Bijzondere Ziektekostenverzekering 1992",
+  "title": "Inschrijvingsbesluit Bijzondere Ziektekostenverzekering 1992",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2014-05-14_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-inschrijvingsbesluit-ziekenfondsverzekering": {
+  "bwb": "BWBR0005336",
+  "short": "Wijzigingsbesluit Inschrijvingsbesluit ziekenfondsverzekering",
+  "title": "Wijzigingsbesluit Inschrijvingsbesluit ziekenfondsverzekering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wachttijd-bijzondere-ziektekostenverzekering": {
+  "bwb": "BWBR0005337",
+  "short": "Besluit wachttijd bijzondere ziektekostenverzekering",
+  "title": "Besluit wachttijd bijzondere ziektekostenverzekering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-aanwijzingsbesluit-verplicht-verzekerden-ziekenfondswet": {
+  "bwb": "BWBR0005339",
+  "short": "Wijzigingsbesluit Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet",
+  "title": "Wijzigingsbesluit Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1990-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-werkingssfeer-wtg-1992": {
+  "bwb": "BWBR0005342",
+  "short": "Besluit werkingssfeer WTG 1992",
+  "title": "Besluit werkingssfeer WTG 1992",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-werkingssfeer-maximumtarieven-wtg": {
+  "bwb": "BWBR0005343",
+  "short": "Besluit werkingssfeer maximumtarieven WTG",
+  "title": "Besluit werkingssfeer maximumtarieven WTG",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "samenloopbesluit-kinderbijslag": {
+  "bwb": "BWBR0005361",
+  "short": "Sbesl Kb",
+  "title": "Samenloopbesluit kinderbijslag",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-12-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-homeopathische-farmaceutische-producten": {
+  "bwb": "BWBR0005371",
+  "short": "Bhfp",
+  "title": "Besluit homeopathische farmaceutische producten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-11-03_0",
+  "as_of": "2026-11-03"
+ },
+ "asbestbesluit-milieubeheer": {
+  "bwb": "BWBR0005374",
+  "short": "Asbm",
+  "title": "Asbestbesluit milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-02-25_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-gastoestellen": {
+  "bwb": "BWBR0005384",
+  "short": "Warenwetbesluit gastoestellen",
+  "title": "Warenwetbesluit gastoestellen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-rechtspositiebesluit-onderwijspersoneel-2-wijziging-van-hoofdstuk-i-h": {
+  "bwb": "BWBR0005394",
+  "short": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel (2) (wijziging van hoofdstuk I-H)",
+  "title": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel (2) (wijziging van hoofdstuk I-H)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-07-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-premiespaarregeling-rijksambtenaren-1968-1": {
+  "bwb": "BWBR0005400",
+  "short": "Wijzigingsbesluit Premiespaarregeling Rijksambtenaren 1968 (1)",
+  "title": "Wijzigingsbesluit Premiespaarregeling Rijksambtenaren 1968 (1)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-formatiebesluit-wbo-enz": {
+  "bwb": "BWBR0005403",
+  "short": "Wijzigingsbesluit Formatiebesluit WBO, enz.",
+  "title": "Wijzigingsbesluit Formatiebesluit WBO, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-aroma-s": {
+  "bwb": "BWBR0005413",
+  "short": "Warenwetbesluit Aroma's",
+  "title": "Warenwetbesluit Aroma's",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-06-16_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-rechtspositiebesluit-onderwijspersoneel-i-v-m-convenant-verhoging-aanvan": {
+  "bwb": "BWBR0005417",
+  "short": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel i.v.m. convenant (verhoging aanvangssalarissen leraren en compensatie-uitkering na-HOS-inschaling)",
+  "title": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel i.v.m. convenant (verhoging aanvangssalarissen leraren en compensatie-uitkering na-HOS-inschaling)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-07-09_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-betreffende-vakantie-en-betreffend": {
+  "bwb": "BWBR0005434",
+  "short": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (betreffende vakantie en betreffende ouderschapsverlof)",
+  "title": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (betreffende vakantie en betreffende ouderschapsverlof)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "formatiebesluit-wpo": {
+  "bwb": "BWBR0005441",
+  "short": "Formatiebesluit WPO",
+  "title": "Formatiebesluit WPO",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-12-07_0",
+  "as_of": "2026-11-03"
+ },
+ "formatiebesluit-wec": {
+  "bwb": "BWBR0005442",
+  "short": "Formatiebesluit WEC",
+  "title": "Formatiebesluit WEC",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-05-28_0",
+  "as_of": "2026-11-03"
+ },
+ "formatiebesluit-wvo": {
+  "bwb": "BWBR0005446",
+  "short": "Formatiebesluit WVO",
+  "title": "Formatiebesluit WVO",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-levensmiddelenadditieven": {
+  "bwb": "BWBR0005456",
+  "short": "Warenwetbesluit Levensmiddelenadditieven",
+  "title": "Warenwetbesluit Levensmiddelenadditieven",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-10-17_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bezoldigingsbesluit-burgerlijke-rijksambtenaren-1984-2": {
+  "bwb": "BWBR0005466",
+  "short": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (2)",
+  "title": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (2)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-04-25_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-algemeen-rijksambtenarenreglement-in-verband-met-de-rechtspositionele-er": {
+  "bwb": "BWBR0005472",
+  "short": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement in verband met de rechtspositionele erkenning van andere relatievormen dan het huwelijk",
+  "title": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement in verband met de rechtspositionele erkenning van andere relatievormen dan het huwelijk",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-05-15_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-geluidinformatie-huishoudelijke-apparaten": {
+  "bwb": "BWBR0005484",
+  "short": "Bgha",
+  "title": "Besluit geluidinformatie huishoudelijke apparaten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-houdende-regelen-met-betrekking-tot-de-bevoegdheid-tot-het-geven-van-verkeersinfor": {
+  "bwb": "BWBR0005486",
+  "short": "Besluit houdende regelen met betrekking tot de bevoegdheid tot het geven van verkeersinformatie dan wel verkeersaanwijzingen en de daartoe aan de bevoegde personen te stellen eisen",
+  "title": "Besluit houdende regelen met betrekking tot de bevoegdheid tot het geven van verkeersinformatie dan wel verkeersaanwijzingen en de daartoe aan de bevoegde personen te stellen eisen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-meldingplichtige-bouwwerken": {
+  "bwb": "BWBR0005495",
+  "short": "Besluit meldingplichtige bouwwerken",
+  "title": "Besluit meldingplichtige bouwwerken",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-04-03_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-goederenvervoer-over-de-weg": {
+  "bwb": "BWBR0005496",
+  "short": "BGW",
+  "title": "Besluit goederenvervoer over de weg",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-01-12_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vervoer-binnenvaart": {
+  "bwb": "BWBR0005503",
+  "short": "Besluit vervoer binnenvaart",
+  "title": "Besluit vervoer binnenvaart",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-09-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergoeding-ministers-en-staatssecretarissen-kosten-vervulling-ambt": {
+  "bwb": "BWBR0005514",
+  "short": "Besluit vergoeding ministers en staatssecretarissen kosten vervulling ambt",
+  "title": "Besluit vergoeding ministers en staatssecretarissen kosten vervulling ambt",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-03-24_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-benzine": {
+  "bwb": "BWBR0005540",
+  "short": "Warenwetbesluit benzine",
+  "title": "Warenwetbesluit benzine",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-05-09_0",
+  "as_of": "2026-11-03"
+ },
+ "examenbesluit-m-b-o": {
+  "bwb": "BWBR0005562",
+  "short": "Examenbesluit m.b.o.",
+  "title": "Examenbesluit m.b.o.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-12-02_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-persoonlijke-beschermingsmiddelen": {
+  "bwb": "BWBR0005570",
+  "short": "Warenwetbesluit persoonlijke beschermingsmiddelen",
+  "title": "Warenwetbesluit persoonlijke beschermingsmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "interim-bijdrageregeling-beeldende-kunst-en-vormgeving": {
+  "bwb": "BWBR0005571",
+  "short": "Interim bijdrageregeling beeldende kunst en vormgeving",
+  "title": "Interim bijdrageregeling beeldende kunst en vormgeving",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-07-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-rechtspositiebesluit-onderwijspersoneel-formatiebudget": {
+  "bwb": "BWBR0005586",
+  "short": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel (formatiebudget)",
+  "title": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel (formatiebudget)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-elektrotechnische-produkten": {
+  "bwb": "BWBR0005587",
+  "short": "Warenwetbesluit elektrotechnische produkten",
+  "title": "Warenwetbesluit elektrotechnische produkten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-09-05_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-zomertijd-1993-en-1994": {
+  "bwb": "BWBR0005616",
+  "short": "Besluit zomertijd 1993 en 1994",
+  "title": "Besluit zomertijd 1993 en 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-09-16_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-implementatie-eg-verbodsrichtlijn-milieubeheer": {
+  "bwb": "BWBR0005619",
+  "short": "Besluit implementatie EG-verbodsrichtlijn milieubeheer",
+  "title": "Besluit implementatie EG-verbodsrichtlijn milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-06-27_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-drukvaten-van-eenvoudige-vorm": {
+  "bwb": "BWBR0005627",
+  "short": "Warenwetbesluit drukvaten van eenvoudige vorm",
+  "title": "Warenwetbesluit drukvaten van eenvoudige vorm",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-van-bezoldigingsbedragen-in-bezoldigingswetten-in-verband-met-een-wijzig": {
+  "bwb": "BWBR0005631",
+  "short": "Wijzigingsbesluit van bezoldigingsbedragen in bezoldigingswetten in verband met een wijziging in bezoldiging van het burgerlijk rijkspersoneel per 1 april 1990, enz.",
+  "title": "Wijzigingsbesluit van bezoldigingsbedragen in bezoldigingswetten in verband met een wijziging in bezoldiging van het burgerlijk rijkspersoneel per 1 april 1990, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-10-09_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-werkwijze-adviescommissie-warenwet": {
+  "bwb": "BWBR0005638",
+  "short": "Warenwetbesluit Werkwijze Adviescommissie Warenwet",
+  "title": "Warenwetbesluit Werkwijze Adviescommissie Warenwet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-09-26_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-overleg-verkeer-en-waterstaat": {
+  "bwb": "BWBR0005652",
+  "short": "Besluit overleg verkeer en waterstaat",
+  "title": "Besluit overleg verkeer en waterstaat",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-regeling-van-de-vergoeding-voor-leden-in-buitengewone-dienst-van-de-algemene-reken": {
+  "bwb": "BWBR0005656",
+  "short": "Besluit regeling van de vergoeding voor leden in buitengewone dienst van de Algemene Rekenkamer",
+  "title": "Besluit regeling van de vergoeding voor leden in buitengewone dienst van de Algemene Rekenkamer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitkeringen-bedrijfsomgeving-stedelijke-knooppunten": {
+  "bwb": "BWBR0005659",
+  "short": "Besluit uitkeringen bedrijfsomgeving stedelijke knooppunten",
+  "title": "Besluit uitkeringen bedrijfsomgeving stedelijke knooppunten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-11_0",
+  "as_of": "2026-11-03"
+ },
+ "bekostigingsbesluit-wvo": {
+  "bwb": "BWBR0005672",
+  "short": "Bekostigingsbesluit WVO",
+  "title": "Bekostigingsbesluit WVO",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2021-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beheer-sociale-huursector": {
+  "bwb": "BWBR0005686",
+  "short": "BBSH",
+  "title": "Besluit beheer sociale-huursector",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-collectieve-preventie-volksgezondheid": {
+  "bwb": "BWBR0005687",
+  "short": "Besluit collectieve preventie volksgezondheid",
+  "title": "Besluit collectieve preventie volksgezondheid",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-03-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-regelen-met-betrekking-tot-de-instelling-de-taak-de-samenstelling-en-de-werkwijze": {
+  "bwb": "BWBR0005689",
+  "short": "Besluit regelen met betrekking tot de instelling, de taak, de samenstelling en de werkwijze van de commissie bedoeld in artikelen 82a en 97b van het Algemeen Rijksambtenarenreglement, enz.",
+  "title": "Besluit regelen met betrekking tot de instelling, de taak, de samenstelling en de werkwijze van de commissie bedoeld in artikelen 82a en 97b van het Algemeen Rijksambtenarenreglement, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-08-27_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz": {
+  "bwb": "BWBR0005693",
+  "short": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement enz.",
+  "title": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-12-17_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-trekkende-bevolking-wbo-in-verband-met-het-formatiebudgetsysteem": {
+  "bwb": "BWBR0005714",
+  "short": "Wijzigingsbesluit Besluit trekkende bevolking WBO in verband met het formatiebudgetsysteem",
+  "title": "Wijzigingsbesluit Besluit trekkende bevolking WBO in verband met het formatiebudgetsysteem",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1992-11-07_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-wet-tarieven-in-burgerlijke-zaken": {
+  "bwb": "BWBR0005738",
+  "short": "Wijzigingsbesluit Wet tarieven in burgerlijke zaken",
+  "title": "Wijzigingsbesluit Wet tarieven in burgerlijke zaken",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "landbouwkwaliteitsbesluit-biologische-produktiemethode": {
+  "bwb": "BWBR0005740",
+  "short": "Landbouwkwaliteitsbesluit biologische produktiemethode",
+  "title": "Landbouwkwaliteitsbesluit biologische produktiemethode",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-12-21_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-eiprodukten": {
+  "bwb": "BWBR0005741",
+  "short": "Warenwetbesluit Eiprodukten",
+  "title": "Warenwetbesluit Eiprodukten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergoedingen-luchtverkeersbeveiliging": {
+  "bwb": "BWBR0005749",
+  "short": "Besluit vergoedingen luchtverkeersbeveiliging",
+  "title": "Besluit vergoedingen luchtverkeersbeveiliging",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-11-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-raad-voor-dierenaangelegenheden": {
+  "bwb": "BWBR0005757",
+  "short": "Besluit Raad voor dierenaangelegenheden",
+  "title": "Besluit Raad voor dierenaangelegenheden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-12-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-regels-vergoeding-advocaat-voor-rechtsbijstand-ex-artikel-817-wetboek-van-burgerli": {
+  "bwb": "BWBR0005767",
+  "short": "Besluit regels vergoeding advocaat voor rechtsbijstand ex artikel 817 Wetboek van Burgerlijke Rechtsvordering",
+  "title": "Besluit regels vergoeding advocaat voor rechtsbijstand ex artikel 817 Wetboek van Burgerlijke Rechtsvordering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-nadere-regelen-ten-aanzien-van-de-hoogst-toelaatbare-vergoeding-ex-artikel-4a-en-5": {
+  "bwb": "BWBR0005770",
+  "short": "Besluit nadere regelen ten aanzien van de hoogst toelaatbare vergoeding ex artikel 4a en 5 van de Pachtwet",
+  "title": "Besluit nadere regelen ten aanzien van de hoogst toelaatbare vergoeding ex artikel 4a en 5 van de Pachtwet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "luchtverkeersreglement": {
+  "bwb": "BWBR0005775",
+  "short": "LVR",
+  "title": "Luchtverkeersreglement",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-bedragen-ex-artikel-8-van-de-wet-minimumloon-en-minimumvakantiebijsla": {
+  "bwb": "BWBR0005795",
+  "short": "Besluit vaststelling bedragen ex artikel 8 van de Wet minimumloon en minimumvakantiebijslag",
+  "title": "Besluit vaststelling bedragen ex artikel 8 van de Wet minimumloon en minimumvakantiebijslag",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "eeg-ijkbesluit-niet-automatische-weegwerktuigen": {
+  "bwb": "BWBR0005827",
+  "short": "EEG-IJkbesluit niet-automatische weegwerktuigen",
+  "title": "EEG-IJkbesluit niet-automatische weegwerktuigen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-09-11_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rendementseisen-cv-ketels": {
+  "bwb": "BWBR0005828",
+  "short": "Besluit rendementseisen cv-ketels",
+  "title": "Besluit rendementseisen cv-ketels",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "inrichtingen-en-vergunningenbesluit-milieubeheer": {
+  "bwb": "BWBR0005829",
+  "short": "IVB",
+  "title": "Inrichtingen- en vergunningenbesluit milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-07-04_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-jaarcijnsbesluit-zaaizaad-en-plantgoedwet": {
+  "bwb": "BWBR0005833",
+  "short": "Wijzigingsbesluit Jaarcijnsbesluit Zaaizaad- en Plantgoedwet",
+  "title": "Wijzigingsbesluit Jaarcijnsbesluit Zaaizaad- en Plantgoedwet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-02-04_0",
+  "as_of": "2026-11-03"
+ },
+ "gegevensbesluit-georganiseerde-reizen": {
+  "bwb": "BWBR0005850",
+  "short": "Gbgor",
+  "title": "Gegevensbesluit georganiseerde reizen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-01-27_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-geneeskundige-verzorging-politie-1984": {
+  "bwb": "BWBR0005851",
+  "short": "Wijzigingsbesluit Besluit geneeskundige verzorging politie 1984",
+  "title": "Wijzigingsbesluit Besluit geneeskundige verzorging politie 1984",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-02-24_0",
+  "as_of": "2026-11-03"
+ },
+ "stortbesluit-bodembescherming": {
+  "bwb": "BWBR0005858",
+  "short": "Stbo",
+  "title": "Stortbesluit bodembescherming",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-wet-op-de-raad-van-state": {
+  "bwb": "BWBR0005863",
+  "short": "Wijzigingsbesluit Wet op de Raad van State",
+  "title": "Wijzigingsbesluit Wet op de Raad van State",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vierjaarlijks-bezien-van-lozingsvergunningen": {
+  "bwb": "BWBR0005868",
+  "short": "Besluit vierjaarlijks bezien van lozingsvergunningen",
+  "title": "Besluit vierjaarlijks bezien van lozingsvergunningen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-05-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tarieven-openbaarheid-van-bestuur": {
+  "bwb": "BWBR0005869",
+  "short": "Btob",
+  "title": "Besluit tarieven openbaarheid van bestuur",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-centrales-van-overheidspersoneel-o": {
+  "bwb": "BWBR0005883",
+  "short": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (centrales van overheidspersoneel overeengekomen pakket arbeidsvoorwaarden- en werkgelegenheidsmaatregelen 1992 voor de sector rijk)",
+  "title": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (centrales van overheidspersoneel overeengekomen pakket arbeidsvoorwaarden- en werkgelegenheidsmaatregelen 1992 voor de sector rijk)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-machines": {
+  "bwb": "BWBR0005884",
+  "short": "Besluit machines",
+  "title": "Besluit machines",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-12-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-onkostenvergoeding-rechterlijke-ambtenaren": {
+  "bwb": "BWBR0005887",
+  "short": "Besluit onkostenvergoeding rechterlijke ambtenaren",
+  "title": "Besluit onkostenvergoeding rechterlijke ambtenaren",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-07-13_0",
+  "as_of": "2026-11-03"
+ },
+ "reisbesluit-binnenland": {
+  "bwb": "BWBR0005889",
+  "short": "Reisbesluit binnenland",
+  "title": "Reisbesluit binnenland",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "huisvestingsbesluit": {
+  "bwb": "BWBR0005893",
+  "short": "Huisvb",
+  "title": "Huisvestingsbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-herplaatsingsbeleid": {
+  "bwb": "BWBR0005910",
+  "short": "Besluit herplaatsingsbeleid",
+  "title": "Besluit herplaatsingsbeleid",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-08-28_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingsregeling-pensioenen-1991": {
+  "bwb": "BWBR0005915",
+  "short": "Aanpassingsregeling pensioenen 1991",
+  "title": "Aanpassingsregeling pensioenen 1991",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-05-14_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitkeringen-regioprogramma-s-zuid-limburg-1993-94": {
+  "bwb": "BWBR0005918",
+  "short": "Besluit uitkeringen regioprogramma's Zuid-Limburg 1993/94",
+  "title": "Besluit uitkeringen regioprogramma's Zuid-Limburg 1993/94",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitkeringen-integraal-structuurplan-noorden-des-lands-1993-94": {
+  "bwb": "BWBR0005919",
+  "short": "Besluit uitkeringen Integraal structuurplan noorden des lands 1993/94",
+  "title": "Besluit uitkeringen Integraal structuurplan noorden des lands 1993/94",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitkering-europese-programma-s-twente-1993": {
+  "bwb": "BWBR0005920",
+  "short": "Besluit uitkering Europese programma's Twente 1993",
+  "title": "Besluit uitkering Europese programma's Twente 1993",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-sociaal-beleidskader-inzake-de-vorming-van-agrarische-opleidingscentra": {
+  "bwb": "BWBR0005927",
+  "short": "Besluit sociaal beleidskader inzake de vorming van agrarische opleidingscentra",
+  "title": "Besluit sociaal beleidskader inzake de vorming van agrarische opleidingscentra",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-uitvoeringsbesluit-les-en-cursusgeldwet-het-cursorisch-beroepsonderwijs": {
+  "bwb": "BWBR0005941",
+  "short": "Wijzigingsbesluit Uitvoeringsbesluit Les- en cursusgeldwet (het cursorisch beroepsonderwijs, het voortgezet algemeen volwassenenonderwijs en de wijze van voldoening van lesgeld)",
+  "title": "Wijzigingsbesluit Uitvoeringsbesluit Les- en cursusgeldwet (het cursorisch beroepsonderwijs, het voortgezet algemeen volwassenenonderwijs en de wijze van voldoening van lesgeld)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kwik-bevattende-arm-en-beenbanden-wet-milieugevaarlijke-stoffen": {
+  "bwb": "BWBR0005942",
+  "short": "Besluit kwik bevattende arm- en beenbanden Wet milieugevaarlijke stoffen",
+  "title": "Besluit kwik bevattende arm- en beenbanden Wet milieugevaarlijke stoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "inrichtingsbesluit-wvo": {
+  "bwb": "BWBR0005946",
+  "short": "Inrichtingsbesluit WVO",
+  "title": "Inrichtingsbesluit WVO",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2020-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-formatiebesluit-scholen-v-w-o-a-v-o-v-b-o-vereenvoudiging-formatiegronds": {
+  "bwb": "BWBR0005947",
+  "short": "Wijzigingsbesluit Formatiebesluit scholen v.w.o.-a.v.o.-v.b.o. (vereenvoudiging formatiegrondslag)",
+  "title": "Wijzigingsbesluit Formatiebesluit scholen v.w.o.-a.v.o.-v.b.o. (vereenvoudiging formatiegrondslag)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-04-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanbestedingen-nutssector": {
+  "bwb": "BWBR0005948",
+  "short": "Besluit aanbestedingen nutssector",
+  "title": "Besluit aanbestedingen nutssector",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-05-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-regulering-grondontsmettingsmiddelen": {
+  "bwb": "BWBR0005949",
+  "short": "Besluit regulering grondontsmettingsmiddelen",
+  "title": "Besluit regulering grondontsmettingsmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "infiltratiebesluit-bodembescherming": {
+  "bwb": "BWBR0005957",
+  "short": "Inf besl Bb",
+  "title": "Infiltratiebesluit bodembescherming",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-12-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-regeling-van-een-vergoeding-voor-vice-president-van-de-raad-van-state-en-de-staats": {
+  "bwb": "BWBR0005966",
+  "short": "Besluit regeling van een vergoeding voor vice-president van de Raad van State en de Staatsraden, enz.",
+  "title": "Besluit regeling van een vergoeding voor vice-president van de Raad van State en de Staatsraden, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-02-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-regelen-ex-artikel-15-van-de-wet-op-de-naburige-rechten": {
+  "bwb": "BWBR0005973",
+  "short": "Besluit vaststelling regelen ex artikel 15 van de Wet op de naburige rechten",
+  "title": "Besluit vaststelling regelen ex artikel 15 van de Wet op de naburige rechten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "veiligheidsinformatiebladenbesluit-wet-milieugevaarlijke-stoffen": {
+  "bwb": "BWBR0005974",
+  "short": "Veiligheidsinformatiebladenbesluit Wet milieugevaarlijke stoffen",
+  "title": "Veiligheidsinformatiebladenbesluit Wet milieugevaarlijke stoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-03-31_0",
+  "as_of": "2026-11-03"
+ },
+ "erkenningenbesluit-geneeskundige-hulpverlening-bij-rampen-en-zware-ongevallen": {
+  "bwb": "BWBR0005990",
+  "short": "Erkenningenbesluit geneeskundige hulpverlening bij rampen en zware ongevallen",
+  "title": "Erkenningenbesluit geneeskundige hulpverlening bij rampen en zware ongevallen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-06-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-stralenbescherming-kernenergiewet": {
+  "bwb": "BWBR0005995",
+  "short": "Wijzigingsbesluit Besluit stralenbescherming Kernenergiewet",
+  "title": "Wijzigingsbesluit Besluit stralenbescherming Kernenergiewet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-06-30_0",
+  "as_of": "2026-11-03"
+ },
+ "asbest-verwijderingsbesluit": {
+  "bwb": "BWBR0006006",
+  "short": "Asbest-verwijderingsbesluit",
+  "title": "Asbest-verwijderingsbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-03-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-overheidsaanbestedingen": {
+  "bwb": "BWBR0006009",
+  "short": "Boa",
+  "title": "Besluit overheidsaanbestedingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-gegevensverstrekking-jeugdhulpverlening": {
+  "bwb": "BWBR0006010",
+  "short": "Bgj",
+  "title": "Besluit gegevensverstrekking jeugdhulpverlening",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-08-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-emissie-eisen-titaandioxide-inrichtingen": {
+  "bwb": "BWBR0006013",
+  "short": "Besluit emissie-eisen titaandioxide-inrichtingen",
+  "title": "Besluit emissie-eisen titaandioxide-inrichtingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-overleg-brandweerpersoneel": {
+  "bwb": "BWBR0006027",
+  "short": "Besluit overleg brandweerpersoneel",
+  "title": "Besluit overleg brandweerpersoneel",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-07-14_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-premiespaarregeling-rijksambtenaren-1968-2": {
+  "bwb": "BWBR0006033",
+  "short": "Wijzigingsbesluit Premiespaarregeling Rijksambtenaren 1968 (2)",
+  "title": "Wijzigingsbesluit Premiespaarregeling Rijksambtenaren 1968 (2)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "interimbesluit-ziektekosten-burgerlijke-ambtenaren-defensie": {
+  "bwb": "BWBR0006034",
+  "short": "Interimbesluit ziektekosten burgerlijke ambtenaren defensie",
+  "title": "Interimbesluit ziektekosten burgerlijke ambtenaren defensie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-12-10_0",
+  "as_of": "2026-11-03"
+ },
+ "telefoonkostenbesluit-burgerlijke-ambtenaren-defensie": {
+  "bwb": "BWBR0006035",
+  "short": "Telefoonkostenbesluit burgerlijke ambtenaren defensie",
+  "title": "Telefoonkostenbesluit burgerlijke ambtenaren defensie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-maaltijdvergoeding-bij-overwerk-burgerlijke-ambtenaren-defensie": {
+  "bwb": "BWBR0006036",
+  "short": "Besluit maaltijdvergoeding bij overwerk burgerlijke ambtenaren defensie",
+  "title": "Besluit maaltijdvergoeding bij overwerk burgerlijke ambtenaren defensie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-05-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-betaling-emolumenten-burgerlijke-ambtenaren-defensie": {
+  "bwb": "BWBR0006037",
+  "short": "Besluit betaling emolumenten burgerlijke ambtenaren defensie",
+  "title": "Besluit betaling emolumenten burgerlijke ambtenaren defensie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "bezoldigingsbesluit-burgerlijke-ambtenaren-defensie": {
+  "bwb": "BWBR0006038",
+  "short": "BBAD",
+  "title": "Bezoldigingsbesluit burgerlijke ambtenaren defensie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-06-23_0",
+  "as_of": "2026-11-03"
+ },
+ "verplaatsingskostenbesluit-burgerlijke-ambtenaren-defensie": {
+  "bwb": "BWBR0006039",
+  "short": "Verplaatsingskostenbesluit burgerlijke ambtenaren defensie",
+  "title": "Verplaatsingskostenbesluit burgerlijke ambtenaren defensie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-03-03_0",
+  "as_of": "2026-11-03"
+ },
+ "inrichtingsbesluit-v-a-v-o": {
+  "bwb": "BWBR0006044",
+  "short": "Inrichtingsbesluit v.a.v.o.",
+  "title": "Inrichtingsbesluit v.a.v.o.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2020-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ex-artikel-106-algemene-pensioenwet-politieke-ambtsdragers": {
+  "bwb": "BWBR0006046",
+  "short": "Besluit ex artikel 106 Algemene pensioenwet politieke ambtsdragers",
+  "title": "Besluit ex artikel 106 Algemene pensioenwet politieke ambtsdragers",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-06-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rijkssubsidiering-historische-buitenplaatsen": {
+  "bwb": "BWBR0006058",
+  "short": "Besluit rijkssubsidiëring historische buitenplaatsen",
+  "title": "Besluit rijkssubsidiëring historische buitenplaatsen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-03-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-actieve-implantaten": {
+  "bwb": "BWBR0006060",
+  "short": "Besluit actieve implantaten",
+  "title": "Besluit actieve implantaten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2020-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bezoldigingsbesluit-burgerlijke-rijksambtenaren-1984-3": {
+  "bwb": "BWBR0006061",
+  "short": "Wbesl Bbra 1984",
+  "title": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (3)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-08-06_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-immunologische-farmaceutische-producten": {
+  "bwb": "BWBR0006083",
+  "short": "Bifp",
+  "title": "Besluit immunologische farmaceutische producten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-radiofarmaceutische-producten": {
+  "bwb": "BWBR0006084",
+  "short": "Brp",
+  "title": "Besluit radiofarmaceutische producten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-03-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-persoonlijke-beschermingsmiddelen": {
+  "bwb": "BWBR0006095",
+  "short": "Besluit persoonlijke beschermingsmiddelen",
+  "title": "Besluit persoonlijke beschermingsmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-12-23_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-thee": {
+  "bwb": "BWBR0006096",
+  "short": "Warenwetbesluit Thee",
+  "title": "Warenwetbesluit Thee",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1997-01-29_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-koffie-en-cichorei": {
+  "bwb": "BWBR0006097",
+  "short": "Warenwetbesluit Koffie en cichorei",
+  "title": "Warenwetbesluit Koffie en cichorei",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-05-16_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-toekenning-van-een-eenmalige-uitkering-van-11-3-in-1992-aan-gewezen-burgerlijk-rij": {
+  "bwb": "BWBR0006101",
+  "short": "Besluit toekenning van een eenmalige uitkering van 11,3% in 1992 aan (gewezen) burgerlijk rijkspersoneel en anderen",
+  "title": "Besluit toekenning van een eenmalige uitkering van 11,3% in 1992 aan (gewezen) burgerlijk rijkspersoneel en anderen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-08-25_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergoeding-representatiekosten-rijkspersoneel": {
+  "bwb": "BWBR0006102",
+  "short": "Besluit vergoeding representatiekosten rijkspersoneel",
+  "title": "Besluit vergoeding representatiekosten rijkspersoneel",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-08-28_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ex-artikel-33-diergeneesmiddelenwet": {
+  "bwb": "BWBR0006103",
+  "short": "Besluit ex artikel 33 Diergeneesmiddelenwet",
+  "title": "Besluit ex artikel 33 Diergeneesmiddelenwet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-11-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-van-het-aantal-raden-van-tucht-voor-registeraccountants-en-accountant": {
+  "bwb": "BWBR0006108",
+  "short": "Besluit vaststelling van het aantal raden van tucht voor registeraccountants en Accountants-Administratieconsulenten, van hun zetel en rechtsgebied, alsmede van hun relatieve bevoegdheid",
+  "title": "Besluit vaststelling van het aantal raden van tucht voor registeraccountants en Accountants-Administratieconsulenten, van hun zetel en rechtsgebied, alsmede van hun relatieve bevoegdheid",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-gemedicineerd-voeder": {
+  "bwb": "BWBR0006109",
+  "short": "Besluit gemedicineerd voeder",
+  "title": "Besluit gemedicineerd voeder",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-10-18_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-voedingswaarde-informatie-levensmiddelen": {
+  "bwb": "BWBR0006135",
+  "short": "Vil",
+  "title": "Warenwetbesluit Voedingswaarde-informatie levensmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-03-21_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verplicht-bodemonderzoek-bedrijfsterreinen": {
+  "bwb": "BWBR0006155",
+  "short": "Bvbb",
+  "title": "Besluit verplicht bodemonderzoek bedrijfsterreinen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-algemene-productveiligheid": {
+  "bwb": "BWBR0006158",
+  "short": "Warenwetbesluit algemene productveiligheid",
+  "title": "Warenwetbesluit algemene productveiligheid",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2023-04-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-op-de-stads-en-dorpsvernieuwing-verdeling-rijkssteun-voor-stadsv": {
+  "bwb": "BWBR0006163",
+  "short": "Wijzigingsbesluit Besluit op de stads- en dorpsvernieuwing (verdeling rijkssteun voor stadsvernieuwing in de toekomst)",
+  "title": "Wijzigingsbesluit Besluit op de stads- en dorpsvernieuwing (verdeling rijkssteun voor stadsvernieuwing in de toekomst)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-voortvloeiende-uit-de-maatregelen": {
+  "bwb": "BWBR0006165",
+  "short": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (voortvloeiende uit de maatregelen gericht op de terugdringing van het beroep op de arbeidsongeschiktheidsregelingen)",
+  "title": "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (voortvloeiende uit de maatregelen gericht op de terugdringing van het beroep op de arbeidsongeschiktheidsregelingen)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-08-21_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-in-en-uitvoer-milieugevaarlijke-stoffen": {
+  "bwb": "BWBR0006218",
+  "short": "Besluit in- en uitvoer milieugevaarlijke stoffen",
+  "title": "Besluit in- en uitvoer milieugevaarlijke stoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-08-25_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-nadere-omschrijving-begrip-autowrakken": {
+  "bwb": "BWBR0006219",
+  "short": "Bnoba",
+  "title": "Besluit nadere omschrijving begrip autowrakken",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-07-11_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-administratieve-bepalingen-bopz": {
+  "bwb": "BWBR0006222",
+  "short": "Bab",
+  "title": "Besluit administratieve bepalingen Bopz",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rechtspositieregelen-bopz": {
+  "bwb": "BWBR0006223",
+  "short": "Brp BOPZ",
+  "title": "Besluit rechtspositieregelen Bopz",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2019-02-16_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-patientendossier-bopz": {
+  "bwb": "BWBR0006224",
+  "short": "Bopz",
+  "title": "Besluit patiëntendossier Bopz",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-07-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-middelen-en-maatregelen-bopz": {
+  "bwb": "BWBR0006225",
+  "short": "Bmm BOPZ",
+  "title": "Besluit middelen en maatregelen Bopz",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-klachtenbehandeling-bopz": {
+  "bwb": "BWBR0006226",
+  "short": "Bkb BOPZ",
+  "title": "Besluit klachtenbehandeling Bopz",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-patientenvertrouwenspersoon-bopz": {
+  "bwb": "BWBR0006227",
+  "short": "Besluit patiëntenvertrouwenspersoon Bopz",
+  "title": "Besluit patiëntenvertrouwenspersoon Bopz",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-aanvang-bekostiging-w-v-o-enz-aanpassing-aan-de-algemene-wet-bes": {
+  "bwb": "BWBR0006235",
+  "short": "Wijzigingsbesluit Besluit aanvang bekostiging W.V.O., enz. (aanpassing aan de Algemene wet bestuursrecht)",
+  "title": "Wijzigingsbesluit Besluit aanvang bekostiging W.V.O., enz. (aanpassing aan de Algemene wet bestuursrecht)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "bijdragebesluit-kosten-ruiming-explosieven-tweede-wereldoorlog-1994": {
+  "bwb": "BWBR0006236",
+  "short": "Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1994",
+  "title": "Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1997-01-29_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-formatiebesluit-wbo-1992": {
+  "bwb": "BWBR0006252",
+  "short": "Wijzigingsbesluit Formatiebesluit WBO 1992",
+  "title": "Wijzigingsbesluit Formatiebesluit WBO 1992",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-in-uit-en-doorvoer-van-radioactieve-afvalstoffen": {
+  "bwb": "BWBR0006258",
+  "short": "Besluit in-, uit- en doorvoer van radioactieve afvalstoffen",
+  "title": "Besluit in-, uit- en doorvoer van radioactieve afvalstoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-infrastructuurfonds": {
+  "bwb": "BWBR0006264",
+  "short": "Besluit Infrastructuurfonds",
+  "title": "Besluit Infrastructuurfonds",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-regeling-wachtgelden-uitkering-bij-privatisering-samenloop-met-uitkering": {
+  "bwb": "BWBR0006265",
+  "short": "Wijzigingsbesluit Regeling wachtgelden uitkering bij privatisering (samenloop met uitkeringen ingevolge de Wet op de arbeidsongeschiktheidsverzekering)",
+  "title": "Wijzigingsbesluit Regeling wachtgelden uitkering bij privatisering (samenloop met uitkeringen ingevolge de Wet op de arbeidsongeschiktheidsverzekering)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-08-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-inzamelvergunning-afvalstoffen-en-beheer-afgewerkte-olie": {
+  "bwb": "BWBR0006267",
+  "short": "Besluit inzamelvergunning afvalstoffen en beheer afgewerkte olie",
+  "title": "Besluit inzamelvergunning afvalstoffen en beheer afgewerkte olie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-05-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-gevaarlijke-afvalstoffen": {
+  "bwb": "BWBR0006271",
+  "short": "BAGA",
+  "title": "Besluit aanwijzing gevaarlijke afvalstoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-07-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bepalingen-technische-voorziening-voor-te-betalen-schaden-of-uitkeringen-herverzek": {
+  "bwb": "BWBR0006278",
+  "short": "Btvhvb",
+  "title": "Besluit bepalingen technische voorziening voor te betalen schaden of uitkeringen herverzekeringsbedrijf",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-rechtspositiebesluit-onderwijspersoneel-5": {
+  "bwb": "BWBR0006279",
+  "short": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel (5)",
+  "title": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel (5)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "eisen-en-controlebesluit-vergunningen-diergeneesmiddelen-1993": {
+  "bwb": "BWBR0006290",
+  "short": "Eisen- en controlebesluit vergunningen diergeneesmiddelen 1993",
+  "title": "Eisen- en controlebesluit vergunningen diergeneesmiddelen 1993",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-10-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-produktie-en-handel-vleesprodukten": {
+  "bwb": "BWBR0006293",
+  "short": "Besluit produktie en handel vleesprodukten",
+  "title": "Besluit produktie en handel vleesprodukten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-05-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-produktie-en-handel-vers-vlees": {
+  "bwb": "BWBR0006294",
+  "short": "Besluit produktie en handel vers vlees",
+  "title": "Besluit produktie en handel vers vlees",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-04-25_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-berekeningswijze-deelnamesommen": {
+  "bwb": "BWBR0006312",
+  "short": "Besluit berekeningswijze deelnamesommen",
+  "title": "Besluit berekeningswijze deelnamesommen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-12-24_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verhoging-maximumbedrag-aansprakelijkheid-ex-artikel-5-wet-aansprakelijkheid-kerno": {
+  "bwb": "BWBR0006313",
+  "short": "Besluit verhoging maximumbedrag aansprakelijkheid ex artikel 5 Wet aansprakelijkheid kernongevallen",
+  "title": "Besluit verhoging maximumbedrag aansprakelijkheid ex artikel 5 Wet aansprakelijkheid kernongevallen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "landbouwkwaliteitsbesluit-geografische-aanduidingen-oorsprongsbenamingen-en-specificiteits": {
+  "bwb": "BWBR0006327",
+  "short": "Landbouwkwaliteitsbesluit geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificering",
+  "title": "Landbouwkwaliteitsbesluit geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-rechtspositiebesluit-adspirant-beroepsbrandweerofficieren-enz": {
+  "bwb": "BWBR0006332",
+  "short": "Wijzigingsbesluit Rechtspositiebesluit adspirant-beroepsbrandweerofficieren, enz.",
+  "title": "Wijzigingsbesluit Rechtspositiebesluit adspirant-beroepsbrandweerofficieren, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-12-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitkeringen-provinciale-investeringspremies-1994": {
+  "bwb": "BWBR0006334",
+  "short": "Besluit uitkeringen provinciale investeringspremies 1994",
+  "title": "Besluit uitkeringen provinciale investeringspremies 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-12-31_0",
+  "as_of": "2026-11-03"
+ },
+ "bekostigingsbesluit-whw": {
+  "bwb": "BWBR0006338",
+  "short": "Bekostigingsbesluit WHW",
+  "title": "Bekostigingsbesluit WHW",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-11-28_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-regeling-deeltijd-vut-sector-rijk": {
+  "bwb": "BWBR0006365",
+  "short": "Tijdelijke regeling deeltijd-vut sector rijk",
+  "title": "Tijdelijke regeling deeltijd-vut sector rijk",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-09-28_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-houdende-afwijking-voor-het-jaar-1994-van-het-besluit-vaststelling-rekenpremies-zi": {
+  "bwb": "BWBR0006382",
+  "short": "Besluit houdende afwijking voor het jaar 1994 van het Besluit vaststelling rekenpremies Ziektewet en wachtgeldfondsen",
+  "title": "Besluit houdende afwijking voor het jaar 1994 van het Besluit vaststelling rekenpremies Ziektewet en wachtgeldfondsen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-12-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-tijdelijke-financieringsregeling-verslavingszorg": {
+  "bwb": "BWBR0006383",
+  "short": "Wbesl Tfvz",
+  "title": "Wijzigingsbesluit Tijdelijke financieringsregeling verslavingszorg",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1993-12-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kca-logo": {
+  "bwb": "BWBR0006384",
+  "short": "Besluit kca-logo",
+  "title": "Besluit kca-logo",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-08-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verlening-voorschotten-1994": {
+  "bwb": "BWBR0006392",
+  "short": "Besluit verlening voorschotten 1994",
+  "title": "Besluit verlening voorschotten 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-01-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-draagkrachtcriteria-rechtsbijstand": {
+  "bwb": "BWBR0006405",
+  "short": "Bdr",
+  "title": "Besluit draagkrachtcriteria rechtsbijstand",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingsregeling-pensioenen-1992": {
+  "bwb": "BWBR0006412",
+  "short": "Aanpassingsregeling pensioenen 1992",
+  "title": "Aanpassingsregeling pensioenen 1992",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-04-15_0",
+  "as_of": "2026-11-03"
+ },
+ "landbouwkwaliteitsbesluit-rauwe-melk-en-zuivelbereiding": {
+  "bwb": "BWBR0006414",
+  "short": "Landbouwkwaliteitsbesluit rauwe melk en zuivelbereiding",
+  "title": "Landbouwkwaliteitsbesluit rauwe melk en zuivelbereiding",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-11-26_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bouwbesluit-wbo-enz": {
+  "bwb": "BWBR0006420",
+  "short": "Wijzigingsbesluit Bouwbesluit WBO, enz.",
+  "title": "Wijzigingsbesluit Bouwbesluit WBO, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-04-15_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tankstations-milieubeheer": {
+  "bwb": "BWBR0006423",
+  "short": "Btank",
+  "title": "Besluit tankstations milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-locatiegebonden-subsidies": {
+  "bwb": "BWBR0006425",
+  "short": "BLS",
+  "title": "Besluit locatiegebonden subsidies",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "embryobesluit": {
+  "bwb": "BWBR0006426",
+  "short": "Embryobesluit",
+  "title": "Embryobesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-12-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoer-dieren-en-produkten-van-dierlijke-oorsprong": {
+  "bwb": "BWBR0006427",
+  "short": "Besluit uitvoer dieren en produkten van dierlijke oorsprong",
+  "title": "Besluit uitvoer dieren en produkten van dierlijke oorsprong",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2014-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-registratiebesluit-vissersvaartuigen-1964": {
+  "bwb": "BWBR0006431",
+  "short": "Wijzigingsbesluit Registratiebesluit vissersvaartuigen 1964",
+  "title": "Wijzigingsbesluit Registratiebesluit vissersvaartuigen 1964",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-02-09_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-electromedische-apparaten-voor-diergeneeskundig-gebruik": {
+  "bwb": "BWBR0006438",
+  "short": "Besluit electromedische apparaten voor diergeneeskundig gebruik",
+  "title": "Besluit electromedische apparaten voor diergeneeskundig gebruik",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-02-25_0",
+  "as_of": "2026-11-03"
+ },
+ "overlegbesluit-onderwijspersoneel": {
+  "bwb": "BWBR0006446",
+  "short": "Overlegbesluit onderwijspersoneel",
+  "title": "Overlegbesluit onderwijspersoneel",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-akkerbouwbedrijven-milieubeheer": {
+  "bwb": "BWBR0006449",
+  "short": "Bam",
+  "title": "Besluit akkerbouwbedrijven milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-diersoorten-besmettelijke-dierziekten": {
+  "bwb": "BWBR0006450",
+  "short": "Besluit aanwijzing diersoorten besmettelijke dierziekten",
+  "title": "Besluit aanwijzing diersoorten besmettelijke dierziekten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "examenbesluit-accountants-administratieconsulenten-1994": {
+  "bwb": "BWBR0006454",
+  "short": "Examenbesluit Accountants-Administratieconsulenten 1994",
+  "title": "Examenbesluit Accountants-Administratieconsulenten 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-nederlands-bureau-brandweerexamens": {
+  "bwb": "BWBR0006484",
+  "short": "Besluit Nederlands bureau brandweerexamens",
+  "title": "Besluit Nederlands bureau brandweerexamens",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-subsidies-energieprogramma-s": {
+  "bwb": "BWBR0006515",
+  "short": "Besluit subsidies energieprogramma's",
+  "title": "Besluit subsidies energieprogramma's",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergoeding-dienstreizen-politie": {
+  "bwb": "BWBR0006519",
+  "short": "BVDP",
+  "title": "Besluit vergoeding dienstreizen politie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-02-09_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergoeding-verplaatsingskosten-politie": {
+  "bwb": "BWBR0006520",
+  "short": "Besluit vergoeding verplaatsingskosten politie",
+  "title": "Besluit vergoeding verplaatsingskosten politie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-04-30_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-maximumgehaltes-aan-teer-nicotine-en-koolmonoxide-in-sigaretten-en-shag": {
+  "bwb": "BWBR0006531",
+  "short": "Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag",
+  "title": "Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-gedeputeerden": {
+  "bwb": "BWBR0006533",
+  "short": "Rechtspositiebesluit gedeputeerden",
+  "title": "Rechtspositiebesluit gedeputeerden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2019-02-15_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-staten-en-commissieleden": {
+  "bwb": "BWBR0006534",
+  "short": "Rechtspositiebesluit staten- en commissieleden",
+  "title": "Rechtspositiebesluit staten- en commissieleden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2019-02-15_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-wethouders": {
+  "bwb": "BWBR0006535",
+  "short": "Rechtspositiebesluit wethouders",
+  "title": "Rechtspositiebesluit wethouders",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-raads-en-commissieleden": {
+  "bwb": "BWBR0006536",
+  "short": "Rechtspositiebesluit raads- en commissieleden",
+  "title": "Rechtspositiebesluit raads- en commissieleden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-statistisch-onderzoek-ijkwet": {
+  "bwb": "BWBR0006544",
+  "short": "Besluit statistisch onderzoek IJkwet",
+  "title": "Besluit statistisch onderzoek IJkwet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-04-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beheer-regionale-politiekorpsen": {
+  "bwb": "BWBR0006560",
+  "short": "BBRP",
+  "title": "Besluit beheer regionale politiekorpsen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-12-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-financien-regionale-politiekorpsen": {
+  "bwb": "BWBR0006562",
+  "short": "BFRP",
+  "title": "Besluit financiën regionale politiekorpsen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-comptabele-regelgeving-regionale-politiekorpsen": {
+  "bwb": "BWBR0006563",
+  "short": "BCRRP",
+  "title": "Besluit comptabele regelgeving regionale politiekorpsen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-07-14_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-geneeskundige-verzorging-politie-1994": {
+  "bwb": "BWBR0006605",
+  "short": "Besluit GVP",
+  "title": "Besluit geneeskundige verzorging politie 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-12-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-regeling-van-de-rechtspositie-van-de-leden-van-de-commissie-belast-met-het-beheer": {
+  "bwb": "BWBR0006607",
+  "short": "Besluit regeling van de rechtspositie van de leden van de commissie belast met het beheer van het schadefonds geweldsmisdrijven",
+  "title": "Besluit regeling van de rechtspositie van de leden van de commissie belast met het beheer van het schadefonds geweldsmisdrijven",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-08-10_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vrijgestelde-onderlinge-waarborgmaatschappijen-1994": {
+  "bwb": "BWBR0006624",
+  "short": "Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994",
+  "title": "Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-12-02_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-voortzetting-vrijwillige-voorzieningen-1994": {
+  "bwb": "BWBR0006625",
+  "short": "Besluit voortzetting vrijwillige voorzieningen 1994",
+  "title": "Besluit voortzetting vrijwillige voorzieningen 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vrijgestelde-instellingen-voor-publiekrechtelijke-ziektekostenregelingen-1994": {
+  "bwb": "BWBR0006626",
+  "short": "Besluit vrijgestelde instellingen voor publiekrechtelijke ziektekostenregelingen 1994",
+  "title": "Besluit vrijgestelde instellingen voor publiekrechtelijke ziektekostenregelingen 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bezoldigingsbesluit-burgerlijke-rijksambtenaren-1984-enz": {
+  "bwb": "BWBR0006628",
+  "short": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, enz.",
+  "title": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-05-27_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-taken-vrijwillige-ambtenaren-van-politie": {
+  "bwb": "BWBR0006653",
+  "short": "Besluit taken vrijwillige ambtenaren van politie",
+  "title": "Besluit taken vrijwillige ambtenaren van politie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-02-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-comptabiliteitsvoorschriften-1995": {
+  "bwb": "BWBR0006654",
+  "short": "Besluit comptabiliteitsvoorschriften 1995",
+  "title": "Besluit comptabiliteitsvoorschriften 1995",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-01-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-inzake-het-in-de-handel-brengen-van-dieren-en-producten-en-de-toepassing-van-maatr": {
+  "bwb": "BWBR0006659",
+  "short": "Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten",
+  "title": "Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2016-05-24_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-inschrijvingsbesluit-ziekenfondsverzekering-enz": {
+  "bwb": "BWBR0006663",
+  "short": "Wijzigingsbesluit Inschrijvingsbesluit ziekenfondsverzekering (enz.)",
+  "title": "Wijzigingsbesluit Inschrijvingsbesluit ziekenfondsverzekering (enz.)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "transactiebesluit-1994": {
+  "bwb": "BWBR0006664",
+  "short": "Tb 1994",
+  "title": "Transactiebesluit 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "rentevergoedingsbesluit-wetten-voor-oorlogsgetroffenen": {
+  "bwb": "BWBR0006698",
+  "short": "Rentevergoedingsbesluit wetten voor oorlogsgetroffenen",
+  "title": "Rentevergoedingsbesluit wetten voor oorlogsgetroffenen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-07-27_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoering-overeenkomst-eeg-zwitserland-inzake-verzekeringstoezicht-1994": {
+  "bwb": "BWBR0006703",
+  "short": "Besluit uitvoering overeenkomst EEG/Zwitserland inzake verzekeringstoezicht 1994",
+  "title": "Besluit uitvoering overeenkomst EEG/Zwitserland inzake verzekeringstoezicht 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-01-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoering-overeenkomst-betreffende-de-eer-inzake-verzekeringstoezicht-1994": {
+  "bwb": "BWBR0006704",
+  "short": "Besluit uitvoering overeenkomst betreffende de EER inzake verzekeringstoezicht 1994",
+  "title": "Besluit uitvoering overeenkomst betreffende de EER inzake verzekeringstoezicht 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-12-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-instelling-centraal-justitieel-incassobureau": {
+  "bwb": "BWBR0006713",
+  "short": "Besluit Instelling Centraal Justitieel Incassobureau",
+  "title": "Besluit Instelling Centraal Justitieel Incassobureau",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoering-artikel-577-tweede-lid-wetboek-van-strafvordering": {
+  "bwb": "BWBR0006714",
+  "short": "Besluit uitvoering artikel 577, tweede lid (Wetboek van Strafvordering)",
+  "title": "Besluit uitvoering artikel 577, tweede lid (Wetboek van Strafvordering)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tenuitvoerlegging-geldboeten": {
+  "bwb": "BWBR0006717",
+  "short": "Besl. geldboete",
+  "title": "Besluit tenuitvoerlegging geldboeten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2014-06-07_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-technische-voorzieningen-verzekeringsbedrijf-1994": {
+  "bwb": "BWBR0006732",
+  "short": "B.t.v.",
+  "title": "Besluit technische voorzieningen verzekeringsbedrijf 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-solvabiliteitsmarge-verzekeringsbedrijf-1994": {
+  "bwb": "BWBR0006733",
+  "short": "Bsmv 1994",
+  "title": "Besluit solvabiliteitsmarge verzekeringsbedrijf 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-09-06_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bezoldigingsbesluit-burgerlijke-rijksambtenaren-1984-5": {
+  "bwb": "BWBR0006734",
+  "short": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (5)",
+  "title": "Wijzigingsbesluit Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (5)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-staten-verzekeringsbedrijf-1994": {
+  "bwb": "BWBR0006735",
+  "short": "Bsv 1994",
+  "title": "Besluit staten verzekeringsbedrijf 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-12-02_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-commissarissen-van-de-koning": {
+  "bwb": "BWBR0006738",
+  "short": "Rechtspositiebesluit commissarissen van de Koning",
+  "title": "Rechtspositiebesluit commissarissen van de Koning",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2019-02-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-eindexamenbesluit-v-w-o-h-a-v-o-m-a-v-o-v-b-o-enz-diploma-m-a-v-o-v-b-o": {
+  "bwb": "BWBR0006739",
+  "short": "Wijzigingsbesluit Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. enz. (diploma m.a.v.o.-v.b.o.; compensatie bij gespreide examinering)",
+  "title": "Wijzigingsbesluit Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. enz. (diploma m.a.v.o.-v.b.o.; compensatie bij gespreide examinering)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-inrichtingsbesluit-v-w-o-h-a-v-o-m-a-v-o-v-b-o-toetsen-basisvorming": {
+  "bwb": "BWBR0006741",
+  "short": "Wijzigingsbesluit Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. (toetsen basisvorming)",
+  "title": "Wijzigingsbesluit Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. (toetsen basisvorming)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-08-05_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-bevoegde-autoriteit-voor-afgifte-van-een-eg-verklaring-voor-het-beroep": {
+  "bwb": "BWBR0006742",
+  "short": "Besluit aanwijzing bevoegde autoriteit voor afgifte van een EG-verklaring voor het beroep van advocaat",
+  "title": "Besluit aanwijzing bevoegde autoriteit voor afgifte van een EG-verklaring voor het beroep van advocaat",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-06-29_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-burgemeesters": {
+  "bwb": "BWBR0006743",
+  "short": "Rechtspositiebesluit burgemeesters",
+  "title": "Rechtspositiebesluit burgemeesters",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "voertuigreglement": {
+  "bwb": "BWBR0006746",
+  "short": "VR",
+  "title": "Voertuigreglement",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-nationaliteitstoets-zeeschepen": {
+  "bwb": "BWBR0006752",
+  "short": "Bnz",
+  "title": "Besluit nationaliteitstoets zeeschepen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-07-19_0",
+  "as_of": "2026-11-03"
+ },
+ "bekostigingsbesluit-cultuuruitingen": {
+  "bwb": "BWBR0006759",
+  "short": "Bekostigingsbesluit cultuuruitingen",
+  "title": "Bekostigingsbesluit cultuuruitingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-etikettering-en-bijsluiter-farmaceutische-producten": {
+  "bwb": "BWBR0006779",
+  "short": "Beb",
+  "title": "Besluit etikettering en bijsluiter farmaceutische producten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-03-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-afwijking-verantwoordelijkheidstoedeling-welzijnsbeleid": {
+  "bwb": "BWBR0006787",
+  "short": "Besluit afwijking verantwoordelijkheidstoedeling welzijnsbeleid",
+  "title": "Besluit afwijking verantwoordelijkheidstoedeling welzijnsbeleid",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-09-25_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-milieueffectrapportage": {
+  "bwb": "BWBR0006788",
+  "short": "Besluit MER",
+  "title": "Besluit milieueffectrapportage",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2020-12-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-centraal-fonds-voor-de-volkshuisvesting-wijziging-waarderingsgro": {
+  "bwb": "BWBR0006798",
+  "short": "Wijzigingsbesluit Besluit Centraal Fonds voor de Volkshuisvesting (wijziging waarderingsgrondslagen)",
+  "title": "Wijzigingsbesluit Besluit Centraal Fonds voor de Volkshuisvesting (wijziging waarderingsgrondslagen)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-09-21_0",
+  "as_of": "2026-11-03"
+ },
+ "kalverenbesluit": {
+  "bwb": "BWBR0006805",
+  "short": "Kalverenbesluit",
+  "title": "Kalverenbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-09-14_0",
+  "as_of": "2026-11-03"
+ },
+ "varkensbesluit": {
+  "bwb": "BWBR0006806",
+  "short": "Varkensbesluit",
+  "title": "Varkensbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-subsidiering-en-stimulering-voorzieningen-van-maatschappelijk-en-2": {
+  "bwb": "BWBR0006807",
+  "short": "Wijzigingsbesluit Besluit subsidiëring en stimulering voorzieningen van maatschappelijk en sociaal-cultureel welzijn (2)",
+  "title": "Wijzigingsbesluit Besluit subsidiëring en stimulering voorzieningen van maatschappelijk en sociaal-cultureel welzijn (2)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-08-10_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-produktie-en-handel-vlees-van-vrij-wild": {
+  "bwb": "BWBR0006813",
+  "short": "Besluit produktie en handel vlees van vrij wild",
+  "title": "Besluit produktie en handel vlees van vrij wild",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-07-10_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vakkennis-en-vakbekwaamheidseisen-bestrijdingsmiddelen": {
+  "bwb": "BWBR0006814",
+  "short": "Besluit vakkennis- en vakbekwaamheidseisen bestrijdingsmiddelen",
+  "title": "Besluit vakkennis- en vakbekwaamheidseisen bestrijdingsmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2001-07-28_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-niet-gehouden-dieren": {
+  "bwb": "BWBR0006815",
+  "short": "Besluit niet gehouden dieren",
+  "title": "Besluit niet gehouden dieren",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-uitstroombevorderende-maatregel-defensie": {
+  "bwb": "BWBR0006828",
+  "short": "Tijdelijk besluit uitstroombevorderende maatregel Defensie",
+  "title": "Tijdelijk besluit uitstroombevorderende maatregel Defensie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-02-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verdachte-dieren": {
+  "bwb": "BWBR0006829",
+  "short": "BVD",
+  "title": "Besluit verdachte dieren",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vervoer-van-en-naar-besmette-of-van-besmetting-verdachte-gebouwen-en-terreinen": {
+  "bwb": "BWBR0006830",
+  "short": "Besluit vervoer van en naar besmette of van besmetting verdachte gebouwen en terreinen",
+  "title": "Besluit vervoer van en naar besmette of van besmetting verdachte gebouwen en terreinen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2014-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-goedkeuring-indicatoren-ex-artikel-8-van-de-wet-melding-ongebruikelijke-transactie": {
+  "bwb": "BWBR0006838",
+  "short": "Besluit goedkeuring indicatoren ex artikel 8 van de Wet melding ongebruikelijke transacties",
+  "title": "Besluit goedkeuring indicatoren ex artikel 8 van de Wet melding ongebruikelijke transacties",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-07-30_0",
+  "as_of": "2026-11-03"
+ },
+ "sanctiebesluit-libie-1993": {
+  "bwb": "BWBR0006839",
+  "short": "Sanctiebesluit Libië 1993",
+  "title": "Sanctiebesluit Libië 1993",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-05-28_0",
+  "as_of": "2026-11-03"
+ },
+ "reisbesluit-buitenland": {
+  "bwb": "BWBR0006842",
+  "short": "Reisbesluit buitenland",
+  "title": "Reisbesluit buitenland",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-begripsomschrijving-prijsindexcijfer-van-de-gezinsconsumptie-1994": {
+  "bwb": "BWBR0006843",
+  "short": "Besluit begripsomschrijving prijsindexcijfer van de gezinsconsumptie 1994",
+  "title": "Besluit begripsomschrijving prijsindexcijfer van de gezinsconsumptie 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-10-15_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-van-financiele-instellingen-en-financiele-diensten-in-het-kader-van-de": {
+  "bwb": "BWBR0006844",
+  "short": "Besluit aanwijzing van financiële instellingen en financiële diensten in het kader van de Wet identificatie bij financiële dienstverlening 1993",
+  "title": "Besluit aanwijzing van financiële instellingen en financiële diensten in het kader van de Wet identificatie bij financiële dienstverlening 1993",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-werkwijze-commissie-gelijke-behandeling": {
+  "bwb": "BWBR0006845",
+  "short": "Besluit werkwijze Commissie gelijke behandeling",
+  "title": "Besluit werkwijze Commissie gelijke behandeling",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "rechtspositiebesluit-commissie-gelijke-behandeling": {
+  "bwb": "BWBR0006846",
+  "short": "Rechtspositiebesluit Commissie gelijke behandeling",
+  "title": "Rechtspositiebesluit Commissie gelijke behandeling",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-10-28_0",
+  "as_of": "2026-11-03"
+ },
+ "faciliteitenbesluit-opvangcentra": {
+  "bwb": "BWBR0006849",
+  "short": "Faciliteitenbesluit opvangcentra",
+  "title": "Faciliteitenbesluit opvangcentra",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2014-01-06_0",
+  "as_of": "2026-11-03"
+ },
+ "subsidiebesluit-centraal-orgaan-opvang-asielzoekers": {
+  "bwb": "BWBR0006850",
+  "short": "Subsidiebesluit Centraal Orgaan opvang asielzoekers",
+  "title": "Subsidiebesluit Centraal Orgaan opvang asielzoekers",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tegemoetkoming-ziektekosten-rijkspersoneel": {
+  "bwb": "BWBR0006855",
+  "short": "Besluit tegemoetkoming ziektekosten rijkspersoneel",
+  "title": "Besluit tegemoetkoming ziektekosten rijkspersoneel",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergunningen-mobiele-telecommunicatie": {
+  "bwb": "BWBR0006857",
+  "short": "Bvmt",
+  "title": "Besluit vergunningen mobiele telecommunicatie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-08-15_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-overgangsregeling-atf-en-smf": {
+  "bwb": "BWBR0006858",
+  "short": "Besluit overgangsregeling ATF en SMF",
+  "title": "Besluit overgangsregeling ATF en SMF",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "fokkerijbesluit": {
+  "bwb": "BWBR0006862",
+  "short": "Fokkerijbesluit",
+  "title": "Fokkerijbesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-uitvoeringsbesluit-whw": {
+  "bwb": "BWBR0006866",
+  "short": "Wijzigingsbesluit Uitvoeringsbesluit WHW",
+  "title": "Wijzigingsbesluit Uitvoeringsbesluit WHW",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-08-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-reken-en-procedureregels-recht-op-waarde-overdracht": {
+  "bwb": "BWBR0006867",
+  "short": "Besluit reken- en procedureregels recht op waarde-overdracht",
+  "title": "Besluit reken- en procedureregels recht op waarde-overdracht",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verhaalsbesluit-abp": {
+  "bwb": "BWBR0006869",
+  "short": "Verhaalsbesluit ABP",
+  "title": "Verhaalsbesluit ABP",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-asbest": {
+  "bwb": "BWBR0006870",
+  "short": "Warenwetbesluit asbest",
+  "title": "Warenwetbesluit asbest",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-09-14_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bijzondere-categorieen-producenten-van-dierlijke-meststoffen": {
+  "bwb": "BWBR0006885",
+  "short": "Besluit bijzondere categorieën producenten van dierlijke meststoffen",
+  "title": "Besluit bijzondere categorieën producenten van dierlijke meststoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-09-14_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingsregeling-pensioenen-1993": {
+  "bwb": "BWBR0006905",
+  "short": "Aanpassingsregeling pensioenen 1993",
+  "title": "Aanpassingsregeling pensioenen 1993",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-09-23_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bekostigingsbesluit-wbo-owbo-enz-stelsel-van-stichtingsnormen-en-opheffi": {
+  "bwb": "BWBR0006915",
+  "short": "Wijzigingsbesluit Bekostigingsbesluit WBO/OWBO enz. (Stelsel van Stichtingsnormen en opheffingsnormen)",
+  "title": "Wijzigingsbesluit Bekostigingsbesluit WBO/OWBO enz. (Stelsel van Stichtingsnormen en opheffingsnormen)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-10-28_0",
+  "as_of": "2026-11-03"
+ },
+ "aanduidingenbesluit-tabaksproducten": {
+  "bwb": "BWBR0006920",
+  "short": "Aanduidingenbesluit tabaksproducten",
+  "title": "Aanduidingenbesluit tabaksproducten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2014-03-28_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-gemeentelijke-basisadministratie-persoonsgegevens": {
+  "bwb": "BWBR0006933",
+  "short": "Besluit GBA",
+  "title": "Besluit gemeentelijke basisadministratie persoonsgegevens",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-07-22_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-reglement-dienst-buitenlandse-zaken-intrekking-arbeidsovereenkomst": {
+  "bwb": "BWBR0006939",
+  "short": "Wijzigingsbesluit Reglement Dienst Buitenlandse Zaken (intrekking Arbeidsovereenkomst)",
+  "title": "Wijzigingsbesluit Reglement Dienst Buitenlandse Zaken (intrekking Arbeidsovereenkomst)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-op-de-stads-en-dorpsvernieuwing-wijziging-van-het-systeem-van-be": {
+  "bwb": "BWBR0006946",
+  "short": "Wijzigingsbesluit Besluit op de stads- en dorpsvernieuwing (wijziging van het systeem van beheer van en verslaglegging over de voor de stadsvernieuwing bestemde gelden)",
+  "title": "Wijzigingsbesluit Besluit op de stads- en dorpsvernieuwing (wijziging van het systeem van beheer van en verslaglegging over de voor de stadsvernieuwing bestemde gelden)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-woninggebonden-subsidies-1995": {
+  "bwb": "BWBR0006950",
+  "short": "BWS",
+  "title": "Besluit woninggebonden subsidies 1995",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-gelden-regionaal-verkeersveiligheidsbeleid": {
+  "bwb": "BWBR0006974",
+  "short": "Besluit gelden regionaal verkeersveiligheidsbeleid",
+  "title": "Besluit gelden regionaal verkeersveiligheidsbeleid",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-10-19_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-dierenvervoer-1994": {
+  "bwb": "BWBR0006990",
+  "short": "Besluit dierenvervoer 1994",
+  "title": "Besluit dierenvervoer 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-03-22_0",
+  "as_of": "2026-11-03"
+ },
+ "reclamebesluit-geneesmiddelen": {
+  "bwb": "BWBR0006994",
+  "short": "RBG",
+  "title": "Reclamebesluit geneesmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-02-05_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vervangingsfonds": {
+  "bwb": "BWBR0007009",
+  "short": "Besluit vervangingsfonds",
+  "title": "Besluit vervangingsfonds",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-09-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-grensbedrag-voor-verlening-van-een-afzonderlijke-bijdrage-in-kosten-v": {
+  "bwb": "BWBR0007011",
+  "short": "Besluit vaststelling grensbedrag voor verlening van een afzonderlijke bijdrage in kosten van onderzoek en sanering van de bodem",
+  "title": "Besluit vaststelling grensbedrag voor verlening van een afzonderlijke bijdrage in kosten van onderzoek en sanering van de bodem",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wettelijke-tijd-midden-europa-1995-1996-en-1997": {
+  "bwb": "BWBR0007012",
+  "short": "Besluit wettelijke tijd Midden-Europa 1995, 1996 en 1997",
+  "title": "Besluit wettelijke tijd Midden-Europa 1995, 1996 en 1997",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-12-07_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-burgerlijk-ambtenarenreglement-defensie-enz": {
+  "bwb": "BWBR0007017",
+  "short": "Wijzigingsbesluit Burgerlijk ambtenarenreglement defensie, enz.",
+  "title": "Wijzigingsbesluit Burgerlijk ambtenarenreglement defensie, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-12-16_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rijonderricht-motorrijtuigen": {
+  "bwb": "BWBR0007020",
+  "short": "BRM",
+  "title": "Besluit rijonderricht motorrijtuigen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-overige-niet-meldingplichtige-gevallen-bodemsanering": {
+  "bwb": "BWBR0007044",
+  "short": "Bnmgb",
+  "title": "Besluit overige niet-meldingplichtige gevallen bodemsanering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-gezondheidscontroles-levensmiddelen-van-dierlijke-oorsprong-intraverkeer": {
+  "bwb": "BWBR0007045",
+  "short": "Warenwetbesluit Gezondheidscontroles levensmiddelen van dierlijke oorsprong (intraverkeer)",
+  "title": "Warenwetbesluit Gezondheidscontroles levensmiddelen van dierlijke oorsprong (intraverkeer)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-05-09_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tenuitvoerlegging-jeugdstrafrecht-1994": {
+  "bwb": "BWBR0007083",
+  "short": "Btj 1994",
+  "title": "Besluit tenuitvoerlegging jeugdstrafrecht 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "instellingsbesluit-reglementering-van-het-hoogheemraadschap-de-stichtse-rijnlanden": {
+  "bwb": "BWBR0007084",
+  "short": "Instellingsbesluit reglementering van het Hoogheemraadschap De Stichtse Rijnlanden",
+  "title": "Instellingsbesluit reglementering van het Hoogheemraadschap De Stichtse Rijnlanden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-09_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitkeringen-integraal-structuurplan-noorden-des-lands-1995-99": {
+  "bwb": "BWBR0007085",
+  "short": "Besluit ISP structuurplan",
+  "title": "Besluit uitkeringen Integraal structuurplan noorden des lands 1995/99",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitkeringen-provinciale-investeringspremies-1995-99": {
+  "bwb": "BWBR0007086",
+  "short": "Besluit uitkeringen provinciale investeringspremies 1995/99",
+  "title": "Besluit uitkeringen provinciale investeringspremies 1995/99",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-toezicht-beleggingsinstellingen": {
+  "bwb": "BWBR0007098",
+  "short": "Wijzigingsbesluit Besluit toezicht beleggingsinstellingen",
+  "title": "Wijzigingsbesluit Besluit toezicht beleggingsinstellingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-vrijwillige-verzekering-aow-aww-en-aaw": {
+  "bwb": "BWBR0007105",
+  "short": "Wijzigingsbesluit Besluit vrijwillige verzekering AOW, AWW en AAW",
+  "title": "Wijzigingsbesluit Besluit vrijwillige verzekering AOW, AWW en AAW",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1994-12-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-van-financiele-diensten-in-het-kader-van-de-wet-melding-ongebruikelijke": {
+  "bwb": "BWBR0007106",
+  "short": "Besluit aanwijzing van financiële diensten in het kader van de Wet melding ongebruikelijke transacties (1)",
+  "title": "Besluit aanwijzing van financiële diensten in het kader van de Wet melding ongebruikelijke transacties (1)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-saneringsmaatregelen-industrieterreinen-1994": {
+  "bwb": "BWBR0007107",
+  "short": "Bsi 1994",
+  "title": "Besluit saneringsmaatregelen industrieterreinen 1994",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaartijden-en-bemanningssterkte-binnenvaart": {
+  "bwb": "BWBR0007124",
+  "short": "Besluit vaartijden en bemanningssterkte binnenvaart",
+  "title": "Besluit vaartijden en bemanningssterkte binnenvaart",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-09-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-bedragen-ex-artikel-8-eerste-lid-van-de-wet-minimumloon-en-minimumvak": {
+  "bwb": "BWBR0007131",
+  "short": "Besluit vaststelling bedragen ex artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag",
+  "title": "Besluit vaststelling bedragen ex artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-financiele-diensten-in-het-kader-van-de-wet-melding-ongebruikelijke-tra": {
+  "bwb": "BWBR0007132",
+  "short": "Besluit aanwijzing financiële diensten in het kader van de Wet melding ongebruikelijke transacties (2)",
+  "title": "Besluit aanwijzing financiële diensten in het kader van de Wet melding ongebruikelijke transacties (2)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "bekostigingsbesluit-welzijnsbeleid": {
+  "bwb": "BWBR0007133",
+  "short": "Bekostigingsbesluit welzijnsbeleid",
+  "title": "Bekostigingsbesluit welzijnsbeleid",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-03-08_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-mediabesluit": {
+  "bwb": "BWBR0007134",
+  "short": "Wijzigingsbesluit Mediabesluit",
+  "title": "Wijzigingsbesluit Mediabesluit",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-ex-art-28a-boek-1-burgerlijk-wetboek": {
+  "bwb": "BWBR0007148",
+  "short": "Uitvoeringsbesluit ex art. 28a Boek 1 Burgerlijk Wetboek",
+  "title": "Uitvoeringsbesluit ex art. 28a Boek 1 Burgerlijk Wetboek",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-formatiebesluit-wbo-1992-enz-verlenging-van-de-aanmeldingstermijn-voor-o": {
+  "bwb": "BWBR0007207",
+  "short": "Wijzigingsbesluit Formatiebesluit WBO 1992, enz. (verlenging van de aanmeldingstermijn voor overdracht en verzilvering van formatierekeneenheden en doorvergoeding van buitengebruikgestelde permanente dislocaties)",
+  "title": "Wijzigingsbesluit Formatiebesluit WBO 1992, enz. (verlenging van de aanmeldingstermijn voor overdracht en verzilvering van formatierekeneenheden en doorvergoeding van buitengebruikgestelde permanente dislocaties)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "werkloosheidsbesluit-beroepsmilitairen-bepaalde-tijd": {
+  "bwb": "BWBR0007212",
+  "short": "Werkloosheidsbesluit beroepsmilitairen bepaalde tijd",
+  "title": "Werkloosheidsbesluit beroepsmilitairen bepaalde tijd",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-milieutoelatingseisen-bestrijdingsmiddelen": {
+  "bwb": "BWBR0007214",
+  "short": "Besluit milieutoelatingseisen bestrijdingsmiddelen",
+  "title": "Besluit milieutoelatingseisen bestrijdingsmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-05-10_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-visserijproducten-slakken-en-kikkerbillen": {
+  "bwb": "BWBR0007216",
+  "short": "Warenwetbesluit Visserijproducten, slakken en kikkerbillen",
+  "title": "Warenwetbesluit Visserijproducten, slakken en kikkerbillen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2016-02-19_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-halt-feiten": {
+  "bwb": "BWBR0007217",
+  "short": "Baanw.HF",
+  "title": "Besluit aanwijzing Halt-feiten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-weer-samen-naar-school": {
+  "bwb": "BWBR0007223",
+  "short": "Uitvoeringsbesluit Weer samen naar school",
+  "title": "Uitvoeringsbesluit Weer samen naar school",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-03-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beheer-batterijen": {
+  "bwb": "BWBR0007227",
+  "short": "Bbat",
+  "title": "Besluit beheer batterijen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoer-bestrijdingsmiddelen": {
+  "bwb": "BWBR0007242",
+  "short": "Besluit uitvoer bestrijdingsmiddelen",
+  "title": "Besluit uitvoer bestrijdingsmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-toelatingsvoorschriften-bestrijdingsmiddelen": {
+  "bwb": "BWBR0007243",
+  "short": "Besluit wijziging toelatingsvoorschriften bestrijdingsmiddelen",
+  "title": "Besluit wijziging toelatingsvoorschriften bestrijdingsmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-08-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beoordeling-en-beperking-risico-s-bestaande-stoffen": {
+  "bwb": "BWBR0007245",
+  "short": "Besluit beoordeling en beperking risico's bestaande stoffen",
+  "title": "Besluit beoordeling en beperking risico's bestaande stoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-09-11_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bouwbesluit-enz-ter-voldoening-aan-de-richtlijn-van-de-raad-van-de-europ": {
+  "bwb": "BWBR0007271",
+  "short": "Wijzigingsbesluit Bouwbesluit enz. (ter voldoening aan de richtlijn van de Raad van de Europese Gemeenschappen inzake CE-markering)",
+  "title": "Wijzigingsbesluit Bouwbesluit enz. (ter voldoening aan de richtlijn van de Raad van de Europese Gemeenschappen inzake CE-markering)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-zonering-buitenlandse-luchtvaartterreinen-noord-en-midden-limbur": {
+  "bwb": "BWBR0007277",
+  "short": "Wijzigingsbesluit Besluit zonering buitenlandse luchtvaartterreinen Noord- en Midden-Limburg",
+  "title": "Wijzigingsbesluit Besluit zonering buitenlandse luchtvaartterreinen Noord- en Midden-Limburg",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-03-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-hygiene-gezondheid-en-veiligheid-kampeerterreinen": {
+  "bwb": "BWBR0007281",
+  "short": "Besluit hygiëne, gezondheid en veiligheid kampeerterreinen",
+  "title": "Besluit hygiëne, gezondheid en veiligheid kampeerterreinen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-02-25_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-verlaagde-wekeneis-werkloosheidswet": {
+  "bwb": "BWBR0007282",
+  "short": "Wijzigingsbesluit Besluit verlaagde wekeneis Werkloosheidswet",
+  "title": "Wijzigingsbesluit Besluit verlaagde wekeneis Werkloosheidswet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-inrichtingen-en-vergunningenbesluit-milieubeheer-enz": {
+  "bwb": "BWBR0007288",
+  "short": "Wijzigingsbesluit Inrichtingen- en vergunningenbesluit milieubeheer, enz.",
+  "title": "Wijzigingsbesluit Inrichtingen- en vergunningenbesluit milieubeheer, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-05-06_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-formatiebesluit-wbo-1992-enz": {
+  "bwb": "BWBR0007293",
+  "short": "Wijzigingsbesluit Formatiebesluit WBO 1992, enz.",
+  "title": "Wijzigingsbesluit Formatiebesluit WBO 1992, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-04-21_0",
+  "as_of": "2026-11-03"
+ },
+ "bezoldigingsbesluit-burgemeester-secretaris": {
+  "bwb": "BWBR0007296",
+  "short": "Bezoldigingsbesluit burgemeester/secretaris",
+  "title": "Bezoldigingsbesluit burgemeester/secretaris",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-rechtspositiebesluit-onderwijspersoneel-6": {
+  "bwb": "BWBR0007301",
+  "short": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel (6)",
+  "title": "Wijzigingsbesluit Rechtspositiebesluit onderwijspersoneel (6)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-12-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-medische-hulpmiddelen-2": {
+  "bwb": "BWBR0007307",
+  "short": "Bmh",
+  "title": "Besluit medische hulpmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2020-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-ijkreglement-enz-inzake-taxameters": {
+  "bwb": "BWBR0007319",
+  "short": "Wijzigingsbesluit IJkreglement, enz. inzake taxameters",
+  "title": "Wijzigingsbesluit IJkreglement, enz. inzake taxameters",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rechtspositie-vrijwillige-politie": {
+  "bwb": "BWBR0007321",
+  "short": "Besluit rechtspositie vrijwillige politie",
+  "title": "Besluit rechtspositie vrijwillige politie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uniforme-beginselen-gewasbeschermingsmiddelen": {
+  "bwb": "BWBR0007323",
+  "short": "Besluit uniforme beginselen gewasbeschermingsmiddelen",
+  "title": "Besluit uniforme beginselen gewasbeschermingsmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-12-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tegemoetkoming-ziektekosten-en-inkomenstoeslag-onderwijs-en-onderzoekpersoneel": {
+  "bwb": "BWBR0007326",
+  "short": "Besluit tegemoetkoming ziektekosten en inkomenstoeslag onderwijs- en onderzoekpersoneel",
+  "title": "Besluit tegemoetkoming ziektekosten en inkomenstoeslag onderwijs- en onderzoekpersoneel",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-07-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bijstandverlening-zelfstandigen": {
+  "bwb": "BWBR0007335",
+  "short": "BBZ",
+  "title": "Besluit bijstandverlening zelfstandigen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-krediethypotheek-bijstand": {
+  "bwb": "BWBR0007336",
+  "short": "Besluit krediethypotheek bijstand",
+  "title": "Besluit krediethypotheek bijstand",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-10-11_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beeindiging-salarisregeling-voor-burgerleerkrachten-bij-het-ministerie-van-defensi": {
+  "bwb": "BWBR0007340",
+  "short": "Besluit beëindiging salarisregeling voor burgerleerkrachten bij het Ministerie van Defensie",
+  "title": "Besluit beëindiging salarisregeling voor burgerleerkrachten bij het Ministerie van Defensie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-05-17_0",
+  "as_of": "2026-11-03"
+ },
+ "loodsgeldbesluit-1995": {
+  "bwb": "BWBR0007342",
+  "short": "Loodsgeldbesluit 1995",
+  "title": "Loodsgeldbesluit 1995",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-formatiebesluit-dagscholen-m-b-o-enz": {
+  "bwb": "BWBR0007360",
+  "short": "Wijzigingsbesluit Formatiebesluit dagscholen m.b.o., enz.",
+  "title": "Wijzigingsbesluit Formatiebesluit dagscholen m.b.o., enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bijdragen-justitiele-kinderbescherming-en-vrijwillige-jeugdhulpverlening": {
+  "bwb": "BWBR0007362",
+  "short": "Besluit bijdragen justitiële kinderbescherming en vrijwillige jeugdhulpverlening",
+  "title": "Besluit bijdragen justitiële kinderbescherming en vrijwillige jeugdhulpverlening",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2004-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beheer-personenwagenbanden": {
+  "bwb": "BWBR0007363",
+  "short": "Bbpwb",
+  "title": "Besluit beheer personenwagenbanden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-07-02_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-voorbereidingskosten-regionale-verkeers-en-vervoerplannen": {
+  "bwb": "BWBR0007392",
+  "short": "Besluit voorbereidingskosten regionale verkeers- en vervoerplannen",
+  "title": "Besluit voorbereidingskosten regionale verkeers- en vervoerplannen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-premiespaarregeling-rijksambtenaren-1968-afschaffing-voor-onderwijs-en-o": {
+  "bwb": "BWBR0007393",
+  "short": "Wijzigingsbesluit Premiespaarregeling Rijksambtenaren 1968 (afschaffing voor onderwijs- en onderzoekpersoneel)",
+  "title": "Wijzigingsbesluit Premiespaarregeling Rijksambtenaren 1968 (afschaffing voor onderwijs- en onderzoekpersoneel)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-06-07_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bouwbesluit-energieprestatie": {
+  "bwb": "BWBR0007416",
+  "short": "Wijzigingsbesluit Bouwbesluit (energieprestatie)",
+  "title": "Wijzigingsbesluit Bouwbesluit (energieprestatie)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-12-15_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-opleidingseisen-verpleegkundige": {
+  "bwb": "BWBR0007443",
+  "short": "BOV",
+  "title": "Besluit opleidingseisen verpleegkundige",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2006-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bekostigingsbesluiten-wbo-owbo-isovso-oisovso-en-wvo-en-het-uitvoeringsb": {
+  "bwb": "BWBR0007448",
+  "short": "Wijzigingsbesluit Bekostigingsbesluiten WBO/OWBO, ISOVSO/OISOVSO, en WVO en het Uitvoeringsbesluit WCBO",
+  "title": "Wijzigingsbesluit Bekostigingsbesluiten WBO/OWBO, ISOVSO/OISOVSO, en WVO en het Uitvoeringsbesluit WCBO",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-11-14_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-goedkeuring-indicatoren-voor-casino-en-creditcardtransacties": {
+  "bwb": "BWBR0007463",
+  "short": "Besluit goedkeuring indicatoren voor casino- en creditcardtransacties",
+  "title": "Besluit goedkeuring indicatoren voor casino- en creditcardtransacties",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-06-30_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-uitvoeringsbesluit-verontreiniging-rijkswateren-overgang-invordering-ver": {
+  "bwb": "BWBR0007464",
+  "short": "Wijzigingsbesluit Uitvoeringsbesluit verontreiniging rijkswateren (overgang invordering verontreinigingsheffing rijkswateren naar rijksbelastingdienst)",
+  "title": "Wijzigingsbesluit Uitvoeringsbesluit verontreiniging rijkswateren (overgang invordering verontreinigingsheffing rijkswateren naar rijksbelastingdienst)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-07-07_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-typekeuring-verwarmingstoestellen-luchtverontreiniging-stikstofoxiden": {
+  "bwb": "BWBR0007465",
+  "short": "Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden",
+  "title": "Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2010-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-formatiebesluit-scholen-v-w-o-a-v-o-v-b-o-enz-invoering-lump-sum-bekosti": {
+  "bwb": "BWBR0007489",
+  "short": "Wijzigingsbesluit Formatiebesluit scholen v.w.o.-a.v.o.-v.b.o., enz. (invoering lump-sum-bekostiging v.w.o.-a.v.o.-v.b.o.; harmonisatie teldata)",
+  "title": "Wijzigingsbesluit Formatiebesluit scholen v.w.o.-a.v.o.-v.b.o., enz. (invoering lump-sum-bekostiging v.w.o.-a.v.o.-v.b.o.; harmonisatie teldata)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "kaderbesluit-rechtspositie-vo": {
+  "bwb": "BWBR0007495",
+  "short": "Kaderbesluit rechtspositie VO",
+  "title": "Kaderbesluit rechtspositie VO",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-02-23_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-explosieveilig-materieel": {
+  "bwb": "BWBR0007497",
+  "short": "Warenwetbesluit explosieveilig materieel",
+  "title": "Warenwetbesluit explosieveilig materieel",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "invoeringsbesluit-gewijzigd-vormingswerk": {
+  "bwb": "BWBR0007498",
+  "short": "Invoeringsbesluit gewijzigd Vormingswerk",
+  "title": "Invoeringsbesluit gewijzigd Vormingswerk",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-08-24_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-frisdranken": {
+  "bwb": "BWBR0007501",
+  "short": "Warenwetbesluit Frisdranken",
+  "title": "Warenwetbesluit Frisdranken",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2000-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoering-wet-arbeid-vreemdelingen": {
+  "bwb": "BWBR0007523",
+  "short": "Besluit wav",
+  "title": "Besluit uitvoering Wet arbeid vreemdelingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2021-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-taak-dad": {
+  "bwb": "BWBR0007535",
+  "short": "Besluit taak DAD",
+  "title": "Besluit taak DAD",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-bedrijfsbrandweren-enz": {
+  "bwb": "BWBR0007536",
+  "short": "Wijzigingsbesluit Besluit bedrijfsbrandweren, enz.",
+  "title": "Wijzigingsbesluit Besluit bedrijfsbrandweren, enz.",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-09-20_0",
+  "as_of": "2026-11-03"
+ },
+ "zevende-wijzigingsbesluit-binnenvaartpolitiereglement": {
+  "bwb": "BWBR0007537",
+  "short": "Zevende wijzigingsbesluit Binnenvaartpolitiereglement",
+  "title": "Zevende wijzigingsbesluit Binnenvaartpolitiereglement",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-salarissen-van-het-personeel-van-de-sector-rijk-en-regeling-van-een-dist": {
+  "bwb": "BWBR0007538",
+  "short": "Besluit wijziging salarissen van het personeel van de sector Rijk en regeling van een distorsietoeslag",
+  "title": "Besluit wijziging salarissen van het personeel van de sector Rijk en regeling van een distorsietoeslag",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-10-04_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-warenwetbesluiten-inzake-kleurstoffen": {
+  "bwb": "BWBR0007540",
+  "short": "Wijzigingsbesluit warenwetbesluiten inzake kleurstoffen",
+  "title": "Wijzigingsbesluit warenwetbesluiten inzake kleurstoffen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-09-25_0",
+  "as_of": "2026-11-03"
+ },
+ "kaderbesluit-etikettering-energiegebruik-huishoudelijke-apparatuur": {
+  "bwb": "BWBR0007551",
+  "short": "Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur",
+  "title": "Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tariefbesluit-pachtwet-1995": {
+  "bwb": "BWBR0007560",
+  "short": "Tariefbesluit Pachtwet 1995",
+  "title": "Tariefbesluit Pachtwet 1995",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-doeluitkering-rampenbestrijding-in-verband-met-het-invoeren-van": {
+  "bwb": "BWBR0007561",
+  "short": "Wijzigingsbesluit Besluit doeluitkering rampenbestrijding in verband met het invoeren van de brandweercompagnie",
+  "title": "Wijzigingsbesluit Besluit doeluitkering rampenbestrijding in verband met het invoeren van de brandweercompagnie",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-09-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoering-eg-ozonrichtlijn": {
+  "bwb": "BWBR0007562",
+  "short": "Besluit uitvoering EG-ozonrichtlijn",
+  "title": "Besluit uitvoering EG-ozonrichtlijn",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1997-11-19_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-onderhoudsvoorwaarden-kinderbijslag": {
+  "bwb": "BWBR0007568",
+  "short": "Bok",
+  "title": "Besluit onderhoudsvoorwaarden kinderbijslag",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2012-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-onderhoudsvoorwaarden-kinderbijslag-18-plussers": {
+  "bwb": "BWBR0007569",
+  "short": "Tbovkb",
+  "title": "Tijdelijk besluit onderhoudsvoorwaarden kinderbijslag 18-plussers",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "regelen-omtrent-onverenigbaarheid-van-het-lidmaatschap-van-de-ser-met-enige-andere-werkzaa": {
+  "bwb": "BWBR0007573",
+  "short": "Regelen omtrent onverenigbaarheid van het lidmaatschap van de SER met enige andere werkzaamheden",
+  "title": "Regelen omtrent onverenigbaarheid van het lidmaatschap van de SER met enige andere werkzaamheden",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2011-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verlenging-werkingsduur-wet-sociale-werkvoorziening-betreffende-budgetfinanciering": {
+  "bwb": "BWBR0007575",
+  "short": "Besluit verlenging werkingsduur Wet Sociale Werkvoorziening betreffende budgetfinanciering, decentralisatie en deregulering",
+  "title": "Besluit verlenging werkingsduur Wet Sociale Werkvoorziening betreffende budgetfinanciering, decentralisatie en deregulering",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingsregeling-pensioenen-1995": {
+  "bwb": "BWBR0007576",
+  "short": "Aanpassingsregeling pensioenen 1995",
+  "title": "Aanpassingsregeling pensioenen 1995",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-10-25_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-cosmetische-producten": {
+  "bwb": "BWBR0007603",
+  "short": "WCP",
+  "title": "Warenwetbesluit cosmetische producten",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-01-11_0",
+  "as_of": "2026-11-03"
+ },
+ "pachtnormenbesluit-1995": {
+  "bwb": "BWBR0007614",
+  "short": "Pachtnormenbesluit 1995",
+  "title": "Pachtnormenbesluit 1995",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-broeikasgassen-in-apparatuur-op-schepen-milieubeheer": {
+  "bwb": "BWBR0007617",
+  "short": "Besluit broeikasgassen in apparatuur op schepen milieubeheer",
+  "title": "Besluit broeikasgassen in apparatuur op schepen milieubeheer",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2008-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-locatiegebonden-subsidies": {
+  "bwb": "BWBR0007624",
+  "short": "Wijzigingsbesluit Besluit locatiegebonden subsidies",
+  "title": "Wijzigingsbesluit Besluit locatiegebonden subsidies",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-01-14_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-mobiele-telecommunicatie-gsm-in-verband-met-de-invoering-van-het": {
+  "bwb": "BWBR0007628",
+  "short": "Wijzigingsbesluit Besluit mobiele telecommunicatie GSM in verband met de invoering van het systeem voor een openbare paneuropese semafoondienst te land (ERMES)",
+  "title": "Wijzigingsbesluit Besluit mobiele telecommunicatie GSM in verband met de invoering van het systeem voor een openbare paneuropese semafoondienst te land (ERMES)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bekostigingsbesluit-wbo-owbo-enz-i-v-m-verstrekking-van-wachtgeldopslag": {
+  "bwb": "BWBR0007637",
+  "short": "Wijzigingsbesluit Bekostigingsbesluit WBO/OWBO, enz. (i.v.m. verstrekking van wachtgeldopslag)",
+  "title": "Wijzigingsbesluit Bekostigingsbesluit WBO/OWBO, enz. (i.v.m. verstrekking van wachtgeldopslag)",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-02-28_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-ambtenaren-als-bedoeld-in-artikel-27-eerste-lid-van-de-vleeskeuringswet": {
+  "bwb": "BWBR0007638",
+  "short": "Besluit aanwijzing ambtenaren als bedoeld in artikel 27, eerste lid, van de Vleeskeuringswet",
+  "title": "Besluit aanwijzing ambtenaren als bedoeld in artikel 27, eerste lid, van de Vleeskeuringswet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-07-10_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-subsidies-waterschade-1995": {
+  "bwb": "BWBR0007640",
+  "short": "Besluit subsidies waterschade 1995",
+  "title": "Besluit subsidies waterschade 1995",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-11-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-inkomenstoeslag-dienstplichtigen": {
+  "bwb": "BWBR0007641",
+  "short": "Besluit inkomenstoeslag dienstplichtigen",
+  "title": "Besluit inkomenstoeslag dienstplichtigen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1995-12-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-solvabiliteitsmarge-natura-uitvaartverzekeringsbedrijf": {
+  "bwb": "BWBR0007650",
+  "short": "Bsmn",
+  "title": "Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-technische-voorzieningen-natura-uitvaartverzekeringsbedrijf": {
+  "bwb": "BWBR0007651",
+  "short": "Btvn",
+  "title": "Besluit technische voorzieningen natura-uitvaartverzekeringsbedrijf",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-staten-natura-uitvaartverzekeringsbedrijf": {
+  "bwb": "BWBR0007652",
+  "short": "Bsn",
+  "title": "Besluit staten natura-uitvaartverzekeringsbedrijf",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "bouwstoffenbesluit-bodem-en-oppervlaktewaterenbescherming": {
+  "bwb": "BWBR0007667",
+  "short": "Bbo",
+  "title": "Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-05-23_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-kwaliteitsregels-kinderopvang": {
+  "bwb": "BWBR0007668",
+  "short": "Tijdelijk besluit kwaliteitsregels kinderopvang",
+  "title": "Tijdelijk besluit kwaliteitsregels kinderopvang",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "bekostigingsbesluit-pensioen-en-uitkeringsraad-1996": {
+  "bwb": "BWBR0007669",
+  "short": "Bekostigingsbesluit Pensioen- en Uitkeringsraad 1996",
+  "title": "Bekostigingsbesluit Pensioen- en Uitkeringsraad 1996",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2009-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-belasting-zware-motorrijtuigen": {
+  "bwb": "BWBR0007679",
+  "short": "Uitv besl bzm",
+  "title": "Uitvoeringsbesluit belasting zware motorrijtuigen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-passende-arbeid-schoolverlaters-en-academici-ww-en-zw": {
+  "bwb": "BWBR0007683",
+  "short": "Bpas",
+  "title": "Besluit passende arbeid schoolverlaters en academici WW en ZW",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-administratieve-verplichtingen-waterschapsbelastingen": {
+  "bwb": "BWBR0007686",
+  "short": "Besluit administratieve verplichtingen waterschapsbelastingen",
+  "title": "Besluit administratieve verplichtingen waterschapsbelastingen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2002-01-09_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kennis-en-inzicht-sociale-hygiene-drank-en-horecawet": {
+  "bwb": "BWBR0007689",
+  "short": "Besluit kennis en inzicht sociale hygiëne Drank- en Horecawet",
+  "title": "Besluit kennis en inzicht sociale hygiëne Drank- en Horecawet",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-college-van-toezicht-op-de-kansspelen": {
+  "bwb": "BWBR0007697",
+  "short": "Besluit College van toezicht op de kansspelen",
+  "title": "Besluit College van toezicht op de kansspelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2007-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "algemeen-uitvoeringsbesluit-vestigingswet-bedrijven-1954": {
+  "bwb": "BWBR0007699",
+  "short": "Algemeen uitvoeringsbesluit Vestigingswet Bedrijven 1954",
+  "title": "Algemeen uitvoeringsbesluit Vestigingswet Bedrijven 1954",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2003-04-25_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-reclamebesluit-geneesmiddelen": {
+  "bwb": "BWBR0007707",
+  "short": "Wijzigingsbesluit Reclamebesluit geneesmiddelen",
+  "title": "Wijzigingsbesluit Reclamebesluit geneesmiddelen",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1996-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-toezicht-effectenverkeer-1995": {
+  "bwb": "BWBR0007708",
+  "short": "Bte 1995",
+  "title": "Besluit toezicht effectenverkeer 1995",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "2005-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bekostigingsbesluit-welzijnsbeleid": {
+  "bwb": "BWBR0007738",
+  "short": "Wijzigingsbesluit Bekostigingsbesluit welzijnsbeleid",
+  "title": "Wijzigingsbesluit Bekostigingsbesluit welzijnsbeleid",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1997-07-23_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-opleidingen-en-diploma-s-archivistiek": {
+  "bwb": "BWBR0007749",
+  "short": "Tijdelijk besluit opleidingen en diploma's archivistiek",
+  "title": "Tijdelijk besluit opleidingen en diploma's archivistiek",
+  "part": "bwb-now-amvbr-001",
+  "current_label": "1999-09-17_0",
+  "as_of": "2026-11-03"
  }
 }
