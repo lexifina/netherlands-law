@@ -17451,5 +17451,333 @@
   "part": "bwb-now-wet-013",
   "current_label": "2019-02-16_0",
   "as_of": "2026-11-03"
+ },
+ "wet-toezicht-trustkantoren-2018": {
+  "bwb": "BWBR0041583",
+  "short": "Wtt 2018",
+  "title": "Wet toezicht trustkantoren 2018",
+  "part": "bwb-now-wet-014",
+  "current_label": "2025-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-bescherming-bedrijfsgeheimen": {
+  "bwb": "BWBR0041459",
+  "short": "Wet bescherming bedrijfsgeheimen",
+  "title": "Wet bescherming bedrijfsgeheimen",
+  "part": "bwb-now-wet-014",
+  "current_label": "2023-02-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-bekostiging-financieel-toezicht-2019": {
+  "bwb": "BWBR0041548",
+  "short": "Wet bekostiging financieel toezicht 2019",
+  "title": "Wet bekostiging financieel toezicht 2019",
+  "part": "bwb-now-wet-014",
+  "current_label": "2026-08-15_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-szw-2019": {
+  "bwb": "BWBR0041571",
+  "short": "Verzamelwet SZW 2019",
+  "title": "Verzamelwet SZW 2019",
+  "part": "bwb-now-wet-014",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-kwaliteit-klachten-en-geschillen-zorg-totstandkoming-implantatenregister": {
+  "bwb": "BWBR0041041",
+  "short": "Wijzigingswet Wet kwaliteit, klachten en geschillen zorg (totstandkoming implantatenregister ter bescherming gezondheid cliënten)",
+  "title": "Wijzigingswet Wet kwaliteit, klachten en geschillen zorg (totstandkoming implantatenregister ter bescherming gezondheid cliënten)",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-accreditatie-op-maat": {
+  "bwb": "BWBR0041117",
+  "short": "Wet accreditatie op maat",
+  "title": "Wet accreditatie op maat",
+  "part": "bwb-now-wet-014",
+  "current_label": "2020-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "intrekkingswet-wet-raadgevend-referendum": {
+  "bwb": "BWBR0041149",
+  "short": "Intrekkingswet Wet raadgevend referendum",
+  "title": "Intrekkingswet Wet raadgevend referendum",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-07-12_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-gedeeltelijk-verbod-gezichtsbedekkende-kleding": {
+  "bwb": "BWBR0041161",
+  "short": "Wet gedeeltelijk verbod gezichtsbedekkende kleding",
+  "title": "Wet gedeeltelijk verbod gezichtsbedekkende kleding",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-houdende-maatregelen-met-betrekking-tot-de-transitievergoeding-bij-ontslag-wegens-bedr": {
+  "bwb": "BWBR0041178",
+  "short": "Wet houdende maatregelen met betrekking tot de transitievergoeding bij ontslag wegens bedrijfseconomische omstandigheden of langdurige arbeidsongeschiktheid",
+  "title": "Wet houdende maatregelen met betrekking tot de transitievergoeding bij ontslag wegens bedrijfseconomische omstandigheden of langdurige arbeidsongeschiktheid",
+  "part": "bwb-now-wet-014",
+  "current_label": "2020-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-vierde-anti-witwasrichtlijn": {
+  "bwb": "BWBR0041195",
+  "short": "Implementatiewet vierde anti-witwasrichtlijn",
+  "title": "Implementatiewet vierde anti-witwasrichtlijn",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-07-25_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-verlaagd-wettel": {
+  "bwb": "BWBR0041206",
+  "short": "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (verlaagd wettelijk collegegeld)",
+  "title": "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (verlaagd wettelijk collegegeld)",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-02_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-uitvoering-verordening-sftr": {
+  "bwb": "BWBR0041212",
+  "short": "Wet uitvoering verordening SFTR",
+  "title": "Wet uitvoering verordening SFTR",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-ministeriele-verantwoordelijkheid-en-ambtsdelicten-leden-staten-generaal": {
+  "bwb": "BWBR0041213",
+  "short": "Wijzigingswet Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen, enz. (aanbrengen enkele moderniseringen)",
+  "title": "Wijzigingswet Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen, enz. (aanbrengen enkele moderniseringen)",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-19_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingswet-algemene-verordening-gegevensbescherming": {
+  "bwb": "BWBR0041233",
+  "short": "Aanpassingswet Algemene verordening gegevensbescherming",
+  "title": "Aanpassingswet Algemene verordening gegevensbescherming",
+  "part": "bwb-now-wet-014",
+  "current_label": "2023-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-vervolging-en-berechting-in-nederland-van-strafbare-feiten-in-verband-met-neerhalen-ma": {
+  "bwb": "BWBR0041260",
+  "short": "Wet vervolging en berechting in Nederland van strafbare feiten in verband met neerhalen Malaysia Airlines vlucht MH17",
+  "title": "Wet vervolging en berechting in Nederland van strafbare feiten in verband met neerhalen Malaysia Airlines vlucht MH17",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-08-25_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-beroepen-in-de-individuele-gezondheidszorg-enz-verbeteringen-tucht": {
+  "bwb": "BWBR0041261",
+  "short": "Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg, enz. (verbeteringen tuchtrecht alsmede verbeteringen ten aanzien functioneren wet)",
+  "title": "Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg, enz. (verbeteringen tuchtrecht alsmede verbeteringen ten aanzien functioneren wet)",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-haarlemmerliede-en-spaarnwoude-en-haarlemmermeer": {
+  "bwb": "BWBR0041277",
+  "short": "Wet samenvoeging gemeenten Haarlemmerliede en Spaarnwoude en Haarlemmermeer",
+  "title": "Wet samenvoeging gemeenten Haarlemmerliede en Spaarnwoude en Haarlemmermeer",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-binnenmaas-cromstrijen-korendijk-oud-beijerland-en-strijen": {
+  "bwb": "BWBR0041279",
+  "short": "Wet samenvoeging gemeenten Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen",
+  "title": "Wet samenvoeging gemeenten Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-tot-samenvoeging-van-de-gemeenten-groningen-haren-en-ten-boer": {
+  "bwb": "BWBR0041282",
+  "short": "Wet tot samenvoeging van de gemeenten Groningen, Haren en Ten Boer",
+  "title": "Wet tot samenvoeging van de gemeenten Groningen, Haren en Ten Boer",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-leerdam-vianen-en-zederik-en-wijziging-grens-tussen-provincies": {
+  "bwb": "BWBR0041284",
+  "short": "Wet samenvoeging gemeenten Leerdam, Vianen en Zederik en wijziging grens tussen provincies Utrecht en Zuid-Holland",
+  "title": "Wet samenvoeging gemeenten Leerdam, Vianen en Zederik en wijziging grens tussen provincies Utrecht en Zuid-Holland",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-bedum-de-marne-eemsmond-en-winsum": {
+  "bwb": "BWBR0041288",
+  "short": "Wet samenvoeging gemeenten Bedum, De Marne, Eemsmond en Winsum",
+  "title": "Wet samenvoeging gemeenten Bedum, De Marne, Eemsmond en Winsum",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-aalburg-werkendam-en-woudrichem": {
+  "bwb": "BWBR0041290",
+  "short": "Wet samenvoeging gemeenten Aalburg, Werkendam en Woudrichem",
+  "title": "Wet samenvoeging gemeenten Aalburg, Werkendam en Woudrichem",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-grootegast-leek-marum-en-zuidhorn-en-deel-grondgebied-gemeente": {
+  "bwb": "BWBR0041292",
+  "short": "Wet samenvoeging gemeenten Grootegast, Leek, Marum en Zuidhorn en deel grondgebied gemeente Winsum",
+  "title": "Wet samenvoeging gemeenten Grootegast, Leek, Marum en Zuidhorn en deel grondgebied gemeente Winsum",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-geldermalsen-lingewaal-en-neerijnen": {
+  "bwb": "BWBR0041293",
+  "short": "Wet samenvoeging gemeenten Geldermalsen, Lingewaal en Neerijnen",
+  "title": "Wet samenvoeging gemeenten Geldermalsen, Lingewaal en Neerijnen",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-giessenlanden-en-molenwaard": {
+  "bwb": "BWBR0041294",
+  "short": "Wet samenvoeging gemeenten Giessenlanden en Molenwaard",
+  "title": "Wet samenvoeging gemeenten Giessenlanden en Molenwaard",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-nuth-onderbanken-en-schinnen": {
+  "bwb": "BWBR0041298",
+  "short": "Wet samenvoeging gemeenten Nuth, Onderbanken en Schinnen",
+  "title": "Wet samenvoeging gemeenten Nuth, Onderbanken en Schinnen",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-dongeradeel-ferwerderadiel-en-kollumerland-en-nieuwkruisland": {
+  "bwb": "BWBR0041305",
+  "short": "Wet samenvoeging gemeenten Dongeradeel, Ferwerderadiel en Kollumerland en Nieuwkruisland",
+  "title": "Wet samenvoeging gemeenten Dongeradeel, Ferwerderadiel en Kollumerland en Nieuwkruisland",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-noordwijk-en-noordwijkerhout": {
+  "bwb": "BWBR0041306",
+  "short": "Wet samenvoeging gemeenten Noordwijk en Noordwijkerhout",
+  "title": "Wet samenvoeging gemeenten Noordwijk en Noordwijkerhout",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-ter-implementatie-leesgehandicaptenrichtlijn-en-ter-uitvoering-leesgehandicaptenverord": {
+  "bwb": "BWBR0041326",
+  "short": "Wet ter implementatie leesgehandicaptenrichtlijn en ter uitvoering leesgehandicaptenverordening",
+  "title": "Wet ter implementatie leesgehandicaptenrichtlijn en ter uitvoering leesgehandicaptenverordening",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-10-11_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-uitbreiding-mogelijkheden-om-t": {
+  "bwb": "BWBR0041327",
+  "short": "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (uitbreiding mogelijkheden om t.a.v. voor het leven benoemde rechterlijke ambtenaren disciplinaire maatregelen op te leggen, enz.)",
+  "title": "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (uitbreiding mogelijkheden om t.a.v. voor het leven benoemde rechterlijke ambtenaren disciplinaire maatregelen op te leggen, enz.)",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-modernisering-faillissementsprocedure": {
+  "bwb": "BWBR0041333",
+  "short": "Wet modernisering faillissementsprocedure",
+  "title": "Wet modernisering faillissementsprocedure",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-justitie-en-veiligheid-2018": {
+  "bwb": "BWBR0041352",
+  "short": "Verzamelwet Justitie en Veiligheid 2018",
+  "title": "Verzamelwet Justitie en Veiligheid 2018",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-09-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafrecht-enz-verbetering-en-versterking-opsporing-en-vervolgin": {
+  "bwb": "BWBR0041368",
+  "short": "Wijzigingswet Wetboek van Strafrecht, enz. (verbetering en versterking opsporing en vervolging computercriminaliteit (computercriminaliteit III))",
+  "title": "Wijzigingswet Wetboek van Strafrecht, enz. (verbetering en versterking opsporing en vervolging computercriminaliteit (computercriminaliteit III))",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-verordening-huwelijksvermogensstelsels-en-verordening-vermogensrechtelijke": {
+  "bwb": "BWBR0041407",
+  "short": "Uitvoeringswet Verordening huwelijksvermogensstelsels en Verordening vermogensrechtelijke gevolgen geregistreerde partnerschappen",
+  "title": "Uitvoeringswet Verordening huwelijksvermogensstelsels en Verordening vermogensrechtelijke gevolgen geregistreerde partnerschappen",
+  "part": "bwb-now-wet-014",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafrecht-enz-versterking-strafrechtelijke-aanpak-terrorisme": {
+  "bwb": "BWBR0041421",
+  "short": "Wijzigingswet Wetboek van Strafrecht, enz. (versterking strafrechtelijke aanpak terrorisme)",
+  "title": "Wijzigingswet Wetboek van Strafrecht, enz. (versterking strafrechtelijke aanpak terrorisme)",
+  "part": "bwb-now-wet-014",
+  "current_label": "2018-10-16_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-experimenten-met-geautomatiseerde-systemen-in-motorrij": {
+  "bwb": "BWBR0041438",
+  "short": "Wijzigingswet Wegenverkeerswet 1994 (experimenten met geautomatiseerde systemen in motorrijtuigen)",
+  "title": "Wijzigingswet Wegenverkeerswet 1994 (experimenten met geautomatiseerde systemen in motorrijtuigen)",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-uitvoering-antidopingbeleid": {
+  "bwb": "BWBR0041439",
+  "short": "Wet uitvoering antidopingbeleid",
+  "title": "Wet uitvoering antidopingbeleid",
+  "part": "bwb-now-wet-014",
+  "current_label": "2025-07-05_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-vws-2018": {
+  "bwb": "BWBR0041467",
+  "short": "Verzamelwet VWS 2018",
+  "title": "Verzamelwet VWS 2018",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-politiegegevens-enz-implementatie-europese-regelgeving-inzake-verwerking": {
+  "bwb": "BWBR0041533",
+  "short": "Wijzigingswet Wet politiegegevens, enz. (implementatie Europese regelgeving inzake verwerking van persoonsgegevens)",
+  "title": "Wijzigingswet Wet politiegegevens, enz. (implementatie Europese regelgeving inzake verwerking van persoonsgegevens)",
+  "part": "bwb-now-wet-014",
+  "current_label": "2023-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-financiele-markten-2018": {
+  "bwb": "BWBR0041547",
+  "short": "Wijzigingswet financiële markten 2018",
+  "title": "Wijzigingswet financiële markten 2018",
+  "part": "bwb-now-wet-014",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-invoering-extra-geboorteverlof": {
+  "bwb": "BWBR0041646",
+  "short": "Wet invoering extra geboorteverlof",
+  "title": "Wet invoering extra geboorteverlof",
+  "part": "bwb-now-wet-014",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-03"
  }
 }
