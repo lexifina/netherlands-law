@@ -4,7 +4,7 @@
   "name": "Netherlands",
   "level": "country",
   "repo": "https://github.com/lexifina/netherlands-law",
-  "build": "built: 21536 regulations from the Basiswettenbestand (BWB), 35,827 versions, 1815-2026 (292 with history from their oldest BWB version, 21,244 with their current text only); see README.md for the list",
+  "build": "built: 23412 regulations from the Basiswettenbestand (BWB), 39,573 versions, 1815-2026 (292 with history from their oldest BWB version, 23,120 with their current text only); see README.md for the list",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }

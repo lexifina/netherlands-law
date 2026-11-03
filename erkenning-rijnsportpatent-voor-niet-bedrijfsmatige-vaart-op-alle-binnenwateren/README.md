@@ -1,0 +1,6 @@
+# Erkenning Rijnsportpatent voor niet-bedrijfsmatige vaart op alle binnenwateren
+
+Erkenning Rijnsportpatent voor niet-bedrijfsmatige vaart op alle binnenwateren · 2 versions, from 1986-08-08 (latest in force: 2009-07-01) · <https://wetten.overheid.nl/BWBR0004003>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
