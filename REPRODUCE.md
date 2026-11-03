@@ -86,6 +86,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2348,12 +2350,53 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wet-aanvullende-maatregelen-accountantsorganisaties` | Wet aanvullende maatregelen accountantsorganisaties | 1 | 2019-01-01 to 2019-01-01 |
 | `verzamelwet-ezk-en-lnv-2018` | Verzamelwet EZK en LNV 2018 | 1 | 2020-01-01 to 2020-01-01 |
 | `uitvoeringswet-verordening-overlegging-openbare-documenten` | Uitvoeringswet verordening overlegging openbare documenten | 1 | 2019-02-16 to 2019-02-16 |
+| `wet-toezicht-trustkantoren-2018` | Wet toezicht trustkantoren 2018 | 1 | 2025-03-01 to 2025-03-01 |
+| `wet-bescherming-bedrijfsgeheimen` | Wet bescherming bedrijfsgeheimen | 1 | 2023-02-18 to 2023-02-18 |
+| `wet-bekostiging-financieel-toezicht-2019` | Wet bekostiging financieel toezicht 2019 | 1 | 2026-08-15 to 2026-08-15 |
+| `verzamelwet-szw-2019` | Verzamelwet SZW 2019 | 1 | 2020-01-01 to 2020-01-01 |
+| `wijzigingswet-wet-kwaliteit-klachten-en-geschillen-zorg-totstandkoming-implantatenregister` | Wijzigingswet Wet kwaliteit, klachten en geschillen zorg (totstandkoming implantatenregister ter bescherming gezondheid cliënten) | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-accreditatie-op-maat` | Wet accreditatie op maat | 1 | 2020-04-01 to 2020-04-01 |
+| `intrekkingswet-wet-raadgevend-referendum` | Intrekkingswet Wet raadgevend referendum | 1 | 2018-07-12 to 2018-07-12 |
+| `wet-gedeeltelijk-verbod-gezichtsbedekkende-kleding` | Wet gedeeltelijk verbod gezichtsbedekkende kleding | 1 | 2019-08-01 to 2019-08-01 |
+| `wet-houdende-maatregelen-met-betrekking-tot-de-transitievergoeding-bij-ontslag-wegens-bedr` | Wet houdende maatregelen met betrekking tot de transitievergoeding bij ontslag wegens bedrijfseconomische omstandigheden of langdurige arbeidsongeschiktheid | 1 | 2020-04-01 to 2020-04-01 |
+| `implementatiewet-vierde-anti-witwasrichtlijn` | Implementatiewet vierde anti-witwasrichtlijn | 1 | 2018-07-25 to 2018-07-25 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-verlaagd-wettel` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (verlaagd wettelijk collegegeld) | 1 | 2018-09-02 to 2018-09-02 |
+| `wet-uitvoering-verordening-sftr` | Wet uitvoering verordening SFTR | 1 | 2018-09-15 to 2018-09-15 |
+| `wijzigingswet-wet-ministeriele-verantwoordelijkheid-en-ambtsdelicten-leden-staten-generaal` | Wijzigingswet Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen, enz. (aanbrengen enkele moderniseringen) | 1 | 2018-09-19 to 2018-09-19 |
+| `aanpassingswet-algemene-verordening-gegevensbescherming` | Aanpassingswet Algemene verordening gegevensbescherming | 1 | 2023-11-01 to 2023-11-01 |
+| `wet-vervolging-en-berechting-in-nederland-van-strafbare-feiten-in-verband-met-neerhalen-ma` | Wet vervolging en berechting in Nederland van strafbare feiten in verband met neerhalen Malaysia Airlines vlucht MH17 | 1 | 2018-08-25 to 2018-08-25 |
+| `wijzigingswet-wet-op-de-beroepen-in-de-individuele-gezondheidszorg-enz-verbeteringen-tucht` | Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg, enz. (verbeteringen tuchtrecht alsmede verbeteringen ten aanzien functioneren wet) | 1 | 2019-04-01 to 2019-04-01 |
+| `wet-samenvoeging-gemeenten-haarlemmerliede-en-spaarnwoude-en-haarlemmermeer` | Wet samenvoeging gemeenten Haarlemmerliede en Spaarnwoude en Haarlemmermeer | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-binnenmaas-cromstrijen-korendijk-oud-beijerland-en-strijen` | Wet samenvoeging gemeenten Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-tot-samenvoeging-van-de-gemeenten-groningen-haren-en-ten-boer` | Wet tot samenvoeging van de gemeenten Groningen, Haren en Ten Boer | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-leerdam-vianen-en-zederik-en-wijziging-grens-tussen-provincies` | Wet samenvoeging gemeenten Leerdam, Vianen en Zederik en wijziging grens tussen provincies Utrecht en Zuid-Holland | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-bedum-de-marne-eemsmond-en-winsum` | Wet samenvoeging gemeenten Bedum, De Marne, Eemsmond en Winsum | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-aalburg-werkendam-en-woudrichem` | Wet samenvoeging gemeenten Aalburg, Werkendam en Woudrichem | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-grootegast-leek-marum-en-zuidhorn-en-deel-grondgebied-gemeente` | Wet samenvoeging gemeenten Grootegast, Leek, Marum en Zuidhorn en deel grondgebied gemeente Winsum | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-geldermalsen-lingewaal-en-neerijnen` | Wet samenvoeging gemeenten Geldermalsen, Lingewaal en Neerijnen | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-giessenlanden-en-molenwaard` | Wet samenvoeging gemeenten Giessenlanden en Molenwaard | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-nuth-onderbanken-en-schinnen` | Wet samenvoeging gemeenten Nuth, Onderbanken en Schinnen | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-dongeradeel-ferwerderadiel-en-kollumerland-en-nieuwkruisland` | Wet samenvoeging gemeenten Dongeradeel, Ferwerderadiel en Kollumerland en Nieuwkruisland | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-samenvoeging-gemeenten-noordwijk-en-noordwijkerhout` | Wet samenvoeging gemeenten Noordwijk en Noordwijkerhout | 1 | 2018-09-15 to 2018-09-15 |
+| `wet-ter-implementatie-leesgehandicaptenrichtlijn-en-ter-uitvoering-leesgehandicaptenverord` | Wet ter implementatie leesgehandicaptenrichtlijn en ter uitvoering leesgehandicaptenverordening | 1 | 2018-10-11 to 2018-10-11 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-uitbreiding-mogelijkheden-om-t` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (uitbreiding mogelijkheden om t.a.v. voor het leven benoemde rechterlijke ambtenaren disciplinaire maatregelen op te leggen, enz.) | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-modernisering-faillissementsprocedure` | Wet modernisering faillissementsprocedure | 1 | 2019-01-01 to 2019-01-01 |
+| `verzamelwet-justitie-en-veiligheid-2018` | Verzamelwet Justitie en Veiligheid 2018 | 1 | 2018-09-19 to 2018-09-19 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-verbetering-en-versterking-opsporing-en-vervolgin` | Wijzigingswet Wetboek van Strafrecht, enz. (verbetering en versterking opsporing en vervolging computercriminaliteit (computercriminaliteit III)) | 1 | 2019-03-01 to 2019-03-01 |
+| `uitvoeringswet-verordening-huwelijksvermogensstelsels-en-verordening-vermogensrechtelijke` | Uitvoeringswet Verordening huwelijksvermogensstelsels en Verordening vermogensrechtelijke gevolgen geregistreerde partnerschappen | 1 | 2023-07-01 to 2023-07-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-versterking-strafrechtelijke-aanpak-terrorisme` | Wijzigingswet Wetboek van Strafrecht, enz. (versterking strafrechtelijke aanpak terrorisme) | 1 | 2018-10-16 to 2018-10-16 |
+| `wijzigingswet-wegenverkeerswet-1994-experimenten-met-geautomatiseerde-systemen-in-motorrij` | Wijzigingswet Wegenverkeerswet 1994 (experimenten met geautomatiseerde systemen in motorrijtuigen) | 1 | 2019-07-01 to 2019-07-01 |
+| `wet-uitvoering-antidopingbeleid` | Wet uitvoering antidopingbeleid | 1 | 2025-07-05 to 2025-07-05 |
+| `verzamelwet-vws-2018` | Verzamelwet VWS 2018 | 1 | 2019-01-01 to 2019-01-01 |
+| `wijzigingswet-wet-politiegegevens-enz-implementatie-europese-regelgeving-inzake-verwerking` | Wijzigingswet Wet politiegegevens, enz. (implementatie Europese regelgeving inzake verwerking van persoonsgegevens) | 1 | 2023-11-01 to 2023-11-01 |
+| `wijzigingswet-financiele-markten-2018` | Wijzigingswet financiële markten 2018 | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-invoering-extra-geboorteverlof` | Wet invoering extra geboorteverlof | 1 | 2020-07-01 to 2020-07-01 |
 
-The build made 8725 commits:
+The build made 8766 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2255 | first version of an act |
+| 2296 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -2361,7 +2404,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 14046 tags.
+- 14087 tags.
 
 ## Dates
 
@@ -2373,7 +2416,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `96a9a7b8b74017afd11fba963865215e7a84d59c020a5d5870b874e7964069ee` (184319188 bytes).
+- Corpus: sha256 `ef479d127d33773173e8542fe8529b4e00733fa719b098d3c5ae2fd172ce4c8f` (184637056 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2658,6 +2701,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 32 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 41 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2669,6 +2715,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

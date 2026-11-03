@@ -83674,6 +83674,580 @@
      "sha256": "6a5d0c0d2674091e2e81f3efbdf50970e4d65a6bc56b7c16a481eb08b6ea59d3"
     }
    ]
+  },
+  {
+   "slug": "wet-toezicht-trustkantoren-2018",
+   "short": "Wtt 2018",
+   "title": "Wet toezicht trustkantoren 2018",
+   "url": "https://wetten.overheid.nl/BWBR0041583",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 88,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041583/2025-03-01_0/xml/BWBR0041583_2025-03-01_0.xml",
+     "sha256": "778f26a80c486e5cfb4ed76413f4c489d8ffbb8cbb14c5c80c6b5aea66091e03"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bescherming-bedrijfsgeheimen",
+   "short": "Wet bescherming bedrijfsgeheimen",
+   "title": "Wet bescherming bedrijfsgeheimen",
+   "url": "https://wetten.overheid.nl/BWBR0041459",
+   "versions": [
+    {
+     "from": "2023-02-18",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041459/2023-02-18_0/xml/BWBR0041459_2023-02-18_0.xml",
+     "sha256": "058c150b67f1b2f55b7176161bbd43955f820a76e2330125ed85afb73c3b6327"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bekostiging-financieel-toezicht-2019",
+   "short": "Wet bekostiging financieel toezicht 2019",
+   "title": "Wet bekostiging financieel toezicht 2019",
+   "url": "https://wetten.overheid.nl/BWBR0041548",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 27,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041548/2026-08-15_0/xml/BWBR0041548_2026-08-15_0.xml",
+     "sha256": "8edf11c6ea0e3e24ae4719459ab1843723ae5c573293d9ca1b09d63313418588"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-szw-2019",
+   "short": "Verzamelwet SZW 2019",
+   "title": "Verzamelwet SZW 2019",
+   "url": "https://wetten.overheid.nl/BWBR0041571",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 41,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041571/2020-01-01_0/xml/BWBR0041571_2020-01-01_0.xml",
+     "sha256": "30705fc3a1be3c4c9983335420ce4b1e86007fdeee0cac95dafefb37a712ddf7"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-kwaliteit-klachten-en-geschillen-zorg-totstandkoming-implantatenregister",
+   "short": "Wijzigingswet Wet kwaliteit, klachten en geschillen zorg (totstandkoming implantatenregister ter bescherming gezondheid cliënten)",
+   "title": "Wijzigingswet Wet kwaliteit, klachten en geschillen zorg (totstandkoming implantatenregister ter bescherming gezondheid cliënten)",
+   "url": "https://wetten.overheid.nl/BWBR0041041",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041041/2019-01-01_0/xml/BWBR0041041_2019-01-01_0.xml",
+     "sha256": "a358e34c3a76a11bc59111e34028481d766f6aaa95dffbbcf4ba06556eb4db04"
+    }
+   ]
+  },
+  {
+   "slug": "wet-accreditatie-op-maat",
+   "short": "Wet accreditatie op maat",
+   "title": "Wet accreditatie op maat",
+   "url": "https://wetten.overheid.nl/BWBR0041117",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041117/2020-04-01_0/xml/BWBR0041117_2020-04-01_0.xml",
+     "sha256": "7531d7b10d176dfbf6fd3b727c38b879ae5839b929431e29cb8d1414622ecce3"
+    }
+   ]
+  },
+  {
+   "slug": "intrekkingswet-wet-raadgevend-referendum",
+   "short": "Intrekkingswet Wet raadgevend referendum",
+   "title": "Intrekkingswet Wet raadgevend referendum",
+   "url": "https://wetten.overheid.nl/BWBR0041149",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041149/2018-07-12_0/xml/BWBR0041149_2018-07-12_0.xml",
+     "sha256": "6c43e1e61c4fd3e9d606fdf54a9c5f688801783358dc2d1360975691492a01c8"
+    }
+   ]
+  },
+  {
+   "slug": "wet-gedeeltelijk-verbod-gezichtsbedekkende-kleding",
+   "short": "Wet gedeeltelijk verbod gezichtsbedekkende kleding",
+   "title": "Wet gedeeltelijk verbod gezichtsbedekkende kleding",
+   "url": "https://wetten.overheid.nl/BWBR0041161",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041161/2019-08-01_0/xml/BWBR0041161_2019-08-01_0.xml",
+     "sha256": "8748902841dbad4c0ef151a31cee0a9ba92a611071d05fcc6e66ed931b052492"
+    }
+   ]
+  },
+  {
+   "slug": "wet-houdende-maatregelen-met-betrekking-tot-de-transitievergoeding-bij-ontslag-wegens-bedr",
+   "short": "Wet houdende maatregelen met betrekking tot de transitievergoeding bij ontslag wegens bedrijfseconomische omstandigheden of langdurige arbeidsongeschiktheid",
+   "title": "Wet houdende maatregelen met betrekking tot de transitievergoeding bij ontslag wegens bedrijfseconomische omstandigheden of langdurige arbeidsongeschiktheid",
+   "url": "https://wetten.overheid.nl/BWBR0041178",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041178/2020-04-01_0/xml/BWBR0041178_2020-04-01_0.xml",
+     "sha256": "d12d70eb8f1eef764de20aa0701b08afd503b766c267ff3f40ca2ecc614b93e6"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-vierde-anti-witwasrichtlijn",
+   "short": "Implementatiewet vierde anti-witwasrichtlijn",
+   "title": "Implementatiewet vierde anti-witwasrichtlijn",
+   "url": "https://wetten.overheid.nl/BWBR0041195",
+   "versions": [
+    {
+     "from": "2018-07-25",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041195/2018-07-25_0/xml/BWBR0041195_2018-07-25_0.xml",
+     "sha256": "764250768a06a2fc5b6332db237929e38e18fce017386094c725495724faa242"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-verlaagd-wettel",
+   "short": "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (verlaagd wettelijk collegegeld)",
+   "title": "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (verlaagd wettelijk collegegeld)",
+   "url": "https://wetten.overheid.nl/BWBR0041206",
+   "versions": [
+    {
+     "from": "2018-09-02",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041206/2018-09-02_0/xml/BWBR0041206_2018-09-02_0.xml",
+     "sha256": "6f5643eb27ff541633e346945c530a0fecd9812a8325665afb1aa16eab4c9fab"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitvoering-verordening-sftr",
+   "short": "Wet uitvoering verordening SFTR",
+   "title": "Wet uitvoering verordening SFTR",
+   "url": "https://wetten.overheid.nl/BWBR0041212",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041212/2018-09-15_0/xml/BWBR0041212_2018-09-15_0.xml",
+     "sha256": "6531c6dda85581d6d27036b8aac0cba78c1c472121642a94c1029bdb80442674"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-ministeriele-verantwoordelijkheid-en-ambtsdelicten-leden-staten-generaal",
+   "short": "Wijzigingswet Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen, enz. (aanbrengen enkele moderniseringen)",
+   "title": "Wijzigingswet Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen, enz. (aanbrengen enkele moderniseringen)",
+   "url": "https://wetten.overheid.nl/BWBR0041213",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041213/2018-09-19_0/xml/BWBR0041213_2018-09-19_0.xml",
+     "sha256": "8af3d29174c24ba48b6752729a881d8e94a1dcbbb1ed2d916992db5a2bd758d4"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-algemene-verordening-gegevensbescherming",
+   "short": "Aanpassingswet Algemene verordening gegevensbescherming",
+   "title": "Aanpassingswet Algemene verordening gegevensbescherming",
+   "url": "https://wetten.overheid.nl/BWBR0041233",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 98,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041233/2023-11-01_0/xml/BWBR0041233_2023-11-01_0.xml",
+     "sha256": "ff136f1efc2109d0e7603bee4c5f5e239afa57994b7e18575f396f3032484f4a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-vervolging-en-berechting-in-nederland-van-strafbare-feiten-in-verband-met-neerhalen-ma",
+   "short": "Wet vervolging en berechting in Nederland van strafbare feiten in verband met neerhalen Malaysia Airlines vlucht MH17",
+   "title": "Wet vervolging en berechting in Nederland van strafbare feiten in verband met neerhalen Malaysia Airlines vlucht MH17",
+   "url": "https://wetten.overheid.nl/BWBR0041260",
+   "versions": [
+    {
+     "from": "2018-08-25",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041260/2018-08-25_0/xml/BWBR0041260_2018-08-25_0.xml",
+     "sha256": "950af567346dd39e9e6a0ef6a0bbc441daaafb906cc70927a819af9fe2b7242f"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-beroepen-in-de-individuele-gezondheidszorg-enz-verbeteringen-tucht",
+   "short": "Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg, enz. (verbeteringen tuchtrecht alsmede verbeteringen ten aanzien functioneren wet)",
+   "title": "Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg, enz. (verbeteringen tuchtrecht alsmede verbeteringen ten aanzien functioneren wet)",
+   "url": "https://wetten.overheid.nl/BWBR0041261",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041261/2019-04-01_0/xml/BWBR0041261_2019-04-01_0.xml",
+     "sha256": "7534a027d53258edaec322d88dd69da1e70ad78c6221773f795fcf7ba47c0ee7"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-haarlemmerliede-en-spaarnwoude-en-haarlemmermeer",
+   "short": "Wet samenvoeging gemeenten Haarlemmerliede en Spaarnwoude en Haarlemmermeer",
+   "title": "Wet samenvoeging gemeenten Haarlemmerliede en Spaarnwoude en Haarlemmermeer",
+   "url": "https://wetten.overheid.nl/BWBR0041277",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041277/2018-09-15_0/xml/BWBR0041277_2018-09-15_0.xml",
+     "sha256": "4c54b896d5be13ad6a4029c49f3606dc9aa62c6b55fc53360a35c26d2bd20dc9"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-binnenmaas-cromstrijen-korendijk-oud-beijerland-en-strijen",
+   "short": "Wet samenvoeging gemeenten Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen",
+   "title": "Wet samenvoeging gemeenten Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen",
+   "url": "https://wetten.overheid.nl/BWBR0041279",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041279/2018-09-15_0/xml/BWBR0041279_2018-09-15_0.xml",
+     "sha256": "4f7863950ecb26f2a08447670e60748b022dc4f1f2bec0614d084c342f0db6c2"
+    }
+   ]
+  },
+  {
+   "slug": "wet-tot-samenvoeging-van-de-gemeenten-groningen-haren-en-ten-boer",
+   "short": "Wet tot samenvoeging van de gemeenten Groningen, Haren en Ten Boer",
+   "title": "Wet tot samenvoeging van de gemeenten Groningen, Haren en Ten Boer",
+   "url": "https://wetten.overheid.nl/BWBR0041282",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041282/2018-09-15_0/xml/BWBR0041282_2018-09-15_0.xml",
+     "sha256": "af6f83c16f94402270e502c906b01e53faa9545ed11c938cc96be55c0948db5b"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-leerdam-vianen-en-zederik-en-wijziging-grens-tussen-provincies",
+   "short": "Wet samenvoeging gemeenten Leerdam, Vianen en Zederik en wijziging grens tussen provincies Utrecht en Zuid-Holland",
+   "title": "Wet samenvoeging gemeenten Leerdam, Vianen en Zederik en wijziging grens tussen provincies Utrecht en Zuid-Holland",
+   "url": "https://wetten.overheid.nl/BWBR0041284",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041284/2018-09-15_0/xml/BWBR0041284_2018-09-15_0.xml",
+     "sha256": "5cf47ced1cfd112111556e2935c8ccd188062f3f3052157611497cc3b13fc104"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-bedum-de-marne-eemsmond-en-winsum",
+   "short": "Wet samenvoeging gemeenten Bedum, De Marne, Eemsmond en Winsum",
+   "title": "Wet samenvoeging gemeenten Bedum, De Marne, Eemsmond en Winsum",
+   "url": "https://wetten.overheid.nl/BWBR0041288",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041288/2018-09-15_0/xml/BWBR0041288_2018-09-15_0.xml",
+     "sha256": "7be70b3c2eb17d841f7e3144d63621c6cf6e6a3afcd650a7447acab270e31f91"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-aalburg-werkendam-en-woudrichem",
+   "short": "Wet samenvoeging gemeenten Aalburg, Werkendam en Woudrichem",
+   "title": "Wet samenvoeging gemeenten Aalburg, Werkendam en Woudrichem",
+   "url": "https://wetten.overheid.nl/BWBR0041290",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041290/2018-09-15_0/xml/BWBR0041290_2018-09-15_0.xml",
+     "sha256": "3985e4979868be07a9658aad6970632579ea0e2039b08e1efd9795cbe567984c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-grootegast-leek-marum-en-zuidhorn-en-deel-grondgebied-gemeente",
+   "short": "Wet samenvoeging gemeenten Grootegast, Leek, Marum en Zuidhorn en deel grondgebied gemeente Winsum",
+   "title": "Wet samenvoeging gemeenten Grootegast, Leek, Marum en Zuidhorn en deel grondgebied gemeente Winsum",
+   "url": "https://wetten.overheid.nl/BWBR0041292",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041292/2018-09-15_0/xml/BWBR0041292_2018-09-15_0.xml",
+     "sha256": "f5ad4e84f10586e0758ce944feb5dc0e15f6d7e485085741e72e41871aafb097"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-geldermalsen-lingewaal-en-neerijnen",
+   "short": "Wet samenvoeging gemeenten Geldermalsen, Lingewaal en Neerijnen",
+   "title": "Wet samenvoeging gemeenten Geldermalsen, Lingewaal en Neerijnen",
+   "url": "https://wetten.overheid.nl/BWBR0041293",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041293/2018-09-15_0/xml/BWBR0041293_2018-09-15_0.xml",
+     "sha256": "7d9dab2cd86b3526255f8d5b9d9fc0bb256672eec54415b5c5cfb64a191c1a1b"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-giessenlanden-en-molenwaard",
+   "short": "Wet samenvoeging gemeenten Giessenlanden en Molenwaard",
+   "title": "Wet samenvoeging gemeenten Giessenlanden en Molenwaard",
+   "url": "https://wetten.overheid.nl/BWBR0041294",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041294/2018-09-15_0/xml/BWBR0041294_2018-09-15_0.xml",
+     "sha256": "f39d5c83bbe319c67073c44ae5266e5d76a31fdbedcb4878c6a8dbc86a9e3f40"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-nuth-onderbanken-en-schinnen",
+   "short": "Wet samenvoeging gemeenten Nuth, Onderbanken en Schinnen",
+   "title": "Wet samenvoeging gemeenten Nuth, Onderbanken en Schinnen",
+   "url": "https://wetten.overheid.nl/BWBR0041298",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041298/2018-09-15_0/xml/BWBR0041298_2018-09-15_0.xml",
+     "sha256": "378847c8e0136974afec44e63002e65afb0d494daef0593e641409748f16af78"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-dongeradeel-ferwerderadiel-en-kollumerland-en-nieuwkruisland",
+   "short": "Wet samenvoeging gemeenten Dongeradeel, Ferwerderadiel en Kollumerland en Nieuwkruisland",
+   "title": "Wet samenvoeging gemeenten Dongeradeel, Ferwerderadiel en Kollumerland en Nieuwkruisland",
+   "url": "https://wetten.overheid.nl/BWBR0041305",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041305/2018-09-15_0/xml/BWBR0041305_2018-09-15_0.xml",
+     "sha256": "294dc9da8dc30d2242b3482ee5fb196b5e2dcf604778841748f64cd8ddbc46e6"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-noordwijk-en-noordwijkerhout",
+   "short": "Wet samenvoeging gemeenten Noordwijk en Noordwijkerhout",
+   "title": "Wet samenvoeging gemeenten Noordwijk en Noordwijkerhout",
+   "url": "https://wetten.overheid.nl/BWBR0041306",
+   "versions": [
+    {
+     "from": "2018-09-15",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041306/2018-09-15_0/xml/BWBR0041306_2018-09-15_0.xml",
+     "sha256": "14e16a86a6cd241fd02026d1640426f3092dadecc8a5572c792b2c231f6744c4"
+    }
+   ]
+  },
+  {
+   "slug": "wet-ter-implementatie-leesgehandicaptenrichtlijn-en-ter-uitvoering-leesgehandicaptenverord",
+   "short": "Wet ter implementatie leesgehandicaptenrichtlijn en ter uitvoering leesgehandicaptenverordening",
+   "title": "Wet ter implementatie leesgehandicaptenrichtlijn en ter uitvoering leesgehandicaptenverordening",
+   "url": "https://wetten.overheid.nl/BWBR0041326",
+   "versions": [
+    {
+     "from": "2018-10-11",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041326/2018-10-11_0/xml/BWBR0041326_2018-10-11_0.xml",
+     "sha256": "b636ab0ad07389ff6c1d899ea6e30591220ad6df5cb6fb1f513aff4942407bff"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-uitbreiding-mogelijkheden-om-t",
+   "short": "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (uitbreiding mogelijkheden om t.a.v. voor het leven benoemde rechterlijke ambtenaren disciplinaire maatregelen op te leggen, enz.)",
+   "title": "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (uitbreiding mogelijkheden om t.a.v. voor het leven benoemde rechterlijke ambtenaren disciplinaire maatregelen op te leggen, enz.)",
+   "url": "https://wetten.overheid.nl/BWBR0041327",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 21,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041327/2019-01-01_0/xml/BWBR0041327_2019-01-01_0.xml",
+     "sha256": "61b9923dc4874b0b462f6a95dedd8f736132051febbd6672c47820028af02852"
+    }
+   ]
+  },
+  {
+   "slug": "wet-modernisering-faillissementsprocedure",
+   "short": "Wet modernisering faillissementsprocedure",
+   "title": "Wet modernisering faillissementsprocedure",
+   "url": "https://wetten.overheid.nl/BWBR0041333",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041333/2019-01-01_0/xml/BWBR0041333_2019-01-01_0.xml",
+     "sha256": "d15dcd285e2578685feb126d915fa51646f8b6f3d090532845f71ac51ec984e2"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-justitie-en-veiligheid-2018",
+   "short": "Verzamelwet Justitie en Veiligheid 2018",
+   "title": "Verzamelwet Justitie en Veiligheid 2018",
+   "url": "https://wetten.overheid.nl/BWBR0041352",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 49,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041352/2018-09-19_0/xml/BWBR0041352_2018-09-19_0.xml",
+     "sha256": "63c5e4a4752539c5f07258884764e2b9d6637881fd53183a2361f91dc4b26bd3"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafrecht-enz-verbetering-en-versterking-opsporing-en-vervolgin",
+   "short": "Wijzigingswet Wetboek van Strafrecht, enz. (verbetering en versterking opsporing en vervolging computercriminaliteit (computercriminaliteit III))",
+   "title": "Wijzigingswet Wetboek van Strafrecht, enz. (verbetering en versterking opsporing en vervolging computercriminaliteit (computercriminaliteit III))",
+   "url": "https://wetten.overheid.nl/BWBR0041368",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041368/2019-03-01_0/xml/BWBR0041368_2019-03-01_0.xml",
+     "sha256": "5f366ebb087e0f8f1989ef71723fb6b2f11b701e79c7e9aa564e69e7d2b4a6d2"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringswet-verordening-huwelijksvermogensstelsels-en-verordening-vermogensrechtelijke",
+   "short": "Uitvoeringswet Verordening huwelijksvermogensstelsels en Verordening vermogensrechtelijke gevolgen geregistreerde partnerschappen",
+   "title": "Uitvoeringswet Verordening huwelijksvermogensstelsels en Verordening vermogensrechtelijke gevolgen geregistreerde partnerschappen",
+   "url": "https://wetten.overheid.nl/BWBR0041407",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041407/2023-07-01_0/xml/BWBR0041407_2023-07-01_0.xml",
+     "sha256": "1e54d3d179ba36e191cedb10ff5e95d202b8843a396380456c50396f10644f2e"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafrecht-enz-versterking-strafrechtelijke-aanpak-terrorisme",
+   "short": "Wijzigingswet Wetboek van Strafrecht, enz. (versterking strafrechtelijke aanpak terrorisme)",
+   "title": "Wijzigingswet Wetboek van Strafrecht, enz. (versterking strafrechtelijke aanpak terrorisme)",
+   "url": "https://wetten.overheid.nl/BWBR0041421",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041421/2018-10-16_0/xml/BWBR0041421_2018-10-16_0.xml",
+     "sha256": "6e60dd64404d116496b1f4b58eb7cd2adf6615119bed1919421f17063e398ba6"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wegenverkeerswet-1994-experimenten-met-geautomatiseerde-systemen-in-motorrij",
+   "short": "Wijzigingswet Wegenverkeerswet 1994 (experimenten met geautomatiseerde systemen in motorrijtuigen)",
+   "title": "Wijzigingswet Wegenverkeerswet 1994 (experimenten met geautomatiseerde systemen in motorrijtuigen)",
+   "url": "https://wetten.overheid.nl/BWBR0041438",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041438/2019-07-01_0/xml/BWBR0041438_2019-07-01_0.xml",
+     "sha256": "5a8698ae31991fd0949930bcf15b1735a2767f323549bff7513e5c720f7033b2"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitvoering-antidopingbeleid",
+   "short": "Wet uitvoering antidopingbeleid",
+   "title": "Wet uitvoering antidopingbeleid",
+   "url": "https://wetten.overheid.nl/BWBR0041439",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 32,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041439/2025-07-05_0/xml/BWBR0041439_2025-07-05_0.xml",
+     "sha256": "a94951f42aee8857e276c94ebcd970ed6d12f9d0504a8665b8ef9629ae394621"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-vws-2018",
+   "short": "Verzamelwet VWS 2018",
+   "title": "Verzamelwet VWS 2018",
+   "url": "https://wetten.overheid.nl/BWBR0041467",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 21,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041467/2019-01-01_0/xml/BWBR0041467_2019-01-01_0.xml",
+     "sha256": "ccfd838ef7e41da3a0249a53057af3121de685038ad06d6d81a0d0c2606f959e"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-politiegegevens-enz-implementatie-europese-regelgeving-inzake-verwerking",
+   "short": "Wijzigingswet Wet politiegegevens, enz. (implementatie Europese regelgeving inzake verwerking van persoonsgegevens)",
+   "title": "Wijzigingswet Wet politiegegevens, enz. (implementatie Europese regelgeving inzake verwerking van persoonsgegevens)",
+   "url": "https://wetten.overheid.nl/BWBR0041533",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041533/2023-11-01_0/xml/BWBR0041533_2023-11-01_0.xml",
+     "sha256": "620533cd783a7f98d9b4ff5890151cdba03d7c2876c45d72acd4d9afe4a06876"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-financiele-markten-2018",
+   "short": "Wijzigingswet financiële markten 2018",
+   "title": "Wijzigingswet financiële markten 2018",
+   "url": "https://wetten.overheid.nl/BWBR0041547",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 17,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041547/2019-01-01_0/xml/BWBR0041547_2019-01-01_0.xml",
+     "sha256": "1e40e4bce12882391eb73c540b82f777de87de76407c6568773827857cd3791c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-invoering-extra-geboorteverlof",
+   "short": "Wet invoering extra geboorteverlof",
+   "title": "Wet invoering extra geboorteverlof",
+   "url": "https://wetten.overheid.nl/BWBR0041646",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041646/2020-07-01_0/xml/BWBR0041646_2020-07-01_0.xml",
+     "sha256": "59a6e721bb406a9888f22eae31f6e4da418598f4a78e0bf89aa4357798f2678b"
+    }
+   ]
   }
  ]
 }
