@@ -85074,6 +85074,426 @@
      "sha256": "21291933be5c8f57418004ad409cc5b4e14f02e2dd6236165a269c9dafacc464"
     }
    ]
+  },
+  {
+   "slug": "plantgezondheidswet",
+   "short": "Plantgezondheidswet",
+   "title": "Plantgezondheidswet",
+   "url": "https://wetten.overheid.nl/BWBR0043194",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 44,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043194/2021-03-01_0/xml/BWBR0043194_2021-03-01_0.xml",
+     "sha256": "8a6f81578eadefa26f06deece12c5ce4c4e63edf8f417331bce0a7ee0542f620"
+    }
+   ]
+  },
+  {
+   "slug": "tijdelijke-wet-groningen",
+   "short": "TwG",
+   "title": "Tijdelijke wet Groningen",
+   "url": "https://wetten.overheid.nl/BWBR0043252",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 57,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043252/2026-08-26_0/xml/BWBR0043252_2026-08-26_0.xml",
+     "sha256": "6f3c1b5ce8a2f271806dcccb9713dba2f1ab8231e5b239ce57bbd6ca4b89506d"
+    }
+   ]
+  },
+  {
+   "slug": "aanvullingswet-bodem-omgevingswet",
+   "short": "Aanvullingswet bodem Omgevingswet",
+   "title": "Aanvullingswet bodem Omgevingswet",
+   "url": "https://wetten.overheid.nl/BWBR0043277",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 19,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043277/2024-01-01_0/xml/BWBR0043277_2024-01-01_0.xml",
+     "sha256": "e15f209c479f2ad7c07ab2b16eb9b9416dfd2fecfbee3826a52a102877e64a83"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bronbelasting-2021",
+   "short": "Wet Bb 2021",
+   "title": "Wet bronbelasting 2021",
+   "url": "https://wetten.overheid.nl/BWBR0042952",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 28,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042952/2026-01-01_0/xml/BWBR0042952_2026-01-01_0.xml",
+     "sha256": "b963504d81d2d6f6f42966e3f4341f2c0a6e7603792ae30ca66add0ff3086ce8"
+    }
+   ]
+  },
+  {
+   "slug": "wet-wijziging-woonplaatsbeginsel",
+   "short": "Wet wijziging woonplaatsbeginsel",
+   "title": "Wet wijziging woonplaatsbeginsel",
+   "url": "https://wetten.overheid.nl/BWBR0043235",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043235/2022-01-01_0/xml/BWBR0043235_2022-01-01_0.xml",
+     "sha256": "f9a90371fa1ca6612f9d94c8161b8ecad8e886522f1458fc452ea67319796ea5"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-tweede-eu-richtlijn-antibelastingontwijking",
+   "short": "Wet implementatie tweede EU-richtlijn antibelastingontwijking",
+   "title": "Wet implementatie tweede EU-richtlijn antibelastingontwijking",
+   "url": "https://wetten.overheid.nl/BWBR0042934",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042934/2022-01-01_0/xml/BWBR0042934_2022-01-01_0.xml",
+     "sha256": "48e52346643ca4942e4adfa81650aaaa92655f6a87804bf48c2b6ee93c0438d6"
+    }
+   ]
+  },
+  {
+   "slug": "wet-fiscale-maatregelen-klimaatakkoord",
+   "short": "Wet fiscale maatregelen Klimaatakkoord",
+   "title": "Wet fiscale maatregelen Klimaatakkoord",
+   "url": "https://wetten.overheid.nl/BWBR0042935",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 32,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042935/2024-01-01_0/xml/BWBR0042935_2024-01-01_0.xml",
+     "sha256": "ea5f94874dab95a492b0a0e426b3ef2ff509012a80a0ee5c59fdacdf1eb2147e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-richtlijn-harmonisatie-en-vereenvoudiging-handelsverkeer-tussen-lidstate",
+   "short": "Wet implementatie richtlijn harmonisatie en vereenvoudiging handelsverkeer tussen lidstaten",
+   "title": "Wet implementatie richtlijn harmonisatie en vereenvoudiging handelsverkeer tussen lidstaten",
+   "url": "https://wetten.overheid.nl/BWBR0042937",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042937/2020-01-01_0/xml/BWBR0042937_2020-01-01_0.xml",
+     "sha256": "2a10867afe0587ab30878bcebf2cb76c19d7c9db74e41f70613db27b995baca3"
+    }
+   ]
+  },
+  {
+   "slug": "overige-fiscale-maatregelen-2020",
+   "short": "Overige fiscale maatregelen 2020",
+   "title": "Overige fiscale maatregelen 2020",
+   "url": "https://wetten.overheid.nl/BWBR0042938",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 23,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042938/2026-10-01_0/xml/BWBR0042938_2026-10-01_0.xml",
+     "sha256": "c8f8b74082b666d290d9954f3526fb5ade75d7888821e702cefacdd366021ce2"
+    }
+   ]
+  },
+  {
+   "slug": "belastingplan-2020",
+   "short": "Belastingplan 2020",
+   "title": "Belastingplan 2020",
+   "url": "https://wetten.overheid.nl/BWBR0042946",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 18,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042946/2021-01-01_0/xml/BWBR0042946_2021-01-01_0.xml",
+     "sha256": "444dd26aa29c3798ea3f7cf1554cb65c27eaf29a146af26018bfe9efef698d4f"
+    }
+   ]
+  },
+  {
+   "slug": "spoedwet-aanpak-stikstof",
+   "short": "Spoedwet aanpak stikstof",
+   "title": "Spoedwet aanpak stikstof",
+   "url": "https://wetten.overheid.nl/BWBR0042967",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042967/2024-01-01_0/xml/BWBR0042967_2024-01-01_0.xml",
+     "sha256": "97b847897952d5b51497b70eb85dbf45f7f10c50da398ac07af5157b15bebb2c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-eu-richtlijn-meldingsplichtige-grensoverschrijdende-constructies",
+   "short": "Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies",
+   "title": "Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies",
+   "url": "https://wetten.overheid.nl/BWBR0043034",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043034/2020-07-01_0/xml/BWBR0043034_2020-07-01_0.xml",
+     "sha256": "d5df06ca88e8659f9131cb970facee094822f600cb201c42b6dea33ff96ee5be"
+    }
+   ]
+  },
+  {
+   "slug": "invoeringswet-herziening-tenuitvoerlegging-strafrechtelijke-beslissingen",
+   "short": "Invoeringswet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+   "title": "Invoeringswet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+   "url": "https://wetten.overheid.nl/BWBR0043045",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043045/2021-01-01_0/xml/BWBR0043045_2021-01-01_0.xml",
+     "sha256": "bdf3c234ab43d78953336bca69cd7d06a300781ba1bf1e775cd215815419e44e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-afschaffing-fiscale-aftrek-scholingsuitgaven",
+   "short": "Wet afschaffing fiscale aftrek scholingsuitgaven",
+   "title": "Wet afschaffing fiscale aftrek scholingsuitgaven",
+   "url": "https://wetten.overheid.nl/BWBR0043046",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043046/2022-01-01_0/xml/BWBR0043046_2022-01-01_0.xml",
+     "sha256": "623c452dc9f29c7b45e6fa1263a1b5f9fba3c27ebddf6b734271c869bba9bde4"
+    }
+   ]
+  },
+  {
+   "slug": "reparatierijkswet-justitie-en-veiligheid-2019",
+   "short": "Reparatierijkswet Justitie en Veiligheid 2019",
+   "title": "Reparatierijkswet Justitie en Veiligheid 2019",
+   "url": "https://wetten.overheid.nl/BWBR0043063",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 17,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043063/2024-01-01_0/xml/BWBR0043063_2024-01-01_0.xml",
+     "sha256": "3921ef3dbf5d999767fb06821c29c63ef487b60865b28016a255d0e2c0a1ace2"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitvoering-verordening-financiele-benchmarks",
+   "short": "Wet uitvoering verordening financiële benchmarks",
+   "title": "Wet uitvoering verordening financiële benchmarks",
+   "url": "https://wetten.overheid.nl/BWBR0043084",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043084/2020-01-31_0/xml/BWBR0043084_2020-01-31_0.xml",
+     "sha256": "d05bcc0344ea96cb3720e37e12a9665b11a94eb6d5d33f2e10d333576d5454d2"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-kamers-van-koophandel-en-nijverheid-bes-en-handelsregisterwet-2009",
+   "short": "Wijzigingswet Wet op de Kamers van Koophandel en Nijverheid BES en Handelsregisterwet 2009 BES",
+   "title": "Wijzigingswet Wet op de Kamers van Koophandel en Nijverheid BES en Handelsregisterwet 2009 BES",
+   "url": "https://wetten.overheid.nl/BWBR0043100",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043100/2022-01-01_0/xml/BWBR0043100_2022-01-01_0.xml",
+     "sha256": "3dba0f7996ee8e096277d236d8b491b77f2a54e81798f70a8c88d9840d020a0d"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-kenbaarheid-publiekrechtelijke-beperkingen-onroerende-zaken",
+   "short": "Wijzigingswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken",
+   "title": "Wijzigingswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken",
+   "url": "https://wetten.overheid.nl/BWBR0043189",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043189/2021-01-01_0/xml/BWBR0043189_2021-01-01_0.xml",
+     "sha256": "af03a61a6f03978434c5a24cd0373f23cb2528b353313143ebf07d34e2feadc5"
+    }
+   ]
+  },
+  {
+   "slug": "rijkswet-houdende-goedkeuring-verdrag-inzake-de-uitbanning-van-alle-vormen-van-discriminat",
+   "short": "Rijkswet houdende goedkeuring Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen",
+   "title": "Rijkswet houdende goedkeuring Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen",
+   "url": "https://wetten.overheid.nl/BWBR0043206",
+   "versions": [
+    {
+     "from": "1991-07-17",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043206/1991-07-17_0/xml/BWBR0043206_1991-07-17_0.xml",
+     "sha256": "406320fef8d68ee6ef4b1d4d75aec153f6e7919a266a64c48cf502ede5201f96"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-vws-2020",
+   "short": "Verzamelwet VWS 2020",
+   "title": "Verzamelwet VWS 2020",
+   "url": "https://wetten.overheid.nl/BWBR0043208",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 46,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043208/2024-11-06_0/xml/BWBR0043208_2024-11-06_0.xml",
+     "sha256": "f6b028766b57b32f45b352e66b7fb538b1be15fdcfecea53ba57bb412fb52902"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-waterwet-subsidiering-uit-deltafonds-van-maatregelen-en-voorzieningen-tegen",
+   "short": "Wijzigingswet Waterwet (subsidiëring uit deltafonds van maatregelen en voorzieningen tegen wateroverlast)",
+   "title": "Wijzigingswet Waterwet (subsidiëring uit deltafonds van maatregelen en voorzieningen tegen wateroverlast)",
+   "url": "https://wetten.overheid.nl/BWBR0043218",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043218/2020-07-01_0/xml/BWBR0043218_2020-07-01_0.xml",
+     "sha256": "017844bfe7543fcac35bfc499b51e5dc7bab44940948e998d97e60b7311809d8"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingwet-scheepvaartverkeerswet-en-enige-andere-wetten-verdere-flexibilisering-van-de",
+   "short": "Wijzigingwet Scheepvaartverkeerswet en enige andere wetten (verdere flexibilisering van de loodsplicht (Loodsplicht nieuwe stijl))",
+   "title": "Wijzigingwet Scheepvaartverkeerswet en enige andere wetten (verdere flexibilisering van de loodsplicht (Loodsplicht nieuwe stijl))",
+   "url": "https://wetten.overheid.nl/BWBR0043238",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043238/2021-01-01_0/xml/BWBR0043238_2021-01-01_0.xml",
+     "sha256": "8453b7cc71641fc5e9d76c17a9bbce1a3a0493da2c39e9255cbb6f6811eeee89"
+    }
+   ]
+  },
+  {
+   "slug": "aanvullingswet-geluid-omgevingswet",
+   "short": "Aanvullingswet geluid Omgevingswet",
+   "title": "Aanvullingswet geluid Omgevingswet",
+   "url": "https://wetten.overheid.nl/BWBR0043247",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 20,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043247/2026-07-01_0/xml/BWBR0043247_2026-07-01_0.xml",
+     "sha256": "035e8873b9c961144251bb0dceda5a82a3a4b934c36bd2887745dd3ae6eb0343"
+    }
+   ]
+  },
+  {
+   "slug": "aanvullingswet-grondeigendom-omgevingswet",
+   "short": "Aanvullingswet grondeigendom Omgevingswet",
+   "title": "Aanvullingswet grondeigendom Omgevingswet",
+   "url": "https://wetten.overheid.nl/BWBR0043371",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 35,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043371/2026-07-01_0/xml/BWBR0043371_2026-07-01_0.xml",
+     "sha256": "09ee4961cea833cba9dbe64dc4248c04b934137745fc2d2f3db67f820fdc78f0"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-meldkamers",
+   "short": "Wijzigingswet meldkamers",
+   "title": "Wijzigingswet meldkamers",
+   "url": "https://wetten.overheid.nl/BWBR0043532",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043532/2020-07-01_0/xml/BWBR0043532_2020-07-01_0.xml",
+     "sha256": "b79f5d3014a5c9b412462f3781d97783486d750b27f0c483fa0506150e241922"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-wijziging-vierde-anti-witwasrichtlijn",
+   "short": "Implementatiewet wijziging vierde anti-witwasrichtlijn",
+   "title": "Implementatiewet wijziging vierde anti-witwasrichtlijn",
+   "url": "https://wetten.overheid.nl/BWBR0043558",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043558/2020-07-10_0/xml/BWBR0043558_2020-07-10_0.xml",
+     "sha256": "af0363fe0a7ba536c9dbc0a7a598543ad8e23dfb0761624167d95bef24501397"
+    }
+   ]
+  },
+  {
+   "slug": "kadasterwet-bes",
+   "short": "Kadasterwet BES",
+   "title": "Kadasterwet BES",
+   "url": "https://wetten.overheid.nl/BWBR0043565",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 95,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043565/2024-12-11_0/xml/BWBR0043565_2024-12-11_0.xml",
+     "sha256": "51383cdc9133df49d01e0763f1e7b40e75c8351e9ac36123812d9d8ef73ffbc6"
+    }
+   ]
+  },
+  {
+   "slug": "wet-verwijzingsportaal-bankgegevens",
+   "short": "Wet verwijzingsportaal bankgegevens",
+   "title": "Wet verwijzingsportaal bankgegevens",
+   "url": "https://wetten.overheid.nl/BWBR0043570",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043570/2020-09-10_0/xml/BWBR0043570_2020-09-10_0.xml",
+     "sha256": "e621454ebd62e11ca139f8e0e473f23490d131468dcfe41ec0b39ceabae89c31"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-wijziging-eu-kaderrichtlijn-afvalstoffen",
+   "short": "Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen",
+   "title": "Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen",
+   "url": "https://wetten.overheid.nl/BWBR0043601",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043601/2020-07-01_0/xml/BWBR0043601_2020-07-01_0.xml",
+     "sha256": "1c975b233c6ac432537f4d07d2110c8b363fb85b736a7c0883188a93fee0ac7a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-voortgezet-onderwijs-enz-versterking-beroepsonderwijs-door-het-we",
+   "short": "Wijzigingswet Wet op het voortgezet onderwijs, enz. (versterking beroepsonderwijs, door het wettelijk mogelijk maken van doorlopende leerroutes vmbo-mbo (sterk beroepsonderwijs))",
+   "title": "Wijzigingswet Wet op het voortgezet onderwijs, enz. (versterking beroepsonderwijs, door het wettelijk mogelijk maken van doorlopende leerroutes vmbo-mbo (sterk beroepsonderwijs))",
+   "url": "https://wetten.overheid.nl/BWBR0043608",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043608/2026-01-01_0/xml/BWBR0043608_2026-01-01_0.xml",
+     "sha256": "cd27c07fd9cde138811515c8f39610e31071af988a1baf779709929c0acf91a0"
+    }
+   ]
   }
  ]
 }

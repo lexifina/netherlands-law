@@ -18251,5 +18251,245 @@
   "part": "bwb-now-wet-016",
   "current_label": "2021-01-01_0",
   "as_of": "2026-11-03"
+ },
+ "plantgezondheidswet": {
+  "bwb": "BWBR0043194",
+  "short": "Plantgezondheidswet",
+  "title": "Plantgezondheidswet",
+  "part": "bwb-now-wet-017",
+  "current_label": "2021-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-wet-groningen": {
+  "bwb": "BWBR0043252",
+  "short": "TwG",
+  "title": "Tijdelijke wet Groningen",
+  "part": "bwb-now-wet-017",
+  "current_label": "2026-08-26_0",
+  "as_of": "2026-11-03"
+ },
+ "aanvullingswet-bodem-omgevingswet": {
+  "bwb": "BWBR0043277",
+  "short": "Aanvullingswet bodem Omgevingswet",
+  "title": "Aanvullingswet bodem Omgevingswet",
+  "part": "bwb-now-wet-017",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-bronbelasting-2021": {
+  "bwb": "BWBR0042952",
+  "short": "Wet Bb 2021",
+  "title": "Wet bronbelasting 2021",
+  "part": "bwb-now-wet-017",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-wijziging-woonplaatsbeginsel": {
+  "bwb": "BWBR0043235",
+  "short": "Wet wijziging woonplaatsbeginsel",
+  "title": "Wet wijziging woonplaatsbeginsel",
+  "part": "bwb-now-wet-017",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-tweede-eu-richtlijn-antibelastingontwijking": {
+  "bwb": "BWBR0042934",
+  "short": "Wet implementatie tweede EU-richtlijn antibelastingontwijking",
+  "title": "Wet implementatie tweede EU-richtlijn antibelastingontwijking",
+  "part": "bwb-now-wet-017",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-fiscale-maatregelen-klimaatakkoord": {
+  "bwb": "BWBR0042935",
+  "short": "Wet fiscale maatregelen Klimaatakkoord",
+  "title": "Wet fiscale maatregelen Klimaatakkoord",
+  "part": "bwb-now-wet-017",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-richtlijn-harmonisatie-en-vereenvoudiging-handelsverkeer-tussen-lidstate": {
+  "bwb": "BWBR0042937",
+  "short": "Wet implementatie richtlijn harmonisatie en vereenvoudiging handelsverkeer tussen lidstaten",
+  "title": "Wet implementatie richtlijn harmonisatie en vereenvoudiging handelsverkeer tussen lidstaten",
+  "part": "bwb-now-wet-017",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "overige-fiscale-maatregelen-2020": {
+  "bwb": "BWBR0042938",
+  "short": "Overige fiscale maatregelen 2020",
+  "title": "Overige fiscale maatregelen 2020",
+  "part": "bwb-now-wet-017",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "belastingplan-2020": {
+  "bwb": "BWBR0042946",
+  "short": "Belastingplan 2020",
+  "title": "Belastingplan 2020",
+  "part": "bwb-now-wet-017",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "spoedwet-aanpak-stikstof": {
+  "bwb": "BWBR0042967",
+  "short": "Spoedwet aanpak stikstof",
+  "title": "Spoedwet aanpak stikstof",
+  "part": "bwb-now-wet-017",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-eu-richtlijn-meldingsplichtige-grensoverschrijdende-constructies": {
+  "bwb": "BWBR0043034",
+  "short": "Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies",
+  "title": "Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies",
+  "part": "bwb-now-wet-017",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "invoeringswet-herziening-tenuitvoerlegging-strafrechtelijke-beslissingen": {
+  "bwb": "BWBR0043045",
+  "short": "Invoeringswet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+  "title": "Invoeringswet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+  "part": "bwb-now-wet-017",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-afschaffing-fiscale-aftrek-scholingsuitgaven": {
+  "bwb": "BWBR0043046",
+  "short": "Wet afschaffing fiscale aftrek scholingsuitgaven",
+  "title": "Wet afschaffing fiscale aftrek scholingsuitgaven",
+  "part": "bwb-now-wet-017",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "reparatierijkswet-justitie-en-veiligheid-2019": {
+  "bwb": "BWBR0043063",
+  "short": "Reparatierijkswet Justitie en Veiligheid 2019",
+  "title": "Reparatierijkswet Justitie en Veiligheid 2019",
+  "part": "bwb-now-wet-017",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-uitvoering-verordening-financiele-benchmarks": {
+  "bwb": "BWBR0043084",
+  "short": "Wet uitvoering verordening financiële benchmarks",
+  "title": "Wet uitvoering verordening financiële benchmarks",
+  "part": "bwb-now-wet-017",
+  "current_label": "2020-01-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-kamers-van-koophandel-en-nijverheid-bes-en-handelsregisterwet-2009": {
+  "bwb": "BWBR0043100",
+  "short": "Wijzigingswet Wet op de Kamers van Koophandel en Nijverheid BES en Handelsregisterwet 2009 BES",
+  "title": "Wijzigingswet Wet op de Kamers van Koophandel en Nijverheid BES en Handelsregisterwet 2009 BES",
+  "part": "bwb-now-wet-017",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-kenbaarheid-publiekrechtelijke-beperkingen-onroerende-zaken": {
+  "bwb": "BWBR0043189",
+  "short": "Wijzigingswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken",
+  "title": "Wijzigingswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken",
+  "part": "bwb-now-wet-017",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "rijkswet-houdende-goedkeuring-verdrag-inzake-de-uitbanning-van-alle-vormen-van-discriminat": {
+  "bwb": "BWBR0043206",
+  "short": "Rijkswet houdende goedkeuring Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen",
+  "title": "Rijkswet houdende goedkeuring Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen",
+  "part": "bwb-now-wet-017",
+  "current_label": "1991-07-17_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-vws-2020": {
+  "bwb": "BWBR0043208",
+  "short": "Verzamelwet VWS 2020",
+  "title": "Verzamelwet VWS 2020",
+  "part": "bwb-now-wet-017",
+  "current_label": "2024-11-06_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-waterwet-subsidiering-uit-deltafonds-van-maatregelen-en-voorzieningen-tegen": {
+  "bwb": "BWBR0043218",
+  "short": "Wijzigingswet Waterwet (subsidiëring uit deltafonds van maatregelen en voorzieningen tegen wateroverlast)",
+  "title": "Wijzigingswet Waterwet (subsidiëring uit deltafonds van maatregelen en voorzieningen tegen wateroverlast)",
+  "part": "bwb-now-wet-017",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingwet-scheepvaartverkeerswet-en-enige-andere-wetten-verdere-flexibilisering-van-de": {
+  "bwb": "BWBR0043238",
+  "short": "Wijzigingwet Scheepvaartverkeerswet en enige andere wetten (verdere flexibilisering van de loodsplicht (Loodsplicht nieuwe stijl))",
+  "title": "Wijzigingwet Scheepvaartverkeerswet en enige andere wetten (verdere flexibilisering van de loodsplicht (Loodsplicht nieuwe stijl))",
+  "part": "bwb-now-wet-017",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanvullingswet-geluid-omgevingswet": {
+  "bwb": "BWBR0043247",
+  "short": "Aanvullingswet geluid Omgevingswet",
+  "title": "Aanvullingswet geluid Omgevingswet",
+  "part": "bwb-now-wet-017",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanvullingswet-grondeigendom-omgevingswet": {
+  "bwb": "BWBR0043371",
+  "short": "Aanvullingswet grondeigendom Omgevingswet",
+  "title": "Aanvullingswet grondeigendom Omgevingswet",
+  "part": "bwb-now-wet-017",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-meldkamers": {
+  "bwb": "BWBR0043532",
+  "short": "Wijzigingswet meldkamers",
+  "title": "Wijzigingswet meldkamers",
+  "part": "bwb-now-wet-017",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-wijziging-vierde-anti-witwasrichtlijn": {
+  "bwb": "BWBR0043558",
+  "short": "Implementatiewet wijziging vierde anti-witwasrichtlijn",
+  "title": "Implementatiewet wijziging vierde anti-witwasrichtlijn",
+  "part": "bwb-now-wet-017",
+  "current_label": "2020-07-10_0",
+  "as_of": "2026-11-03"
+ },
+ "kadasterwet-bes": {
+  "bwb": "BWBR0043565",
+  "short": "Kadasterwet BES",
+  "title": "Kadasterwet BES",
+  "part": "bwb-now-wet-017",
+  "current_label": "2024-12-11_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-verwijzingsportaal-bankgegevens": {
+  "bwb": "BWBR0043570",
+  "short": "Wet verwijzingsportaal bankgegevens",
+  "title": "Wet verwijzingsportaal bankgegevens",
+  "part": "bwb-now-wet-017",
+  "current_label": "2020-09-10_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-wijziging-eu-kaderrichtlijn-afvalstoffen": {
+  "bwb": "BWBR0043601",
+  "short": "Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen",
+  "title": "Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen",
+  "part": "bwb-now-wet-017",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-het-voortgezet-onderwijs-enz-versterking-beroepsonderwijs-door-het-we": {
+  "bwb": "BWBR0043608",
+  "short": "Wijzigingswet Wet op het voortgezet onderwijs, enz. (versterking beroepsonderwijs, door het wettelijk mogelijk maken van doorlopende leerroutes vmbo-mbo (sterk beroepsonderwijs))",
+  "title": "Wijzigingswet Wet op het voortgezet onderwijs, enz. (versterking beroepsonderwijs, door het wettelijk mogelijk maken van doorlopende leerroutes vmbo-mbo (sterk beroepsonderwijs))",
+  "part": "bwb-now-wet-017",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
  }
 }

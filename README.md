@@ -2372,6 +2372,36 @@ The acts below have one version so far: the version in force on the day it was r
 | `wijzigingswet-wet-geneesmiddelenprijzen-aanpassing-referentielanden/` | [Wijzigingswet Wet geneesmiddelenprijzen (aanpassing referentielanden)](https://wetten.overheid.nl/BWBR0042895) | BWBR0042895 | wet | 2025-07-05 |
 | `wet-verbod-op-kolen-bij-elektriciteitsproductie/` | [Wet verbod op kolen bij elektriciteitsproductie](https://wetten.overheid.nl/BWBR0042905) | BWBR0042905 | wet | 2026-01-01 |
 | `verzamelwet-szw-2020/` | [Verzamelwet SZW 2020](https://wetten.overheid.nl/BWBR0042918) | BWBR0042918 | wet | 2021-01-01 |
+| `plantgezondheidswet/` | [Plantgezondheidswet](https://wetten.overheid.nl/BWBR0043194) | BWBR0043194 | wet | 2021-03-01 |
+| `tijdelijke-wet-groningen/` | [Tijdelijke wet Groningen](https://wetten.overheid.nl/BWBR0043252) | BWBR0043252 | wet | 2026-08-26 |
+| `aanvullingswet-bodem-omgevingswet/` | [Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/BWBR0043277) | BWBR0043277 | wet | 2024-01-01 |
+| `wet-bronbelasting-2021/` | [Wet bronbelasting 2021](https://wetten.overheid.nl/BWBR0042952) | BWBR0042952 | wet | 2026-01-01 |
+| `wet-wijziging-woonplaatsbeginsel/` | [Wet wijziging woonplaatsbeginsel](https://wetten.overheid.nl/BWBR0043235) | BWBR0043235 | wet | 2022-01-01 |
+| `wet-implementatie-tweede-eu-richtlijn-antibelastingontwijking/` | [Wet implementatie tweede EU-richtlijn antibelastingontwijking](https://wetten.overheid.nl/BWBR0042934) | BWBR0042934 | wet | 2022-01-01 |
+| `wet-fiscale-maatregelen-klimaatakkoord/` | [Wet fiscale maatregelen Klimaatakkoord](https://wetten.overheid.nl/BWBR0042935) | BWBR0042935 | wet | 2024-01-01 |
+| `wet-implementatie-richtlijn-harmonisatie-en-vereenvoudiging-handelsverkeer-tussen-lidstate/` | [Wet implementatie richtlijn harmonisatie en vereenvoudiging handelsverkeer tussen lidstaten](https://wetten.overheid.nl/BWBR0042937) | BWBR0042937 | wet | 2020-01-01 |
+| `overige-fiscale-maatregelen-2020/` | [Overige fiscale maatregelen 2020](https://wetten.overheid.nl/BWBR0042938) | BWBR0042938 | wet | 2026-10-01 |
+| `belastingplan-2020/` | [Belastingplan 2020](https://wetten.overheid.nl/BWBR0042946) | BWBR0042946 | wet | 2021-01-01 |
+| `spoedwet-aanpak-stikstof/` | [Spoedwet aanpak stikstof](https://wetten.overheid.nl/BWBR0042967) | BWBR0042967 | wet | 2024-01-01 |
+| `wet-implementatie-eu-richtlijn-meldingsplichtige-grensoverschrijdende-constructies/` | [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/BWBR0043034) | BWBR0043034 | wet | 2020-07-01 |
+| `invoeringswet-herziening-tenuitvoerlegging-strafrechtelijke-beslissingen/` | [Invoeringswet herziening tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/BWBR0043045) | BWBR0043045 | wet | 2021-01-01 |
+| `wet-afschaffing-fiscale-aftrek-scholingsuitgaven/` | [Wet afschaffing fiscale aftrek scholingsuitgaven](https://wetten.overheid.nl/BWBR0043046) | BWBR0043046 | wet | 2022-01-01 |
+| `reparatierijkswet-justitie-en-veiligheid-2019/` | [Reparatierijkswet Justitie en Veiligheid 2019](https://wetten.overheid.nl/BWBR0043063) | BWBR0043063 | rijkswet | 2024-01-01 |
+| `wet-uitvoering-verordening-financiele-benchmarks/` | [Wet uitvoering verordening financiële benchmarks](https://wetten.overheid.nl/BWBR0043084) | BWBR0043084 | wet | 2020-01-31 |
+| `wijzigingswet-wet-op-de-kamers-van-koophandel-en-nijverheid-bes-en-handelsregisterwet-2009/` | [Wijzigingswet Wet op de Kamers van Koophandel en Nijverheid BES en Handelsregisterwet 2009 BES](https://wetten.overheid.nl/BWBR0043100) | BWBR0043100 | wet-BES | 2022-01-01 |
+| `wijzigingswet-wet-kenbaarheid-publiekrechtelijke-beperkingen-onroerende-zaken/` | [Wijzigingswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/BWBR0043189) | BWBR0043189 | wet | 2021-01-01 |
+| `rijkswet-houdende-goedkeuring-verdrag-inzake-de-uitbanning-van-alle-vormen-van-discriminat/` | [Rijkswet houdende goedkeuring Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen](https://wetten.overheid.nl/BWBR0043206) | BWBR0043206 | rijkswet | 1991-07-17 |
+| `verzamelwet-vws-2020/` | [Verzamelwet VWS 2020](https://wetten.overheid.nl/BWBR0043208) | BWBR0043208 | wet | 2024-11-06 |
+| `wijzigingswet-waterwet-subsidiering-uit-deltafonds-van-maatregelen-en-voorzieningen-tegen/` | [Wijzigingswet Waterwet (subsidiëring uit deltafonds van maatregelen en voorzieningen tegen wateroverlast)](https://wetten.overheid.nl/BWBR0043218) | BWBR0043218 | wet | 2020-07-01 |
+| `wijzigingwet-scheepvaartverkeerswet-en-enige-andere-wetten-verdere-flexibilisering-van-de/` | [Wijzigingwet Scheepvaartverkeerswet en enige andere wetten (verdere flexibilisering van de loodsplicht (Loodsplicht nieuwe stijl))](https://wetten.overheid.nl/BWBR0043238) | BWBR0043238 | wet | 2021-01-01 |
+| `aanvullingswet-geluid-omgevingswet/` | [Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/BWBR0043247) | BWBR0043247 | wet | 2026-07-01 |
+| `aanvullingswet-grondeigendom-omgevingswet/` | [Aanvullingswet grondeigendom Omgevingswet](https://wetten.overheid.nl/BWBR0043371) | BWBR0043371 | wet | 2026-07-01 |
+| `wijzigingswet-meldkamers/` | [Wijzigingswet meldkamers](https://wetten.overheid.nl/BWBR0043532) | BWBR0043532 | wet | 2020-07-01 |
+| `implementatiewet-wijziging-vierde-anti-witwasrichtlijn/` | [Implementatiewet wijziging vierde anti-witwasrichtlijn](https://wetten.overheid.nl/BWBR0043558) | BWBR0043558 | wet | 2020-07-10 |
+| `kadasterwet-bes/` | [Kadasterwet BES](https://wetten.overheid.nl/BWBR0043565) | BWBR0043565 | wet-BES | 2024-12-11 |
+| `wet-verwijzingsportaal-bankgegevens/` | [Wet verwijzingsportaal bankgegevens](https://wetten.overheid.nl/BWBR0043570) | BWBR0043570 | wet | 2020-09-10 |
+| `implementatiewet-wijziging-eu-kaderrichtlijn-afvalstoffen/` | [Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen](https://wetten.overheid.nl/BWBR0043601) | BWBR0043601 | rijkswet | 2020-07-01 |
+| `wijzigingswet-wet-op-het-voortgezet-onderwijs-enz-versterking-beroepsonderwijs-door-het-we/` | [Wijzigingswet Wet op het voortgezet onderwijs, enz. (versterking beroepsonderwijs, door het wettelijk mogelijk maken van doorlopende leerroutes vmbo-mbo (sterk beroepsonderwijs))](https://wetten.overheid.nl/BWBR0043608) | BWBR0043608 | wet | 2026-01-01 |
 
 ## A lawyer's questions as git commands
 
