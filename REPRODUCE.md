@@ -66,6 +66,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1854,12 +1856,223 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wijzigingswet-waterwet-enz-regeling-zorgplicht-ter-voorkoming-van-schade-aan-waterstaatswe` | Wijzigingswet Waterwet, enz. (regeling zorgplicht ter voorkoming van schade aan waterstaatswerken, enz.) | 1 | 2011-07-01 to 2011-07-01 |
 | `wijzigingswet-wet-milieubeheer-enz-verdere-invulling-van-hoofdstuk-9` | Wijzigingswet Wet milieubeheer, enz. (Verdere invulling van hoofdstuk 9) | 1 | 2012-01-01 to 2012-01-01 |
 | `wijzigingswet-burgerlijk-wetboek-boek-2-aanpassing-regels-over-bestuur-en-toezicht-in-naam` | Wijzigingswet Burgerlijk Wetboek Boek 2 (aanpassing regels over bestuur en toezicht in naamloze en besloten vennootschappen) | 1 | 2016-01-01 to 2016-01-01 |
+| `wijzigingswet-wet-schadefonds-geweldsmisdrijven-uitbreiding-van-de-categorieen-van-persone` | Wijzigingswet Wet schadefonds geweldsmisdrijven (uitbreiding van de categorieën van personen die recht hebben op een uitkering uit het fonds en verruiming van de gevallen waarin men aanspraak kan maken op een dergelijke uitkering, aanpassing aan de Kaderwet zelfstandige bestuursorganen en enkele andere aanpassingen) | 1 | 2012-01-01 to 2012-01-01 |
+| `aanpassingswet-handel-in-emissierechten-ii` | Aanpassingswet handel in emissierechten II | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-uniformering-loonbegrip` | Wet uniformering loonbegrip | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-monumentenwet-1988-enz-modernisering-monumentenzorg` | Wijzigingswet Monumentenwet 1988, enz. (modernisering monumentenzorg) | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-goedkeuring-ministeriele-regelingen-bes` | Wet goedkeuring ministeriële regelingen BES | 1 | 2011-07-16 to 2011-07-16 |
+| `wet-primair-onderwijs-bes` | Wet primair onderwijs BES | 1 | 2026-08-01 to 2026-08-01 |
+| `leerplichtwet-bes` | Leerplichtwet BES | 1 | 2025-08-01 to 2025-08-01 |
+| `wijzigingswet-wet-opneming-buitenlandse-kinderen-ter-adoptie-tegemoetkoming-gemaakte-koste` | Wijzigingswet Wet opneming buitenlandse kinderen ter adoptie (tegemoetkoming gemaakte kosten interlandelijke adoptie) | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-verhoging-collegegeld-langstudeerders` | Wet verhoging collegegeld langstudeerders | 1 | 2011-09-01 to 2011-09-01 |
+| `wijzigingswet-mijnbouwwet-implementatie-diverse-richtlijnen-betreffende-geologische-opslag` | Wijzigingswet Mijnbouwwet (implementatie diverse richtlijnen betreffende geologische opslag kooldioxide) | 1 | 2012-02-08 to 2012-02-08 |
+| `wet-implementatie-maritiem-arbeidsverdrag` | Wet implementatie Maritiem Arbeidsverdrag | 1 | 2019-11-15 to 2019-11-15 |
+| `wet-samenvoeging-gemeenten-anna-paulowna-niedorp-wieringen-en-wieringermeer` | Wet samenvoeging gemeenten Anna Paulowna, Niedorp, Wieringen en Wieringermeer | 1 | 2011-09-21 to 2011-09-21 |
+| `wet-interbestuurlijk-toezicht-gemeentelijke-inkomens-en-werkvoorzieningen` | Wet interbestuurlijk toezicht gemeentelijke inkomens- en werkvoorzieningen | 1 | 2013-01-01 to 2013-01-01 |
+| `uitvoeringswet-internationale-inning-levensonderhoud` | Uitvoeringswet internationale inning levensonderhoud | 1 | 2022-08-01 to 2022-08-01 |
+| `wijzigingswet-wet-op-het-notarisambt-enz-evaluatie-en-regeling-enkele-andere-onderwerpen` | Wijzigingswet Wet op het notarisambt, enz. (evaluatie en regeling enkele andere onderwerpen) | 1 | 2014-07-01 to 2014-07-01 |
+| `wijzigingswet-wet-op-het-onderwijstoezicht-enz-instelling-diplomaregister` | Wijzigingswet Wet op het onderwijstoezicht, enz. (instelling diplomaregister) | 1 | 2020-07-01 to 2020-07-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-1-aanpassing-artikel-97-en-reparatie-technische-onvo` | Wijzigingswet Burgerlijk Wetboek Boek 1 (aanpassing artikel 97 en reparatie technische onvolkomenheden opgetreden bij totstandkoming Wet aanpassing wettelijke gemeenschap van goederen) | 1 | 2012-01-01 to 2012-01-01 |
+| `verzamelwet-veiligheid-en-justitie-2011` | Verzamelwet Veiligheid en Justitie 2011 | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-aanpassing-appa-en-enkele-andere-wetten-2011` | Wet aanpassing Appa en enkele andere wetten 2011 | 1 | 2011-11-19 to 2011-11-19 |
+| `wijzigingswet-uitvoeringswet-verdragen-inzake-internationale-ontvoering-van-kinderen-enz-a` | Wijzigingswet Uitvoeringswet verdragen inzake internationale ontvoering van kinderen, enz. (afschaffing procesvertegenwoordigende bevoegdheid centrale autoriteit betreffend internationale kinderontvoering en kinderbescherming, enz.) | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-comptabiliteitswet-2001-i-v-m-wijziging-aantal-begrotingen-en-technische-aan` | Wijzigingswet Comptabiliteitswet 2001 i.v.m. wijziging aantal begrotingen en technische aanpassingen (Vijfde wijziging van de Comptabiliteitswet 2001) | 1 | 2011-11-25 to 2011-11-25 |
+| `fiscale-verzamelwet-2011` | Fiscale verzamelwet 2011 | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-algemene-wet-bijzondere-ziektekosten-enz-instelling-zelfstandig-bestuursorga` | Wijzigingswet Algemene Wet Bijzondere Ziektekosten, enz. (instelling zelfstandig bestuursorgaan CAK) | 1 | 2014-04-01 to 2014-04-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-beroepsgerichte-kwalificatiestructuur` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (beroepsgerichte kwalificatiestructuur) | 1 | 2012-01-01 to 2012-01-01 |
+| `goedkeurings-en-reparatiewet-bes` | Goedkeurings- en reparatiewet BES | 1 | 2011-12-07 to 2011-12-07 |
+| `tussenregeling-valutaresultaten-op-deelnemingen` | Tussenregeling valutaresultaten op deelnemingen | 1 | 2011-12-10 to 2011-12-10 |
+| `wijzigingswet-tracewet-met-het-oog-op-versnelling-en-verbetering-besluitvorming-infrastruc` | Wijzigingswet Tracéwet met het oog op versnelling en verbetering besluitvorming infrastructurele projecten | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-aanvulling-instrumenten-bekostiging-wmg` | Wet aanvulling instrumenten bekostiging WMG | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-wet-melding-collectief-ontslag-uitbreiding-reikwijdte-en-bevordering-nalevin` | Wijzigingswet Wet melding collectief ontslag (uitbreiding reikwijdte en bevordering naleving) | 1 | 2012-03-01 to 2012-03-01 |
+| `deltawet-waterveiligheid-en-zoetwatervoorziening` | Deltawet waterveiligheid en zoetwatervoorziening | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-introductie-meldingsplicht-bepaalde-cash-sett` | Wijzigingswet Wet op het financieel toezicht (introductie meldingsplicht bepaalde cash settled instrumenten) | 1 | 2012-01-01 to 2012-01-01 |
+| `verzamelwet-kinderopvang-2012` | Verzamelwet kinderopvang 2012 | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-toepassing-dwangsomregeling-toeslagen` | Wet toepassing dwangsomregeling toeslagen | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-wederzijdse-bijstand-in-de-europese-unie-bij-de-invordering-van-belastingschulden-en-e` | Wet wederzijdse bijstand in de Europese Unie bij de invordering van belastingschulden en enkele andere schuldvorderingen 2012 | 1 | 2019-01-01 to 2019-01-01 |
+| `verzamelwet-pensioenen-2012` | Verzamelwet pensioenen 2012 | 1 | 2015-01-01 to 2015-01-01 |
+| `verzamelwet-szw-2012` | Verzamelwet SZW 2012 | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-versterking-positie-rechter-commissaris` | Wet versterking positie rechter-commissaris | 1 | 2013-01-01 to 2013-01-01 |
+| `geefwet` | Geefwet | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-uitwerking-autobrief` | Wet uitwerking autobrief | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-op-de-nederlandse-organisatie-voor-wetenschappelijk-onderzoek-aanpassing` | Wijzigingswet Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek (aanpassing Kaderwet zelfstandige bestuursorganen) | 1 | 2012-07-01 to 2012-07-01 |
+| `belastingplan-2012` | Belastingplan 2012 | 1 | 2017-01-01 to 2017-01-01 |
+| `intrekkingswet-wet-werk-en-inkomen-kunstenaars` | Intrekkingswet Wet werk en inkomen kunstenaars | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-enz-implementatie-richtlijn-nr-2009-110-eg` | Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn nr. 2009/110/EG) | 1 | 2012-01-01 to 2012-01-01 |
+| `overige-fiscale-maatregelen-2012` | Overige fiscale maatregelen 2012 | 1 | 2015-06-30 to 2015-06-30 |
+| `wijzigingswet-wetboek-van-strafrecht-beperken-mogelijkheden-opleggen-taakstraf-ernstige-ze` | Wijzigingswet Wetboek van Strafrecht (beperken mogelijkheden opleggen taakstraf ernstige zeden- en geweldsmisdrijven en bij recidive van misdrijven) | 1 | 2012-01-03 to 2012-01-03 |
+| `wet-wijziging-ingangsdatum-aow-ouderdomspensioen` | Wet wijziging ingangsdatum AOW-ouderdomspensioen | 1 | 2012-04-01 to 2012-04-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-enz-introductie-geschiktheidseis-en-versterki` | Wijzigingswet Wet op het financieel toezicht, enz. (introductie geschiktheidseis en versterking samenwerking tussen toezichthouders (geschiktheidstoets en betrouwbaarheidstoets)) | 1 | 2012-07-01 to 2012-07-01 |
+| `wet-versterking-governance-van-de-nederlandsche-bank-en-de-autoriteit-financiele-markten` | Wet versterking governance van de Nederlandsche Bank en de Autoriteit Financiële Markten | 1 | 2012-02-16 to 2012-02-16 |
+| `wijzigingswet-wet-op-de-kansspelen-instelling-kansspelautoriteit` | Wijzigingswet Wet op de kansspelen (instelling kansspelautoriteit) | 1 | 2012-04-01 to 2012-04-01 |
+| `wijzigingswet-wet-op-het-voortgezet-onderwijs-enz-uitbreiden-en-verduidelijken-mogelijkhed` | Wijzigingswet Wet op het voortgezet onderwijs, enz. (uitbreiden en verduidelijken mogelijkheden tot benoeming of tewerkstelling leraren voortgezet onderwijs en beperken mogelijkheid tot inzetten onbevoegden) | 1 | 2014-08-01 to 2014-08-01 |
+| `wet-volkshuisvesting-ruimtelijke-ordening-en-milieubeheer-bes` | Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES | 1 | 2024-04-01 to 2024-04-01 |
+| `wet-raad-voor-de-leefomgeving-en-infrastructuur` | Wet Raad voor de leefomgeving en infrastructuur | 1 | 2014-08-01 to 2014-08-01 |
+| `wijzigingswet-wegenverkeerswet-1994-enz-implementatie-derde-rijbewijsrichtlijn` | Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie derde rijbewijsrichtlijn) | 1 | 2013-01-19 to 2013-01-19 |
+| `wet-prejudiciele-vragen-aan-de-hoge-raad` | Wet prejudiciële vragen aan de Hoge Raad | 1 | 2012-07-01 to 2012-07-01 |
+| `wijzigingswet-wet-medisch-wetenschappelijk-onderzoek-met-mensen-evaluatie-deze-wet-en-hers` | Wijzigingswet Wet medisch-wetenschappelijk onderzoek met mensen (evaluatie deze wet en herstel onvolledige implementatie richtlijn nr. 2001/20/EG) | 1 | 2015-12-17 to 2015-12-17 |
+| `wijzigingswet-wet-minimumloon-en-minimumvakantiebijslag-verduidelijken-rechtsvermoeden-wer` | Wijzigingswet Wet minimumloon en minimumvakantiebijslag (verduidelijken rechtsvermoeden werkgeverschap) | 1 | 2012-03-01 to 2012-03-01 |
+| `wet-awbz-zorg-buitenland` | Wet AWBZ-zorg buitenland | 1 | 2013-01-01 to 2013-01-01 |
+| `reparatiewet-bzk-op-het-terrein-van-het-wonen` | Reparatiewet BZK op het terrein van het wonen | 1 | 2012-04-01 to 2012-04-01 |
+| `wijzigingswet-advocatenwet-enz-versterking-cassatierechtspraak` | Wijzigingswet Advocatenwet, enz. (versterking cassatierechtspraak) | 1 | 2012-07-01 to 2012-07-01 |
+| `wijzigingswet-wet-milieubeheer-reparatie-milieueffectrapportage` | Wijzigingswet Wet milieubeheer (reparatie milieueffectrapportage) | 1 | 2012-03-30 to 2012-03-30 |
+| `veteranenwet` | Veteranenwet | 1 | 2020-01-01 to 2020-01-01 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-gebruik-persoonsgebonden-nummer-bij-onder-m` | Wijzigingswet Wet op het primair onderwijs, enz. (gebruik persoonsgebonden nummer bij onder meer de uitwisseling van leer- en begeleidingsgegevens van leerlingen) | 1 | 2012-08-01 to 2012-08-01 |
+| `wijzigingswet-wet-milieubeheer-enz-herziening-eg-richtlijn-handel-in-broeikasgasemissierec` | Wijzigingswet Wet milieubeheer, enz. (herziening EG-richtlijn handel in broeikasgasemissierechten) | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-pensioenwet-evenwichtige-samenstelling-van-en-medezeggenschap-in-pensioenfon` | Wijzigingswet Pensioenwet (evenwichtige samenstelling van en medezeggenschap in pensioenfondsbesturen) | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-woonlandbeginsel-in-de-sociale-zekerheid` | Wet woonlandbeginsel in de sociale zekerheid | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-telecommunicatiewet-implementatie-herziene-telecommunicatierichtlijnen` | Wijzigingswet Telecommunicatiewet (implementatie herziene telecommunicatierichtlijnen) | 1 | 2013-03-15 to 2013-03-15 |
+| `verzamelwet-verkeer-en-waterstaat-2010` | Verzamelwet Verkeer en Waterstaat 2010 | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-revitalisering-generiek-toezicht` | Wet revitalisering generiek toezicht | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-samenvoeging-gemeenten-graafstroom-liesveld-en-nieuw-lekkerland` | Wet samenvoeging gemeenten Graafstroom, Liesveld en Nieuw-Lekkerland | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000-enz-wijziging` | Wijzigingswet Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, enz. (wijziging markt- en overheidbepalingen) | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-samenvoeging-gemeenten-harenkarspel-schagen-en-zijpe` | Wet samenvoeging gemeenten Harenkarspel, Schagen en Zijpe | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-implementatie-omnibus-i-richtlijn` | Wet implementatie Omnibus I-richtlijn | 1 | 2012-07-01 to 2012-07-01 |
+| `wet-bijzondere-maatregelen-financiele-ondernemingen` | Wet bijzondere maatregelen financiële ondernemingen | 1 | 2017-06-27 to 2017-06-27 |
+| `wijzigingswet-vreemdelingenwet-2000-nationale-visa` | Wijzigingswet Vreemdelingenwet 2000 (nationale visa) | 1 | 2013-06-01 to 2013-06-01 |
+| `wet-registratieplicht-intermediairs-die-arbeidskrachten-ter-beschikking-stellen` | Wet registratieplicht intermediairs die arbeidskrachten ter beschikking stellen | 1 | 2012-07-01 to 2012-07-01 |
+| `invoeringswet-geluidproductieplafonds` | Invoeringswet geluidproductieplafonds | 1 | 2012-07-01 to 2012-07-01 |
+| `wet-aansprakelijkheidsbeperking-dnb-en-afm-en-bonusverbod-staatsgesteunde-ondernemingen` | Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen | 1 | 2015-02-07 to 2015-02-07 |
+| `wet-hervorming-herziening-ten-voordele` | Wet hervorming herziening ten voordele | 1 | 2012-10-01 to 2012-10-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-2-aanpassing-recht-van-enquete` | Wijzigingswet Burgerlijk Wetboek Boek 2 (aanpassing recht van enquête) | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-wet-ruimtelijke-ordening-enz-voorzien-in-wettelijke-grondslag-voor-provincia` | Wijzigingswet Wet ruimtelijke ordening, enz. (voorzien in wettelijke grondslag voor provinciaal medebewind en mogelijkheid tot afwijking van algemene regels) | 1 | 2014-11-01 to 2014-11-01 |
+| `invoeringswet-vereenvoudiging-en-flexibilisering-bv-recht` | Invoeringswet vereenvoudiging en flexibilisering bv-recht | 1 | 2012-10-01 to 2012-10-01 |
+| `wet-samenvoeging-gemeenten-dirksland-goedereede-middelharnis-en-oostflakkee` | Wet samenvoeging gemeenten Dirksland, Goedereede, Middelharnis en Oostflakkee | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-herziening-gerechtelijke-kaart` | Wet herziening gerechtelijke kaart | 1 | 2015-07-01 to 2015-07-01 |
+| `wijzigingswet-mediawet-2008-enz-aanpassing-rijksmediabijdrage-beeindiging-wettelijke-taken` | Wijzigingswet Mediawet 2008, enz. (aanpassing rijksmediabijdrage, beëindiging wettelijke taken Stichting Radio Nederland Wereldomroep en aanpassingen van meer technische aard) | 1 | 2015-01-01 to 2015-01-01 |
+| `invoerings-en-aanpassingswet-politiewet-2012` | Invoerings- en aanpassingswet Politiewet 2012 | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-bankenbelasting` | Wet bankenbelasting | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-uitwerking-fiscale-maatregelen-begrotingsakkoord-2013` | Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013 | 1 | 2014-01-01 to 2014-01-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-8-enz-uitvoering-verdrag-van-athene` | Wijzigingswet Burgerlijk Wetboek Boek 8, enz. (uitvoering Verdrag van Athene) | 1 | 2012-12-31 to 2012-12-31 |
+| `wijzigingswet-zorgverzekeringswet-en-algemene-wet-bijzondere-ziektekosten-uitvoering-begro` | Wijzigingswet Zorgverzekeringswet en Algemene Wet Bijzondere Ziektekosten (uitvoering Begrotingsakkoord 2013) | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-wetboek-van-strafrecht-verhogen-maximale-proeftijd-voor-misdrijven-die-gezon` | Wijzigingswet Wetboek van Strafrecht (verhogen maximale proeftijd voor misdrijven die gezondheid of welzijn van dieren benadelen en verhogen strafmaximum voor onder meer doden van andermans dieren) | 1 | 2012-10-01 to 2012-10-01 |
+| `wet-aanpassing-uitkeringsduur-appa` | Wet aanpassing uitkeringsduur Appa | 1 | 2012-09-18 to 2012-09-18 |
+| `wijzigingswet-wet-inburgering-enz-versterking-eigen-verantwoordelijkheid-inburgeringsplich` | Wijzigingswet Wet inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige) | 1 | 2013-07-01 to 2013-07-01 |
+| `wijzigingswet-wet-veiligheidsregios-enz-oprichting-instituut-fysieke-veiligheid-en-de-voll` | Wijzigingswet Wet veiligheidsregio’s, enz. (oprichting Instituut Fysieke Veiligheid en de volledige regionalisering van de brandweer) | 1 | 2013-01-01 to 2013-01-01 |
+| `aanpassingswet-zbos-ienm-aan-de-kaderwet-zbos` | Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s | 1 | 2021-01-01 to 2021-01-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-voortgezet-algemeen-volwassenenonderwij` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (voortgezet algemeen volwassenenonderwijs en overige educatie) | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-aanscherping-handhaving-en-sanctiebeleid-szw-wetgeving` | Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-beperking-ziekteverzuim-en-arbeidsongeschiktheid-vangnetters` | Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters | 1 | 2016-01-01 to 2016-01-01 |
+| `wet-op-de-verlening-van-bijstand-aan-de-europese-commissie-bij-controles-en-verificaties-t` | Wet op de verlening van bijstand aan de Europese Commissie bij controles en verificaties ter plaatse | 1 | 2021-07-01 to 2021-07-01 |
+| `goedkeuringswet-verdrag-betreffende-de-oprichting-van-het-functioneel-luchtruimblok-europe` | Goedkeuringswet Verdrag betreffende de oprichting van het Functioneel Luchtruimblok «Europe Central» | 1 | 2012-10-27 to 2012-10-27 |
+| `wijzigingswet-enkele-onderwijswetten-herziening-organisatie-en-financiering-van-ondersteun` | Wijzigingswet enkele onderwijswetten (herziening organisatie en financiering van ondersteuning leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs) | 1 | 2024-01-01 to 2024-01-01 |
+| `fiscale-verzamelwet-2012` | Fiscale verzamelwet 2012 | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-algemene-wet-bijzondere-ziektekosten-enz-invoering-vermogensinkomensbijtelli` | Wijzigingswet Algemene Wet Bijzondere Ziektekosten, enz. (invoering vermogensinkomensbijtelling vaststelling eigen bijdragen voor zorg of voorzieningen) | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-aanbestedingsvrijheid-ov-grote-steden` | Wet aanbestedingsvrijheid OV grote steden | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-implementatie-richtlijn-nr-2008-52-eg-betreffende-bepaalde-aspecten-van-bemiddeling-me` | Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken | 1 | 2017-09-01 to 2017-09-01 |
+| `wijzigingswet-wetboek-van-strafrecht-aanpassing-van-de-regeling-van-de-vervolgingsverjarin` | Wijzigingswet Wetboek van Strafrecht (aanpassing van de regeling van de vervolgingsverjaring) | 1 | 2013-04-01 to 2013-04-01 |
+| `wijzigingswet-wet-luchtvaart-enz-beperkingengebied-buitenlandse-luchthaven` | Wijzigingswet Wet luchtvaart, enz. (beperkingengebied buitenlandse luchthaven) | 1 | 2013-01-01 to 2013-01-01 |
+| `goedkeuringswet-verhoging-aow-leeftijd` | Goedkeuringswet verhoging AOW-leeftijd | 1 | 2013-01-02 to 2013-01-02 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-enz-advies-monitoring-commissie-corporate-gov` | Wijzigingswet Wet op het financieel toezicht, enz. (advies Monitoring Commissie Corporate Governance Code van 30 mei 2007) | 1 | 2013-07-01 to 2013-07-01 |
+| `wijzigingswet-wet-bodembescherming-terugbrengen-administratieve-en-bestuurlijke-lasten-en` | Wijzigingswet Wet bodembescherming (terugbrengen administratieve en bestuurlijke lasten en enkele verbeteringen van de uitvoering) | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-elektronische-registratie-notariele-akten` | Wet elektronische registratie notariële akten | 1 | 2023-01-01 to 2023-01-01 |
+| `implementatiewet-richtlijn-solvabiliteit-ii` | Implementatiewet richtlijn solvabiliteit II | 1 | 2016-01-01 to 2016-01-01 |
+| `wijzigingswet-financiele-markten-2013` | Wijzigingswet financiële markten 2013 | 1 | 2014-02-08 to 2014-02-08 |
+| `wijzigingswet-wet-op-de-rechterlijke-indeling-enz-vorming-van-de-arrondissementen-gelderla` | Wijzigingswet Wet op de rechterlijke indeling, enz. (vorming van de arrondissementen Gelderland en Overijssel) | 1 | 2013-04-01 to 2013-04-01 |
+| `wet-aanpassing-bestuursprocesrecht` | Wet aanpassing bestuursprocesrecht | 1 | 2013-07-01 to 2013-07-01 |
+| `overige-fiscale-maatregelen-2013` | Overige fiscale maatregelen 2013 | 1 | 2015-06-19 to 2015-06-19 |
+| `belastingplan-2013` | Belastingplan 2013 | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-vereenvoudiging-regelingen-uwv` | Wet vereenvoudiging regelingen UWV | 1 | 2020-01-01 to 2020-01-01 |
+| `kaderwet-subsidies-i-en-m` | Kaderwet subsidies I en M | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-geneesmiddelenwet-implementatie-richtlijn-2010-84-eu` | Wijzigingswet Geneesmiddelenwet (implementatie Richtlijn 2010/84/EU) | 1 | 2013-02-22 to 2013-02-22 |
+| `rijkswet-aanpassing-wet-militaire-strafrechtspraak-enz-gewijzigde-regelgeving-en-herstel-t` | Rijkswet aanpassing Wet militaire strafrechtspraak, enz. (gewijzigde regelgeving en herstel technische onvolkomenheden) | 1 | 2017-01-01 to 2017-01-01 |
+| `wet-nadeelcompensatie-en-schadevergoeding-bij-onrechtmatige-besluiten` | Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-wet-op-de-jeugdzorg-enz-verbetering-positie-pleegouders` | Wijzigingswet Wet op de jeugdzorg, enz. (verbetering positie pleegouders) | 1 | 2014-02-15 to 2014-02-15 |
+| `reparatiewet-griffierechten-burgerlijke-zaken` | Reparatiewet griffierechten burgerlijke zaken | 1 | 2013-04-01 to 2013-04-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-7-enz-huurverhoging-op-grond-van-inkomen` | Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (huurverhoging op grond van inkomen) | 1 | 2013-03-16 to 2013-03-16 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-verruiming-mogelijkheden-tot-strafrechtelijke-aan` | Wijzigingswet Wetboek van Strafrecht, enz. (verruiming mogelijkheden tot strafrechtelijke aanpak huwelijksdwang, polygamie en vrouwelijke genitale verminking) | 1 | 2013-07-01 to 2013-07-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-7-enz-huurverhoging-op-grond-van-een-tweede-categori` | Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (huurverhoging op grond van een tweede categorie huishoudinkomens) | 1 | 2013-03-16 to 2013-03-16 |
+| `wijzigingswet-wet-toezicht-collectieve-beheersorganisaties-auteurs-en-naburige-rechten-ver` | Wijzigingswet Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten (versterken van toezicht, enz.) | 1 | 2013-07-01 to 2013-07-01 |
+| `evaluatie-en-uitbreidingswet-bibob` | Evaluatie- en uitbreidingswet Bibob | 1 | 2014-11-29 to 2014-11-29 |
+| `wijzigingswet-wet-milieubeheer-enz-vaststelling-verordening-eu-nr-600-2012-en-verordening` | Wijzigingswet Wet milieubeheer, enz. (vaststelling Verordening (EU) nr. 600/2012 en Verordening (EU) nr. 601/2012 inzake o.m. broeikasgasemissierechten) | 1 | 2014-01-01 to 2014-01-01 |
+| `wijzigingswet-wet-milieubeheer-enz-intrekking-handel-in-nox-emissierechten` | Wijzigingswet Wet milieubeheer, enz. (intrekking handel in NOx-emissierechten) | 1 | 2014-01-01 to 2014-01-01 |
+| `wijzigingswet-wet-op-de-vaste-boekenprijs-evaluatie-van-die-wet` | Wijzigingswet Wet op de vaste boekenprijs (evaluatie van die wet) | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-herziening-ten-nadele` | Wet herziening ten nadele | 1 | 2013-10-01 to 2013-10-01 |
+| `wijzigingswet-crisis-en-herstelwet-enz-permanent-maken-van-de-crisis-en-herstelwet-en-verb` | Wijzigingswet Crisis- en herstelwet, enz. (permanent maken van de Crisis- en herstelwet en verbeteringen op het terrein van omgevingsrecht) | 1 | 2014-11-01 to 2014-11-01 |
+| `wet-uitstel-van-betaling-exitheffingen` | Wet uitstel van betaling exitheffingen | 1 | 2013-05-30 to 2013-05-30 |
+| `wet-intrekking-wet-op-de-raad-voor-de-wadden-en-wet-op-het-waddenfonds` | Wet intrekking Wet op de Raad voor de Wadden en Wet op het Waddenfonds | 1 | 2014-11-01 to 2014-11-01 |
+| `wet-samenvoeging-gemeenten-alphen-aan-den-rijn-boskoop-en-rijnwoude` | Wet samenvoeging gemeenten Alphen aan den Rijn, Boskoop en Rijnwoude | 1 | 2013-06-05 to 2013-06-05 |
+| `wijzigingswet-wet-op-de-orgaandonatie-nieuwe-medisch-technische-ontwikkelingen` | Wijzigingswet Wet op de orgaandonatie (nieuwe medisch-technische ontwikkelingen) | 1 | 2013-07-01 to 2013-07-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-enz-implementatie-richtlijn-2011-61-eu` | Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU) | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-kinderopvang-2013` | Wijzigingswet kinderopvang 2013 | 1 | 2014-01-01 to 2014-01-01 |
+| `wet-intrekking-wet-overleg-minderhedenbeleid-herijking-overlegvorm-integratiebeleid` | Wet intrekking Wet overleg minderhedenbeleid (herijking overlegvorm integratiebeleid) | 1 | 2013-07-23 to 2013-07-23 |
+| `verzamelwet-szw-2013` | Verzamelwet SZW 2013 | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-tot-wijziging-van-de-wet-collectieve-afwikkeling-massaschade` | Wet tot wijziging van de Wet collectieve afwikkeling massaschade | 1 | 2013-07-01 to 2013-07-01 |
+| `wijzigingswet-leegstandwet-verruiming-mogelijkheden-tijdelijke-verhuur-bij-leegstand-gebou` | Wijzigingswet Leegstandwet (verruiming mogelijkheden tijdelijke verhuur bij leegstand gebouwen en woningen) | 1 | 2013-07-01 to 2013-07-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-bevorderen-van-doelmatige-leerwegen-in` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (bevorderen van doelmatige leerwegen in het beroepsonderwijs en moderniseren van de bekostiging van het beroepsonderwijs) | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-wet-veiligheidsregios-wijziging-gemeentelijke-indeling-deel-provincie-frysla` | Wijzigingswet Wet veiligheidsregio’s (wijziging gemeentelijke indeling deel provincie Fryslân) | 1 | 2013-07-13 to 2013-07-13 |
+| `wijzigingswet-kieswet-enz-maatregelen-om-stemmen-eenvoudiger-te-maken-voor-nederlanders-in` | Wijzigingswet Kieswet, enz. (maatregelen om stemmen eenvoudiger te maken voor Nederlanders in het buitenland, enz.) | 1 | 2015-01-30 to 2015-01-30 |
+| `wet-kwaliteit-in-verscheidenheid-hoger-onderwijs` | Wet Kwaliteit in verscheidenheid hoger onderwijs | 1 | 2013-09-01 to 2013-09-01 |
+| `wet-versterking-bestuur-pensioenfondsen` | Wet versterking bestuur pensioenfondsen | 1 | 2013-08-07 to 2013-08-07 |
+| `wijzigingswet-wet-vervoer-gevaarlijke-stoffen-enz-wet-basisnet` | Wijzigingswet Wet vervoer gevaarlijke stoffen, enz. (Wet basisnet) | 1 | 2015-04-01 to 2015-04-01 |
+| `wet-aanpassing-pensioenleeftijd-appa` | Wet aanpassing pensioenleeftijd Appa | 1 | 2013-07-27 to 2013-07-27 |
+| `aanpassingswet-basisregistratie-personen` | Aanpassingswet basisregistratie personen | 1 | 2014-01-06 to 2014-01-06 |
+| `wijzigingswet-remigratiewet-heroverweging-remigratiewet` | Wijzigingswet Remigratiewet (heroverweging Remigratiewet) | 1 | 2014-07-01 to 2014-07-01 |
+| `wijzigingswet-leerplichtwet-1969-enz-registratie-vrijstellingen-en-vervangende-leerplicht` | Wijzigingswet Leerplichtwet 1969, enz. (registratie vrijstellingen en vervangende leerplicht) | 1 | 2013-10-01 to 2013-10-01 |
+| `wet-gebruik-friese-taal` | Wet gebruik Friese taal | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-wet-op-de-naburige-rechten-enz-omzetting-richtlijn-2011-77-eu-tot-wijziging` | Wijzigingswet Wet op de naburige rechten, enz. (omzetting Richtlijn 2011/77/EU tot wijziging Richtlijn 2006/116/EG betreffende de beschermingstermijn van het auteursrecht en bepaalde naburige rechten) | 1 | 2013-10-18 to 2013-10-18 |
+| `implementatiewet-richtlijn-financiele-conglomeraten-i` | Implementatiewet richtlijn financiële conglomeraten I | 1 | 2016-01-01 to 2016-01-01 |
+| `wet-wijziging-curatele-beschermingsbewind-en-mentorschap` | Wet wijziging curatele, beschermingsbewind en mentorschap | 1 | 2015-01-01 to 2015-01-01 |
+| `fiscale-verzamelwet-2013` | Fiscale verzamelwet 2013 | 1 | 2022-01-01 to 2022-01-01 |
+| `wet-subsidiering-landelijke-onderwijsondersteunende-activiteiten-2013` | Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013 | 1 | 2026-10-01 to 2026-10-01 |
+| `wet-nationaal-rapporteur-mensenhandel-en-seksueel-geweld-tegen-kinderen` | Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen | 1 | 2020-01-01 to 2020-01-01 |
+| `wijzigingswet-mediawet-2008-verspreiding-televisie-en-radioprogrammakanalen-en-vaststellin` | Wijzigingswet Mediawet 2008 (verspreiding televisie- en radioprogrammakanalen, en vaststelling minimale omvang standaardpakket televisie- en radioprogrammakanalen) | 1 | 2017-02-01 to 2017-02-01 |
+| `wijzigingswet-mediawet-2008-moderniseren-van-het-stelsel-van-de-landelijke-publieke-omroep` | Wijzigingswet Mediawet 2008 (moderniseren van het stelsel van de landelijke publieke omroep) | 1 | 2015-01-01 to 2015-01-01 |
+| `aanpassingswet-enige-wetten-ministerie-van-veiligheid-en-justitie-brengen-van-een-aantal-z` | Aanpassingswet enige wetten Ministerie van Veiligheid en Justitie (brengen van een aantal zelfstandige bestuursorganen onder werking van Kaderwet zelfstandige bestuursorganen) | 1 | 2015-07-01 to 2015-07-01 |
+| `wijzigingswet-wet-gewasbeschermingsmiddelen-en-biociden-uitvoering-verordening-eu-nr-528-2` | Wijzigingswet Wet gewasbeschermingsmiddelen en biociden (uitvoering Verordening (EU) Nr. 528/2012, betreffende het op de markt aanbieden en het gebruik van biociden) | 1 | 2013-11-21 to 2013-11-21 |
+| `wijzigingswet-postwet-2009-invoering-ex-ante-toezicht-op-een-postvervoerbedrijf-met-aanmer` | Wijzigingswet Postwet 2009 (invoering ex ante toezicht op een postvervoerbedrijf met aanmerkelijke marktmacht) | 1 | 2017-08-01 to 2017-08-01 |
+| `wijzigingswet-vreemdelingenwet-2000-herschikken-gronden-voor-asielverlening` | Wijzigingswet Vreemdelingenwet 2000 (herschikken gronden voor asielverlening) | 1 | 2014-01-01 to 2014-01-01 |
+| `wijzigingswet-financiele-markten-2014` | Wijzigingswet financiële markten 2014 | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wetboek-van-strafrecht-herziening-regels-betreffende-extraterritoriale-recht` | Wijzigingswet Wetboek van Strafrecht (herziening regels betreffende extraterritoriale rechtsmacht in strafzaken) | 1 | 2014-07-01 to 2014-07-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-1-enz-evaluatie-wet-openstelling-huwelijk-en-wet-ger` | Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (evaluatie Wet openstelling huwelijk en Wet geregistreerd partnerschap) | 1 | 2014-04-01 to 2014-04-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-invoering-adolescentenstrafrecht` | Wijzigingswet Wetboek van Strafrecht, enz. (invoering adolescentenstrafrecht) | 1 | 2014-04-01 to 2014-04-01 |
+| `wijzigingswet-wet-marktordening-gezondheidszorg-enz-tijdig-signaleren-van-risicos-en-aansc` | Wijzigingswet Wet marktordening gezondheidszorg, enz. (tijdig signaleren van risico’s en aanscherpen van procedures) | 1 | 2014-01-01 to 2014-01-01 |
+| `wijzigingswet-wet-financiering-decentrale-overheden-verplicht-schatkistbankieren` | Wijzigingswet Wet financiering decentrale overheden (verplicht schatkistbankieren) | 1 | 2013-12-15 to 2013-12-15 |
+| `wet-houdbare-overheidsfinancien` | Wet houdbare overheidsfinanciën | 1 | 2025-12-31 to 2025-12-31 |
+| `regentschapswet-2013` | Regentschapswet 2013 | 1 | 2013-12-18 to 2013-12-18 |
+| `wet-bepaling-van-de-jaarlijkse-uitkering-aan-de-regent` | Wet bepaling van de jaarlijkse uitkering aan de regent | 1 | 2013-12-18 to 2013-12-18 |
+| `wet-regeling-ouderlijk-gezag-op-minderjarige-koning-2013` | Wet regeling ouderlijk gezag op minderjarige Koning 2013 | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-vreemdelingenwet-2000-enz-vaststelling-criteria-en-instrumenten-ter-bepaling` | Wijzigingswet Vreemdelingenwet 2000, enz. (vaststelling criteria en instrumenten ter bepaling van de verantwoordelijke lidstaat voor behandeling verzoek om internationale bescherming) | 1 | 2014-01-01 to 2014-01-01 |
+| `tijdelijke-wet-resolutieheffing-2014` | Tijdelijke wet resolutieheffing 2014 | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-versterking-kwaliteitswaarborgen-hoger-onderwijs` | Wet versterking kwaliteitswaarborgen hoger onderwijs | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-wijziging-percentages-belasting-en-invorderingsrente` | Wet wijziging percentages belasting- en invorderingsrente | 1 | 2014-01-01 to 2014-01-01 |
+| `wet-aanpak-fraude-toeslagen-en-fiscaliteit` | Wet aanpak fraude toeslagen en fiscaliteit | 1 | 2024-01-01 to 2024-01-01 |
+| `overige-fiscale-maatregelen-2014` | Overige fiscale maatregelen 2014 | 1 | 2016-04-30 to 2016-04-30 |
+| `belastingplan-2014` | Belastingplan 2014 | 1 | 2017-01-01 to 2017-01-01 |
+| `wijzigingswet-mediawet-2008-aanpassing-rijksmediabijdrage-en-overheveling-budget-bekostigi` | Wijzigingswet Mediawet 2008 (aanpassing rijksmediabijdrage en overheveling budget bekostiging regionale omroepen provinciefonds naar mediabegroting) | 1 | 2015-01-01 to 2015-01-01 |
+| `veegwet-vws-2013` | Veegwet VWS 2013 | 1 | 2016-08-01 to 2016-08-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-1-enz-wijzigen-voorwaarden-voor-en-bevoegdheid-ter-z` | Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (wijzigen voorwaarden voor en bevoegdheid ter zake van wijziging vermelding geslacht in akte van geboorte) | 1 | 2014-07-01 to 2014-07-01 |
+| `wijzigingswet-wet-clientenrechten-zorg-enz-taken-en-bevoegdheden-op-het-gebied-van-de-kwal` | Wijzigingswet Wet cliëntenrechten zorg, enz. (taken en bevoegdheden op het gebied van de kwaliteit van de zorg) | 1 | 2016-01-01 to 2016-01-01 |
+| `wijzigingswet-vreemdelingenwet-2000-uitbreiding-gebruik-biometrische-kenmerken-in-vreemdel` | Wijzigingswet Vreemdelingenwet 2000 (uitbreiding gebruik biometrische kenmerken in vreemdelingenketen) | 1 | 2014-03-01 to 2014-03-01 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-centrale-eindtoets-en-leerling-en-onderwijs` | Wijzigingswet Wet op het primair onderwijs, enz. (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs) | 1 | 2022-08-01 to 2022-08-01 |
+| `wijziging-van-de-paspoortwet-in-verband-met-onder-meer-de-status-van-de-nederlandse-identi` | Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart | 1 | 2014-03-09 to 2014-03-09 |
+| `wet-aanpassing-waterschapsverkiezingen` | Wet aanpassing waterschapsverkiezingen | 1 | 2014-11-29 to 2014-11-29 |
+| `wijzigingswet-vreemdelingenwet-2000-uitbreiding-werkingssfeer-tot-personen-die-internation` | Wijzigingswet Vreemdelingenwet 2000 (uitbreiding werkingssfeer tot personen die internationale bescherming genieten) | 1 | 2014-03-29 to 2014-03-29 |
+| `wijzigingswet-boek-1-van-het-burgerlijk-wetboek-enz-herziening-maatregelen-kinderbeschermi` | Wijzigingswet Boek 1 van het Burgerlijk Wetboek, enz. (herziening maatregelen kinderbescherming) | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-arbeid-vreemdelingen-enz-aanvraagprocedure-voor-gecombineerde-vergunning` | Wijzigingswet Wet arbeid vreemdelingen, enz. (aanvraagprocedure voor gecombineerde vergunning onderdanen van derde landen voor verblijf en werk, en rechten voor werknemers uit derde landen) | 1 | 2014-04-01 to 2014-04-01 |
+| `implementatiewet-richtlijn-consumentenrechten` | Implementatiewet richtlijn consumentenrechten | 1 | 2014-06-13 to 2014-06-13 |
+| `wijzigingswet-wet-bescherming-antarctica-implementatie-viertal-maatregelen-bedoeld-in-arti` | Wijzigingswet Wet bescherming Antarctica (implementatie viertal Maatregelen, bedoeld in artikel IX Verdrag inzake Antarctica, waarbij bescherming Antarctisch gebied wordt uitgebreid) | 1 | 2015-01-29 to 2015-01-29 |
+| `wijzigingswet-wetboek-van-strafvordering-uitbreiding-gronden-voorlopige-hechtenis` | Wijzigingswet Wetboek van Strafvordering (uitbreiding gronden voorlopige hechtenis) | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-onderwijs-in-de-friese-taal` | Wijzigingswet Wet op het primair onderwijs, enz. (onderwijs in de Friese taal) | 1 | 2022-08-01 to 2022-08-01 |
+| `wet-herindeling-gemeenten-s-hertogenbosch-maasdonk-en-oss` | Wet herindeling gemeenten 's-Hertogenbosch, Maasdonk en Oss | 1 | 2014-06-06 to 2014-06-06 |
+| `wet-samenvoeging-groesbeek-millingen-aan-de-rijn-en-ubbergen` | Wet samenvoeging Groesbeek, Millingen aan de Rijn en Ubbergen | 1 | 2014-06-06 to 2014-06-06 |
+| `wet-samenvoeging-gemeenten-bernisse-en-spijkenisse` | Wet samenvoeging gemeenten Bernisse en Spijkenisse | 1 | 2014-06-06 to 2014-06-06 |
+| `wet-samenvoeging-gemeenten-alkmaar-graft-de-rijp-en-schermer` | Wet samenvoeging gemeenten Alkmaar, Graft-De Rijp en Schermer | 1 | 2014-06-06 to 2014-06-06 |
+| `wet-adviesraad-voor-wetenschap-technologie-en-innovatie` | Wet Adviesraad voor wetenschap, technologie en innovatie | 1 | 2014-08-01 to 2014-08-01 |
+| `wet-verlaging-maximumopbouw-en-premiepercentages-pensioenen-en-maximering-pensioengevend-i` | Wet verlaging maximumopbouw- en premiepercentages pensioenen en maximering pensioengevend inkomen | 1 | 2016-01-01 to 2016-01-01 |
+| `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-modernisering-arbitragerecht` | Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (modernisering Arbitragerecht) | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-boek-7-burgerlijk-wetboek-enz-modernisering-en-vereenvoudiging-werkwijze-huu` | Wijzigingswet Boek 7 Burgerlijk Wetboek, enz. (modernisering en vereenvoudiging werkwijze huurcommissie) | 1 | 2014-07-01 to 2014-07-01 |
+| `aanpassingswet-wnt` | Aanpassingswet WNT | 1 | 2014-06-28 to 2014-06-28 |
+| `wet-hervorming-kindregelingen` | Wet hervorming kindregelingen | 1 | 2016-01-01 to 2016-01-01 |
+| `wijzigingswet-wet-overdracht-tenuitvoerlegging-strafvonnissen-enz-aanvulling-bepaling-proc` | Wijzigingswet Wet overdracht tenuitvoerlegging strafvonnissen, enz. (aanvulling bepaling procedure voortgezette tenuitvoerlegging) | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-instellingswet-autoriteit-consument-en-markt-enz-stroomlijning-markttoezicht` | Wijzigingswet Instellingswet Autoriteit Consument en Markt, enz. (stroomlijning markttoezicht ACM) | 1 | 2017-01-01 to 2017-01-01 |
+| `wet-samenvoeging-gemeenten-bergambacht-nederlek-ouderkerk-schoonhoven-en-vlist` | Wet samenvoeging gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist | 1 | 2014-07-05 to 2014-07-05 |
 
-The build made 8251 commits:
+The build made 8462 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1781 | first version of an act |
+| 1992 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -1867,7 +2080,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 38 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 11182 tags.
+- 10984 tags.
 
 ## Dates
 
@@ -1879,13 +2092,13 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `432a79a7535b73656c98502d6ff7b9d220ca10ab49b7aac48643f5443f324b3f` (179959694 bytes).
+- Corpus: sha256 `fbe123243655f4fe6a2ffbf12feb5a5e52a855441ae8947e55344168a1da8cac` (181538646 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-10465 versions of 1781 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -2134,6 +2347,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 499 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 211 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2145,6 +2361,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

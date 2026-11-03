@@ -77038,6 +77038,2960 @@
      "sha256": "d484971de503019b0f7b3cc88d3e6f86b57ea343c665eea34c3ff6129893265f"
     }
    ]
+  },
+  {
+   "slug": "wijzigingswet-wet-schadefonds-geweldsmisdrijven-uitbreiding-van-de-categorieen-van-persone",
+   "short": "Wijzigingswet Wet schadefonds geweldsmisdrijven (uitbreiding van de categorieën van personen die recht hebben op een uitkering uit het fonds en verruiming van de gevallen waarin men aanspraak kan maken op een dergelijke uitkering, aanpassing aan de Kaderwet zelfstandige bestuursorganen en enkele andere aanpassingen)",
+   "title": "Wijzigingswet Wet schadefonds geweldsmisdrijven (uitbreiding van de categorieën van personen die recht hebben op een uitkering uit het fonds en verruiming van de gevallen waarin men aanspraak kan maken op een dergelijke uitkering, aanpassing aan de Kaderwet zelfstandige bestuursorganen en enkele andere aanpassingen)",
+   "url": "https://wetten.overheid.nl/BWBR0030090",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030090/2012-01-01_0/xml/BWBR0030090_2012-01-01_0.xml",
+     "sha256": "f890a0f6c9ad4f06239937af7a551e6f4fd671392d57fcb0d29ceee093768244"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-handel-in-emissierechten-ii",
+   "short": "Aanpassingswet handel in emissierechten II",
+   "title": "Aanpassingswet handel in emissierechten II",
+   "url": "https://wetten.overheid.nl/BWBR0030096",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030096/2013-01-01_0/xml/BWBR0030096_2013-01-01_0.xml",
+     "sha256": "192d627692fdcbb8a0e2268283ce392ad319c716146a00ab9d90e41a9ec28521"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uniformering-loonbegrip",
+   "short": "Wet ULB",
+   "title": "Wet uniformering loonbegrip",
+   "url": "https://wetten.overheid.nl/BWBR0030105",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 45,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030105/2015-01-01_0/xml/BWBR0030105_2015-01-01_0.xml",
+     "sha256": "228277b2fdeeb5f1ae5c31bacf0e7d44e32263ac3c8848ee4b651dd33b3bee05"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-monumentenwet-1988-enz-modernisering-monumentenzorg",
+   "short": "Wijzigingswet Monumentenwet 1988, enz. (modernisering monumentenzorg)",
+   "title": "Wijzigingswet Monumentenwet 1988, enz. (modernisering monumentenzorg)",
+   "url": "https://wetten.overheid.nl/BWBR0030189",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030189/2012-01-01_0/xml/BWBR0030189_2012-01-01_0.xml",
+     "sha256": "c5fbaafa724ca8d46488acc2515e29ff726d55a7c55453320f6608853ef4fb7a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-goedkeuring-ministeriele-regelingen-bes",
+   "short": "Wet goedkeuring ministeriële regelingen BES",
+   "title": "Wet goedkeuring ministeriële regelingen BES",
+   "url": "https://wetten.overheid.nl/BWBR0030263",
+   "versions": [
+    {
+     "from": "2011-07-16",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030263/2011-07-16_0/xml/BWBR0030263_2011-07-16_0.xml",
+     "sha256": "c03f8aaf09eda48d501d1d8a1299f70507e14bca793ad7e772cacd2590b5acd2"
+    }
+   ]
+  },
+  {
+   "slug": "wet-primair-onderwijs-bes",
+   "short": "WPO BES",
+   "title": "Wet primair onderwijs BES",
+   "url": "https://wetten.overheid.nl/BWBR0030280",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 169,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030280/2026-08-01_0/xml/BWBR0030280_2026-08-01_0.xml",
+     "sha256": "d4db1f8646b2be157f4517b1d5eb37ffacb07f7bdfb5143d28c8377af3f26b95"
+    }
+   ]
+  },
+  {
+   "slug": "leerplichtwet-bes",
+   "short": "Lpw BES",
+   "title": "Leerplichtwet BES",
+   "url": "https://wetten.overheid.nl/BWBR0030281",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 49,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030281/2025-08-01_0/xml/BWBR0030281_2025-08-01_0.xml",
+     "sha256": "d0ed2d2a3fe0e24dac03a19d107d4ef5963ef68a683ae5eb4087bee460946b84"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-opneming-buitenlandse-kinderen-ter-adoptie-tegemoetkoming-gemaakte-koste",
+   "short": "Wijzigingswet Wet opneming buitenlandse kinderen ter adoptie (tegemoetkoming gemaakte kosten interlandelijke adoptie)",
+   "title": "Wijzigingswet Wet opneming buitenlandse kinderen ter adoptie (tegemoetkoming gemaakte kosten interlandelijke adoptie)",
+   "url": "https://wetten.overheid.nl/BWBR0030286",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030286/2012-01-01_0/xml/BWBR0030286_2012-01-01_0.xml",
+     "sha256": "101c22ddfbeff68fe16987e4d2f4695b0b8601a119852719010aa8f6d6012830"
+    }
+   ]
+  },
+  {
+   "slug": "wet-verhoging-collegegeld-langstudeerders",
+   "short": "Wet verhoging collegegeld langstudeerders",
+   "title": "Wet verhoging collegegeld langstudeerders",
+   "url": "https://wetten.overheid.nl/BWBR0030287",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030287/2011-09-01_0/xml/BWBR0030287_2011-09-01_0.xml",
+     "sha256": "d292f12f1c34818ba21340b5a8bbadb6274aac1b53541bfe86b555a6d9b92f8f"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-mijnbouwwet-implementatie-diverse-richtlijnen-betreffende-geologische-opslag",
+   "short": "Wijzigingswet Mijnbouwwet (implementatie diverse richtlijnen betreffende geologische opslag kooldioxide)",
+   "title": "Wijzigingswet Mijnbouwwet (implementatie diverse richtlijnen betreffende geologische opslag kooldioxide)",
+   "url": "https://wetten.overheid.nl/BWBR0030354",
+   "versions": [
+    {
+     "from": "2012-02-08",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030354/2012-02-08_0/xml/BWBR0030354_2012-02-08_0.xml",
+     "sha256": "3e0740413c71aee662847b60ec8388c5c6256467fe8c199fc45185b4dc001261"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-maritiem-arbeidsverdrag",
+   "short": "Wet implementatie Maritiem Arbeidsverdrag",
+   "title": "Wet implementatie Maritiem Arbeidsverdrag",
+   "url": "https://wetten.overheid.nl/BWBR0030386",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 17,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030386/2019-11-15_0/xml/BWBR0030386_2019-11-15_0.xml",
+     "sha256": "d68715513e3b0c097cbf632549109a817548b7d33f1c48759cd53f881fd36491"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-anna-paulowna-niedorp-wieringen-en-wieringermeer",
+   "short": "Wet samenvoeging gemeenten Anna Paulowna, Niedorp, Wieringen en Wieringermeer",
+   "title": "Wet samenvoeging gemeenten Anna Paulowna, Niedorp, Wieringen en Wieringermeer",
+   "url": "https://wetten.overheid.nl/BWBR0030436",
+   "versions": [
+    {
+     "from": "2011-09-21",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030436/2011-09-21_0/xml/BWBR0030436_2011-09-21_0.xml",
+     "sha256": "c0af9e8a5fcea176225f2c7e6f1b03b416ced19224163eadbc5c823c6da78887"
+    }
+   ]
+  },
+  {
+   "slug": "wet-interbestuurlijk-toezicht-gemeentelijke-inkomens-en-werkvoorzieningen",
+   "short": "Wet interbestuurlijk toezicht gemeentelijke inkomens- en werkvoorzieningen",
+   "title": "Wet interbestuurlijk toezicht gemeentelijke inkomens- en werkvoorzieningen",
+   "url": "https://wetten.overheid.nl/BWBR0030548",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030548/2013-01-01_0/xml/BWBR0030548_2013-01-01_0.xml",
+     "sha256": "e9b1271e0f473e31c3f233f185980d8420b09f7f1490b6f743b31b6abd9fcf89"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringswet-internationale-inning-levensonderhoud",
+   "short": "Uitvoeringswet internationale inning levensonderhoud",
+   "title": "Uitvoeringswet internationale inning levensonderhoud",
+   "url": "https://wetten.overheid.nl/BWBR0030555",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 15,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030555/2022-08-01_0/xml/BWBR0030555_2022-08-01_0.xml",
+     "sha256": "251d6ccb2e0ad2816f175db972c02756646bf978551d55b11a169d9864390d84"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-notarisambt-enz-evaluatie-en-regeling-enkele-andere-onderwerpen",
+   "short": "Wijzigingswet Wet op het notarisambt, enz. (evaluatie en regeling enkele andere onderwerpen)",
+   "title": "Wijzigingswet Wet op het notarisambt, enz. (evaluatie en regeling enkele andere onderwerpen)",
+   "url": "https://wetten.overheid.nl/BWBR0030570",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030570/2014-07-01_0/xml/BWBR0030570_2014-07-01_0.xml",
+     "sha256": "f76d9645ce12ea9f497a0e5d837139074d112a9a82d480a3f1952873ff3081ae"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-onderwijstoezicht-enz-instelling-diplomaregister",
+   "short": "Wijzigingswet Wet op het onderwijstoezicht, enz. (instelling diplomaregister)",
+   "title": "Wijzigingswet Wet op het onderwijstoezicht, enz. (instelling diplomaregister)",
+   "url": "https://wetten.overheid.nl/BWBR0030601",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030601/2020-07-01_0/xml/BWBR0030601_2020-07-01_0.xml",
+     "sha256": "444446849ec30a79be66593d978f74a2ba47c46310faba8ce99927daa81613f1"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-1-aanpassing-artikel-97-en-reparatie-technische-onvo",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 1 (aanpassing artikel 97 en reparatie technische onvolkomenheden opgetreden bij totstandkoming Wet aanpassing wettelijke gemeenschap van goederen)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 1 (aanpassing artikel 97 en reparatie technische onvolkomenheden opgetreden bij totstandkoming Wet aanpassing wettelijke gemeenschap van goederen)",
+   "url": "https://wetten.overheid.nl/BWBR0030603",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030603/2012-01-01_0/xml/BWBR0030603_2012-01-01_0.xml",
+     "sha256": "957c34dd142148171dc205ac7c44b8e1c4808aea520f9de7e7d8eb8270342ecc"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-veiligheid-en-justitie-2011",
+   "short": "Verzamelwet Veiligheid en Justitie 2011",
+   "title": "Verzamelwet Veiligheid en Justitie 2011",
+   "url": "https://wetten.overheid.nl/BWBR0030611",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 30,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030611/2012-01-01_0/xml/BWBR0030611_2012-01-01_0.xml",
+     "sha256": "cebc80125d42e89160b1b1525480e46a28722157077564128c26a1891ea8e3b6"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-appa-en-enkele-andere-wetten-2011",
+   "short": "Wet aanpassing Appa en enkele andere wetten 2011",
+   "title": "Wet aanpassing Appa en enkele andere wetten 2011",
+   "url": "https://wetten.overheid.nl/BWBR0030652",
+   "versions": [
+    {
+     "from": "2011-11-19",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030652/2011-11-19_0/xml/BWBR0030652_2011-11-19_0.xml",
+     "sha256": "33d3c8333f682016d8119b18356e43fb7074a087270c7701f2b93d8414972ed2"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-uitvoeringswet-verdragen-inzake-internationale-ontvoering-van-kinderen-enz-a",
+   "short": "Wijzigingswet Uitvoeringswet verdragen inzake internationale ontvoering van kinderen, enz. (afschaffing procesvertegenwoordigende bevoegdheid centrale autoriteit betreffend internationale kinderontvoering en kinderbescherming, enz.)",
+   "title": "Wijzigingswet Uitvoeringswet verdragen inzake internationale ontvoering van kinderen, enz. (afschaffing procesvertegenwoordigende bevoegdheid centrale autoriteit betreffend internationale kinderontvoering en kinderbescherming, enz.)",
+   "url": "https://wetten.overheid.nl/BWBR0030658",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030658/2012-01-01_0/xml/BWBR0030658_2012-01-01_0.xml",
+     "sha256": "69b7a46c505f78d774f716a74a1e5c2dfea9302d2567d011c2515ad0ae2c3de2"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-comptabiliteitswet-2001-i-v-m-wijziging-aantal-begrotingen-en-technische-aan",
+   "short": "Wijzigingswet Comptabiliteitswet 2001 i.v.m. wijziging aantal begrotingen en technische aanpassingen (Vijfde wijziging van de Comptabiliteitswet 2001)",
+   "title": "Wijzigingswet Comptabiliteitswet 2001 i.v.m. wijziging aantal begrotingen en technische aanpassingen (Vijfde wijziging van de Comptabiliteitswet 2001)",
+   "url": "https://wetten.overheid.nl/BWBR0030677",
+   "versions": [
+    {
+     "from": "2011-11-25",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030677/2011-11-25_0/xml/BWBR0030677_2011-11-25_0.xml",
+     "sha256": "2f3d86a60b614259f55ed0c63482c9baefa87206248052c91694c08ba0e16001"
+    }
+   ]
+  },
+  {
+   "slug": "fiscale-verzamelwet-2011",
+   "short": "Fiscale verzamelwet 2011",
+   "title": "Fiscale verzamelwet 2011",
+   "url": "https://wetten.overheid.nl/BWBR0030688",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 27,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030688/2013-01-01_0/xml/BWBR0030688_2013-01-01_0.xml",
+     "sha256": "10bc931c211a9cbe01639caf6ceb210bff3987d0c060308d0a34fcfb8fdbc563"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-algemene-wet-bijzondere-ziektekosten-enz-instelling-zelfstandig-bestuursorga",
+   "short": "Wijzigingswet Algemene Wet Bijzondere Ziektekosten, enz. (instelling zelfstandig bestuursorgaan CAK)",
+   "title": "Wijzigingswet Algemene Wet Bijzondere Ziektekosten, enz. (instelling zelfstandig bestuursorgaan CAK)",
+   "url": "https://wetten.overheid.nl/BWBR0030697",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030697/2014-04-01_0/xml/BWBR0030697_2014-04-01_0.xml",
+     "sha256": "f54da1c297ee51d14fd1a6871aca309cf599f3fb4c2d9d8644fa0c1aed879676"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-beroepsgerichte-kwalificatiestructuur",
+   "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (beroepsgerichte kwalificatiestructuur)",
+   "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (beroepsgerichte kwalificatiestructuur)",
+   "url": "https://wetten.overheid.nl/BWBR0030698",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030698/2012-01-01_0/xml/BWBR0030698_2012-01-01_0.xml",
+     "sha256": "a63c6004df8f6c8460ed9b628621e358a99ab3eb5fb6e8bf11255ec02a5c339b"
+    }
+   ]
+  },
+  {
+   "slug": "goedkeurings-en-reparatiewet-bes",
+   "short": "Goedkeurings- en reparatiewet BES",
+   "title": "Goedkeurings- en reparatiewet BES",
+   "url": "https://wetten.overheid.nl/BWBR0030734",
+   "versions": [
+    {
+     "from": "2011-12-07",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030734/2011-12-07_0/xml/BWBR0030734_2011-12-07_0.xml",
+     "sha256": "d8fe67325a2c7153e1a5fa3a8975b4f0bdaebd4bfd5e697ea926f24d9031d080"
+    }
+   ]
+  },
+  {
+   "slug": "tussenregeling-valutaresultaten-op-deelnemingen",
+   "short": "Tussenregeling valutaresultaten op deelnemingen",
+   "title": "Tussenregeling valutaresultaten op deelnemingen",
+   "url": "https://wetten.overheid.nl/BWBR0030744",
+   "versions": [
+    {
+     "from": "2011-12-10",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030744/2011-12-10_0/xml/BWBR0030744_2011-12-10_0.xml",
+     "sha256": "436d79e6e7468c4350ce3bddc9d4fb8e8654076822371c837db717424981c0c6"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-tracewet-met-het-oog-op-versnelling-en-verbetering-besluitvorming-infrastruc",
+   "short": "Wijzigingswet Tracéwet met het oog op versnelling en verbetering besluitvorming infrastructurele projecten",
+   "title": "Wijzigingswet Tracéwet met het oog op versnelling en verbetering besluitvorming infrastructurele projecten",
+   "url": "https://wetten.overheid.nl/BWBR0030790",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030790/2012-01-01_0/xml/BWBR0030790_2012-01-01_0.xml",
+     "sha256": "722e8a04d4e36f6aa21c7ba99ad49f7ae683dbdb9382f8e221d82742276ac4e5"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanvulling-instrumenten-bekostiging-wmg",
+   "short": "Wet aanvulling instrumenten bekostiging WMG",
+   "title": "Wet aanvulling instrumenten bekostiging WMG",
+   "url": "https://wetten.overheid.nl/BWBR0030791",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030791/2012-01-01_0/xml/BWBR0030791_2012-01-01_0.xml",
+     "sha256": "c998b1cf5676b6feca0d9de3e83f384ba8c33e69df6e4bd0611d103e7c1830c0"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-melding-collectief-ontslag-uitbreiding-reikwijdte-en-bevordering-nalevin",
+   "short": "Wijzigingswet Wet melding collectief ontslag (uitbreiding reikwijdte en bevordering naleving)",
+   "title": "Wijzigingswet Wet melding collectief ontslag (uitbreiding reikwijdte en bevordering naleving)",
+   "url": "https://wetten.overheid.nl/BWBR0030795",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030795/2012-03-01_0/xml/BWBR0030795_2012-03-01_0.xml",
+     "sha256": "5da42c5a48c988e6b64849f09e11737c63295696ba3987d15679b367edce27f1"
+    }
+   ]
+  },
+  {
+   "slug": "deltawet-waterveiligheid-en-zoetwatervoorziening",
+   "short": "Deltawet waterveiligheid en zoetwatervoorziening",
+   "title": "Deltawet waterveiligheid en zoetwatervoorziening",
+   "url": "https://wetten.overheid.nl/BWBR0030836",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030836/2024-01-01_0/xml/BWBR0030836_2024-01-01_0.xml",
+     "sha256": "4b2c534a8c603066fb9f01e98d8a6a0729cd48b008300d5d7e43499337104987"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-financieel-toezicht-introductie-meldingsplicht-bepaalde-cash-sett",
+   "short": "Wijzigingswet Wet op het financieel toezicht (introductie meldingsplicht bepaalde cash settled instrumenten)",
+   "title": "Wijzigingswet Wet op het financieel toezicht (introductie meldingsplicht bepaalde cash settled instrumenten)",
+   "url": "https://wetten.overheid.nl/BWBR0030845",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030845/2012-01-01_0/xml/BWBR0030845_2012-01-01_0.xml",
+     "sha256": "06c4b703dc763516d0d0d4ac974ff531c3199e7a4b6d57935574b11fb44c4a98"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-kinderopvang-2012",
+   "short": "Verzamelwet kinderopvang 2012",
+   "title": "Verzamelwet kinderopvang 2012",
+   "url": "https://wetten.overheid.nl/BWBR0030846",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030846/2012-01-01_0/xml/BWBR0030846_2012-01-01_0.xml",
+     "sha256": "4399b9503b4b9a6952e03198c22e8ac3f6dd0d3765be83d80a3ea0804a65cafc"
+    }
+   ]
+  },
+  {
+   "slug": "wet-toepassing-dwangsomregeling-toeslagen",
+   "short": "Wet toepassing dwangsomregeling toeslagen",
+   "title": "Wet toepassing dwangsomregeling toeslagen",
+   "url": "https://wetten.overheid.nl/BWBR0030847",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030847/2013-01-01_0/xml/BWBR0030847_2013-01-01_0.xml",
+     "sha256": "d5d1ef820ddf0fa7403ab19a5e9b031b6c1a648d36e5c52a307d1463ff4661ee"
+    }
+   ]
+  },
+  {
+   "slug": "wet-wederzijdse-bijstand-in-de-europese-unie-bij-de-invordering-van-belastingschulden-en-e",
+   "short": "WWBEU",
+   "title": "Wet wederzijdse bijstand in de Europese Unie bij de invordering van belastingschulden en enkele andere schuldvorderingen 2012",
+   "url": "https://wetten.overheid.nl/BWBR0030850",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 52,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030850/2019-01-01_0/xml/BWBR0030850_2019-01-01_0.xml",
+     "sha256": "24c8e0a83f253627e5baa47da48bedde9fcce1eb9dc9aacd919d893c88351a17"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-pensioenen-2012",
+   "short": "Verzamelwet pensioenen 2012",
+   "title": "Verzamelwet pensioenen 2012",
+   "url": "https://wetten.overheid.nl/BWBR0030853",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030853/2015-01-01_0/xml/BWBR0030853_2015-01-01_0.xml",
+     "sha256": "bee3149d4d4d62a1944930660b6c87c9a96c4a428aca777d15461a8e137b5a85"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-szw-2012",
+   "short": "Verzamelwet SZW 2012",
+   "title": "Verzamelwet SZW 2012",
+   "url": "https://wetten.overheid.nl/BWBR0030864",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 35,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030864/2012-01-01_0/xml/BWBR0030864_2012-01-01_0.xml",
+     "sha256": "b46f180fc3fc9c530f62986bc5431d5ad967a7a07d61de3fb19203937f93047c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-versterking-positie-rechter-commissaris",
+   "short": "Wet versterking positie rechter-commissaris",
+   "title": "Wet versterking positie rechter-commissaris",
+   "url": "https://wetten.overheid.nl/BWBR0030885",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030885/2013-01-01_0/xml/BWBR0030885_2013-01-01_0.xml",
+     "sha256": "048bd84028fb4698a1ec985204d60946908a8ba9998c3e49eaadabee4efeee99"
+    }
+   ]
+  },
+  {
+   "slug": "geefwet",
+   "short": "Geefwet",
+   "title": "Geefwet",
+   "url": "https://wetten.overheid.nl/BWBR0030915",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030915/2012-01-01_0/xml/BWBR0030915_2012-01-01_0.xml",
+     "sha256": "dedd0d7f5b515d7b4d49b50945d72eb58c415cfa395158eba3d223ffba99e3eb"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitwerking-autobrief",
+   "short": "Wet uitwerking autobrief",
+   "title": "Wet uitwerking autobrief",
+   "url": "https://wetten.overheid.nl/BWBR0030923",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 34,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030923/2015-01-01_0/xml/BWBR0030923_2015-01-01_0.xml",
+     "sha256": "998cc51a0b4cb9a71978d01b5fbc3cc37e7dcafdbf7be3cab0337c6faaa6f83f"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-nederlandse-organisatie-voor-wetenschappelijk-onderzoek-aanpassing",
+   "short": "Wijzigingswet Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek (aanpassing Kaderwet zelfstandige bestuursorganen)",
+   "title": "Wijzigingswet Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek (aanpassing Kaderwet zelfstandige bestuursorganen)",
+   "url": "https://wetten.overheid.nl/BWBR0030929",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030929/2012-07-01_0/xml/BWBR0030929_2012-07-01_0.xml",
+     "sha256": "6b06dc62ed5a877f4f61defa846bceaf6e3ee11399d306df07de938a6be6562c"
+    }
+   ]
+  },
+  {
+   "slug": "belastingplan-2012",
+   "short": "Belastingplan 2012",
+   "title": "Belastingplan 2012",
+   "url": "https://wetten.overheid.nl/BWBR0030999",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 46,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0030999/2017-01-01_0/xml/BWBR0030999_2017-01-01_0.xml",
+     "sha256": "f9a5f83161f1f04168d141506997f985350ec3b858f6fe5eac4d8901ef13d235"
+    }
+   ]
+  },
+  {
+   "slug": "intrekkingswet-wet-werk-en-inkomen-kunstenaars",
+   "short": "Intrekkingswet Wet werk en inkomen kunstenaars",
+   "title": "Intrekkingswet Wet werk en inkomen kunstenaars",
+   "url": "https://wetten.overheid.nl/BWBR0031001",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 24,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031001/2012-01-01_0/xml/BWBR0031001_2012-01-01_0.xml",
+     "sha256": "ffc298de8f0c60456f0c222ea454558b30a071a0b17e7b7dcefcb6bcd9720868"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-financieel-toezicht-enz-implementatie-richtlijn-nr-2009-110-eg",
+   "short": "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn nr. 2009/110/EG)",
+   "title": "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn nr. 2009/110/EG)",
+   "url": "https://wetten.overheid.nl/BWBR0031007",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 28,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031007/2012-01-01_0/xml/BWBR0031007_2012-01-01_0.xml",
+     "sha256": "01d9142ead044a4eed6c62fec79e0cafa0e42e09fc5e549fe2237600978ecb71"
+    }
+   ]
+  },
+  {
+   "slug": "overige-fiscale-maatregelen-2012",
+   "short": "Overige fiscale maatregelen 2012",
+   "title": "Overige fiscale maatregelen 2012",
+   "url": "https://wetten.overheid.nl/BWBR0031021",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 28,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031021/2015-06-30_0/xml/BWBR0031021_2015-06-30_0.xml",
+     "sha256": "caea3f57873a4ff87e530fb39f3ff8c1704e7b14ffaeb82f70a2722a715df473"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafrecht-beperken-mogelijkheden-opleggen-taakstraf-ernstige-ze",
+   "short": "Wijzigingswet Wetboek van Strafrecht (beperken mogelijkheden opleggen taakstraf ernstige zeden- en geweldsmisdrijven en bij recidive van misdrijven)",
+   "title": "Wijzigingswet Wetboek van Strafrecht (beperken mogelijkheden opleggen taakstraf ernstige zeden- en geweldsmisdrijven en bij recidive van misdrijven)",
+   "url": "https://wetten.overheid.nl/BWBR0031061",
+   "versions": [
+    {
+     "from": "2012-01-03",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031061/2012-01-03_0/xml/BWBR0031061_2012-01-03_0.xml",
+     "sha256": "6bf4d9e460550508a8942171e7bc9f147d80892df0776a626f1113b3aeea9657"
+    }
+   ]
+  },
+  {
+   "slug": "wet-wijziging-ingangsdatum-aow-ouderdomspensioen",
+   "short": "Wet wijziging ingangsdatum AOW-ouderdomspensioen",
+   "title": "Wet wijziging ingangsdatum AOW-ouderdomspensioen",
+   "url": "https://wetten.overheid.nl/BWBR0031083",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 23,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031083/2012-04-01_0/xml/BWBR0031083_2012-04-01_0.xml",
+     "sha256": "e4078e1c3051b6985934591bdbcb3489da76c92a86fd2fa1d3bc40c481d083d5"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-financieel-toezicht-enz-introductie-geschiktheidseis-en-versterki",
+   "short": "Wijzigingswet Wet op het financieel toezicht, enz. (introductie geschiktheidseis en versterking samenwerking tussen toezichthouders (geschiktheidstoets en betrouwbaarheidstoets))",
+   "title": "Wijzigingswet Wet op het financieel toezicht, enz. (introductie geschiktheidseis en versterking samenwerking tussen toezichthouders (geschiktheidstoets en betrouwbaarheidstoets))",
+   "url": "https://wetten.overheid.nl/BWBR0031085",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031085/2012-07-01_0/xml/BWBR0031085_2012-07-01_0.xml",
+     "sha256": "f73a121214746ef623dc195d454b3e3078ac7c12ccc013cd0a3c17cb0ef6838a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-versterking-governance-van-de-nederlandsche-bank-en-de-autoriteit-financiele-markten",
+   "short": "Wet versterking governance van de Nederlandsche Bank en de Autoriteit Financiële Markten",
+   "title": "Wet versterking governance van de Nederlandsche Bank en de Autoriteit Financiële Markten",
+   "url": "https://wetten.overheid.nl/BWBR0031087",
+   "versions": [
+    {
+     "from": "2012-02-16",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031087/2012-02-16_0/xml/BWBR0031087_2012-02-16_0.xml",
+     "sha256": "796c27f29ba0d0e5fd41a2a6c59b9b030d8ee8714414cbddf2d199557e99d5fa"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-kansspelen-instelling-kansspelautoriteit",
+   "short": "Wijzigingswet Wet op de kansspelen (instelling kansspelautoriteit)",
+   "title": "Wijzigingswet Wet op de kansspelen (instelling kansspelautoriteit)",
+   "url": "https://wetten.overheid.nl/BWBR0031108",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031108/2012-04-01_0/xml/BWBR0031108_2012-04-01_0.xml",
+     "sha256": "413652af1e45bd87fba2ca22e222b6cafd509965b26db8038c37d6ae37c3313d"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-voortgezet-onderwijs-enz-uitbreiden-en-verduidelijken-mogelijkhed",
+   "short": "Wijzigingswet Wet op het voortgezet onderwijs, enz. (uitbreiden en verduidelijken mogelijkheden tot benoeming of tewerkstelling leraren voortgezet onderwijs en beperken mogelijkheid tot inzetten onbevoegden)",
+   "title": "Wijzigingswet Wet op het voortgezet onderwijs, enz. (uitbreiden en verduidelijken mogelijkheden tot benoeming of tewerkstelling leraren voortgezet onderwijs en beperken mogelijkheid tot inzetten onbevoegden)",
+   "url": "https://wetten.overheid.nl/BWBR0031208",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031208/2014-08-01_0/xml/BWBR0031208_2014-08-01_0.xml",
+     "sha256": "d2164c699584e8aa89eda7e23d472017eac15ce4b305b5bbcbafe64cd57842ad"
+    }
+   ]
+  },
+  {
+   "slug": "wet-volkshuisvesting-ruimtelijke-ordening-en-milieubeheer-bes",
+   "short": "Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES",
+   "title": "Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES",
+   "url": "https://wetten.overheid.nl/BWBR0031218",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 128,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031218/2024-04-01_0/xml/BWBR0031218_2024-04-01_0.xml",
+     "sha256": "2a50caf3b9d2e719cb2f53080a19e7bfa4ac515e3dafed38537dfd31d94ca48f"
+    }
+   ]
+  },
+  {
+   "slug": "wet-raad-voor-de-leefomgeving-en-infrastructuur",
+   "short": "Wet RLI",
+   "title": "Wet Raad voor de leefomgeving en infrastructuur",
+   "url": "https://wetten.overheid.nl/BWBR0031263",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031263/2014-08-01_0/xml/BWBR0031263_2014-08-01_0.xml",
+     "sha256": "acbe7e5981f14f473b5e53a7cb875f40104d1310d0a79822b65abe94423a0491"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wegenverkeerswet-1994-enz-implementatie-derde-rijbewijsrichtlijn",
+   "short": "Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie derde rijbewijsrichtlijn)",
+   "title": "Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie derde rijbewijsrichtlijn)",
+   "url": "https://wetten.overheid.nl/BWBR0031264",
+   "versions": [
+    {
+     "from": "2013-01-19",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031264/2013-01-19_0/xml/BWBR0031264_2013-01-19_0.xml",
+     "sha256": "68bfaf89593e6c40a58eeee47951a506c06a71037cc8c3e92530e34e56154d6c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-prejudiciele-vragen-aan-de-hoge-raad",
+   "short": "Wet prejudiciële vragen aan de Hoge Raad",
+   "title": "Wet prejudiciële vragen aan de Hoge Raad",
+   "url": "https://wetten.overheid.nl/BWBR0031285",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031285/2012-07-01_0/xml/BWBR0031285_2012-07-01_0.xml",
+     "sha256": "df90901388ef90379b7ed7a7ba8097dbd2eed7be4e332ad51197dc1f9b25c744"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-medisch-wetenschappelijk-onderzoek-met-mensen-evaluatie-deze-wet-en-hers",
+   "short": "Wijzigingswet Wet medisch-wetenschappelijk onderzoek met mensen (evaluatie deze wet en herstel onvolledige implementatie richtlijn nr. 2001/20/EG)",
+   "title": "Wijzigingswet Wet medisch-wetenschappelijk onderzoek met mensen (evaluatie deze wet en herstel onvolledige implementatie richtlijn nr. 2001/20/EG)",
+   "url": "https://wetten.overheid.nl/BWBR0031306",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031306/2015-12-17_0/xml/BWBR0031306_2015-12-17_0.xml",
+     "sha256": "90fd94b9144095fa53f0efaecc2c3992e8bc1ece282d1dece0bbbdacc01b0c92"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-minimumloon-en-minimumvakantiebijslag-verduidelijken-rechtsvermoeden-wer",
+   "short": "Wijzigingswet Wet minimumloon en minimumvakantiebijslag (verduidelijken rechtsvermoeden werkgeverschap)",
+   "title": "Wijzigingswet Wet minimumloon en minimumvakantiebijslag (verduidelijken rechtsvermoeden werkgeverschap)",
+   "url": "https://wetten.overheid.nl/BWBR0031307",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031307/2012-03-01_0/xml/BWBR0031307_2012-03-01_0.xml",
+     "sha256": "d921d9c2a665b49dc80b1ef6aee1f76df7b64a3f12b57f5fddfa40b1b9c6482a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-awbz-zorg-buitenland",
+   "short": "Wet AWBZ-zorg buitenland",
+   "title": "Wet AWBZ-zorg buitenland",
+   "url": "https://wetten.overheid.nl/BWBR0031325",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031325/2013-01-01_0/xml/BWBR0031325_2013-01-01_0.xml",
+     "sha256": "680f9f570ae505c9276c23b9c7a9a785caca1ef52daf48bdccbf1e335fab35b7"
+    }
+   ]
+  },
+  {
+   "slug": "reparatiewet-bzk-op-het-terrein-van-het-wonen",
+   "short": "Reparatiewet BZK op het terrein van het wonen",
+   "title": "Reparatiewet BZK op het terrein van het wonen",
+   "url": "https://wetten.overheid.nl/BWBR0031339",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031339/2012-04-01_0/xml/BWBR0031339_2012-04-01_0.xml",
+     "sha256": "4a4d89c8ab3e6bfc7e4d95648bf828862fa1c0932d0a88b8015aa30ae2ee913e"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-advocatenwet-enz-versterking-cassatierechtspraak",
+   "short": "Wijzigingswet Advocatenwet, enz. (versterking cassatierechtspraak)",
+   "title": "Wijzigingswet Advocatenwet, enz. (versterking cassatierechtspraak)",
+   "url": "https://wetten.overheid.nl/BWBR0031378",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031378/2012-07-01_0/xml/BWBR0031378_2012-07-01_0.xml",
+     "sha256": "be00e1648261fd39bc0bf956dfc87e904d2457d7361320d31e4cff62736ee8f8"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-milieubeheer-reparatie-milieueffectrapportage",
+   "short": "Wijzigingswet Wet milieubeheer (reparatie milieueffectrapportage)",
+   "title": "Wijzigingswet Wet milieubeheer (reparatie milieueffectrapportage)",
+   "url": "https://wetten.overheid.nl/BWBR0031395",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031395/2012-03-30_0/xml/BWBR0031395_2012-03-30_0.xml",
+     "sha256": "df81b4dd3f6e946d70954175ec4bf801885aafaeca39d79348e4dc817060f71e"
+    }
+   ]
+  },
+  {
+   "slug": "veteranenwet",
+   "short": "Veteranenwet",
+   "title": "Veteranenwet",
+   "url": "https://wetten.overheid.nl/BWBR0031401",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 16,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031401/2020-01-01_0/xml/BWBR0031401_2020-01-01_0.xml",
+     "sha256": "f50b9c2847ebf9f9899a6d0d7b9fdcf4497597c13e81509c0dfd0cb5b8850318"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-primair-onderwijs-enz-gebruik-persoonsgebonden-nummer-bij-onder-m",
+   "short": "Wijzigingswet Wet op het primair onderwijs, enz. (gebruik persoonsgebonden nummer bij onder meer de uitwisseling van leer- en begeleidingsgegevens van leerlingen)",
+   "title": "Wijzigingswet Wet op het primair onderwijs, enz. (gebruik persoonsgebonden nummer bij onder meer de uitwisseling van leer- en begeleidingsgegevens van leerlingen)",
+   "url": "https://wetten.overheid.nl/BWBR0031462",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031462/2012-08-01_0/xml/BWBR0031462_2012-08-01_0.xml",
+     "sha256": "023afa94d2674f548b415599b61d88271f819450fe8438e7e18c68f2547ced55"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-milieubeheer-enz-herziening-eg-richtlijn-handel-in-broeikasgasemissierec",
+   "short": "Wijzigingswet Wet milieubeheer, enz. (herziening EG-richtlijn handel in broeikasgasemissierechten)",
+   "title": "Wijzigingswet Wet milieubeheer, enz. (herziening EG-richtlijn handel in broeikasgasemissierechten)",
+   "url": "https://wetten.overheid.nl/BWBR0031536",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031536/2013-01-01_0/xml/BWBR0031536_2013-01-01_0.xml",
+     "sha256": "da5e3e7a32087b5545aa405992d8201588f27ed8544b59c891bb6100f263c3cf"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-pensioenwet-evenwichtige-samenstelling-van-en-medezeggenschap-in-pensioenfon",
+   "short": "Wijzigingswet Pensioenwet (evenwichtige samenstelling van en medezeggenschap in pensioenfondsbesturen)",
+   "title": "Wijzigingswet Pensioenwet (evenwichtige samenstelling van en medezeggenschap in pensioenfondsbesturen)",
+   "url": "https://wetten.overheid.nl/BWBR0031552",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031552/2013-07-01_0/xml/BWBR0031552_2013-07-01_0.xml",
+     "sha256": "8693587aa2b4628656e378fb01e3818a4ecfaba2bc446e736934a6ef892e0560"
+    }
+   ]
+  },
+  {
+   "slug": "wet-woonlandbeginsel-in-de-sociale-zekerheid",
+   "short": "Wet woonlandbeginsel in de sociale zekerheid",
+   "title": "Wet woonlandbeginsel in de sociale zekerheid",
+   "url": "https://wetten.overheid.nl/BWBR0031555",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031555/2013-01-01_0/xml/BWBR0031555_2013-01-01_0.xml",
+     "sha256": "092234c52894ffc054dca272281178fcab6943b60dd13077dda92a959bc193f8"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-telecommunicatiewet-implementatie-herziene-telecommunicatierichtlijnen",
+   "short": "Wijzigingswet Telecommunicatiewet (implementatie herziene telecommunicatierichtlijnen)",
+   "title": "Wijzigingswet Telecommunicatiewet (implementatie herziene telecommunicatierichtlijnen)",
+   "url": "https://wetten.overheid.nl/BWBR0031609",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031609/2013-03-15_0/xml/BWBR0031609_2013-03-15_0.xml",
+     "sha256": "6537c63e9a365bae300aaa1de6a5eca05034cc10fb7426fce0e4968d9e8a7704"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-verkeer-en-waterstaat-2010",
+   "short": "Verzamelwet Verkeer en Waterstaat 2010",
+   "title": "Verzamelwet Verkeer en Waterstaat 2010",
+   "url": "https://wetten.overheid.nl/BWBR0031614",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 15,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031614/2013-01-01_0/xml/BWBR0031614_2013-01-01_0.xml",
+     "sha256": "1bc6edbacce7b63de3ebd01ecfbe06803d0b1c8305cee49f096fbc8608eb7572"
+    }
+   ]
+  },
+  {
+   "slug": "wet-revitalisering-generiek-toezicht",
+   "short": "Wet revitalisering generiek toezicht",
+   "title": "Wet revitalisering generiek toezicht",
+   "url": "https://wetten.overheid.nl/BWBR0031628",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 55,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031628/2013-01-01_0/xml/BWBR0031628_2013-01-01_0.xml",
+     "sha256": "4d10e44fec62b8bb4f280cf0b4de88fbefc7a18d3016e9eb7b33ac06dd78554a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-graafstroom-liesveld-en-nieuw-lekkerland",
+   "short": "Wet samenvoeging gemeenten Graafstroom, Liesveld en Nieuw-Lekkerland",
+   "title": "Wet samenvoeging gemeenten Graafstroom, Liesveld en Nieuw-Lekkerland",
+   "url": "https://wetten.overheid.nl/BWBR0031630",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031630/2013-01-01_0/xml/BWBR0031630_2013-01-01_0.xml",
+     "sha256": "e49521e93d54bf58dd96ec9c59f14cca89169cbf86c1f8d2ebcd7374b5ac410e"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000-enz-wijziging",
+   "short": "Wijzigingswet Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, enz. (wijziging markt- en overheidbepalingen)",
+   "title": "Wijzigingswet Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, enz. (wijziging markt- en overheidbepalingen)",
+   "url": "https://wetten.overheid.nl/BWBR0031631",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031631/2013-07-01_0/xml/BWBR0031631_2013-07-01_0.xml",
+     "sha256": "f1fa6c06267b29f164623e8e518ad0eaf675eff6d4ab35793171c26f8e19fec5"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-harenkarspel-schagen-en-zijpe",
+   "short": "Wet samenvoeging gemeenten Harenkarspel, Schagen en Zijpe",
+   "title": "Wet samenvoeging gemeenten Harenkarspel, Schagen en Zijpe",
+   "url": "https://wetten.overheid.nl/BWBR0031632",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031632/2013-01-01_0/xml/BWBR0031632_2013-01-01_0.xml",
+     "sha256": "d5443b37146dc2b9053f7b00bab752a44f9c0d779dc2b26fe02eaa94aedbbb75"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-omnibus-i-richtlijn",
+   "short": "Wet implementatie Omnibus I-richtlijn",
+   "title": "Wet implementatie Omnibus I-richtlijn",
+   "url": "https://wetten.overheid.nl/BWBR0031634",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031634/2012-07-01_0/xml/BWBR0031634_2012-07-01_0.xml",
+     "sha256": "e182d762f07a449f4186327f82641fbf4bc7be339410769871cee5c4ffe63326"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bijzondere-maatregelen-financiele-ondernemingen",
+   "short": "Wet bijzondere maatregelen financiële ondernemingen",
+   "title": "Wet bijzondere maatregelen financiële ondernemingen",
+   "url": "https://wetten.overheid.nl/BWBR0031641",
+   "versions": [
+    {
+     "from": "2017-06-27",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031641/2017-06-27_0/xml/BWBR0031641_2017-06-27_0.xml",
+     "sha256": "457baddb5df9a7324e0a34c324096b2953048678f8ffadd4cf843bff53594af2"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-vreemdelingenwet-2000-nationale-visa",
+   "short": "Wijzigingswet Vreemdelingenwet 2000 (nationale visa)",
+   "title": "Wijzigingswet Vreemdelingenwet 2000 (nationale visa)",
+   "url": "https://wetten.overheid.nl/BWBR0031667",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031667/2013-06-01_0/xml/BWBR0031667_2013-06-01_0.xml",
+     "sha256": "c8f91ac2951223a25232a625da92b850fe2a0fd13646c094737c5bef8d36f3b5"
+    }
+   ]
+  },
+  {
+   "slug": "wet-registratieplicht-intermediairs-die-arbeidskrachten-ter-beschikking-stellen",
+   "short": "Wet registratieplicht intermediairs die arbeidskrachten ter beschikking stellen",
+   "title": "Wet registratieplicht intermediairs die arbeidskrachten ter beschikking stellen",
+   "url": "https://wetten.overheid.nl/BWBR0031673",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031673/2012-07-01_0/xml/BWBR0031673_2012-07-01_0.xml",
+     "sha256": "eb84a5c206e7a9b48976905919b2c08f765276afc2ead093676b1631493417ab"
+    }
+   ]
+  },
+  {
+   "slug": "invoeringswet-geluidproductieplafonds",
+   "short": "Invoeringswet geluidproductieplafonds",
+   "title": "Invoeringswet geluidproductieplafonds",
+   "url": "https://wetten.overheid.nl/BWBR0031679",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 15,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031679/2012-07-01_0/xml/BWBR0031679_2012-07-01_0.xml",
+     "sha256": "df9202d036ddefda48812a1a8529127df4cf5a848f089b49bea03a9f923ca44e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aansprakelijkheidsbeperking-dnb-en-afm-en-bonusverbod-staatsgesteunde-ondernemingen",
+   "short": "Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen",
+   "title": "Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen",
+   "url": "https://wetten.overheid.nl/BWBR0031680",
+   "versions": [
+    {
+     "from": "2015-02-07",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031680/2015-02-07_0/xml/BWBR0031680_2015-02-07_0.xml",
+     "sha256": "63584a022d11a0c125a7670e0af4ffc0cc8b62ecfd4f14e795b872aa5e12342b"
+    }
+   ]
+  },
+  {
+   "slug": "wet-hervorming-herziening-ten-voordele",
+   "short": "Wet hervorming herziening ten voordele",
+   "title": "Wet hervorming herziening ten voordele",
+   "url": "https://wetten.overheid.nl/BWBR0031707",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031707/2012-10-01_0/xml/BWBR0031707_2012-10-01_0.xml",
+     "sha256": "39115423b2deba7f882ed82f82685f817b117733bd69a3304a9cd7443c30cd23"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-2-aanpassing-recht-van-enquete",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 2 (aanpassing recht van enquête)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 2 (aanpassing recht van enquête)",
+   "url": "https://wetten.overheid.nl/BWBR0031710",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031710/2013-01-01_0/xml/BWBR0031710_2013-01-01_0.xml",
+     "sha256": "cc424b55ffe25b48731192a6d7d552c1238d7899a233626b1b1b00b359ef4855"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-ruimtelijke-ordening-enz-voorzien-in-wettelijke-grondslag-voor-provincia",
+   "short": "Wijzigingswet Wet ruimtelijke ordening, enz. (voorzien in wettelijke grondslag voor provinciaal medebewind en mogelijkheid tot afwijking van algemene regels)",
+   "title": "Wijzigingswet Wet ruimtelijke ordening, enz. (voorzien in wettelijke grondslag voor provinciaal medebewind en mogelijkheid tot afwijking van algemene regels)",
+   "url": "https://wetten.overheid.nl/BWBR0031750",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031750/2014-11-01_0/xml/BWBR0031750_2014-11-01_0.xml",
+     "sha256": "8476c35dfac734d86483541b04af10081678b36d1088f294ae860741fa7f615a"
+    }
+   ]
+  },
+  {
+   "slug": "invoeringswet-vereenvoudiging-en-flexibilisering-bv-recht",
+   "short": "Invoeringswet vereenvoudiging en flexibilisering bv-recht",
+   "title": "Invoeringswet vereenvoudiging en flexibilisering bv-recht",
+   "url": "https://wetten.overheid.nl/BWBR0031758",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 25,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031758/2012-10-01_0/xml/BWBR0031758_2012-10-01_0.xml",
+     "sha256": "02a99185828f18e8545523ba71bae2fccb61d05689b21300fa98ebe5be41902c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-dirksland-goedereede-middelharnis-en-oostflakkee",
+   "short": "Wet samenvoeging gemeenten Dirksland, Goedereede, Middelharnis en Oostflakkee",
+   "title": "Wet samenvoeging gemeenten Dirksland, Goedereede, Middelharnis en Oostflakkee",
+   "url": "https://wetten.overheid.nl/BWBR0031776",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031776/2013-01-01_0/xml/BWBR0031776_2013-01-01_0.xml",
+     "sha256": "65f49cbacd0e9de31c08663cb2b42e14347c200d78a5910ce3a5119574471cb3"
+    }
+   ]
+  },
+  {
+   "slug": "wet-herziening-gerechtelijke-kaart",
+   "short": "Wet herziening gerechtelijke kaart",
+   "title": "Wet herziening gerechtelijke kaart",
+   "url": "https://wetten.overheid.nl/BWBR0031789",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 156,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031789/2015-07-01_0/xml/BWBR0031789_2015-07-01_0.xml",
+     "sha256": "4b15070f57241a58e8825721ae799fc7937d71ad1334ced0a4dba7df164fce2a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-mediawet-2008-enz-aanpassing-rijksmediabijdrage-beeindiging-wettelijke-taken",
+   "short": "Wijzigingswet Mediawet 2008, enz. (aanpassing rijksmediabijdrage, beëindiging wettelijke taken Stichting Radio Nederland Wereldomroep en aanpassingen van meer technische aard)",
+   "title": "Wijzigingswet Mediawet 2008, enz. (aanpassing rijksmediabijdrage, beëindiging wettelijke taken Stichting Radio Nederland Wereldomroep en aanpassingen van meer technische aard)",
+   "url": "https://wetten.overheid.nl/BWBR0031791",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031791/2015-01-01_0/xml/BWBR0031791_2015-01-01_0.xml",
+     "sha256": "562bab852f9562c9c04e571df48a983e8d98150ed8f6cebda04c7bf72c40f201"
+    }
+   ]
+  },
+  {
+   "slug": "invoerings-en-aanpassingswet-politiewet-2012",
+   "short": "Invoerings- en aanpassingswet Politiewet 2012",
+   "title": "Invoerings- en aanpassingswet Politiewet 2012",
+   "url": "https://wetten.overheid.nl/BWBR0031794",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 69,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031794/2020-01-01_0/xml/BWBR0031794_2020-01-01_0.xml",
+     "sha256": "d0a2a293787c854b8755d512e0870c2fca1ff751c145115d4053ecc21a583c08"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bankenbelasting",
+   "short": "Wet bankenbelasting",
+   "title": "Wet bankenbelasting",
+   "url": "https://wetten.overheid.nl/BWBR0031796",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 19,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031796/2024-01-01_0/xml/BWBR0031796_2024-01-01_0.xml",
+     "sha256": "4b8719f57c9d5e2d79f281c461f6d40ba57df5e9de480ba137d24316c246eeca"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitwerking-fiscale-maatregelen-begrotingsakkoord-2013",
+   "short": "Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013",
+   "title": "Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013",
+   "url": "https://wetten.overheid.nl/BWBR0031798",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 22,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031798/2014-01-01_0/xml/BWBR0031798_2014-01-01_0.xml",
+     "sha256": "ef56b5753fbec83dcc528da334440e869b0e4e95ee1f7874590e8ffed6b8c675"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-8-enz-uitvoering-verdrag-van-athene",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 8, enz. (uitvoering Verdrag van Athene)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 8, enz. (uitvoering Verdrag van Athene)",
+   "url": "https://wetten.overheid.nl/BWBR0031828",
+   "versions": [
+    {
+     "from": "2012-12-31",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031828/2012-12-31_0/xml/BWBR0031828_2012-12-31_0.xml",
+     "sha256": "d3377c25efbf7a6c67096c757bda20da9c105e67cab9f5ea783bf9bbbd86f984"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-zorgverzekeringswet-en-algemene-wet-bijzondere-ziektekosten-uitvoering-begro",
+   "short": "Wijzigingswet Zorgverzekeringswet en Algemene Wet Bijzondere Ziektekosten (uitvoering Begrotingsakkoord 2013)",
+   "title": "Wijzigingswet Zorgverzekeringswet en Algemene Wet Bijzondere Ziektekosten (uitvoering Begrotingsakkoord 2013)",
+   "url": "https://wetten.overheid.nl/BWBR0031936",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031936/2013-01-01_0/xml/BWBR0031936_2013-01-01_0.xml",
+     "sha256": "9f7c81ff031d40f573d19dbe7d8766e6adb862f05535791d12cc73b1e190488e"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafrecht-verhogen-maximale-proeftijd-voor-misdrijven-die-gezon",
+   "short": "Wijzigingswet Wetboek van Strafrecht (verhogen maximale proeftijd voor misdrijven die gezondheid of welzijn van dieren benadelen en verhogen strafmaximum voor onder meer doden van andermans dieren)",
+   "title": "Wijzigingswet Wetboek van Strafrecht (verhogen maximale proeftijd voor misdrijven die gezondheid of welzijn van dieren benadelen en verhogen strafmaximum voor onder meer doden van andermans dieren)",
+   "url": "https://wetten.overheid.nl/BWBR0031964",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031964/2012-10-01_0/xml/BWBR0031964_2012-10-01_0.xml",
+     "sha256": "4c1412ea0e44748f0b5c7139ecf398b6bb24df072b33d82903d5a8fd690ade7f"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-uitkeringsduur-appa",
+   "short": "Wet aanpassing uitkeringsduur Appa",
+   "title": "Wet aanpassing uitkeringsduur Appa",
+   "url": "https://wetten.overheid.nl/BWBR0031991",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031991/2012-09-18_0/xml/BWBR0031991_2012-09-18_0.xml",
+     "sha256": "46e9f10c4d212040c83ace38d0e067b3a2eb9d35038bd008988ad160edec54c2"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-inburgering-enz-versterking-eigen-verantwoordelijkheid-inburgeringsplich",
+   "short": "Wijzigingswet Wet inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)",
+   "title": "Wijzigingswet Wet inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)",
+   "url": "https://wetten.overheid.nl/BWBR0032031",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032031/2013-07-01_0/xml/BWBR0032031_2013-07-01_0.xml",
+     "sha256": "ca26442ba82fa94fcbbdc4494fa1907352b5766ae286e2fb29f887db3961d4c3"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-veiligheidsregios-enz-oprichting-instituut-fysieke-veiligheid-en-de-voll",
+   "short": "Wijzigingswet Wet veiligheidsregio’s, enz. (oprichting Instituut Fysieke Veiligheid en de volledige regionalisering van de brandweer)",
+   "title": "Wijzigingswet Wet veiligheidsregio’s, enz. (oprichting Instituut Fysieke Veiligheid en de volledige regionalisering van de brandweer)",
+   "url": "https://wetten.overheid.nl/BWBR0032044",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032044/2013-01-01_0/xml/BWBR0032044_2013-01-01_0.xml",
+     "sha256": "53e675f402135aef590fd7393b0315536c03f8097a774b5551ae3555932dc668"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-zbos-ienm-aan-de-kaderwet-zbos",
+   "short": "Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s",
+   "title": "Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s",
+   "url": "https://wetten.overheid.nl/BWBR0032046",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 17,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032046/2021-01-01_0/xml/BWBR0032046_2021-01-01_0.xml",
+     "sha256": "5a09b6fc6dfd62bd6589ab9c3cb2f98c3e869eb11ba2d1ae679603e87735454a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-voortgezet-algemeen-volwassenenonderwij",
+   "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (voortgezet algemeen volwassenenonderwijs en overige educatie)",
+   "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (voortgezet algemeen volwassenenonderwijs en overige educatie)",
+   "url": "https://wetten.overheid.nl/BWBR0032074",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032074/2013-01-01_0/xml/BWBR0032074_2013-01-01_0.xml",
+     "sha256": "59cd6f167c7b59d46cd4a7bef58aa8927437bb5b9efe99a755d71750219f1b6e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanscherping-handhaving-en-sanctiebeleid-szw-wetgeving",
+   "short": "Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving",
+   "title": "Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving",
+   "url": "https://wetten.overheid.nl/BWBR0032087",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 28,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032087/2020-01-01_0/xml/BWBR0032087_2020-01-01_0.xml",
+     "sha256": "3e4c40aba8436ef1f144b9b63318b8c96a607fa3d1a171267de7dfdcb5acfd7f"
+    }
+   ]
+  },
+  {
+   "slug": "wet-beperking-ziekteverzuim-en-arbeidsongeschiktheid-vangnetters",
+   "short": "Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters",
+   "title": "Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters",
+   "url": "https://wetten.overheid.nl/BWBR0032089",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032089/2016-01-01_0/xml/BWBR0032089_2016-01-01_0.xml",
+     "sha256": "abeda33bbace0ca0f5bf7e016066a30338508799a2916d04e54fffeb532d3c05"
+    }
+   ]
+  },
+  {
+   "slug": "wet-op-de-verlening-van-bijstand-aan-de-europese-commissie-bij-controles-en-verificaties-t",
+   "short": "Wet op de verlening van bijstand aan de Europese Commissie bij controles en verificaties ter plaatse",
+   "title": "Wet op de verlening van bijstand aan de Europese Commissie bij controles en verificaties ter plaatse",
+   "url": "https://wetten.overheid.nl/BWBR0032091",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032091/2021-07-01_0/xml/BWBR0032091_2021-07-01_0.xml",
+     "sha256": "04b21f91e648f976461f8d5748da8b0c16976e953244f483ea408c485314151c"
+    }
+   ]
+  },
+  {
+   "slug": "goedkeuringswet-verdrag-betreffende-de-oprichting-van-het-functioneel-luchtruimblok-europe",
+   "short": "Goedkeuringswet Verdrag betreffende de oprichting van het Functioneel Luchtruimblok «Europe Central»",
+   "title": "Goedkeuringswet Verdrag betreffende de oprichting van het Functioneel Luchtruimblok «Europe Central»",
+   "url": "https://wetten.overheid.nl/BWBR0032135",
+   "versions": [
+    {
+     "from": "2012-10-27",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032135/2012-10-27_0/xml/BWBR0032135_2012-10-27_0.xml",
+     "sha256": "abbb9fb834cc0caefa18aac3d3453430a7bdae0a0b980fcbe40cbb390ea194d5"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-enkele-onderwijswetten-herziening-organisatie-en-financiering-van-ondersteun",
+   "short": "Wijzigingswet enkele onderwijswetten (herziening organisatie en financiering van ondersteuning leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs)",
+   "title": "Wijzigingswet enkele onderwijswetten (herziening organisatie en financiering van ondersteuning leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs)",
+   "url": "https://wetten.overheid.nl/BWBR0032176",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 24,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032176/2024-01-01_0/xml/BWBR0032176_2024-01-01_0.xml",
+     "sha256": "3578ec4aa140cb9dc153044997a67b75f7eeb8662fa2438b487f3faf310f32c8"
+    }
+   ]
+  },
+  {
+   "slug": "fiscale-verzamelwet-2012",
+   "short": "Fiscale verzamelwet 2012",
+   "title": "Fiscale verzamelwet 2012",
+   "url": "https://wetten.overheid.nl/BWBR0032208",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 23,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032208/2013-01-01_0/xml/BWBR0032208_2013-01-01_0.xml",
+     "sha256": "64b34b737143463197226bd21985a217eb9eef8000083e8c9b2b1fe7fa872a2a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-algemene-wet-bijzondere-ziektekosten-enz-invoering-vermogensinkomensbijtelli",
+   "short": "Wijzigingswet Algemene Wet Bijzondere Ziektekosten, enz. (invoering vermogensinkomensbijtelling vaststelling eigen bijdragen voor zorg of voorzieningen)",
+   "title": "Wijzigingswet Algemene Wet Bijzondere Ziektekosten, enz. (invoering vermogensinkomensbijtelling vaststelling eigen bijdragen voor zorg of voorzieningen)",
+   "url": "https://wetten.overheid.nl/BWBR0032216",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032216/2013-01-01_0/xml/BWBR0032216_2013-01-01_0.xml",
+     "sha256": "ff06ab99218d5641e1bfefaeabd89d0c1393b4993e61c2b31078444b0caeee0a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanbestedingsvrijheid-ov-grote-steden",
+   "short": "Wet aanbestedingsvrijheid OV grote steden",
+   "title": "Wet aanbestedingsvrijheid OV grote steden",
+   "url": "https://wetten.overheid.nl/BWBR0032225",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032225/2013-01-01_0/xml/BWBR0032225_2013-01-01_0.xml",
+     "sha256": "4ee88a15e7addda8b2efaa274baaaaee970aa52d12121fd843ed1badb97563e3"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-richtlijn-nr-2008-52-eg-betreffende-bepaalde-aspecten-van-bemiddeling-me",
+   "short": "Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken",
+   "title": "Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken",
+   "url": "https://wetten.overheid.nl/BWBR0032232",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032232/2017-09-01_0/xml/BWBR0032232_2017-09-01_0.xml",
+     "sha256": "403592ec6c51d27b0713ea8dcc0502bb30b6f5efd8c2d43f550c6d0c1ce1e119"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafrecht-aanpassing-van-de-regeling-van-de-vervolgingsverjarin",
+   "short": "Wijzigingswet Wetboek van Strafrecht (aanpassing van de regeling van de vervolgingsverjaring)",
+   "title": "Wijzigingswet Wetboek van Strafrecht (aanpassing van de regeling van de vervolgingsverjaring)",
+   "url": "https://wetten.overheid.nl/BWBR0032234",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032234/2013-04-01_0/xml/BWBR0032234_2013-04-01_0.xml",
+     "sha256": "5ad43aaf53ee688e2abbe49e0f5d696a45e26c3fe0f0101abb7a1d2722bf5398"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-luchtvaart-enz-beperkingengebied-buitenlandse-luchthaven",
+   "short": "Wijzigingswet Wet luchtvaart, enz. (beperkingengebied buitenlandse luchthaven)",
+   "title": "Wijzigingswet Wet luchtvaart, enz. (beperkingengebied buitenlandse luchthaven)",
+   "url": "https://wetten.overheid.nl/BWBR0032247",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032247/2013-01-01_0/xml/BWBR0032247_2013-01-01_0.xml",
+     "sha256": "f6d15eb92286c6351dddef09c914dd76ac0b5b106fc3d535f872e7f40c327e92"
+    }
+   ]
+  },
+  {
+   "slug": "goedkeuringswet-verhoging-aow-leeftijd",
+   "short": "Goedkeuringswet verhoging AOW-leeftijd",
+   "title": "Goedkeuringswet verhoging AOW-leeftijd",
+   "url": "https://wetten.overheid.nl/BWBR0032250",
+   "versions": [
+    {
+     "from": "2013-01-02",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032250/2013-01-02_0/xml/BWBR0032250_2013-01-02_0.xml",
+     "sha256": "c97997026773ac41f26b28c650d57ff93578bf0bdee778e5fa60652156063457"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-financieel-toezicht-enz-advies-monitoring-commissie-corporate-gov",
+   "short": "Wijzigingswet Wet op het financieel toezicht, enz. (advies Monitoring Commissie Corporate Governance Code van 30 mei 2007)",
+   "title": "Wijzigingswet Wet op het financieel toezicht, enz. (advies Monitoring Commissie Corporate Governance Code van 30 mei 2007)",
+   "url": "https://wetten.overheid.nl/BWBR0032253",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032253/2013-07-01_0/xml/BWBR0032253_2013-07-01_0.xml",
+     "sha256": "994374a255cf399b2f8b24422a378cc3ce0872e71aa7ea432bf303b6a224e8a8"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-bodembescherming-terugbrengen-administratieve-en-bestuurlijke-lasten-en",
+   "short": "Wijzigingswet Wet bodembescherming (terugbrengen administratieve en bestuurlijke lasten en enkele verbeteringen van de uitvoering)",
+   "title": "Wijzigingswet Wet bodembescherming (terugbrengen administratieve en bestuurlijke lasten en enkele verbeteringen van de uitvoering)",
+   "url": "https://wetten.overheid.nl/BWBR0032394",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032394/2013-07-01_0/xml/BWBR0032394_2013-07-01_0.xml",
+     "sha256": "0099b39cc60cb7d03bc1f57698d900a073a04df0ae020ddfa9a163bfe4da5ae1"
+    }
+   ]
+  },
+  {
+   "slug": "wet-elektronische-registratie-notariele-akten",
+   "short": "Wet elektronische registratie notariële akten",
+   "title": "Wet elektronische registratie notariële akten",
+   "url": "https://wetten.overheid.nl/BWBR0032526",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032526/2023-01-01_0/xml/BWBR0032526_2023-01-01_0.xml",
+     "sha256": "caa2a639d35c120af3fc3f1fead8260ac90fc2fc5805da03c81bac5e618fab5c"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-richtlijn-solvabiliteit-ii",
+   "short": "Implementatiewet richtlijn solvabiliteit II",
+   "title": "Implementatiewet richtlijn solvabiliteit II",
+   "url": "https://wetten.overheid.nl/BWBR0032556",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 17,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032556/2016-01-01_0/xml/BWBR0032556_2016-01-01_0.xml",
+     "sha256": "e86dfc54b1aac8033b89e84db1a29cb9420af86f0284b079c24e54e49401ee89"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-financiele-markten-2013",
+   "short": "Wijzigingswet financiële markten 2013",
+   "title": "Wijzigingswet financiële markten 2013",
+   "url": "https://wetten.overheid.nl/BWBR0032568",
+   "versions": [
+    {
+     "from": "2014-02-08",
+     "units": 19,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032568/2014-02-08_0/xml/BWBR0032568_2014-02-08_0.xml",
+     "sha256": "843044f21595394f41cbbea846d1995ca7a8f63d151ff737a764065cef479085"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-rechterlijke-indeling-enz-vorming-van-de-arrondissementen-gelderla",
+   "short": "Wijzigingswet Wet op de rechterlijke indeling, enz. (vorming van de arrondissementen Gelderland en Overijssel)",
+   "title": "Wijzigingswet Wet op de rechterlijke indeling, enz. (vorming van de arrondissementen Gelderland en Overijssel)",
+   "url": "https://wetten.overheid.nl/BWBR0032588",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 34,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032588/2013-04-01_0/xml/BWBR0032588_2013-04-01_0.xml",
+     "sha256": "f6ef45ccb37696eed31813c129bee93007dd5e27c2da20c1ddbf1de1c825504e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-bestuursprocesrecht",
+   "short": "Wet aanpassing bestuursprocesrecht",
+   "title": "Wet aanpassing bestuursprocesrecht",
+   "url": "https://wetten.overheid.nl/BWBR0032634",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 199,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032634/2013-07-01_0/xml/BWBR0032634_2013-07-01_0.xml",
+     "sha256": "b32059c7a526bd101fe5650bdf43e20a71c8af7845b823e74fe514b92cff93df"
+    }
+   ]
+  },
+  {
+   "slug": "overige-fiscale-maatregelen-2013",
+   "short": "Overige fiscale maatregelen 2013",
+   "title": "Overige fiscale maatregelen 2013",
+   "url": "https://wetten.overheid.nl/BWBR0032671",
+   "versions": [
+    {
+     "from": "2015-06-19",
+     "units": 45,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032671/2015-06-19_0/xml/BWBR0032671_2015-06-19_0.xml",
+     "sha256": "d00854df33413f3d6855fb858d57be2fa0d9ecd19df4c8c3ffc4d2d5afb9b239"
+    }
+   ]
+  },
+  {
+   "slug": "belastingplan-2013",
+   "short": "Belastingplan 2013",
+   "title": "Belastingplan 2013",
+   "url": "https://wetten.overheid.nl/BWBR0032701",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 23,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032701/2013-07-01_0/xml/BWBR0032701_2013-07-01_0.xml",
+     "sha256": "3de67732f0e7cd788026b6984d84c5ed4c496cabc18d4c51fbb21bc9bab183ce"
+    }
+   ]
+  },
+  {
+   "slug": "wet-vereenvoudiging-regelingen-uwv",
+   "short": "Wet vereenvoudiging regelingen UWV",
+   "title": "Wet vereenvoudiging regelingen UWV",
+   "url": "https://wetten.overheid.nl/BWBR0032732",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032732/2020-01-01_0/xml/BWBR0032732_2020-01-01_0.xml",
+     "sha256": "2e60a300b540a856fa6b1dbb89cc379c1e08ef68ba26bee747d32f40f5bea589"
+    }
+   ]
+  },
+  {
+   "slug": "kaderwet-subsidies-i-en-m",
+   "short": "Kaderwet subsidies I en M",
+   "title": "Kaderwet subsidies I en M",
+   "url": "https://wetten.overheid.nl/BWBR0032789",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 21,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032789/2024-01-01_0/xml/BWBR0032789_2024-01-01_0.xml",
+     "sha256": "a929faa6e459232ad6d51e53792598ef2ca6dfb24b64154167256d51c5454930"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-geneesmiddelenwet-implementatie-richtlijn-2010-84-eu",
+   "short": "Wijzigingswet Geneesmiddelenwet (implementatie Richtlijn 2010/84/EU)",
+   "title": "Wijzigingswet Geneesmiddelenwet (implementatie Richtlijn 2010/84/EU)",
+   "url": "https://wetten.overheid.nl/BWBR0032791",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032791/2013-02-22_0/xml/BWBR0032791_2013-02-22_0.xml",
+     "sha256": "6fbe432ecf233e583c58fc8b864d4b73ed23ac399d54ba3e8f99fd4cb95d9ce3"
+    }
+   ]
+  },
+  {
+   "slug": "rijkswet-aanpassing-wet-militaire-strafrechtspraak-enz-gewijzigde-regelgeving-en-herstel-t",
+   "short": "Rijkswet aanpassing Wet militaire strafrechtspraak, enz. (gewijzigde regelgeving en herstel technische onvolkomenheden)",
+   "title": "Rijkswet aanpassing Wet militaire strafrechtspraak, enz. (gewijzigde regelgeving en herstel technische onvolkomenheden)",
+   "url": "https://wetten.overheid.nl/BWBR0032826",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032826/2017-01-01_0/xml/BWBR0032826_2017-01-01_0.xml",
+     "sha256": "d5a843e5d9520daaba4fb53b56e057867235cb99bc0cce967a87b8f9a8cb7906"
+    }
+   ]
+  },
+  {
+   "slug": "wet-nadeelcompensatie-en-schadevergoeding-bij-onrechtmatige-besluiten",
+   "short": "Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten",
+   "title": "Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten",
+   "url": "https://wetten.overheid.nl/BWBR0032904",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032904/2024-01-01_0/xml/BWBR0032904_2024-01-01_0.xml",
+     "sha256": "50f04725e5a660ab0c5ad4fdabdc4eee6dea86113e2f093b7b7b21ded03c9302"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-jeugdzorg-enz-verbetering-positie-pleegouders",
+   "short": "Wijzigingswet Wet op de jeugdzorg, enz. (verbetering positie pleegouders)",
+   "title": "Wijzigingswet Wet op de jeugdzorg, enz. (verbetering positie pleegouders)",
+   "url": "https://wetten.overheid.nl/BWBR0032950",
+   "versions": [
+    {
+     "from": "2014-02-15",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032950/2014-02-15_0/xml/BWBR0032950_2014-02-15_0.xml",
+     "sha256": "ca5a933ed83f2385a0ac65ac43f7194c4a6697ab57950b85a3c90bf488fde080"
+    }
+   ]
+  },
+  {
+   "slug": "reparatiewet-griffierechten-burgerlijke-zaken",
+   "short": "Reparatiewet griffierechten burgerlijke zaken",
+   "title": "Reparatiewet griffierechten burgerlijke zaken",
+   "url": "https://wetten.overheid.nl/BWBR0032995",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032995/2013-04-01_0/xml/BWBR0032995_2013-04-01_0.xml",
+     "sha256": "23179a0e2104ed5128d71a916ad7c1633c0f67fb9c0ed1a342ecb4f41b03fa2b"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-7-enz-huurverhoging-op-grond-van-inkomen",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (huurverhoging op grond van inkomen)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (huurverhoging op grond van inkomen)",
+   "url": "https://wetten.overheid.nl/BWBR0033010",
+   "versions": [
+    {
+     "from": "2013-03-16",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033010/2013-03-16_0/xml/BWBR0033010_2013-03-16_0.xml",
+     "sha256": "c602cf73c7ab7feedf5ea9bb74f0ac9d9b7b7176c89efcc887e8bc6ab9ac91bb"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafrecht-enz-verruiming-mogelijkheden-tot-strafrechtelijke-aan",
+   "short": "Wijzigingswet Wetboek van Strafrecht, enz. (verruiming mogelijkheden tot strafrechtelijke aanpak huwelijksdwang, polygamie en vrouwelijke genitale verminking)",
+   "title": "Wijzigingswet Wetboek van Strafrecht, enz. (verruiming mogelijkheden tot strafrechtelijke aanpak huwelijksdwang, polygamie en vrouwelijke genitale verminking)",
+   "url": "https://wetten.overheid.nl/BWBR0033015",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033015/2013-07-01_0/xml/BWBR0033015_2013-07-01_0.xml",
+     "sha256": "f5764fbd59fbb97893de657911a3de59a7e8226d1fc5d8eb8dff5808e8ead393"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-7-enz-huurverhoging-op-grond-van-een-tweede-categori",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (huurverhoging op grond van een tweede categorie huishoudinkomens)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (huurverhoging op grond van een tweede categorie huishoudinkomens)",
+   "url": "https://wetten.overheid.nl/BWBR0033018",
+   "versions": [
+    {
+     "from": "2013-03-16",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033018/2013-03-16_0/xml/BWBR0033018_2013-03-16_0.xml",
+     "sha256": "43960469c13e52705ae9863240865d5d6c5a967561ebcf9927ab41ed5bafb41a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-toezicht-collectieve-beheersorganisaties-auteurs-en-naburige-rechten-ver",
+   "short": "Wijzigingswet Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten (versterken van toezicht, enz.)",
+   "title": "Wijzigingswet Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten (versterken van toezicht, enz.)",
+   "url": "https://wetten.overheid.nl/BWBR0033045",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033045/2013-07-01_0/xml/BWBR0033045_2013-07-01_0.xml",
+     "sha256": "d5d42a63366b273fe0376cb932cf577e363232509e13e39a363118321c73aa37"
+    }
+   ]
+  },
+  {
+   "slug": "evaluatie-en-uitbreidingswet-bibob",
+   "short": "Evaluatie- en uitbreidingswet Bibob",
+   "title": "Evaluatie- en uitbreidingswet Bibob",
+   "url": "https://wetten.overheid.nl/BWBR0033159",
+   "versions": [
+    {
+     "from": "2014-11-29",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033159/2014-11-29_0/xml/BWBR0033159_2014-11-29_0.xml",
+     "sha256": "51af32f2b919347eabf3380c101259f19ef2a4ee45ebc41aba9dd924daa60d68"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-milieubeheer-enz-vaststelling-verordening-eu-nr-600-2012-en-verordening",
+   "short": "Wijzigingswet Wet milieubeheer, enz. (vaststelling Verordening (EU) nr. 600/2012 en Verordening (EU) nr. 601/2012 inzake o.m. broeikasgasemissierechten)",
+   "title": "Wijzigingswet Wet milieubeheer, enz. (vaststelling Verordening (EU) nr. 600/2012 en Verordening (EU) nr. 601/2012 inzake o.m. broeikasgasemissierechten)",
+   "url": "https://wetten.overheid.nl/BWBR0033230",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033230/2014-01-01_0/xml/BWBR0033230_2014-01-01_0.xml",
+     "sha256": "f0cc5cb9c218493eec3844ed1bea162be6e8f391a52fb0e6821981e9e817248a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-milieubeheer-enz-intrekking-handel-in-nox-emissierechten",
+   "short": "Wijzigingswet Wet milieubeheer, enz. (intrekking handel in NOx-emissierechten)",
+   "title": "Wijzigingswet Wet milieubeheer, enz. (intrekking handel in NOx-emissierechten)",
+   "url": "https://wetten.overheid.nl/BWBR0033232",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033232/2014-01-01_0/xml/BWBR0033232_2014-01-01_0.xml",
+     "sha256": "16733d0a4eb46305cacac4273924e9024b554a72691f3a82c66a488dd31aa1ce"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-vaste-boekenprijs-evaluatie-van-die-wet",
+   "short": "Wijzigingswet Wet op de vaste boekenprijs (evaluatie van die wet)",
+   "title": "Wijzigingswet Wet op de vaste boekenprijs (evaluatie van die wet)",
+   "url": "https://wetten.overheid.nl/BWBR0033277",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033277/2013-07-01_0/xml/BWBR0033277_2013-07-01_0.xml",
+     "sha256": "7932a4d536b049ae3fff33154cbbf57b689abbdf4b7c1b5a562924c2b1f16caa"
+    }
+   ]
+  },
+  {
+   "slug": "wet-herziening-ten-nadele",
+   "short": "Wet herziening ten nadele",
+   "title": "Wet herziening ten nadele",
+   "url": "https://wetten.overheid.nl/BWBR0033284",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033284/2013-10-01_0/xml/BWBR0033284_2013-10-01_0.xml",
+     "sha256": "af443f5fb9aa3376273bb5274de8a84a8ff6defd4a65e4862fed2c0e828bb4d2"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-crisis-en-herstelwet-enz-permanent-maken-van-de-crisis-en-herstelwet-en-verb",
+   "short": "Wijzigingswet Crisis- en herstelwet, enz. (permanent maken van de Crisis- en herstelwet en verbeteringen op het terrein van omgevingsrecht)",
+   "title": "Wijzigingswet Crisis- en herstelwet, enz. (permanent maken van de Crisis- en herstelwet en verbeteringen op het terrein van omgevingsrecht)",
+   "url": "https://wetten.overheid.nl/BWBR0033316",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 28,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033316/2014-11-01_0/xml/BWBR0033316_2014-11-01_0.xml",
+     "sha256": "0b4c37d2ed8bbf82a1e273494da7f0a7ff59df7c92157f12934d18eded8cd9c8"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitstel-van-betaling-exitheffingen",
+   "short": "Wet uitstel van betaling exitheffingen",
+   "title": "Wet uitstel van betaling exitheffingen",
+   "url": "https://wetten.overheid.nl/BWBR0033466",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033466/2013-05-30_0/xml/BWBR0033466_2013-05-30_0.xml",
+     "sha256": "9011c2de2a0d0dde27b2eef5dbd2696a1418722a67b56c46c1c50f406d7b8a95"
+    }
+   ]
+  },
+  {
+   "slug": "wet-intrekking-wet-op-de-raad-voor-de-wadden-en-wet-op-het-waddenfonds",
+   "short": "Wet intrekking Wet op de Raad voor de Wadden en Wet op het Waddenfonds",
+   "title": "Wet intrekking Wet op de Raad voor de Wadden en Wet op het Waddenfonds",
+   "url": "https://wetten.overheid.nl/BWBR0033474",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033474/2014-11-01_0/xml/BWBR0033474_2014-11-01_0.xml",
+     "sha256": "80eaa8f4ea4d3ae8ce5dcf2562ad6864cfe958a3f6bb48b50a70d6ae7a680aac"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-alphen-aan-den-rijn-boskoop-en-rijnwoude",
+   "short": "Wet samenvoeging gemeenten Alphen aan den Rijn, Boskoop en Rijnwoude",
+   "title": "Wet samenvoeging gemeenten Alphen aan den Rijn, Boskoop en Rijnwoude",
+   "url": "https://wetten.overheid.nl/BWBR0033482",
+   "versions": [
+    {
+     "from": "2013-06-05",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033482/2013-06-05_0/xml/BWBR0033482_2013-06-05_0.xml",
+     "sha256": "448d2f098709b94a7a2dc5d62b47b3179dfba56e210520afe32f2a65ea65d9b3"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-orgaandonatie-nieuwe-medisch-technische-ontwikkelingen",
+   "short": "Wijzigingswet Wet op de orgaandonatie (nieuwe medisch-technische ontwikkelingen)",
+   "title": "Wijzigingswet Wet op de orgaandonatie (nieuwe medisch-technische ontwikkelingen)",
+   "url": "https://wetten.overheid.nl/BWBR0033488",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033488/2013-07-01_0/xml/BWBR0033488_2013-07-01_0.xml",
+     "sha256": "3f68efd3526486a4955a689310aa128d3268c8bda8a559a14a99716112407846"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-financieel-toezicht-enz-implementatie-richtlijn-2011-61-eu",
+   "short": "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU)",
+   "title": "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU)",
+   "url": "https://wetten.overheid.nl/BWBR0033586",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033586/2015-01-01_0/xml/BWBR0033586_2015-01-01_0.xml",
+     "sha256": "acd9580c9647e3f3e99484999d839a82925390e70c5e3f7a60aa0f50a2f8757e"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-kinderopvang-2013",
+   "short": "Wijzigingswet kinderopvang 2013",
+   "title": "Wijzigingswet kinderopvang 2013",
+   "url": "https://wetten.overheid.nl/BWBR0033595",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033595/2014-01-01_0/xml/BWBR0033595_2014-01-01_0.xml",
+     "sha256": "762bb3feec14852766552d8758b0df6e8793fbb056321c513f61277601f4575d"
+    }
+   ]
+  },
+  {
+   "slug": "wet-intrekking-wet-overleg-minderhedenbeleid-herijking-overlegvorm-integratiebeleid",
+   "short": "Wet intrekking Wet overleg minderhedenbeleid (herijking overlegvorm integratiebeleid)",
+   "title": "Wet intrekking Wet overleg minderhedenbeleid (herijking overlegvorm integratiebeleid)",
+   "url": "https://wetten.overheid.nl/BWBR0033596",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033596/2013-07-23_0/xml/BWBR0033596_2013-07-23_0.xml",
+     "sha256": "7177847382ed078d17841f6b90cd37075aa789cab8796b8d3d63515a76701abd"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-szw-2013",
+   "short": "Verzamelwet SZW 2013",
+   "title": "Verzamelwet SZW 2013",
+   "url": "https://wetten.overheid.nl/BWBR0033599",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 45,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033599/2015-01-01_0/xml/BWBR0033599_2015-01-01_0.xml",
+     "sha256": "f84d4f19f78f0fe41e020cffa8aacebd197e31130eb6e40ba313fa415047f6d1"
+    }
+   ]
+  },
+  {
+   "slug": "wet-tot-wijziging-van-de-wet-collectieve-afwikkeling-massaschade",
+   "short": "Wet tot wijziging van de Wet collectieve afwikkeling massaschade",
+   "title": "Wet tot wijziging van de Wet collectieve afwikkeling massaschade",
+   "url": "https://wetten.overheid.nl/BWBR0033601",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033601/2013-07-01_0/xml/BWBR0033601_2013-07-01_0.xml",
+     "sha256": "ae103e450d74a2c54e22514d132c2687612d086dc23dea54723fdbcec813f0a6"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-leegstandwet-verruiming-mogelijkheden-tijdelijke-verhuur-bij-leegstand-gebou",
+   "short": "Wijzigingswet Leegstandwet (verruiming mogelijkheden tijdelijke verhuur bij leegstand gebouwen en woningen)",
+   "title": "Wijzigingswet Leegstandwet (verruiming mogelijkheden tijdelijke verhuur bij leegstand gebouwen en woningen)",
+   "url": "https://wetten.overheid.nl/BWBR0033602",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033602/2013-07-01_0/xml/BWBR0033602_2013-07-01_0.xml",
+     "sha256": "4d901ea65621c71098db9e3e4418a775c79c6a7799cfd47140dfaa7a379d21b7"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-bevorderen-van-doelmatige-leerwegen-in",
+   "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (bevorderen van doelmatige leerwegen in het beroepsonderwijs en moderniseren van de bekostiging van het beroepsonderwijs)",
+   "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (bevorderen van doelmatige leerwegen in het beroepsonderwijs en moderniseren van de bekostiging van het beroepsonderwijs)",
+   "url": "https://wetten.overheid.nl/BWBR0033655",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033655/2026-01-01_0/xml/BWBR0033655_2026-01-01_0.xml",
+     "sha256": "fa736a878c402c0ba31aecdae4f74656d4738a838d88a02943ac25951ec446d8"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-veiligheidsregios-wijziging-gemeentelijke-indeling-deel-provincie-frysla",
+   "short": "Wijzigingswet Wet veiligheidsregio’s (wijziging gemeentelijke indeling deel provincie Fryslân)",
+   "title": "Wijzigingswet Wet veiligheidsregio’s (wijziging gemeentelijke indeling deel provincie Fryslân)",
+   "url": "https://wetten.overheid.nl/BWBR0033660",
+   "versions": [
+    {
+     "from": "2013-07-13",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033660/2013-07-13_0/xml/BWBR0033660_2013-07-13_0.xml",
+     "sha256": "f6adf24181e947a82b1c05b45cedfd9f9565c2ecd2728967cd5de7b58e474fde"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-kieswet-enz-maatregelen-om-stemmen-eenvoudiger-te-maken-voor-nederlanders-in",
+   "short": "Wijzigingswet Kieswet, enz. (maatregelen om stemmen eenvoudiger te maken voor Nederlanders in het buitenland, enz.)",
+   "title": "Wijzigingswet Kieswet, enz. (maatregelen om stemmen eenvoudiger te maken voor Nederlanders in het buitenland, enz.)",
+   "url": "https://wetten.overheid.nl/BWBR0033664",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033664/2015-01-30_0/xml/BWBR0033664_2015-01-30_0.xml",
+     "sha256": "1dd7145677cd8ff51d3804acf933bb1ce9ebb72fc35528a6d6817c2b76dd9029"
+    }
+   ]
+  },
+  {
+   "slug": "wet-kwaliteit-in-verscheidenheid-hoger-onderwijs",
+   "short": "Wet Kwaliteit in verscheidenheid hoger onderwijs",
+   "title": "Wet Kwaliteit in verscheidenheid hoger onderwijs",
+   "url": "https://wetten.overheid.nl/BWBR0033693",
+   "versions": [
+    {
+     "from": "2013-09-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033693/2013-09-01_0/xml/BWBR0033693_2013-09-01_0.xml",
+     "sha256": "8eebcb2052886c57f58afe8071faa619af51dbb47efc8cba1534527a4db51b78"
+    }
+   ]
+  },
+  {
+   "slug": "wet-versterking-bestuur-pensioenfondsen",
+   "short": "Wet versterking bestuur pensioenfondsen",
+   "title": "Wet versterking bestuur pensioenfondsen",
+   "url": "https://wetten.overheid.nl/BWBR0033702",
+   "versions": [
+    {
+     "from": "2013-08-07",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033702/2013-08-07_0/xml/BWBR0033702_2013-08-07_0.xml",
+     "sha256": "385f85d1b7c45d8e0424494b7dd840603c97aaf75f1ae707e96729ff49e226cd"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-vervoer-gevaarlijke-stoffen-enz-wet-basisnet",
+   "short": "Wijzigingswet Wet vervoer gevaarlijke stoffen, enz. (Wet basisnet)",
+   "title": "Wijzigingswet Wet vervoer gevaarlijke stoffen, enz. (Wet basisnet)",
+   "url": "https://wetten.overheid.nl/BWBR0033712",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033712/2015-04-01_0/xml/BWBR0033712_2015-04-01_0.xml",
+     "sha256": "c408daf0fca8741fbc3da1f65d3ad57cc0b23483f848e92da8bdba1de8fd263b"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-pensioenleeftijd-appa",
+   "short": "Wet aanpassing pensioenleeftijd Appa",
+   "title": "Wet aanpassing pensioenleeftijd Appa",
+   "url": "https://wetten.overheid.nl/BWBR0033719",
+   "versions": [
+    {
+     "from": "2013-07-27",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033719/2013-07-27_0/xml/BWBR0033719_2013-07-27_0.xml",
+     "sha256": "e6d8f637837832bbc7b003ffb7b12ae9754838b947237e74d7a6e2fb4de0c650"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-basisregistratie-personen",
+   "short": "Aanpassingswet basisregistratie personen",
+   "title": "Aanpassingswet basisregistratie personen",
+   "url": "https://wetten.overheid.nl/BWBR0033721",
+   "versions": [
+    {
+     "from": "2014-01-06",
+     "units": 94,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033721/2014-01-06_0/xml/BWBR0033721_2014-01-06_0.xml",
+     "sha256": "0c712f31db54421003bb192496f146ae5fe192e7ba7e79803d70f60c70167de6"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-remigratiewet-heroverweging-remigratiewet",
+   "short": "Wijzigingswet Remigratiewet (heroverweging Remigratiewet)",
+   "title": "Wijzigingswet Remigratiewet (heroverweging Remigratiewet)",
+   "url": "https://wetten.overheid.nl/BWBR0033774",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033774/2014-07-01_0/xml/BWBR0033774_2014-07-01_0.xml",
+     "sha256": "10dc3c1ada38611d66abe22f8d15edaa85fe106dda8104b62c46dae823d9b7f2"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-leerplichtwet-1969-enz-registratie-vrijstellingen-en-vervangende-leerplicht",
+   "short": "Wijzigingswet Leerplichtwet 1969, enz. (registratie vrijstellingen en vervangende leerplicht)",
+   "title": "Wijzigingswet Leerplichtwet 1969, enz. (registratie vrijstellingen en vervangende leerplicht)",
+   "url": "https://wetten.overheid.nl/BWBR0033953",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033953/2013-10-01_0/xml/BWBR0033953_2013-10-01_0.xml",
+     "sha256": "58b35244eb03ac93e6c0ab87f546c83b4b514ebaf53baa5acd61b1a7a33730a8"
+    }
+   ]
+  },
+  {
+   "slug": "wet-gebruik-friese-taal",
+   "short": "Wet gebruik Friese taal",
+   "title": "Wet gebruik Friese taal",
+   "url": "https://wetten.overheid.nl/BWBR0034047",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 38,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034047/2024-01-01_0/xml/BWBR0034047_2024-01-01_0.xml",
+     "sha256": "2612cbefd19d754b9ce542a31081ff9dacb7d5e19a0590d51ce5067c3fca24bc"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-naburige-rechten-enz-omzetting-richtlijn-2011-77-eu-tot-wijziging",
+   "short": "Wijzigingswet Wet op de naburige rechten, enz. (omzetting Richtlijn 2011/77/EU tot wijziging Richtlijn 2006/116/EG betreffende de beschermingstermijn van het auteursrecht en bepaalde naburige rechten)",
+   "title": "Wijzigingswet Wet op de naburige rechten, enz. (omzetting Richtlijn 2011/77/EU tot wijziging Richtlijn 2006/116/EG betreffende de beschermingstermijn van het auteursrecht en bepaalde naburige rechten)",
+   "url": "https://wetten.overheid.nl/BWBR0034050",
+   "versions": [
+    {
+     "from": "2013-10-18",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034050/2013-10-18_0/xml/BWBR0034050_2013-10-18_0.xml",
+     "sha256": "d5767d6b850e926570391fbe254183b390bb11634fbb00d3dd92d6140bb01128"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-richtlijn-financiele-conglomeraten-i",
+   "short": "Implementatiewet richtlijn financiële conglomeraten I",
+   "title": "Implementatiewet richtlijn financiële conglomeraten I",
+   "url": "https://wetten.overheid.nl/BWBR0034082",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034082/2016-01-01_0/xml/BWBR0034082_2016-01-01_0.xml",
+     "sha256": "fdaf321b73f376d19f47e154c0b7cca3cb847adf7a34c4b67aa27d811c26726f"
+    }
+   ]
+  },
+  {
+   "slug": "wet-wijziging-curatele-beschermingsbewind-en-mentorschap",
+   "short": "Wet wijziging curatele, beschermingsbewind en mentorschap",
+   "title": "Wet wijziging curatele, beschermingsbewind en mentorschap",
+   "url": "https://wetten.overheid.nl/BWBR0034090",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034090/2015-01-01_0/xml/BWBR0034090_2015-01-01_0.xml",
+     "sha256": "ac36a156d0e847e41ba2fc789e6e90f49c6875caca9911d43e3b9754422c4c71"
+    }
+   ]
+  },
+  {
+   "slug": "fiscale-verzamelwet-2013",
+   "short": "Fiscale verzamelwet 2013",
+   "title": "Fiscale verzamelwet 2013",
+   "url": "https://wetten.overheid.nl/BWBR0034091",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 34,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034091/2022-01-01_0/xml/BWBR0034091_2022-01-01_0.xml",
+     "sha256": "cdd316c5430a15a3f07b5a13431d411c78fb3cad57c750d5e85f27c8a19913b8"
+    }
+   ]
+  },
+  {
+   "slug": "wet-subsidiering-landelijke-onderwijsondersteunende-activiteiten-2013",
+   "short": "Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013",
+   "title": "Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013",
+   "url": "https://wetten.overheid.nl/BWBR0034162",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 20,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034162/2026-10-01_0/xml/BWBR0034162_2026-10-01_0.xml",
+     "sha256": "063b3c4ee6b7097ccad0d30050421dcd7ec1ccb7a71d172d30f854c78fd1273e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-nationaal-rapporteur-mensenhandel-en-seksueel-geweld-tegen-kinderen",
+   "short": "Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen",
+   "title": "Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen",
+   "url": "https://wetten.overheid.nl/BWBR0034176",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034176/2020-01-01_0/xml/BWBR0034176_2020-01-01_0.xml",
+     "sha256": "8ac6fb41768f665abcadc1e00637b3bae540272c83f44fa4562a488d40dfb44a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-mediawet-2008-verspreiding-televisie-en-radioprogrammakanalen-en-vaststellin",
+   "short": "Wijzigingswet Mediawet 2008 (verspreiding televisie- en radioprogrammakanalen, en vaststelling minimale omvang standaardpakket televisie- en radioprogrammakanalen)",
+   "title": "Wijzigingswet Mediawet 2008 (verspreiding televisie- en radioprogrammakanalen, en vaststelling minimale omvang standaardpakket televisie- en radioprogrammakanalen)",
+   "url": "https://wetten.overheid.nl/BWBR0034181",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034181/2017-02-01_0/xml/BWBR0034181_2017-02-01_0.xml",
+     "sha256": "075c03bb9702e9bb76ca1376eca758628b98842933418f50ad0c433f1bca98cc"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-mediawet-2008-moderniseren-van-het-stelsel-van-de-landelijke-publieke-omroep",
+   "short": "Wijzigingswet Mediawet 2008 (moderniseren van het stelsel van de landelijke publieke omroep)",
+   "title": "Wijzigingswet Mediawet 2008 (moderniseren van het stelsel van de landelijke publieke omroep)",
+   "url": "https://wetten.overheid.nl/BWBR0034182",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034182/2015-01-01_0/xml/BWBR0034182_2015-01-01_0.xml",
+     "sha256": "efa283baef1cd269dbcc9b253df00c36c799d150e7c8690df72110299e5ecd2e"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-enige-wetten-ministerie-van-veiligheid-en-justitie-brengen-van-een-aantal-z",
+   "short": "Aanpassingswet enige wetten Ministerie van Veiligheid en Justitie (brengen van een aantal zelfstandige bestuursorganen onder werking van Kaderwet zelfstandige bestuursorganen)",
+   "title": "Aanpassingswet enige wetten Ministerie van Veiligheid en Justitie (brengen van een aantal zelfstandige bestuursorganen onder werking van Kaderwet zelfstandige bestuursorganen)",
+   "url": "https://wetten.overheid.nl/BWBR0034188",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034188/2015-07-01_0/xml/BWBR0034188_2015-07-01_0.xml",
+     "sha256": "356688271a658e4204d43803955ec9ff70744c4dbb6b70c74e6e534aeccab066"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-gewasbeschermingsmiddelen-en-biociden-uitvoering-verordening-eu-nr-528-2",
+   "short": "Wijzigingswet Wet gewasbeschermingsmiddelen en biociden (uitvoering Verordening (EU) Nr. 528/2012, betreffende het op de markt aanbieden en het gebruik van biociden)",
+   "title": "Wijzigingswet Wet gewasbeschermingsmiddelen en biociden (uitvoering Verordening (EU) Nr. 528/2012, betreffende het op de markt aanbieden en het gebruik van biociden)",
+   "url": "https://wetten.overheid.nl/BWBR0034208",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034208/2013-11-21_0/xml/BWBR0034208_2013-11-21_0.xml",
+     "sha256": "ebcfa8648cc794314f0217594c4c551311739f6ee86fd3360ee73139c1b29413"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-postwet-2009-invoering-ex-ante-toezicht-op-een-postvervoerbedrijf-met-aanmer",
+   "short": "Wijzigingswet Postwet 2009 (invoering ex ante toezicht op een postvervoerbedrijf met aanmerkelijke marktmacht)",
+   "title": "Wijzigingswet Postwet 2009 (invoering ex ante toezicht op een postvervoerbedrijf met aanmerkelijke marktmacht)",
+   "url": "https://wetten.overheid.nl/BWBR0034247",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034247/2017-08-01_0/xml/BWBR0034247_2017-08-01_0.xml",
+     "sha256": "601f44e5d18307bd163acb337e63ab4b2861396b25286c1d2b003e2f84990ee5"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-vreemdelingenwet-2000-herschikken-gronden-voor-asielverlening",
+   "short": "Wijzigingswet Vreemdelingenwet 2000 (herschikken gronden voor asielverlening)",
+   "title": "Wijzigingswet Vreemdelingenwet 2000 (herschikken gronden voor asielverlening)",
+   "url": "https://wetten.overheid.nl/BWBR0034268",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034268/2014-01-01_0/xml/BWBR0034268_2014-01-01_0.xml",
+     "sha256": "5ce49fbbd5b4a1a18f0b480889775d39e1f4ae10b98a11806fe56da0fe7c34b7"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-financiele-markten-2014",
+   "short": "Wijzigingswet financiële markten 2014",
+   "title": "Wijzigingswet financiële markten 2014",
+   "url": "https://wetten.overheid.nl/BWBR0034293",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 23,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034293/2015-01-01_0/xml/BWBR0034293_2015-01-01_0.xml",
+     "sha256": "4a1a984b2fba1bf71a72594e53515fd5d5b53c7b9663e48fa8ec106a3037a58c"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafrecht-herziening-regels-betreffende-extraterritoriale-recht",
+   "short": "Wijzigingswet Wetboek van Strafrecht (herziening regels betreffende extraterritoriale rechtsmacht in strafzaken)",
+   "title": "Wijzigingswet Wetboek van Strafrecht (herziening regels betreffende extraterritoriale rechtsmacht in strafzaken)",
+   "url": "https://wetten.overheid.nl/BWBR0034294",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034294/2014-07-01_0/xml/BWBR0034294_2014-07-01_0.xml",
+     "sha256": "867b43854fa13b87ef4dbf55ae1023da69e9bcad9a0307d59a6dd9ef3c929042"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-1-enz-evaluatie-wet-openstelling-huwelijk-en-wet-ger",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (evaluatie Wet openstelling huwelijk en Wet geregistreerd partnerschap)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (evaluatie Wet openstelling huwelijk en Wet geregistreerd partnerschap)",
+   "url": "https://wetten.overheid.nl/BWBR0034302",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034302/2014-04-01_0/xml/BWBR0034302_2014-04-01_0.xml",
+     "sha256": "1ecb8f6b0a69a6dfbf953d0d2cc9465faec1e8632593d44abe652c48175001fc"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafrecht-enz-invoering-adolescentenstrafrecht",
+   "short": "Wijzigingswet Wetboek van Strafrecht, enz. (invoering adolescentenstrafrecht)",
+   "title": "Wijzigingswet Wetboek van Strafrecht, enz. (invoering adolescentenstrafrecht)",
+   "url": "https://wetten.overheid.nl/BWBR0034305",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034305/2014-04-01_0/xml/BWBR0034305_2014-04-01_0.xml",
+     "sha256": "974b7602e06ebba65dac34c683572406006400b1d5f4024b661974383989e9d7"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-marktordening-gezondheidszorg-enz-tijdig-signaleren-van-risicos-en-aansc",
+   "short": "Wijzigingswet Wet marktordening gezondheidszorg, enz. (tijdig signaleren van risico’s en aanscherpen van procedures)",
+   "title": "Wijzigingswet Wet marktordening gezondheidszorg, enz. (tijdig signaleren van risico’s en aanscherpen van procedures)",
+   "url": "https://wetten.overheid.nl/BWBR0034357",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034357/2014-01-01_0/xml/BWBR0034357_2014-01-01_0.xml",
+     "sha256": "59f4e22782640713aa8e231a2b3f92f3295abe3448c8d0899650f9523b9a812e"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-financiering-decentrale-overheden-verplicht-schatkistbankieren",
+   "short": "Wijzigingswet Wet financiering decentrale overheden (verplicht schatkistbankieren)",
+   "title": "Wijzigingswet Wet financiering decentrale overheden (verplicht schatkistbankieren)",
+   "url": "https://wetten.overheid.nl/BWBR0034358",
+   "versions": [
+    {
+     "from": "2013-12-15",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034358/2013-12-15_0/xml/BWBR0034358_2013-12-15_0.xml",
+     "sha256": "05c78c205360340d217cbc130328413f81ffaab20f12af263fe441985a27aba7"
+    }
+   ]
+  },
+  {
+   "slug": "wet-houdbare-overheidsfinancien",
+   "short": "Wet houdbare overheidsfinanciën",
+   "title": "Wet houdbare overheidsfinanciën",
+   "url": "https://wetten.overheid.nl/BWBR0034360",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034360/2025-12-31_0/xml/BWBR0034360_2025-12-31_0.xml",
+     "sha256": "7e5ae2527410a7c3725ab20a8d555ef3d625540f2ad6c03aed620aedaf23071c"
+    }
+   ]
+  },
+  {
+   "slug": "regentschapswet-2013",
+   "short": "Regentschapswet 2013",
+   "title": "Regentschapswet 2013",
+   "url": "https://wetten.overheid.nl/BWBR0034366",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034366/2013-12-18_0/xml/BWBR0034366_2013-12-18_0.xml",
+     "sha256": "6153b33e3f3a0bfd4c440de929732dc1caef585a32a0ffc90fbc2648f8f00d43"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bepaling-van-de-jaarlijkse-uitkering-aan-de-regent",
+   "short": "Wet bepaling van de jaarlijkse uitkering aan de regent",
+   "title": "Wet bepaling van de jaarlijkse uitkering aan de regent",
+   "url": "https://wetten.overheid.nl/BWBR0034367",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034367/2013-12-18_0/xml/BWBR0034367_2013-12-18_0.xml",
+     "sha256": "2c66ef301621a529dae81cc75285567d8a78ca7f3634b1aa5b6b41a691951d90"
+    }
+   ]
+  },
+  {
+   "slug": "wet-regeling-ouderlijk-gezag-op-minderjarige-koning-2013",
+   "short": "Wet regeling ouderlijk gezag op minderjarige Koning 2013",
+   "title": "Wet regeling ouderlijk gezag op minderjarige Koning 2013",
+   "url": "https://wetten.overheid.nl/BWBR0034369",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034369/2015-01-01_0/xml/BWBR0034369_2015-01-01_0.xml",
+     "sha256": "ef9ed5b4d7f05c076da745614e3c1a703bfcd572e363843c878a34022ad5c80f"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-vreemdelingenwet-2000-enz-vaststelling-criteria-en-instrumenten-ter-bepaling",
+   "short": "Wijzigingswet Vreemdelingenwet 2000, enz. (vaststelling criteria en instrumenten ter bepaling van de verantwoordelijke lidstaat voor behandeling verzoek om internationale bescherming)",
+   "title": "Wijzigingswet Vreemdelingenwet 2000, enz. (vaststelling criteria en instrumenten ter bepaling van de verantwoordelijke lidstaat voor behandeling verzoek om internationale bescherming)",
+   "url": "https://wetten.overheid.nl/BWBR0034405",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034405/2014-01-01_0/xml/BWBR0034405_2014-01-01_0.xml",
+     "sha256": "c23abace00ca597a77e4990b19343da6d658e96d765fe9344cf72c2d6391d246"
+    }
+   ]
+  },
+  {
+   "slug": "tijdelijke-wet-resolutieheffing-2014",
+   "short": "Tijdelijke wet resolutieheffing 2014",
+   "title": "Tijdelijke wet resolutieheffing 2014",
+   "url": "https://wetten.overheid.nl/BWBR0034433",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034433/2015-01-01_0/xml/BWBR0034433_2015-01-01_0.xml",
+     "sha256": "0f9691ad23c24f49140c92b433a87bc66a0a639456f3caac19959f6f7d5c2b4c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-versterking-kwaliteitswaarborgen-hoger-onderwijs",
+   "short": "Wet versterking kwaliteitswaarborgen hoger onderwijs",
+   "title": "Wet versterking kwaliteitswaarborgen hoger onderwijs",
+   "url": "https://wetten.overheid.nl/BWBR0034472",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034472/2015-01-01_0/xml/BWBR0034472_2015-01-01_0.xml",
+     "sha256": "23eff0189e0cb0adcc5167cd8abfeffbb119d281d5e41741b9a6442b7fb630b7"
+    }
+   ]
+  },
+  {
+   "slug": "wet-wijziging-percentages-belasting-en-invorderingsrente",
+   "short": "Wet wijziging percentages belasting- en invorderingsrente",
+   "title": "Wet wijziging percentages belasting- en invorderingsrente",
+   "url": "https://wetten.overheid.nl/BWBR0034485",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034485/2014-01-01_0/xml/BWBR0034485_2014-01-01_0.xml",
+     "sha256": "03c19fe2bbadf89c047d9e61c20d28b3fbd325855ab6c59a81e88dc048ce95c2"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpak-fraude-toeslagen-en-fiscaliteit",
+   "short": "Wet aanpak fraude toeslagen en fiscaliteit",
+   "title": "Wet aanpak fraude toeslagen en fiscaliteit",
+   "url": "https://wetten.overheid.nl/BWBR0034496",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034496/2024-01-01_0/xml/BWBR0034496_2024-01-01_0.xml",
+     "sha256": "63453ae31b6ba8d26978f944718cc98ec9882e68ae3df55cba2d74eaa62020e7"
+    }
+   ]
+  },
+  {
+   "slug": "overige-fiscale-maatregelen-2014",
+   "short": "Overige fiscale maatregelen 2014",
+   "title": "Overige fiscale maatregelen 2014",
+   "url": "https://wetten.overheid.nl/BWBR0034526",
+   "versions": [
+    {
+     "from": "2016-04-30",
+     "units": 23,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034526/2016-04-30_0/xml/BWBR0034526_2016-04-30_0.xml",
+     "sha256": "5f26b53272986480938004bd620d6b193b060053f26e83778dbb04fa35e721a7"
+    }
+   ]
+  },
+  {
+   "slug": "belastingplan-2014",
+   "short": "Belastingplan 2014",
+   "title": "Belastingplan 2014",
+   "url": "https://wetten.overheid.nl/BWBR0034538",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 55,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034538/2017-01-01_0/xml/BWBR0034538_2017-01-01_0.xml",
+     "sha256": "1142f85c8bbd81dbdc410f22ae8b6bea1bffa0aee4c7f945b152c44853f8b1b2"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-mediawet-2008-aanpassing-rijksmediabijdrage-en-overheveling-budget-bekostigi",
+   "short": "Wijzigingswet Mediawet 2008 (aanpassing rijksmediabijdrage en overheveling budget bekostiging regionale omroepen provinciefonds naar mediabegroting)",
+   "title": "Wijzigingswet Mediawet 2008 (aanpassing rijksmediabijdrage en overheveling budget bekostiging regionale omroepen provinciefonds naar mediabegroting)",
+   "url": "https://wetten.overheid.nl/BWBR0034560",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034560/2015-01-01_0/xml/BWBR0034560_2015-01-01_0.xml",
+     "sha256": "4aed1ba0042cdadd5cc3c8bc0fd57bc1de3285edc3f62be1eda196338ba6fa6d"
+    }
+   ]
+  },
+  {
+   "slug": "veegwet-vws-2013",
+   "short": "Veegwet VWS 2013",
+   "title": "Veegwet VWS 2013",
+   "url": "https://wetten.overheid.nl/BWBR0034659",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 46,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034659/2016-08-01_0/xml/BWBR0034659_2016-08-01_0.xml",
+     "sha256": "88979d1068b18dddf5167eeb1951f5396e99d98a336d2de9a1068ccd24857022"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-1-enz-wijzigen-voorwaarden-voor-en-bevoegdheid-ter-z",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (wijzigen voorwaarden voor en bevoegdheid ter zake van wijziging vermelding geslacht in akte van geboorte)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (wijzigen voorwaarden voor en bevoegdheid ter zake van wijziging vermelding geslacht in akte van geboorte)",
+   "url": "https://wetten.overheid.nl/BWBR0034670",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034670/2014-07-01_0/xml/BWBR0034670_2014-07-01_0.xml",
+     "sha256": "aa84b1a71b55ffb4f40acfdb9108b1ec40e8463da46a165cf5ba5ad15f9ad0d3"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-clientenrechten-zorg-enz-taken-en-bevoegdheden-op-het-gebied-van-de-kwal",
+   "short": "Wijzigingswet Wet cliëntenrechten zorg, enz. (taken en bevoegdheden op het gebied van de kwaliteit van de zorg)",
+   "title": "Wijzigingswet Wet cliëntenrechten zorg, enz. (taken en bevoegdheden op het gebied van de kwaliteit van de zorg)",
+   "url": "https://wetten.overheid.nl/BWBR0034672",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 45,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034672/2016-01-01_0/xml/BWBR0034672_2016-01-01_0.xml",
+     "sha256": "3d0a8e6a5515a8357a984ec79938595414d5010e5940ac32f70e7cabbd838be6"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-vreemdelingenwet-2000-uitbreiding-gebruik-biometrische-kenmerken-in-vreemdel",
+   "short": "Wijzigingswet Vreemdelingenwet 2000 (uitbreiding gebruik biometrische kenmerken in vreemdelingenketen)",
+   "title": "Wijzigingswet Vreemdelingenwet 2000 (uitbreiding gebruik biometrische kenmerken in vreemdelingenketen)",
+   "url": "https://wetten.overheid.nl/BWBR0034673",
+   "versions": [
+    {
+     "from": "2014-03-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034673/2014-03-01_0/xml/BWBR0034673_2014-03-01_0.xml",
+     "sha256": "64000fb755073f532b17096de43deba7e2a2ab11bff6020502fa98907114abe1"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-primair-onderwijs-enz-centrale-eindtoets-en-leerling-en-onderwijs",
+   "short": "Wijzigingswet Wet op het primair onderwijs, enz. (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs)",
+   "title": "Wijzigingswet Wet op het primair onderwijs, enz. (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs)",
+   "url": "https://wetten.overheid.nl/BWBR0034687",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034687/2022-08-01_0/xml/BWBR0034687_2022-08-01_0.xml",
+     "sha256": "876632472d47bb7994a466b7df30b747839db7826d0dededc5d6b1825c3e2cd3"
+    }
+   ]
+  },
+  {
+   "slug": "wijziging-van-de-paspoortwet-in-verband-met-onder-meer-de-status-van-de-nederlandse-identi",
+   "short": "Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart",
+   "title": "Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart",
+   "url": "https://wetten.overheid.nl/BWBR0034694",
+   "versions": [
+    {
+     "from": "2014-03-09",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034694/2014-03-09_0/xml/BWBR0034694_2014-03-09_0.xml",
+     "sha256": "ed624c7188aab47582351d391d7f11618112d0b17650b2bade5bbd030d6475a7"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-waterschapsverkiezingen",
+   "short": "Wet aanpassing waterschapsverkiezingen",
+   "title": "Wet aanpassing waterschapsverkiezingen",
+   "url": "https://wetten.overheid.nl/BWBR0034822",
+   "versions": [
+    {
+     "from": "2014-11-29",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034822/2014-11-29_0/xml/BWBR0034822_2014-11-29_0.xml",
+     "sha256": "447f5c2cd2f32797dfc4d4d2f3ef4638627fc50569aff56e6f78adae99d2a0c8"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-vreemdelingenwet-2000-uitbreiding-werkingssfeer-tot-personen-die-internation",
+   "short": "Wijzigingswet Vreemdelingenwet 2000 (uitbreiding werkingssfeer tot personen die internationale bescherming genieten)",
+   "title": "Wijzigingswet Vreemdelingenwet 2000 (uitbreiding werkingssfeer tot personen die internationale bescherming genieten)",
+   "url": "https://wetten.overheid.nl/BWBR0034986",
+   "versions": [
+    {
+     "from": "2014-03-29",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034986/2014-03-29_0/xml/BWBR0034986_2014-03-29_0.xml",
+     "sha256": "a19974eb9b1a03f37d757d33afae3e62841d46fe60e4c24328369a2e176739df"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-boek-1-van-het-burgerlijk-wetboek-enz-herziening-maatregelen-kinderbeschermi",
+   "short": "Wijzigingswet Boek 1 van het Burgerlijk Wetboek, enz. (herziening maatregelen kinderbescherming)",
+   "title": "Wijzigingswet Boek 1 van het Burgerlijk Wetboek, enz. (herziening maatregelen kinderbescherming)",
+   "url": "https://wetten.overheid.nl/BWBR0034989",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034989/2015-01-01_0/xml/BWBR0034989_2015-01-01_0.xml",
+     "sha256": "e6066dbc34c280ac2c2e8030864d42f1f938d2c7c9125fcdbbd067e34b8f753d"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-arbeid-vreemdelingen-enz-aanvraagprocedure-voor-gecombineerde-vergunning",
+   "short": "Wijzigingswet Wet arbeid vreemdelingen, enz. (aanvraagprocedure voor gecombineerde vergunning onderdanen van derde landen voor verblijf en werk, en rechten voor werknemers uit derde landen)",
+   "title": "Wijzigingswet Wet arbeid vreemdelingen, enz. (aanvraagprocedure voor gecombineerde vergunning onderdanen van derde landen voor verblijf en werk, en rechten voor werknemers uit derde landen)",
+   "url": "https://wetten.overheid.nl/BWBR0034997",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0034997/2014-04-01_0/xml/BWBR0034997_2014-04-01_0.xml",
+     "sha256": "b4fce466f70581ba318728dac68da91ab8e82f05563f1cbb198c992fed4776c6"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-richtlijn-consumentenrechten",
+   "short": "Implementatiewet richtlijn consumentenrechten",
+   "title": "Implementatiewet richtlijn consumentenrechten",
+   "url": "https://wetten.overheid.nl/BWBR0035034",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035034/2014-06-13_0/xml/BWBR0035034_2014-06-13_0.xml",
+     "sha256": "2138c145fc365a59d6d64a1544c7b672d85c5cad38cbb1a5cbc03b511fd6327b"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-bescherming-antarctica-implementatie-viertal-maatregelen-bedoeld-in-arti",
+   "short": "Wijzigingswet Wet bescherming Antarctica (implementatie viertal Maatregelen, bedoeld in artikel IX Verdrag inzake Antarctica, waarbij bescherming Antarctisch gebied wordt uitgebreid)",
+   "title": "Wijzigingswet Wet bescherming Antarctica (implementatie viertal Maatregelen, bedoeld in artikel IX Verdrag inzake Antarctica, waarbij bescherming Antarctisch gebied wordt uitgebreid)",
+   "url": "https://wetten.overheid.nl/BWBR0035082",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035082/2015-01-29_0/xml/BWBR0035082_2015-01-29_0.xml",
+     "sha256": "f905f2d04afae35d2b1adc7bd8b9dbd5e7457a4c683360c07561a76b49080f72"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafvordering-uitbreiding-gronden-voorlopige-hechtenis",
+   "short": "Wijzigingswet Wetboek van Strafvordering (uitbreiding gronden voorlopige hechtenis)",
+   "title": "Wijzigingswet Wetboek van Strafvordering (uitbreiding gronden voorlopige hechtenis)",
+   "url": "https://wetten.overheid.nl/BWBR0035126",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035126/2015-01-01_0/xml/BWBR0035126_2015-01-01_0.xml",
+     "sha256": "6ad77a2887e87c8a1bc7477ef14840002f86ebe03c4680a6bfdece9042fe8813"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-primair-onderwijs-enz-onderwijs-in-de-friese-taal",
+   "short": "Wijzigingswet Wet op het primair onderwijs, enz. (onderwijs in de Friese taal)",
+   "title": "Wijzigingswet Wet op het primair onderwijs, enz. (onderwijs in de Friese taal)",
+   "url": "https://wetten.overheid.nl/BWBR0035164",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035164/2022-08-01_0/xml/BWBR0035164_2022-08-01_0.xml",
+     "sha256": "ecb2009deb2ffaf165e9c86501924c806c63b90b5341ab2b874e517527b4405c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-herindeling-gemeenten-s-hertogenbosch-maasdonk-en-oss",
+   "short": "Wet herindeling gemeenten 's-Hertogenbosch, Maasdonk en Oss",
+   "title": "Wet herindeling gemeenten 's-Hertogenbosch, Maasdonk en Oss",
+   "url": "https://wetten.overheid.nl/BWBR0035166",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035166/2014-06-06_0/xml/BWBR0035166_2014-06-06_0.xml",
+     "sha256": "6bdf5cc708381cedc2a09646296a0d619581594176006b5eb5bfb53877d887f6"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-groesbeek-millingen-aan-de-rijn-en-ubbergen",
+   "short": "Wet samenvoeging Groesbeek, Millingen aan de Rijn en Ubbergen",
+   "title": "Wet samenvoeging Groesbeek, Millingen aan de Rijn en Ubbergen",
+   "url": "https://wetten.overheid.nl/BWBR0035170",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035170/2014-06-06_0/xml/BWBR0035170_2014-06-06_0.xml",
+     "sha256": "3957201ff7d534bb31a78a1e260d87eaeef3a26476317d3225f2b568f7df467e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-bernisse-en-spijkenisse",
+   "short": "Wet samenvoeging gemeenten Bernisse en Spijkenisse",
+   "title": "Wet samenvoeging gemeenten Bernisse en Spijkenisse",
+   "url": "https://wetten.overheid.nl/BWBR0035172",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035172/2014-06-06_0/xml/BWBR0035172_2014-06-06_0.xml",
+     "sha256": "d04a8ff2cf791adb5705aba654aed28318ba37defb3cc0fa114aae4fdbaa4bbc"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-alkmaar-graft-de-rijp-en-schermer",
+   "short": "Wet samenvoeging gemeenten Alkmaar, Graft-De Rijp en Schermer",
+   "title": "Wet samenvoeging gemeenten Alkmaar, Graft-De Rijp en Schermer",
+   "url": "https://wetten.overheid.nl/BWBR0035173",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035173/2014-06-06_0/xml/BWBR0035173_2014-06-06_0.xml",
+     "sha256": "868c123496113ba18f2e7bfd94e82748e3bc620b0a2bab2dbfa1a999b4b18d0a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-adviesraad-voor-wetenschap-technologie-en-innovatie",
+   "short": "Wet Adviesraad voor wetenschap, technologie en innovatie",
+   "title": "Wet Adviesraad voor wetenschap, technologie en innovatie",
+   "url": "https://wetten.overheid.nl/BWBR0035175",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035175/2014-08-01_0/xml/BWBR0035175_2014-08-01_0.xml",
+     "sha256": "08e4142969054a910f305dea66eb7e40531b88993585174c4aafcf9c4bd8f4b6"
+    }
+   ]
+  },
+  {
+   "slug": "wet-verlaging-maximumopbouw-en-premiepercentages-pensioenen-en-maximering-pensioengevend-i",
+   "short": "Wet verlaging maximumopbouw- en premiepercentages pensioenen en maximering pensioengevend inkomen",
+   "title": "Wet verlaging maximumopbouw- en premiepercentages pensioenen en maximering pensioengevend inkomen",
+   "url": "https://wetten.overheid.nl/BWBR0035183",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035183/2016-01-01_0/xml/BWBR0035183_2016-01-01_0.xml",
+     "sha256": "8895680aee59f26a208e712ebbf0754f20e6bd1a83ce7c2e63b0de76407cffa4"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-modernisering-arbitragerecht",
+   "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (modernisering Arbitragerecht)",
+   "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (modernisering Arbitragerecht)",
+   "url": "https://wetten.overheid.nl/BWBR0035186",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035186/2015-01-01_0/xml/BWBR0035186_2015-01-01_0.xml",
+     "sha256": "1f7f20589eb7b154dbb883ead1b04fb82960d454ab95bf3238eb0ba16b73e62c"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-boek-7-burgerlijk-wetboek-enz-modernisering-en-vereenvoudiging-werkwijze-huu",
+   "short": "Wijzigingswet Boek 7 Burgerlijk Wetboek, enz. (modernisering en vereenvoudiging werkwijze huurcommissie)",
+   "title": "Wijzigingswet Boek 7 Burgerlijk Wetboek, enz. (modernisering en vereenvoudiging werkwijze huurcommissie)",
+   "url": "https://wetten.overheid.nl/BWBR0035204",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035204/2014-07-01_0/xml/BWBR0035204_2014-07-01_0.xml",
+     "sha256": "a2625b3636938b60feaa0451544c146423ac459d9ee7dbe48dad7b3998b68a0d"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-wnt",
+   "short": "Aanpassingswet WNT",
+   "title": "Aanpassingswet WNT",
+   "url": "https://wetten.overheid.nl/BWBR0035245",
+   "versions": [
+    {
+     "from": "2014-06-28",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035245/2014-06-28_0/xml/BWBR0035245_2014-06-28_0.xml",
+     "sha256": "f4263fe64fd44d359e03939566fac5ec46485ef0c2ed5cc7fc9b52b11cee8df7"
+    }
+   ]
+  },
+  {
+   "slug": "wet-hervorming-kindregelingen",
+   "short": "Wet hervorming kindregelingen",
+   "title": "Wet hervorming kindregelingen",
+   "url": "https://wetten.overheid.nl/BWBR0035259",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 30,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035259/2016-01-01_0/xml/BWBR0035259_2016-01-01_0.xml",
+     "sha256": "d29559cdf4857d8c074e7d5b0f0a0dc4b7a97bfc2742dc56de4396bd65bcbc91"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-overdracht-tenuitvoerlegging-strafvonnissen-enz-aanvulling-bepaling-proc",
+   "short": "Wijzigingswet Wet overdracht tenuitvoerlegging strafvonnissen, enz. (aanvulling bepaling procedure voortgezette tenuitvoerlegging)",
+   "title": "Wijzigingswet Wet overdracht tenuitvoerlegging strafvonnissen, enz. (aanvulling bepaling procedure voortgezette tenuitvoerlegging)",
+   "url": "https://wetten.overheid.nl/BWBR0035272",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035272/2015-01-01_0/xml/BWBR0035272_2015-01-01_0.xml",
+     "sha256": "77658fd1f4ba6241b9155d5dcc2f0d0b2b4de2a8e0d4689b8ac9d3de37393e15"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-instellingswet-autoriteit-consument-en-markt-enz-stroomlijning-markttoezicht",
+   "short": "Wijzigingswet Instellingswet Autoriteit Consument en Markt, enz. (stroomlijning markttoezicht ACM)",
+   "title": "Wijzigingswet Instellingswet Autoriteit Consument en Markt, enz. (stroomlijning markttoezicht ACM)",
+   "url": "https://wetten.overheid.nl/BWBR0035297",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 27,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035297/2017-01-01_0/xml/BWBR0035297_2017-01-01_0.xml",
+     "sha256": "122745b5774a554fd1f1cb533e4fd8692cc8f4d9c1eec30ae017096f9526ed44"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-bergambacht-nederlek-ouderkerk-schoonhoven-en-vlist",
+   "short": "Wet samenvoeging gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist",
+   "title": "Wet samenvoeging gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist",
+   "url": "https://wetten.overheid.nl/BWBR0035300",
+   "versions": [
+    {
+     "from": "2014-07-05",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035300/2014-07-05_0/xml/BWBR0035300_2014-07-05_0.xml",
+     "sha256": "97a70b4bc60ad3e03a07e1e49aa5791c9e39e62c5e6bcbc4bdb826cbd39248ac"
+    }
+   ]
   }
  ]
 }
