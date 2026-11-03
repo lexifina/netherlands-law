@@ -78,6 +78,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2227,12 +2229,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-vereenvoudiging-en-digitaliserin` | Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (vereenvoudiging en digitalisering van het procesrecht) | 1 | 2021-04-01 to 2021-04-01 |
 | `wet-implementatie-verordening-en-richtlijn-marktmisbruik` | Wet implementatie verordening en richtlijn marktmisbruik | 1 | 2016-08-11 to 2016-08-11 |
 | `wijzigingswet-wet-openbaarheid-van-bestuur-aanvullingen-ter-voorkoming-van-misbruik` | Wijzigingswet Wet openbaarheid van bestuur (aanvullingen ter voorkoming van misbruik) | 1 | 2016-10-01 to 2016-10-01 |
+| `wet-scheepsuitrusting-2016` | Wet scheepsuitrusting 2016 | 1 | 2023-04-19 to 2023-04-19 |
+| `rijksvisumwet` | Rijksvisumwet | 1 | 2018-07-01 to 2018-07-01 |
+| `wijzigingswet-wet-bijzondere-maatregelen-grootstedelijke-problematiek-enz-selectieve-wonin` | Wijzigingswet Wet bijzondere maatregelen grootstedelijke problematiek, enz. (selectieve woningtoewijzing ter beperking overlastgevend en crimineel gedrag) | 1 | 2017-01-01 to 2017-01-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-invoering-vroegtijdige-aanmelddatum-voo` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. ( invoering vroegtijdige aanmelddatum voor en toelatingsrecht tot het beroepsonderwijs) | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-wet-gebruik-burgerservicenummer-in-de-zorg-enz-clientenrechten-bij-elektroni` | Wijzigingswet Wet gebruik burgerservicenummer in de zorg, enz. (cliëntenrechten bij elektronische verwerking van gegevens) | 1 | 2017-07-01 to 2017-07-01 |
+| `wijzigingswet-wet-wegvervoer-goederen-omvorming-stichting-niwo-tot-publiekrechtelijk-zelfs` | Wijzigingswet Wet wegvervoer goederen (omvorming Stichting NIWO tot publiekrechtelijk zelfstandig bestuursorgaan) | 1 | 2017-01-01 to 2017-01-01 |
+| `implementatiewet-toegang-basisbetaalrekening` | Implementatiewet toegang basisbetaalrekening | 1 | 2016-11-11 to 2016-11-11 |
+| `implementatiewet-wijzigingsrichtlijn-en-verordening-wettelijke-controles-jaarrekeningen` | Implementatiewet wijzigingsrichtlijn en verordening wettelijke controles jaarrekeningen | 1 | 2017-01-01 to 2017-01-01 |
+| `uitvoeringswet-overeenkomst-tussen-europese-unie-en-republiek-ijsland-en-koninkrijk-noorwe` | Uitvoeringswet Overeenkomst tussen Europese Unie en Republiek IJsland en Koninkrijk Noorwegen (procedures overlevering) | 1 | 2019-11-01 to 2019-11-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-7-uitbreiding-aansprakelijkheid-voldoening-verschuld` | Wijzigingswet Burgerlijk Wetboek Boek 7 (uitbreiding aansprakelijkheid voldoening verschuldigde loon aan de werknemer die arbeid verricht ter uitvoering van een overeenkomst van goederenvervoer over de weg of een overeenkomst tot het doen vervoeren van goederen over de weg) | 1 | 2017-01-01 to 2017-01-01 |
+| `uitvoeringswet-speciale-kamers-kosovo` | Uitvoeringswet Speciale Kamers Kosovo | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-tot-wijziging-van-de-spoorwegwet-ter-nadere-implementatie-van-drie-spoorwegrichtlijnen` | Wet tot wijziging van de Spoorwegwet ter nadere implementatie van drie spoorwegrichtlijnen | 1 | 2016-11-26 to 2016-11-26 |
+| `uitvoeringswet-verordening-europees-bevel-tot-conservatoir-beslag-op-bankrekeningen` | Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen | 1 | 2017-01-18 to 2017-01-18 |
+| `verzamelwet-szw-2017` | Verzamelwet SZW 2017 | 1 | 2020-03-01 to 2020-03-01 |
+| `wet-aanpassing-fiscale-eenheid` | Wet aanpassing fiscale eenheid | 1 | 2016-12-09 to 2016-12-09 |
+| `wet-aanvullende-biedboekgegevens` | Wet aanvullende biedboekgegevens | 1 | 2017-01-01 to 2017-01-01 |
+| `wet-doorberekening-kosten-toezicht-en-tuchtrecht-juridische-beroepen` | Wet doorberekening kosten toezicht en tuchtrecht juridische beroepen | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-participatiewet-enz-verplichten-beschut-werk-quotum-arbeidsbeperkten-en-open` | Wijzigingswet Participatiewet, enz. (verplichten beschut werk, quotum arbeidsbeperkten en openstellen Praktijkroute) | 1 | 2017-01-01 to 2017-01-01 |
+| `wet-tijdelijk-verlaagd-tarief-laadpalen` | Wet tijdelijk verlaagd tarief laadpalen | 1 | 2023-01-01 to 2023-01-01 |
+| `fiscale-vereenvoudigingswet-2017` | Fiscale vereenvoudigingswet 2017 | 1 | 2024-01-01 to 2024-01-01 |
+| `overige-fiscale-maatregelen-2017` | Overige fiscale maatregelen 2017 | 1 | 2017-04-01 to 2017-04-01 |
+| `wet-uitwisseling-inlichtingen-over-rulings` | Wet uitwisseling inlichtingen over rulings | 1 | 2017-01-01 to 2017-01-01 |
+| `belastingplan-2017` | Belastingplan 2017 | 1 | 2018-01-01 to 2018-01-01 |
+| `wet-bewijsvermoeden-gaswinning-groningen` | Wet bewijsvermoeden gaswinning Groningen | 1 | 2016-12-31 to 2016-12-31 |
+| `wijzigingswet-mijnbouwwet-enz-veiligheid-offshore-olie-en-gasactiviteiten` | Wijzigingswet Mijnbouwwet, enz. (veiligheid offshore olie- en gasactiviteiten) | 1 | 2019-01-01 to 2019-01-01 |
+| `wijzigingswet-mijnbouwwet-versterking-veiligheidsbelang-mijnbouw-en-regie-opsporings-winni` | Wijzigingswet Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen) | 1 | 2019-01-01 to 2019-01-01 |
 
-The build made 8612 commits:
+The build made 8638 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2142 | first version of an act |
+| 2168 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -2240,7 +2268,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 13933 tags.
+- 13959 tags.
 
 ## Dates
 
@@ -2252,7 +2280,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `958cb533f55689af084a3f3c695d5345c8d31466ca5378ccf85c6b7bbc5cc963` (183073249 bytes).
+- Corpus: sha256 `f2a17132ce7c9a41c318a97ac4b5ec0ecf41c629945ba43ab41beab26e03bc7b` (183217339 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2525,6 +2553,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 35 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 26 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2536,6 +2567,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

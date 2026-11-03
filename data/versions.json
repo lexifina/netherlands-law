@@ -82092,6 +82092,370 @@
      "sha256": "c0be216ca851e804338ed2497bd306464da8a298cf27ed1011c4419e130d8853"
     }
    ]
+  },
+  {
+   "slug": "wet-scheepsuitrusting-2016",
+   "short": "Wet scheepsuitrusting 2016",
+   "title": "Wet scheepsuitrusting 2016",
+   "url": "https://wetten.overheid.nl/BWBR0038498",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 38,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038498/2023-04-19_0/xml/BWBR0038498_2023-04-19_0.xml",
+     "sha256": "a5b9cb0bc515ad960d826f2f282d1243449d0ea7349c8d7157601f58ca2d498c"
+    }
+   ]
+  },
+  {
+   "slug": "rijksvisumwet",
+   "short": "Rijksvisumwet",
+   "title": "Rijksvisumwet",
+   "url": "https://wetten.overheid.nl/BWBR0038494",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 20,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038494/2018-07-01_0/xml/BWBR0038494_2018-07-01_0.xml",
+     "sha256": "06b6d24573a9bd633b53fc90c8e569f8e1528ffba37639773938f1964d7a2bef"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-bijzondere-maatregelen-grootstedelijke-problematiek-enz-selectieve-wonin",
+   "short": "Wijzigingswet Wet bijzondere maatregelen grootstedelijke problematiek, enz. (selectieve woningtoewijzing ter beperking overlastgevend en crimineel gedrag)",
+   "title": "Wijzigingswet Wet bijzondere maatregelen grootstedelijke problematiek, enz. (selectieve woningtoewijzing ter beperking overlastgevend en crimineel gedrag)",
+   "url": "https://wetten.overheid.nl/BWBR0038513",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038513/2017-01-01_0/xml/BWBR0038513_2017-01-01_0.xml",
+     "sha256": "5db761461389d74bfacf561bb2455e12262e75132ac951670e30baf2377fce01"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-invoering-vroegtijdige-aanmelddatum-voo",
+   "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. ( invoering vroegtijdige aanmelddatum voor en toelatingsrecht tot het beroepsonderwijs)",
+   "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. ( invoering vroegtijdige aanmelddatum voor en toelatingsrecht tot het beroepsonderwijs)",
+   "url": "https://wetten.overheid.nl/BWBR0038621",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038621/2026-01-01_0/xml/BWBR0038621_2026-01-01_0.xml",
+     "sha256": "941d9e62e5e700b014da7ad3587bb67664fd45e96bda1fedafd92b9f86e28368"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-gebruik-burgerservicenummer-in-de-zorg-enz-clientenrechten-bij-elektroni",
+   "short": "Wijzigingswet Wet gebruik burgerservicenummer in de zorg, enz. (cliëntenrechten bij elektronische verwerking van gegevens)",
+   "title": "Wijzigingswet Wet gebruik burgerservicenummer in de zorg, enz. (cliëntenrechten bij elektronische verwerking van gegevens)",
+   "url": "https://wetten.overheid.nl/BWBR0038632",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038632/2017-07-01_0/xml/BWBR0038632_2017-07-01_0.xml",
+     "sha256": "8d3d8d1d9e81de813a3abad448919f4652ada67a6f13c24a0e207f292cf74f41"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-wegvervoer-goederen-omvorming-stichting-niwo-tot-publiekrechtelijk-zelfs",
+   "short": "Wijzigingswet Wet wegvervoer goederen (omvorming Stichting NIWO tot publiekrechtelijk zelfstandig bestuursorgaan)",
+   "title": "Wijzigingswet Wet wegvervoer goederen (omvorming Stichting NIWO tot publiekrechtelijk zelfstandig bestuursorgaan)",
+   "url": "https://wetten.overheid.nl/BWBR0038651",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038651/2017-01-01_0/xml/BWBR0038651_2017-01-01_0.xml",
+     "sha256": "94bd7b70f27fd884499c69039da3e8c8af784d37c409f470d1a7ea0a8d597fe1"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-toegang-basisbetaalrekening",
+   "short": "Implementatiewet toegang basisbetaalrekening",
+   "title": "Implementatiewet toegang basisbetaalrekening",
+   "url": "https://wetten.overheid.nl/BWBR0038661",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038661/2016-11-11_0/xml/BWBR0038661_2016-11-11_0.xml",
+     "sha256": "2ab29644e707a6662404e5045bfea3876826560e66253897ab2c5276bd921411"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-wijzigingsrichtlijn-en-verordening-wettelijke-controles-jaarrekeningen",
+   "short": "Implementatiewet wijzigingsrichtlijn en verordening wettelijke controles jaarrekeningen",
+   "title": "Implementatiewet wijzigingsrichtlijn en verordening wettelijke controles jaarrekeningen",
+   "url": "https://wetten.overheid.nl/BWBR0038679",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038679/2017-01-01_0/xml/BWBR0038679_2017-01-01_0.xml",
+     "sha256": "5e2b9d035afb8ac6ccca1139b7d5f2ee64add71f976300fd910dc4d3ff804ad8"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringswet-overeenkomst-tussen-europese-unie-en-republiek-ijsland-en-koninkrijk-noorwe",
+   "short": "Uitvoeringswet Overeenkomst tussen Europese Unie en Republiek IJsland en Koninkrijk Noorwegen (procedures overlevering)",
+   "title": "Uitvoeringswet Overeenkomst tussen Europese Unie en Republiek IJsland en Koninkrijk Noorwegen (procedures overlevering)",
+   "url": "https://wetten.overheid.nl/BWBR0038687",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038687/2019-11-01_0/xml/BWBR0038687_2019-11-01_0.xml",
+     "sha256": "b10c7214c33947168d0f47d902c59fe194265195b4c1f5b634755d3534f96048"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-boek-7-uitbreiding-aansprakelijkheid-voldoening-verschuld",
+   "short": "Wijzigingswet Burgerlijk Wetboek Boek 7 (uitbreiding aansprakelijkheid voldoening verschuldigde loon aan de werknemer die arbeid verricht ter uitvoering van een overeenkomst van goederenvervoer over de weg of een overeenkomst tot het doen vervoeren van goederen over de weg)",
+   "title": "Wijzigingswet Burgerlijk Wetboek Boek 7 (uitbreiding aansprakelijkheid voldoening verschuldigde loon aan de werknemer die arbeid verricht ter uitvoering van een overeenkomst van goederenvervoer over de weg of een overeenkomst tot het doen vervoeren van goederen over de weg)",
+   "url": "https://wetten.overheid.nl/BWBR0038698",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038698/2017-01-01_0/xml/BWBR0038698_2017-01-01_0.xml",
+     "sha256": "91c9079d84036754b4061af016e08e0ea1616473c03a97d6434c1f1e5742b645"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringswet-speciale-kamers-kosovo",
+   "short": "Uitvoeringswet Speciale Kamers Kosovo",
+   "title": "Uitvoeringswet Speciale Kamers Kosovo",
+   "url": "https://wetten.overheid.nl/BWBR0038718",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038718/2020-01-01_0/xml/BWBR0038718_2020-01-01_0.xml",
+     "sha256": "9d5ead8235297ca3270f51899b2e1892810ba15a41ca3670b0ed2bd5f0e30845"
+    }
+   ]
+  },
+  {
+   "slug": "wet-tot-wijziging-van-de-spoorwegwet-ter-nadere-implementatie-van-drie-spoorwegrichtlijnen",
+   "short": "Wet tot wijziging van de Spoorwegwet ter nadere implementatie van drie spoorwegrichtlijnen",
+   "title": "Wet tot wijziging van de Spoorwegwet ter nadere implementatie van drie spoorwegrichtlijnen",
+   "url": "https://wetten.overheid.nl/BWBR0038748",
+   "versions": [
+    {
+     "from": "2016-11-26",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038748/2016-11-26_0/xml/BWBR0038748_2016-11-26_0.xml",
+     "sha256": "dc00fd9423d8fbb5b3b65f9bad007678abeacca189084f150004388a19f88550"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringswet-verordening-europees-bevel-tot-conservatoir-beslag-op-bankrekeningen",
+   "short": "Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen",
+   "title": "Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen",
+   "url": "https://wetten.overheid.nl/BWBR0038749",
+   "versions": [
+    {
+     "from": "2017-01-18",
+     "units": 15,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038749/2017-01-18_0/xml/BWBR0038749_2017-01-18_0.xml",
+     "sha256": "2838caa5cdc65ae120916a80b464a4b9293c467ffbee1725b367a17939e1b0b6"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-szw-2017",
+   "short": "Verzamelwet SZW 2017",
+   "title": "Verzamelwet SZW 2017",
+   "url": "https://wetten.overheid.nl/BWBR0038831",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 39,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038831/2020-03-01_0/xml/BWBR0038831_2020-03-01_0.xml",
+     "sha256": "4dc1c2adaf58c74e86ca01aa869b56c57ef3e20f109e33ab6148fd4730adf3ce"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-fiscale-eenheid",
+   "short": "Wet aanpassing fiscale eenheid",
+   "title": "Wet aanpassing fiscale eenheid",
+   "url": "https://wetten.overheid.nl/BWBR0038839",
+   "versions": [
+    {
+     "from": "2016-12-09",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038839/2016-12-09_0/xml/BWBR0038839_2016-12-09_0.xml",
+     "sha256": "3c3f3ab791757bbd02b02aea96187178507cb4f8018be273163aaf6be6550aa5"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanvullende-biedboekgegevens",
+   "short": "Wet aanvullende biedboekgegevens",
+   "title": "Wet aanvullende biedboekgegevens",
+   "url": "https://wetten.overheid.nl/BWBR0038865",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038865/2017-01-01_0/xml/BWBR0038865_2017-01-01_0.xml",
+     "sha256": "c82ba03d71ea13683ffb01a4734593ff8408680eb252a41128461a7ff4e05b66"
+    }
+   ]
+  },
+  {
+   "slug": "wet-doorberekening-kosten-toezicht-en-tuchtrecht-juridische-beroepen",
+   "short": "Wet doorberekening kosten toezicht en tuchtrecht juridische beroepen",
+   "title": "Wet doorberekening kosten toezicht en tuchtrecht juridische beroepen",
+   "url": "https://wetten.overheid.nl/BWBR0038885",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038885/2018-01-01_0/xml/BWBR0038885_2018-01-01_0.xml",
+     "sha256": "167ec032864e0170ba7057fe3a6cfbb1b99d13dad9282757ca41b6edf96d3a36"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-participatiewet-enz-verplichten-beschut-werk-quotum-arbeidsbeperkten-en-open",
+   "short": "Wijzigingswet Participatiewet, enz. (verplichten beschut werk, quotum arbeidsbeperkten en openstellen Praktijkroute)",
+   "title": "Wijzigingswet Participatiewet, enz. (verplichten beschut werk, quotum arbeidsbeperkten en openstellen Praktijkroute)",
+   "url": "https://wetten.overheid.nl/BWBR0038891",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038891/2017-01-01_0/xml/BWBR0038891_2017-01-01_0.xml",
+     "sha256": "1d4831f8e69d8b21c61b9433581aad62cf05d49de3b692aa242d7ee73ff9c6bd"
+    }
+   ]
+  },
+  {
+   "slug": "wet-tijdelijk-verlaagd-tarief-laadpalen",
+   "short": "Wet tijdelijk verlaagd tarief laadpalen",
+   "title": "Wet tijdelijk verlaagd tarief laadpalen",
+   "url": "https://wetten.overheid.nl/BWBR0038926",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038926/2023-01-01_0/xml/BWBR0038926_2023-01-01_0.xml",
+     "sha256": "ebda54db9acf4316cc5938f9f5a933c65cc8220e4a91a4d75a7a49cf8b765f8a"
+    }
+   ]
+  },
+  {
+   "slug": "fiscale-vereenvoudigingswet-2017",
+   "short": "Fiscale vereenvoudigingswet 2017",
+   "title": "Fiscale vereenvoudigingswet 2017",
+   "url": "https://wetten.overheid.nl/BWBR0038927",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038927/2024-01-01_0/xml/BWBR0038927_2024-01-01_0.xml",
+     "sha256": "60234707e6a621a7b0f9cc5b5c6143852d064b16a75870502057e848a169a3ad"
+    }
+   ]
+  },
+  {
+   "slug": "overige-fiscale-maatregelen-2017",
+   "short": "Overige fiscale maatregelen 2017",
+   "title": "Overige fiscale maatregelen 2017",
+   "url": "https://wetten.overheid.nl/BWBR0038930",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 26,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038930/2017-04-01_0/xml/BWBR0038930_2017-04-01_0.xml",
+     "sha256": "b3e92ef8af8413aadd4fbb603647a0b140ef9e511fed7093fd34defe5c8f5ecb"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitwisseling-inlichtingen-over-rulings",
+   "short": "Wet uitwisseling inlichtingen over rulings",
+   "title": "Wet uitwisseling inlichtingen over rulings",
+   "url": "https://wetten.overheid.nl/BWBR0038938",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038938/2017-01-01_0/xml/BWBR0038938_2017-01-01_0.xml",
+     "sha256": "26dbfc5ce630b58c56b3d06ad8bd1242913b998b7ec3012d10d1a43aff8a447e"
+    }
+   ]
+  },
+  {
+   "slug": "belastingplan-2017",
+   "short": "Belastingplan 2017",
+   "title": "Belastingplan 2017",
+   "url": "https://wetten.overheid.nl/BWBR0038948",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 21,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038948/2018-01-01_0/xml/BWBR0038948_2018-01-01_0.xml",
+     "sha256": "2287cf80dae0982459fbcfee448cf7e0e42d0282eb2c6437f5b05c108645930e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bewijsvermoeden-gaswinning-groningen",
+   "short": "Wet bewijsvermoeden gaswinning Groningen",
+   "title": "Wet bewijsvermoeden gaswinning Groningen",
+   "url": "https://wetten.overheid.nl/BWBR0038963",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038963/2016-12-31_0/xml/BWBR0038963_2016-12-31_0.xml",
+     "sha256": "1fdfd0eeb1ba8ce3d7cfcb0b711402411eea70dc7778bb60867b3970c374b783"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-mijnbouwwet-enz-veiligheid-offshore-olie-en-gasactiviteiten",
+   "short": "Wijzigingswet Mijnbouwwet, enz. (veiligheid offshore olie- en gasactiviteiten)",
+   "title": "Wijzigingswet Mijnbouwwet, enz. (veiligheid offshore olie- en gasactiviteiten)",
+   "url": "https://wetten.overheid.nl/BWBR0038985",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038985/2019-01-01_0/xml/BWBR0038985_2019-01-01_0.xml",
+     "sha256": "b2d9297dfb3c60f6094cd4e215c3e874d70f6fc53e41e9eb0add0d295798d295"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-mijnbouwwet-versterking-veiligheidsbelang-mijnbouw-en-regie-opsporings-winni",
+   "short": "Wijzigingswet Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen)",
+   "title": "Wijzigingswet Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen)",
+   "url": "https://wetten.overheid.nl/BWBR0039007",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039007/2019-01-01_0/xml/BWBR0039007_2019-01-01_0.xml",
+     "sha256": "9fc35829033003b76ccb482205119a1c6a068b80d3c67f0451cb5f3d259569f7"
+    }
+   ]
   }
  ]
 }

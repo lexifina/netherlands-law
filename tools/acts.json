@@ -16547,5 +16547,213 @@
   "part": "bwb-now-wet-009",
   "current_label": "2016-10-01_0",
   "as_of": "2026-11-03"
+ },
+ "wet-scheepsuitrusting-2016": {
+  "bwb": "BWBR0038498",
+  "short": "Wet scheepsuitrusting 2016",
+  "title": "Wet scheepsuitrusting 2016",
+  "part": "bwb-now-wet-010",
+  "current_label": "2023-04-19_0",
+  "as_of": "2026-11-03"
+ },
+ "rijksvisumwet": {
+  "bwb": "BWBR0038494",
+  "short": "Rijksvisumwet",
+  "title": "Rijksvisumwet",
+  "part": "bwb-now-wet-010",
+  "current_label": "2018-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-bijzondere-maatregelen-grootstedelijke-problematiek-enz-selectieve-wonin": {
+  "bwb": "BWBR0038513",
+  "short": "Wijzigingswet Wet bijzondere maatregelen grootstedelijke problematiek, enz. (selectieve woningtoewijzing ter beperking overlastgevend en crimineel gedrag)",
+  "title": "Wijzigingswet Wet bijzondere maatregelen grootstedelijke problematiek, enz. (selectieve woningtoewijzing ter beperking overlastgevend en crimineel gedrag)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-invoering-vroegtijdige-aanmelddatum-voo": {
+  "bwb": "BWBR0038621",
+  "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. ( invoering vroegtijdige aanmelddatum voor en toelatingsrecht tot het beroepsonderwijs)",
+  "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. ( invoering vroegtijdige aanmelddatum voor en toelatingsrecht tot het beroepsonderwijs)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-gebruik-burgerservicenummer-in-de-zorg-enz-clientenrechten-bij-elektroni": {
+  "bwb": "BWBR0038632",
+  "short": "Wijzigingswet Wet gebruik burgerservicenummer in de zorg, enz. (cliëntenrechten bij elektronische verwerking van gegevens)",
+  "title": "Wijzigingswet Wet gebruik burgerservicenummer in de zorg, enz. (cliëntenrechten bij elektronische verwerking van gegevens)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-wegvervoer-goederen-omvorming-stichting-niwo-tot-publiekrechtelijk-zelfs": {
+  "bwb": "BWBR0038651",
+  "short": "Wijzigingswet Wet wegvervoer goederen (omvorming Stichting NIWO tot publiekrechtelijk zelfstandig bestuursorgaan)",
+  "title": "Wijzigingswet Wet wegvervoer goederen (omvorming Stichting NIWO tot publiekrechtelijk zelfstandig bestuursorgaan)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-toegang-basisbetaalrekening": {
+  "bwb": "BWBR0038661",
+  "short": "Implementatiewet toegang basisbetaalrekening",
+  "title": "Implementatiewet toegang basisbetaalrekening",
+  "part": "bwb-now-wet-010",
+  "current_label": "2016-11-11_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-wijzigingsrichtlijn-en-verordening-wettelijke-controles-jaarrekeningen": {
+  "bwb": "BWBR0038679",
+  "short": "Implementatiewet wijzigingsrichtlijn en verordening wettelijke controles jaarrekeningen",
+  "title": "Implementatiewet wijzigingsrichtlijn en verordening wettelijke controles jaarrekeningen",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-overeenkomst-tussen-europese-unie-en-republiek-ijsland-en-koninkrijk-noorwe": {
+  "bwb": "BWBR0038687",
+  "short": "Uitvoeringswet Overeenkomst tussen Europese Unie en Republiek IJsland en Koninkrijk Noorwegen (procedures overlevering)",
+  "title": "Uitvoeringswet Overeenkomst tussen Europese Unie en Republiek IJsland en Koninkrijk Noorwegen (procedures overlevering)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2019-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-burgerlijk-wetboek-boek-7-uitbreiding-aansprakelijkheid-voldoening-verschuld": {
+  "bwb": "BWBR0038698",
+  "short": "Wijzigingswet Burgerlijk Wetboek Boek 7 (uitbreiding aansprakelijkheid voldoening verschuldigde loon aan de werknemer die arbeid verricht ter uitvoering van een overeenkomst van goederenvervoer over de weg of een overeenkomst tot het doen vervoeren van goederen over de weg)",
+  "title": "Wijzigingswet Burgerlijk Wetboek Boek 7 (uitbreiding aansprakelijkheid voldoening verschuldigde loon aan de werknemer die arbeid verricht ter uitvoering van een overeenkomst van goederenvervoer over de weg of een overeenkomst tot het doen vervoeren van goederen over de weg)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-speciale-kamers-kosovo": {
+  "bwb": "BWBR0038718",
+  "short": "Uitvoeringswet Speciale Kamers Kosovo",
+  "title": "Uitvoeringswet Speciale Kamers Kosovo",
+  "part": "bwb-now-wet-010",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-tot-wijziging-van-de-spoorwegwet-ter-nadere-implementatie-van-drie-spoorwegrichtlijnen": {
+  "bwb": "BWBR0038748",
+  "short": "Wet tot wijziging van de Spoorwegwet ter nadere implementatie van drie spoorwegrichtlijnen",
+  "title": "Wet tot wijziging van de Spoorwegwet ter nadere implementatie van drie spoorwegrichtlijnen",
+  "part": "bwb-now-wet-010",
+  "current_label": "2016-11-26_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-verordening-europees-bevel-tot-conservatoir-beslag-op-bankrekeningen": {
+  "bwb": "BWBR0038749",
+  "short": "Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen",
+  "title": "Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-01-18_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-szw-2017": {
+  "bwb": "BWBR0038831",
+  "short": "Verzamelwet SZW 2017",
+  "title": "Verzamelwet SZW 2017",
+  "part": "bwb-now-wet-010",
+  "current_label": "2020-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanpassing-fiscale-eenheid": {
+  "bwb": "BWBR0038839",
+  "short": "Wet aanpassing fiscale eenheid",
+  "title": "Wet aanpassing fiscale eenheid",
+  "part": "bwb-now-wet-010",
+  "current_label": "2016-12-09_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanvullende-biedboekgegevens": {
+  "bwb": "BWBR0038865",
+  "short": "Wet aanvullende biedboekgegevens",
+  "title": "Wet aanvullende biedboekgegevens",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-doorberekening-kosten-toezicht-en-tuchtrecht-juridische-beroepen": {
+  "bwb": "BWBR0038885",
+  "short": "Wet doorberekening kosten toezicht en tuchtrecht juridische beroepen",
+  "title": "Wet doorberekening kosten toezicht en tuchtrecht juridische beroepen",
+  "part": "bwb-now-wet-010",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-participatiewet-enz-verplichten-beschut-werk-quotum-arbeidsbeperkten-en-open": {
+  "bwb": "BWBR0038891",
+  "short": "Wijzigingswet Participatiewet, enz. (verplichten beschut werk, quotum arbeidsbeperkten en openstellen Praktijkroute)",
+  "title": "Wijzigingswet Participatiewet, enz. (verplichten beschut werk, quotum arbeidsbeperkten en openstellen Praktijkroute)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-tijdelijk-verlaagd-tarief-laadpalen": {
+  "bwb": "BWBR0038926",
+  "short": "Wet tijdelijk verlaagd tarief laadpalen",
+  "title": "Wet tijdelijk verlaagd tarief laadpalen",
+  "part": "bwb-now-wet-010",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "fiscale-vereenvoudigingswet-2017": {
+  "bwb": "BWBR0038927",
+  "short": "Fiscale vereenvoudigingswet 2017",
+  "title": "Fiscale vereenvoudigingswet 2017",
+  "part": "bwb-now-wet-010",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "overige-fiscale-maatregelen-2017": {
+  "bwb": "BWBR0038930",
+  "short": "Overige fiscale maatregelen 2017",
+  "title": "Overige fiscale maatregelen 2017",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-uitwisseling-inlichtingen-over-rulings": {
+  "bwb": "BWBR0038938",
+  "short": "Wet uitwisseling inlichtingen over rulings",
+  "title": "Wet uitwisseling inlichtingen over rulings",
+  "part": "bwb-now-wet-010",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "belastingplan-2017": {
+  "bwb": "BWBR0038948",
+  "short": "Belastingplan 2017",
+  "title": "Belastingplan 2017",
+  "part": "bwb-now-wet-010",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-bewijsvermoeden-gaswinning-groningen": {
+  "bwb": "BWBR0038963",
+  "short": "Wet bewijsvermoeden gaswinning Groningen",
+  "title": "Wet bewijsvermoeden gaswinning Groningen",
+  "part": "bwb-now-wet-010",
+  "current_label": "2016-12-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-mijnbouwwet-enz-veiligheid-offshore-olie-en-gasactiviteiten": {
+  "bwb": "BWBR0038985",
+  "short": "Wijzigingswet Mijnbouwwet, enz. (veiligheid offshore olie- en gasactiviteiten)",
+  "title": "Wijzigingswet Mijnbouwwet, enz. (veiligheid offshore olie- en gasactiviteiten)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-mijnbouwwet-versterking-veiligheidsbelang-mijnbouw-en-regie-opsporings-winni": {
+  "bwb": "BWBR0039007",
+  "short": "Wijzigingswet Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen)",
+  "title": "Wijzigingswet Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen)",
+  "part": "bwb-now-wet-010",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
  }
 }
