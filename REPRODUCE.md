@@ -110,6 +110,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -3050,6 +3052,394 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `uitvoeringsregeling-wob-ez` | Uitvoeringsregeling Wob EZ | 1 | 2001-04-04 to 2001-04-04 |
 | `regeling-aanwijzing-schadelijke-organismen-1998` | Regeling aanwijzing schadelijke organismen 1998 | 2 | 2018-03-22 to 2021-03-01 |
 | `regeling-mandaatverlening-directeur-waarborgfonds-motorverkeer-inzake-uitvoering-vrijstell` | Regeling mandaatverlening directeur Waarborgfonds Motorverkeer inzake uitvoering vrijstellingsregeling Wam voor gemoedsbezwaarden | 1 | 1998-09-01 to 1998-09-01 |
+| `warenwetregeling-methoden-van-onderzoek-brood` | Warenwetregeling Methoden van onderzoek brood | 1 | 1998-07-29 to 1998-07-29 |
+| `instellingsbesluit-begeleidingscommissie-scheidingsbemiddeling` | Instellingsbesluit begeleidingscommissie scheidingsbemiddeling | 1 | 1998-10-01 to 1998-10-01 |
+| `instellingsbesluit-begeleidingscommissie-omgangsbemiddeling` | Instellingsbesluit begeleidingscommissie omgangsbemiddeling | 1 | 1998-10-01 to 1998-10-01 |
+| `regeling-model-huisregels-penitentiaire-inrichtingen` | Regeling model huisregels penitentiaire inrichtingen | 1 | 2025-11-22 to 2025-11-22 |
+| `regeling-betreffende-de-verklaring-houdende-toestemming-tot-adoptie` | Regeling betreffende de verklaring houdende toestemming tot adoptie | 1 | 1998-10-01 to 1998-10-01 |
+| `vaststelling-privacyreglement-inhouding-bezoldiging-ministerie-van-justitie-1998` | Vaststelling Privacyreglement inhouding bezoldiging Ministerie van Justitie 1998 | 1 | 1998-11-01 to 1998-11-01 |
+| `regeling-verklaring-overeenstemming-omzetting-interlandelijke-adoptie` | Regeling verklaring overeenstemming (omzetting) interlandelijke adoptie | 1 | 1998-10-01 to 1998-10-01 |
+| `kazachse-uitvoeringsvoorschriften-belastingverdrag-nederland-kazachstan` | Kazachse uitvoeringsvoorschriften belastingverdrag Nederland-Kazachstan | 1 | 1999-02-19 to 1999-02-19 |
+| `regeling-beediging-ambtenaren` | Regeling beëdiging ambtenaren | 2 | 2015-11-13 to 2020-01-01 |
+| `regeling-vergunningprocedure-bijzondere-medische-verrichtingen` | Regeling vergunningprocedure bijzondere medische verrichtingen | 1 | 1998-08-29 to 1998-08-29 |
+| `regeling-gegevens-buitenlandse-betrekkingen-vergunninghouder-interlandelijke-adoptie` | Regeling gegevens buitenlandse betrekkingen vergunninghouder interlandelijke adoptie | 1 | 1998-10-01 to 1998-10-01 |
+| `regeling-aanvraag-vergunning-bemiddeling-interlandelijke-adoptie` | Regeling aanvraag vergunning bemiddeling interlandelijke adoptie | 1 | 1998-10-01 to 1998-10-01 |
+| `regeling-specialisten-geneeskunst` | Regeling specialisten geneeskunst | 1 | 1998-10-01 to 1998-10-01 |
+| `vergoedingenregeling-tijdelijke-adviescommissie-algemene-ambtsberichten` | Vergoedingenregeling Tijdelijke adviescommissie algemene ambtsberichten | 1 | 1998-09-13 to 1998-09-13 |
+| `ijkregeling-vloeistofmeters-en-vloeistofmeetinstallaties` | IJkregeling vloeistofmeters en vloeistofmeetinstallaties | 1 | 1998-10-01 to 1998-10-01 |
+| `regeling-luchtverkeersdienstverlening` | Regeling luchtverkeersdienstverlening | 1 | 2026-09-23 to 2026-09-23 |
+| `regeling-vliegplannen` | Regeling vliegplannen | 1 | 2026-09-23 to 2026-09-23 |
+| `wijziging-dagloonregels` | Wijziging dagloonregels | 2 | 1998-10-01 to 2006-01-01 |
+| `regeling-onderwijshuisvestingsbudgetten-asielzoekers` | Regeling onderwijshuisvestingsbudgetten asielzoekers | 2 | 2002-01-01 to 2021-01-01 |
+| `aanwijzing-ambtenaren-belast-met-vervoer-arrestanten` | Aanwijzing ambtenaren belast met vervoer arrestanten | 2 | 2013-01-01 to 2024-06-01 |
+| `instellingsregeling-begeleidingscommissie-dims` | Instellingsregeling begeleidingscommissie DIMS | 1 | 2020-10-01 to 2020-10-01 |
+| `model-huisregels-justitiele-tbs-inrichtingen` | Model huisregels justitiële TBS-inrichtingen | 2 | 2000-11-01 to 2019-01-01 |
+| `regeling-in-verband-met-plaatsgebonden-consignatie` | Regeling in verband met plaatsgebonden consignatie | 1 | 1998-11-06 to 1998-11-06 |
+| `gemeenschappelijke-regeling-schadeschap-luchthaven-schiphol` | Gemeenschappelijke regeling Schadeschap Luchthaven Schiphol | 2 | 2018-06-30 to 2020-06-01 |
+| `besluit-1-1-2-alarmcentrales` | Besluit 1-1-2 alarmcentrales | 1 | 2022-09-24 to 2022-09-24 |
+| `regeling-aanwijzing-entstoffen-infectieuze-bovine-rhinotracheitis` | Regeling aanwijzing entstoffen infectieuze bovine rhinotracheitis | 2 | 1998-11-18 to 2021-04-21 |
+| `estse-uitvoeringsvoorschriften-belastingverdrag-nederland-estland` | Estse uitvoeringsvoorschriften belastingverdrag Nederland-Estland | 1 | 1998-11-29 to 1998-11-29 |
+| `regeling-dienstrooster` | Regeling dienstrooster | 1 | 2007-06-10 to 2007-06-10 |
+| `regeling-werkrooster-en-werklijst-zeevarenden` | Regeling werkrooster en werklijst zeevarenden | 1 | 2013-08-20 to 2013-08-20 |
+| `vaststelling-vergoedingen-voorzitter-en-leden-staatscommissie-dualisme-en-lokale-democrati` | Vaststelling vergoedingen voorzitter en leden Staatscommissie Dualisme en lokale democratie | 1 | 1998-12-23 to 1998-12-23 |
+| `besluit-aanwijzing-toezichthouders-telecommunicatiewet` | Besluit aanwijzing toezichthouders Telecommunicatiewet | 1 | 2024-05-08 to 2024-05-08 |
+| `regeling-beperking-toekenning-nummers` | Regeling beperking toekenning nummers | 1 | 2011-12-01 to 2011-12-01 |
+| `sanctieregeling-arbeidsmarktgedrag-als-bedoeld-in-artikel-25a-van-de-uitkeringsregeling-19` | Sanctieregeling arbeidsmarktgedrag als bedoeld in artikel 25a van de Uitkeringsregeling 1966 | 1 | 1998-12-05 to 1998-12-05 |
+| `aanwijzing-fochteloerveen-als-speciale-beschermingszone` | Aanwijzing Fochteloërveen als speciale beschermingszone | 1 | 1998-12-04 to 1998-12-04 |
+| `regelingen-voorbehoud-auteursrecht-europese-zijde-euromunten` | Regelingen voorbehoud auteursrecht (Europese zijde euromunten) | 1 | 1998-12-05 to 1998-12-05 |
+| `regelingen-voorbehoud-auteursrecht` | Regelingen voorbehoud auteursrecht | 1 | 2008-08-07 to 2008-08-07 |
+| `besluit-aanmelding-van-collectieve-arbeidsovereenkomsten-en-het-verzoeken-om-algemeenverbi` | Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeenverbindendverklaring | 1 | 2019-07-12 to 2019-07-12 |
+| `regeling-vervoer-over-de-spoorweg-van-gevaarlijke-stoffen` | Regeling vervoer over de spoorweg van gevaarlijke stoffen | 1 | 2025-09-04 to 2025-09-04 |
+| `bijstellingsregeling-accijns-van-motorbrandstoffen-1999` | Bijstellingsregeling accijns van motorbrandstoffen 1999 | 1 | 1999-01-01 to 1999-01-01 |
+| `instellingsbeschikking-raad-van-advies-voor-het-gerechtelijk-laboratorium` | Instellingsbeschikking Raad van Advies voor het Gerechtelijk Laboratorium | 1 | 1999-02-01 to 1999-02-01 |
+| `ontslagbesluit` | Ontslagbesluit | 2 | 2015-02-20 to 2015-07-01 |
+| `regeling-gegevensverstrekking-rijbewijzenregister` | Regeling gegevensverstrekking rijbewijzenregister | 2 | 1998-12-19 to 2018-05-25 |
+| `vaststelling-bijdragen-gemoedsbezwaarden-1999` | Vaststelling bijdragen gemoedsbezwaarden 1999 | 1 | 1999-01-01 to 1999-01-01 |
+| `instellingsbesluit-directoraat-generaal-telecommunicatie-en-post` | Instellingsbesluit directoraat-generaal Telecommunicatie en Post | 1 | 2002-01-01 to 2002-01-01 |
+| `geweldsinstructie-penitentiaire-inrichtingen` | Geweldsinstructie penitentiaire inrichtingen | 1 | 2026-07-01 to 2026-07-01 |
+| `warenwetregeling-enzymen-in-meel-en-brood` | Warenwetregeling Enzymen in meel en brood | 1 | 2008-12-31 to 2008-12-31 |
+| `regeling-vacatiegelden-leden-beroepsgenoten-college-van-medisch-toezicht` | Regeling vacatiegelden leden beroepsgenoten college van medisch toezicht | 2 | 2002-01-01 to 2019-04-01 |
+| `regeling-vacatiegelden-secretaris-cmt` | Regeling vacatiegelden secretaris CMT | 2 | 2002-01-01 to 2019-04-01 |
+| `verlenging-instelling-veiligheidsadviescommissie-schiphol` | Verlenging instelling veiligheidsadviescommissie Schiphol | 1 | 1999-02-21 to 1999-02-21 |
+| `regeling-vervoer-over-de-binnenwateren-van-gevaarlijke-stoffen` | Regeling vervoer over de binnenwateren van gevaarlijke stoffen | 1 | 2025-08-14 to 2025-08-14 |
+| `uitvoeringsregeling-wet-overgang-belastingheffing-in-euros` | Uitvoeringsregeling Wet overgang belastingheffing in euro’s | 1 | 1999-03-06 to 1999-03-06 |
+| `vrijstellingsregeling-proviandering-binnenvaart` | Vrijstellingsregeling proviandering binnenvaart | 1 | 1999-01-01 to 1999-01-01 |
+| `uitvoeringsregeling-wob-financien` | Uitvoeringsregeling Wob Financiën | 2 | 2019-01-01 to 2022-05-01 |
+| `regeling-burgerluchtvaartinlichtingen` | Regeling burgerluchtvaartinlichtingen | 1 | 2025-09-04 to 2025-09-04 |
+| `regeling-specialisten-pharmacie` | Regeling specialisten Pharmacie | 1 | 1998-12-24 to 1998-12-24 |
+| `regeling-tijdelijk-verlaten-van-de-inrichting` | Regeling tijdelijk verlaten van de inrichting | 1 | 2025-11-01 to 2025-11-01 |
+| `regeling-arbeid-gedetineerden` | Regeling arbeid gedetineerden | 1 | 2025-11-22 to 2025-11-22 |
+| `instelling-werkgroep-vaarbelasting` | Instelling Werkgroep Vaarbelasting | 1 | 1999-04-01 to 1999-04-01 |
+| `regeling-vervanging-referentierentes` | Regeling vervanging referentierentes | 1 | 2002-01-01 to 2002-01-01 |
+| `nummerplan-voor-identiteitsnummers-ten-behoeve-van-internationale-mobiliteit-imsi-nummers` | Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers) | 1 | 2014-03-13 to 2014-03-13 |
+| `regeling-tarieven-schepenwet-1999` | Regeling tarieven Schepenwet 1999 | 1 | 2020-01-01 to 2020-01-01 |
+| `vaststelling-formulier-pachtnormenbesluit` | Vaststelling formulier Pachtnormenbesluit | 1 | 1999-01-23 to 1999-01-23 |
+| `regeling-tot-wijziging-van-de-nederlandse-uitvoeringsvoorschriften-belastingverdrag-nederl` | Regeling tot wijziging van de Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland-Canada | 1 | 1999-02-10 to 1999-02-10 |
+| `regeling-subsidie-zoute-veren` | Regeling subsidie zoute veren | 1 | 2001-06-01 to 2001-06-01 |
+| `regeling-ophoging-depositorente` | Regeling ophoging depositorente | 1 | 1999-01-30 to 1999-01-30 |
+| `canadese-uitvoeringsvoorschriften-belastingovereenkomst-nederland-canada` | Canadese uitvoeringsvoorschriften belastingovereenkomst Nederland-Canada | 1 | 1999-02-10 to 1999-02-10 |
+| `uitvoering-artikel-18-tweede-lid-wet-aansprakelijkheidsverzekering-motorrijtuigen` | Uitvoering artikel 18, tweede lid, Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 1999-02-10 to 1999-02-10 |
+| `uitvoering-artikel-19-eerste-lid-wet-aansprakelijkheidsverzekering-motorrijtuigen` | Uitvoering artikel 19, eerste lid, Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 2012-07-10 to 2012-07-10 |
+| `regeling-particuliere-beveiligingsorganisaties-en-recherchebureaus` | Regeling particuliere beveiligingsorganisaties en recherchebureaus | 1 | 2026-09-22 to 2026-09-22 |
+| `warenwetregeling-verontreinigingen-in-levensmiddelen` | Warenwetregeling Verontreinigingen in levensmiddelen | 1 | 2024-02-07 to 2024-02-07 |
+| `instellingsbeschikking-werkgroep-fiscale-opties-bij-herstructurering-op-bedrijfsniveau-in` | Instellingsbeschikking werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’ | 1 | 1999-05-01 to 1999-05-01 |
+| `instellingsbesluit-overlegplatform-bouwregelgeving` | Instellingsbesluit Overlegplatform Bouwregelgeving | 2 | 2002-04-27 to 2024-01-01 |
+| `instellingsbeschikking-commissie-cultuur-en-belastingen` | Instellingsbeschikking commissie cultuur en belastingen | 1 | 1999-05-01 to 1999-05-01 |
+| `mandaatbesluit-directeur-gemeentevervoerbedrijf-amsterdam` | Mandaatbesluit directeur Gemeentevervoerbedrijf Amsterdam | 1 | 2007-11-03 to 2007-11-03 |
+| `maximering-herverzekering-exportkredieten` | Maximering herverzekering exportkredieten | 2 | 1999-03-12 to 2015-01-01 |
+| `opheffingsbesluit-icona` | Opheffingsbesluit ICONA | 1 | 1999-05-01 to 1999-05-01 |
+| `belarussische-uitvoeringsvoorschriften-belastingverdrag-nederland-belarus` | Belarussische uitvoeringsvoorschriften belastingverdrag Nederland-Belarus | 1 | 1999-03-25 to 1999-03-25 |
+| `instellingsbeschikking-stuurgroep-redesign-gratie` | Instellingsbeschikking stuurgroep ’Redesign Gratie’ | 1 | 1999-06-01 to 1999-06-01 |
+| `subsidieregeling-dagindeling` | Subsidieregeling Dagindeling | 2 | 1999-10-16 to 2019-01-01 |
+| `subsidieregeling-projectopdrachten-bve-sector` | Subsidieregeling projectopdrachten Bve-sector | 1 | 2013-03-12 to 2013-03-12 |
+| `instelling-werkgroep-modernisering-successiewetgeving` | Instelling werkgroep modernisering successiewetgeving | 1 | 1999-05-01 to 1999-05-01 |
+| `regeling-communicatie-en-afmetingen-rijksbinnenwateren` | Regeling communicatie en afmetingen rijksbinnenwateren | 1 | 2026-04-01 to 2026-04-01 |
+| `regeling-rechten-tijdens-afzondering-en-separatie` | Regeling rechten tijdens afzondering en separatie | 1 | 1999-04-22 to 1999-04-22 |
+| `regeling-tarieven-vissersvaartuigen-1999` | Regeling tarieven vissersvaartuigen 1999 | 1 | 2009-09-15 to 2009-09-15 |
+| `warenwetregeling-veterinaire-controles-derde-landen` | Warenwetregeling Veterinaire controles (derde landen) | 2 | 2012-01-19 to 2018-07-01 |
+| `regeling-merkstoffen-kneedspringstoffen` | Regeling merkstoffen kneedspringstoffen | 1 | 1999-05-01 to 1999-05-01 |
+| `regeling-afleggen-eed-en-belofte-ambtenaar` | Regeling afleggen eed en belofte ambtenaar | 2 | 1999-06-16 to 2015-04-16 |
+| `wijziging-dagloonregels-invoeringswet-stelselherziening-sociale-zekerheid` | Wijziging dagloonregels Invoeringswet stelselherziening sociale zekerheid | 2 | 1999-07-01 to 2006-01-01 |
+| `regeling-suiker-isoglucose-en-inulinestroop-1999` | Regeling suiker, isoglucose en inulinestroop 1999 | 2 | 2021-10-01 to 2022-04-01 |
+| `regeling-etikettering-energiegebruik-lampen` | Regeling etikettering energiegebruik lampen | 2 | 2012-07-18 to 2018-02-17 |
+| `wijziging-regeling-rijonderricht-motorrijtuigen` | Wijziging regeling rijonderricht motorrijtuigen | 2 | 1999-06-23 to 2020-04-01 |
+| `regeling-bloed-of-tussenproducten-minister-van-defensie` | Regeling bloed- of tussenproducten Minister van Defensie | 2 | 1999-06-17 to 2015-07-01 |
+| `regeling-straf-en-afzonderingscel-penitentiaire-inrichtingen` | Regeling straf- en afzonderingscel penitentiaire inrichtingen | 1 | 1999-07-15 to 1999-07-15 |
+| `regeling-maximum-aantal-provinciale-opcenten-motorrijtuigenbelasting-2000` | Regeling maximum aantal provinciale opcenten motorrijtuigenbelasting 2000 | 1 | 2000-04-01 to 2000-04-01 |
+| `benoeming-voorzitter-commissie-advisering-bezwaarschriften-defensie` | Benoeming voorzitter commissie advisering bezwaarschriften Defensie | 2 | 2002-01-01 to 2025-12-25 |
+| `regeling-subsidies-voortgezet-onderwijs` | Regeling subsidies voortgezet onderwijs | 2 | 2006-04-22 to 2016-11-10 |
+| `instelling-begeleidingscommissie-ontwikkeling-nationale-luchthaven-lange-termijn` | Instelling begeleidingscommissie Ontwikkeling Nationale Luchthaven Lange Termijn | 1 | 1999-08-01 to 1999-08-01 |
+| `ijslandse-uitvoeringsvoorschriften-belastingverdrag-nederland-ijsland` | IJslandse uitvoeringsvoorschriften belastingverdrag Nederland-IJsland | 1 | 1999-08-13 to 1999-08-13 |
+| `instelling-interdepartementale-commissie-voor-veiligheid-en-rechtshandhaving` | Instelling Interdepartementale Commissie voor Veiligheid en Rechtshandhaving | 1 | 1999-08-22 to 1999-08-22 |
+| `regeling-eed-en-belofte-szw-1999` | Regeling eed en belofte SZW 1999 | 2 | 1999-09-03 to 2020-01-01 |
+| `aanwijzing-bevoegde-auditinstellingen-gba-pricwaterhousecoopers-nv-osrm` | Aanwijzing bevoegde auditinstellingen GBA (PricwaterhouseCoopers NV, OSRM) | 1 | 1999-09-01 to 1999-09-01 |
+| `aanwijzing-bevoegde-auditinstellingen-gba-bestuur-management-consultants` | Aanwijzing bevoegde auditinstellingen GBA (Bestuur & Management Consultants) | 1 | 1999-09-01 to 1999-09-01 |
+| `aanwijzing-bevoegde-auditinstellingen-gba-deloitte-touche-certification-b-v` | Aanwijzing bevoegde auditinstellingen GBA (Deloitte & Touche Certification B.V.) | 1 | 1999-09-01 to 1999-09-01 |
+| `regeling-geneeskundige-instanties-geneeskundigen-en-medische-verklaringen-voor-de-luchtvaa` | Regeling geneeskundige instanties, geneeskundigen en medische verklaringen voor de luchtvaart | 2 | 2014-03-15 to 2017-01-01 |
+| `beleidsregel-nadeelcompensatie-infrastructuur-en-waterstaat-2019` | Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2019 | 2 | 2020-12-18 to 2024-01-01 |
+| `regeling-executiebevoegdheden-douane-ambtenaren-bij-strafvonnissen` | Regeling executiebevoegdheden douane-ambtenaren bij strafvonnissen | 1 | 2020-01-01 to 2020-01-01 |
+| `vrijstelling-van-het-verbod-in-artikel-11-wet-op-de-dierproeven` | Vrijstelling van het verbod in artikel 11 Wet op de dierproeven | 2 | 1999-10-01 to 2014-12-18 |
+| `volmachtregeling-vws` | Volmachtregeling VWS | 1 | 2026-10-20 to 2026-10-20 |
+| `regeling-overbrenging-notariele-archiefbescheiden-naar-de-algemene-bewaarplaats` | Regeling overbrenging notariële archiefbescheiden naar de algemene bewaarplaats | 1 | 1999-10-01 to 1999-10-01 |
+| `mandaatbesluit-inzake-beslissingen-op-bezwaar-door-het-bestuur-van-de-raad-voor-rechtsbijs` | Mandaatbesluit inzake beslissingen op bezwaar door het bestuur van de raad voor rechtsbijstand in het kader van verstrekking van subsidies ex artikel 48c Wet Justitie-subsidies | 1 | 2010-07-28 to 2010-07-28 |
+| `regeling-eisen-cockpitpersoneel-en-luchtverkeersdienstverleningspersoneel-krijgsmacht` | Regeling eisen cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht | 1 | 2014-07-01 to 2014-07-01 |
+| `regeling-logboeken` | Regeling logboeken | 1 | 2014-03-15 to 2014-03-15 |
+| `regeling-overbrenging-notariele-archiefbescheiden-naar-de-rijksarchiefbewaarplaats` | Regeling overbrenging notariële archiefbescheiden naar de rijksarchiefbewaarplaats | 1 | 2022-04-15 to 2022-04-15 |
+| `instellingsbesluit-locov` | Instellingsbesluit LOCOV | 1 | 1999-10-27 to 1999-10-27 |
+| `aanwijzingsbeschikking-nederlands-centrum-voor-beroepsziekten` | Aanwijzingsbeschikking Nederlands Centrum voor Beroepsziekten | 2 | 1999-11-01 to 2018-01-01 |
+| `wijziging-arbeidsomstandighedenregeling` | Wijziging Arbeidsomstandighedenregeling | 1 | 2007-01-01 to 2007-01-01 |
+| `besluit-mandaat-dgvh-regeling-milieugerichte-technologie-1999-en-subsidieregeling-sanering` | Besluit Mandaat DGVH Regeling milieugerichte technologie 1999 en Subsidieregeling sanering loden drinkwaterleidingen | 1 | 1999-11-06 to 1999-11-06 |
+| `besluit-ondermandaat-dgvh-regeling-milieugerichte-technologie-1999-en-subsidieregeling-san` | Besluit Ondermandaat DGVH Regeling milieugerichte technologie 1999 en Subsidieregeling sanering loden drinkwaterleidingen | 1 | 1999-11-06 to 1999-11-06 |
+| `bijstellingsregeling-accijns-van-motorbrandstoffen-2000` | Bijstellingsregeling accijns van motorbrandstoffen 2000 | 1 | 2000-01-01 to 2000-01-01 |
+| `beschikking-wijzigingspercentage-levensonderhoud-2000` | Beschikking wijzigingspercentage levensonderhoud 2000 | 1 | 2000-01-01 to 2000-01-01 |
+| `toepassing-artikel-7e-wet-op-de-kansspelen` | Toepassing artikel 7e Wet op de kansspelen | 1 | 2002-01-01 to 2002-01-01 |
+| `aanwijzing-inzake-tarievenbeleid-2000-en-volgende-jaren-farmaceutische-zorg` | Aanwijzing inzake tarievenbeleid 2000 en volgende jaren farmaceutische zorg | 1 | 1999-11-19 to 1999-11-19 |
+| `instellingsbeschikking-commissie-invoerings-en-uitvoeringsaspecten-belastingherziening-200` | Instellingsbeschikking commissie invoerings- en uitvoeringsaspecten belastingherziening 2001 | 1 | 2000-04-01 to 2000-04-01 |
+| `maximering-herverzekering-exportkredieten-en-investeringen-2000` | Maximering herverzekering exportkredieten en investeringen 2000 | 2 | 2000-01-01 to 2015-01-01 |
+| `protocol-inzake-advisering-toetsing-benoembaarheid-ministers-in-aruba` | Protocol inzake advisering toetsing benoembaarheid ministers in Aruba | 1 | 2000-01-01 to 2000-01-01 |
+| `instelling-werkgroep-uitvoering-samenwerking-aruba-nederland` | Instelling Werkgroep Uitvoering samenwerking Aruba-Nederland | 1 | 2000-03-01 to 2000-03-01 |
+| `instellingsregeling-regieraad-ict-politie` | Instellingsregeling Regieraad ICT Politie | 1 | 2005-12-25 to 2005-12-25 |
+| `uitvoeringsregeling-artikel-13-rijkswet-administratieve-bijstand-douane-nederland` | Uitvoeringsregeling artikel 13 Rijkswet administratieve bijstand douane (Nederland) | 1 | 2010-10-10 to 2010-10-10 |
+| `uitvoeringsregeling-rijkswet-administratieve-bijstand-douane` | Uitvoeringsregeling Rijkswet administratieve bijstand douane | 1 | 2010-10-10 to 2010-10-10 |
+| `besluit-vaststelling-bijdragen-gemoedsbezwaarden-2000-ex-art-20-wet-aansprakelijkheidsverz` | Besluit vaststelling bijdragen gemoedsbezwaarden 2000 ex art. 20 Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 2000-01-01 to 2000-01-01 |
+| `vergoedingenregeling-voorzitter-pwc` | Vergoedingenregeling voorzitter PWC | 1 | 1999-11-28 to 1999-11-28 |
+| `aanwijzing-inzake-korting-2000-op-de-aanvaardbare-kosten-van-de-algemene-ziekenhuizen` | Aanwijzing inzake korting 2000 op de aanvaardbare kosten van de algemene ziekenhuizen | 1 | 1999-12-03 to 1999-12-03 |
+| `aanwijzing-inzake-inkoopkorting-zorginstellingen-vanaf-2000` | Aanwijzing inzake inkoopkorting zorginstellingen vanaf 2000 | 1 | 1999-12-03 to 1999-12-03 |
+| `wijziging-regeling-verstrekkingen-asielzoekers-en-andere-categorieen-vreemdelingen-1997-rv` | Wijziging Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997 (Rva 1997) | 1 | 2000-12-29 to 2000-12-29 |
+| `instelling-evaluatiecommissie-wet-milieubeheer` | Instelling Evaluatiecommissie Wet milieubeheer | 1 | 2000-02-01 to 2000-02-01 |
+| `regeling-archiefbeheer-vws` | Regeling archiefbeheer VWS | 2 | 2014-04-25 to 2015-08-01 |
+| `protocol-inzake-het-onderzoek-naar-de-kostenstructuur-van-de-eilandgebieden-bonaire-sint-e` | Protocol inzake het onderzoek naar de kostenstructuur van de eilandgebieden Bonaire, Sint Eustatius en Saba | 1 | 2000-02-01 to 2000-02-01 |
+| `regeling-radarpatent-binnenvaart` | Regeling radarpatent binnenvaart | 1 | 2011-07-01 to 2011-07-01 |
+| `regeling-tegemoetkoming-ouders-van-thuiswonende-gehandicapte-kinderen` | Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen | 2 | 2012-11-01 to 2015-01-01 |
+| `regeling-maximumtarief-en-bekendmaking-tarieven-taxivervoer` | Regeling maximumtarief en bekendmaking tarieven taxivervoer | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-dcc-v-w` | Besluit DCC-V&W | 2 | 2009-12-22 to 2019-02-09 |
+| `regeling-aanwijzing-diploma-ziekenverzorging-e-a` | Regeling aanwijzing diploma Ziekenverzorging e.a. | 1 | 2019-08-21 to 2019-08-21 |
+| `regeling-bloed-of-tussenproducten-het-nederlandse-rode-kruis` | Regeling bloed- of tussenproducten ’het Nederlandse Rode Kruis’ | 1 | 2000-01-01 to 2000-01-01 |
+| `mandaatbesluit-aziefaciliteit` | Mandaatbesluit Aziëfaciliteit | 1 | 1999-12-26 to 1999-12-26 |
+| `regeling-begroting-beleidsplan-en-jaarrekening-bloedvoorzieningsorganisatie` | Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie | 1 | 2019-01-01 to 2019-01-01 |
+| `erkenningsregeling-foliefabrikanten` | Erkenningsregeling foliefabrikanten | 2 | 2014-04-01 to 2026-01-01 |
+| `erkenningsregeling-lamineerders` | Erkenningsregeling lamineerders | 2 | 2014-04-01 to 2026-01-01 |
+| `regeling-aanmerking-substantieel-bezwarende-functies` | Regeling aanmerking substantieel bezwarende functies | 2 | 2012-04-27 to 2015-04-01 |
+| `instelling-coordinatiepunt-assessment-en-monitoring-nieuwe-drugs` | Instelling Coördinatiepunt Assessment en Monitoring nieuwe drugs | 1 | 2009-03-01 to 2009-03-01 |
+| `instelling-stuurgroep-adr-mediation` | Instelling stuurgroep ADR/mediation | 1 | 2000-03-01 to 2000-03-01 |
+| `regeling-informatiemodel-nederlandse-politie` | Regeling Informatiemodel Nederlandse Politie | 2 | 2003-09-03 to 2015-07-01 |
+| `regeling-vluchten-militaire-onbemande-luchtvaartuigen` | Regeling vluchten militaire onbemande luchtvaartuigen | 1 | 2022-07-01 to 2022-07-01 |
+| `regeling-aanwijzing-militaire-onbemande-luchtvaartuigen` | Regeling aanwijzing militaire onbemande luchtvaartuigen | 1 | 2000-02-11 to 2000-02-11 |
+| `regeling-beperking-geluidhinder-militaire-onbemande-luchtvaartuigen` | Regeling beperking geluidhinder militaire onbemande luchtvaartuigen | 2 | 2014-07-01 to 2017-03-01 |
+| `regeling-toepassing-mechanische-middelen-verpleegden` | Regeling toepassing mechanische middelen verpleegden | 1 | 2000-01-27 to 2000-01-27 |
+| `vaststelling-actieplan-piek-2000` | Vaststelling actieplan Piek 2000 | 1 | 2000-02-06 to 2000-02-06 |
+| `besluit-kosovo-medaille` | Besluit Kosovo-medaille | 1 | 2014-10-01 to 2014-10-01 |
+| `instellingsbeschikking-commissie-grensarbeiders` | Instellingsbeschikking Commissie grensarbeiders | 1 | 2000-09-30 to 2000-09-30 |
+| `uitvoering-artikelen-3-en-5-vergoedingenbesluit-adviescolleges` | Uitvoering artikelen 3 en 5 Vergoedingenbesluit adviescolleges | 1 | 2002-01-01 to 2002-01-01 |
+| `wijziging-uitvoeringsregeling-algemene-wet-inzake-rijksbelastingen-1994-2000` | Wijziging Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 (2000) | 1 | 2000-04-01 to 2000-04-01 |
+| `niet-van-toepassingverklaring-artikel-7-wet-medisch-wetenschappelijk-onderzoek-met-mensen` | Niet-van-toepassingverklaring artikel 7 Wet medisch-wetenschappelijk onderzoek met mensen | 1 | 2017-09-07 to 2017-09-07 |
+| `vaststelling-formulier-als-bedoeld-in-artikel-2-boswet` | Vaststelling formulier als bedoeld in artikel 2 Boswet | 2 | 2000-04-13 to 2017-01-01 |
+| `regeling-deelname-rijk-aan-de-regeling-het-zeeuws-archief` | Regeling deelname Rijk aan de Regeling Het Zeeuws Archief | 2 | 2005-01-01 to 2016-11-25 |
+| `mandaatsbesluit-stichting-nederlandse-algemene-keuringsdienst-voor-zaaizaad-pootgoed-en-la` | Mandaatsbesluit Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad, pootgoed en landbouwgewassen | 2 | 2000-04-19 to 2021-03-01 |
+| `regels-inzake-het-toezicht-op-het-centraal-instituut-als-bedoeld-in-de-wet-giraal-effecten` | Regels inzake het toezicht op het centraal instituut als bedoeld in de Wet giraal effectenverkeer | 2 | 2002-07-19 to 2019-07-10 |
+| `auteursrechtelijk-voorbehoud-ontwerp-ek-2000-munt` | Auteursrechtelijk voorbehoud ontwerp EK 2000-munt | 1 | 2008-08-07 to 2008-08-07 |
+| `besluit-databank-media-en-opinieonderzoek` | Besluit databank media- en opinieonderzoek | 1 | 2008-08-07 to 2008-08-07 |
+| `vergoedingenregeling-leden-adviescollege-toetsing-administratieve-lasten` | Vergoedingenregeling leden Adviescollege toetsing administratieve lasten | 1 | 2000-05-01 to 2000-05-01 |
+| `instellingsbesluit-commissie-politie-en-wetenschap` | Instellingsbesluit Commissie Politie en Wetenschap | 2 | 2001-03-29 to 2017-01-01 |
+| `regeling-financieel-beheer-zorgonderzoek-nederland` | Regeling financieel beheer ZorgOnderzoek Nederland | 2 | 2011-12-02 to 2018-09-04 |
+| `instelling-werkgroep-vergroening-van-het-fiscale-stelsel-ii` | Instelling werkgroep Vergroening van het fiscale stelsel II | 1 | 2000-07-01 to 2000-07-01 |
+| `regeling-eisen-geschiktheid-2000` | Regeling eisen geschiktheid 2000 | 1 | 2026-04-01 to 2026-04-01 |
+| `regeling-maximum-aantal-provinciale-opcenten-motorrijtuigenbelasting-2001` | Regeling maximum aantal provinciale opcenten motorrijtuigenbelasting 2001 | 1 | 2001-04-01 to 2001-04-01 |
+| `instelling-commissie-van-externe-deskundigen-voor-subsidieprogramma-transportpreventie` | Instelling Commissie van Externe Deskundigen voor Subsidieprogramma Transportpreventie | 1 | 2004-01-29 to 2004-01-29 |
+| `regeling-landelijk-functiehuis-nederlandse-politie` | Regeling Landelijk Functiehuis Nederlandse Politie | 1 | 2000-06-10 to 2000-06-10 |
+| `wijziging-besluit-algemene-richtlijnen-post` | Wijziging Besluit algemene richtlijnen post | 1 | 2000-06-01 to 2000-06-01 |
+| `regeling-eisen-pasfotos` | Regeling eisen pasfoto’s | 1 | 2006-10-01 to 2006-10-01 |
+| `besluit-beheer-haringvlietsluizen` | Besluit Beheer Haringvlietsluizen | 1 | 2024-01-01 to 2024-01-01 |
+| `verzending-tekst-latere-vermeldingen-bij-dubbelen-akten-burgerlijke-stand` | Verzending tekst latere vermeldingen bij dubbelen akten burgerlijke stand | 1 | 2021-08-28 to 2021-08-28 |
+| `regeling-toepassing-mechanische-middelen-in-penitentiaire-inrichtingen` | Regeling toepassing mechanische middelen in penitentiaire inrichtingen | 1 | 2001-05-31 to 2001-05-31 |
+| `instelling-adviescommissie-arbeidsongeschiktheid` | Instelling Adviescommissie Arbeidsongeschiktheid | 1 | 2000-07-05 to 2000-07-05 |
+| `regeling-model-legitimatiebewijs-toezichthouders-awb` | Regeling model legitimatiebewijs toezichthouders Awb | 1 | 2002-07-06 to 2002-07-06 |
+| `regeling-grenswaarden-afvalwater-vcm-bedrijven` | Regeling grenswaarden afvalwater VCM-bedrijven | 2 | 2009-12-22 to 2024-01-01 |
+| `regeling-grenswaarden-afvalwater-s-pvc-productie` | Regeling grenswaarden afvalwater s-PVC-productie | 2 | 2009-12-22 to 2024-01-01 |
+| `regeling-vordering-contante-waarde-periodieke-verstrekkingen-wao-en-wet-wia` | Regeling vordering contante waarde periodieke verstrekkingen WAO en Wet WIA | 1 | 2017-10-27 to 2017-10-27 |
+| `regeling-les-en-cursusgeldwet` | Regeling Les- en cursusgeldwet | 1 | 2026-08-01 to 2026-08-01 |
+| `instelling-commissie-de-laatste-gulden` | Instelling Commissie de laatste gulden | 1 | 2000-07-26 to 2000-07-26 |
+| `privacyreglement-kwaliteitsbureau-tolken-en-vertalers` | Privacyreglement Kwaliteitsbureau Tolken en Vertalers | 1 | 2000-09-08 to 2000-09-08 |
+| `regeling-selectie-plaatsing-en-overplaatsing-van-gedetineerden` | Regeling selectie, plaatsing en overplaatsing van gedetineerden | 1 | 2025-11-22 to 2025-11-22 |
+| `wijziging-dagloonregels-wao-zw-en-invoeringswet-stelselherziening-sociale-zekerheid` | Wijziging dagloonregels WAO, ZW en Invoeringswet stelselherziening sociale zekerheid | 2 | 2001-01-01 to 2006-01-01 |
+| `aanwijzing-ambtenaren-bevoegd-tot-vernietiging-eet-en-drinkwaren` | Aanwijzing ambtenaren bevoegd tot vernietiging eet- en drinkwaren | 1 | 2020-01-01 to 2020-01-01 |
+| `regeling-studiefinanciering-2000` | Regeling studiefinanciering 2000 | 1 | 2026-01-01 to 2026-01-01 |
+| `instelling-begeleidingscommissie-bureau-medicinale-cannabis` | Instelling Begeleidingscommissie Bureau Medicinale Cannabis | 1 | 2002-05-25 to 2002-05-25 |
+| `regeling-kennisgeving-badinrichtingen` | Regeling kennisgeving badinrichtingen | 2 | 2010-10-01 to 2024-01-01 |
+| `rijksbesluit-houdende-aanwijzing-van-te-bewaken-en-te-beveiligen-objecten` | Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten | 1 | 2008-10-01 to 2008-10-01 |
+| `regeling-bijstandsverlening-aan-zelfstandigen-in-het-buitenland` | Regeling bijstandsverlening aan zelfstandigen in het buitenland | 1 | 2015-01-01 to 2015-01-01 |
+| `vaststelling-formulier-doodsoorzaak-ten-behoeve-van-de-statistiek` | Vaststelling formulier doodsoorzaak ten behoeve van de statistiek | 1 | 2001-01-01 to 2001-01-01 |
+| `vaststelling-organisatie-en-taakverdeling-ministerie-van-algemene-zaken` | Vaststelling organisatie en taakverdeling Ministerie van Algemene Zaken | 1 | 2002-07-01 to 2002-07-01 |
+| `regeling-nadere-voorschriften-asbestwegen-milieubeheer` | Regeling nadere voorschriften asbestwegen milieubeheer | 1 | 2018-11-30 to 2018-11-30 |
+| `aanwijzingsregeling-toezichthoudende-ambtenaren-en-ambtenaren-met-specifieke-uitvoeringsta` | Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving | 1 | 2025-09-04 to 2025-09-04 |
+| `richtlijnen-opneming-buitenlandse-kinderen-ter-adoptie-2000` | Richtlijnen opneming buitenlandse kinderen ter adoptie 2000 | 1 | 2000-12-01 to 2000-12-01 |
+| `besluit-toebedeling-vermogensbestanddelen` | Besluit toebedeling vermogensbestanddelen | 1 | 2000-10-15 to 2000-10-15 |
+| `instellingsbesluit-voorlichtingsraad-rijksoverheid` | Instellingsbesluit Voorlichtingsraad Rijksoverheid | 1 | 2009-07-01 to 2009-07-01 |
+| `regeling-aanwijzing-certificaat-overgangsopleiding-hbo-optometrie` | Regeling aanwijzing certificaat Overgangsopleiding HBO-optometrie | 1 | 2000-11-18 to 2000-11-18 |
+| `regeling-nadere-uitwerking-deskundigheidsgebied-optometrist` | Regeling nadere uitwerking deskundigheidsgebied optometrist | 1 | 2000-11-18 to 2000-11-18 |
+| `regeling-bruin-en-ringrot-2000` | Regeling bruin- en ringrot 2000 | 2 | 2020-05-07 to 2021-03-01 |
+| `beperkende-bepalingen-t-a-v-de-openbaarheid-van-archiefbescheiden` | Beperkende bepalingen t.a.v. de openbaarheid van archiefbescheiden | 1 | 2000-11-09 to 2000-11-09 |
+| `beschikking-wijzigingspercentage-levensonderhoud-2001` | Beschikking wijzigingspercentage levensonderhoud 2001 | 1 | 2001-01-01 to 2001-01-01 |
+| `regeling-vervaardiging-prototypen` | Regeling vervaardiging prototypen | 1 | 2000-11-17 to 2000-11-17 |
+| `beperkende-bepalingen-openbaarheid-archiefbescheiden` | Beperkende bepalingen openbaarheid archiefbescheiden | 1 | 2000-11-23 to 2000-11-23 |
+| `beperkende-bepalingen-openbaarheid-archiefbescheiden-bureau-invordering` | Beperkende bepalingen openbaarheid archiefbescheiden Bureau invordering | 1 | 2000-12-02 to 2000-12-02 |
+| `besluit-mandaat-projectuitvoering-betuweroute-en-hsl-zuid` | Besluit mandaat projectuitvoering Betuweroute en HSL-Zuid | 2 | 2005-01-01 to 2024-01-01 |
+| `besluit-instelling-stuurgroep-handhaven-op-niveau` | Besluit instelling Stuurgroep 'Handhaven op niveau' | 1 | 2003-10-31 to 2003-10-31 |
+| `maximering-herverzekering-exportkredieten-en-investeringen-2001` | Maximering herverzekering exportkredieten en investeringen 2001 | 2 | 2001-01-01 to 2015-01-01 |
+| `besluit-vaststelling-bijdragen-gemoedsbezwaarden-2001-ex-art-20-wet-aansprakelijkheidsverz` | Besluit vaststelling bijdragen gemoedsbezwaarden 2001 ex art. 20 Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 2001-01-01 to 2001-01-01 |
+| `regeling-onkostenvergoedingen-vrijwilligers-personenvervoer-per-auto` | Regeling onkostenvergoedingen vrijwilligers personenvervoer per auto | 1 | 2016-07-01 to 2016-07-01 |
+| `regeling-vakbekwaamheid-beroepspersonenvervoer` | Regeling vakbekwaamheid beroepspersonenvervoer | 1 | 2016-01-23 to 2016-01-23 |
+| `regeling-informatie-aanbestedingen-concessies-openbaar-vervoer` | Regeling informatie aanbestedingen concessies openbaar vervoer | 1 | 2001-01-01 to 2001-01-01 |
+| `regeling-eisen-persoonlijke-verblijfsruimte-justitiele-tbs-inrichtingen` | Regeling eisen persoonlijke verblijfsruimte justitiële tbs-inrichtingen | 1 | 2001-01-12 to 2001-01-12 |
+| `vaststelling-bedragen-bedoeld-in-artikel-48-tweede-en-zesde-lid-besluit-personenvervoer-20` | Vaststelling bedragen, bedoeld in artikel 48, tweede en zesde lid, Besluit personenvervoer 2000 | 1 | 2025-10-01 to 2025-10-01 |
+| `regeling-vergoedingen-documenten-wet-personenvervoer-2000` | Regeling vergoedingen documenten Wet personenvervoer 2000 | 2 | 2022-01-01 to 2023-01-01 |
+| `regeling-tot-vaststelling-van-de-normbedragen-voor-voorschotverlening-in-2001-op-grond-van` | Regeling tot vaststelling van de normbedragen voor voorschotverlening in 2001 op grond van het Besluit vergoedingen rechtsbijstand 2000 | 1 | 2001-01-01 to 2001-01-01 |
+| `regeling-financiering-en-verantwoording-ioaw-ioaz-en-bbz-2004` | Regeling financiering en verantwoording IOAW, IOAZ en Bbz 2004 | 2 | 2019-03-01 to 2020-01-01 |
+| `aanwijzing-stichting-denktank-in-de-autobranche-stidenda-als-organisatie-die-de-belangen-v` | Aanwijzing Stichting Denktank in de Autobranche (Stidenda) als organisatie die de belangen van de automobielbranche behartigt | 1 | 2000-12-21 to 2000-12-21 |
+| `regeling-tegemoetkoming-kosten-onderwijs-verpleegden` | Regeling tegemoetkoming kosten onderwijs verpleegden | 1 | 2001-01-12 to 2001-01-12 |
+| `voorschrift-vreemdelingen-2000` | Voorschrift Vreemdelingen 2000 | 1 | 2026-10-15 to 2026-10-15 |
+| `besluit-regeling-nadeelcompensatie-betuweroute-van-toepassing-te-verklaren-onderstations-2` | Besluit Regeling Nadeelcompensatie Betuweroute van toepassing te verklaren (onderstations 25kV) | 2 | 2001-01-03 to 2018-09-08 |
+| `uitvoeringsregeling-inkomstenbelasting-2001` | Uitvoeringsregeling inkomstenbelasting 2001 | 1 | 2026-01-17 to 2026-01-17 |
+| `regels-spreiding-en-behoefte-regionale-instellingen-voor-beschermende-woonvormen` | Regels spreiding en behoefte Regionale Instellingen voor Beschermende Woonvormen | 1 | 2001-01-01 to 2001-01-01 |
+| `uitvoeringsregeling-willekeurige-afschrijving-2001` | Uitvoeringsregeling willekeurige afschrijving 2001 | 1 | 2025-01-01 to 2025-01-01 |
+| `regeling-registratie-arbeidstijden-mijnbouw` | Regeling registratie arbeidstijden mijnbouw | 1 | 2007-05-27 to 2007-05-27 |
+| `regeling-heffing-regulerende-energiebelasting-2001` | Regeling heffing regulerende energiebelasting 2001 | 1 | 2001-01-01 to 2001-01-01 |
+| `regeling-forfaitaire-winstvaststelling-zeescheepvaart-2001` | Regeling forfaitaire winstvaststelling zeescheepvaart 2001 | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-betreffende-aanvragen-op-grond-van-de-wet-verplichte-deelneming-in-een-bedrijfsta` | Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 | 1 | 2021-01-01 to 2021-01-01 |
+| `regeling-uitzettingen-en-derivaten-decentrale-overheden` | Regeling uitzettingen en derivaten decentrale overheden | 1 | 2014-12-30 to 2014-12-30 |
+| `regeling-gemoedsbezwaarden-bpf-2000` | Regeling gemoedsbezwaarden Bpf 2000 | 1 | 2001-01-01 to 2001-01-01 |
+| `regeling-ontslaguitkering-vliegers-landelijke-eenheid` | Regeling ontslaguitkering vliegers Landelijke eenheid | 1 | 2023-11-08 to 2023-11-08 |
+| `regeling-aanwijzing-administratief-technische-functies` | Regeling aanwijzing administratief-technische functies | 1 | 2013-09-14 to 2013-09-14 |
+| `regeling-bijzondere-ontslaguitkering-politie` | Regeling bijzondere ontslaguitkering politie | 2 | 2016-07-26 to 2017-01-01 |
+| `geweldsinstructie-inrichtingen-voor-verpleging-van-ter-beschikking-gestelden` | Geweldsinstructie inrichtingen voor verpleging van ter beschikking gestelden | 1 | 2026-02-05 to 2026-02-05 |
+| `besluit-toegestane-marktactiviteiten-rijkswaterstaat-wegens-onlosmakelijke-verbondenheid-m` | Besluit toegestane marktactiviteiten Rijkswaterstaat wegens onlosmakelijke verbondenheid met publieke taak dan wel ter benutting van noodzakelijke restcapaciteit | 1 | 2001-01-25 to 2001-01-25 |
+| `doorstroomregeling-vmbo-beroepsonderwijs` | Doorstroomregeling vmbo - beroepsonderwijs | 2 | 2020-11-25 to 2021-01-01 |
+| `verhoging-subsidieplafond-grootschalige-restauraties` | Verhoging subsidieplafond grootschalige restauraties | 2 | 2001-01-21 to 2016-07-01 |
+| `regeling-eisen-goedkeuring-kentekenplaten-2000` | Regeling eisen goedkeuring kentekenplaten 2000 | 1 | 2016-01-01 to 2016-01-01 |
+| `regeling-uitvoering-besluit-typekeuring-luchtverontreiniging-motoren-voor-mobiele-machines` | Regeling uitvoering Besluit typekeuring luchtverontreiniging motoren voor mobiele machines | 1 | 2014-02-18 to 2014-02-18 |
+| `vergoedingenregeling-adviescommissie-projecten-ondernemerschap-en-onderwijs` | Vergoedingenregeling Adviescommissie projecten ondernemerschap en onderwijs | 1 | 2001-02-04 to 2001-02-04 |
+| `mandaat-en-volmacht-uszo-diensten-b-v-ter-zake-van-de-uitvoering-van-de-bovenwettelijke-we` | Mandaat en volmacht USZO Diensten B.V. ter zake van de uitvoering van de bovenwettelijke werkloosheidsuitkeringen sector Rijk | 1 | 2001-01-01 to 2001-01-01 |
+| `regeling-mandatering-van-ingevolge-de-warenwet-aangewezen-ambtenaren-tot-inbeslagneming` | Regeling mandatering van ingevolge de Warenwet aangewezen ambtenaren tot inbeslagneming | 1 | 2001-02-01 to 2001-02-01 |
+| `besluit-toegestane-marktactiviteiten-rijkswaterstaat-in-bijzondere-gevallen` | Besluit toegestane marktactiviteiten Rijkswaterstaat in bijzondere gevallen | 1 | 2001-02-10 to 2001-02-10 |
+| `regeling-marifooninstallaties` | Regeling marifooninstallaties | 1 | 2017-01-01 to 2017-01-01 |
+| `beperkende-bepalingen-openbaarheid-archiefbescheiden-2001` | Beperkende bepalingen openbaarheid archiefbescheiden 2001 | 1 | 2001-03-09 to 2001-03-09 |
+| `vergoedingenregeling-leden-adviesraad-internationale-vraagstukken` | Vergoedingenregeling leden Adviesraad internationale vraagstukken | 1 | 2023-02-11 to 2023-02-11 |
+| `aanvullend-besluit-bij-de-organisatieregeling-dienstonderdelen-om` | Aanvullend besluit bij de Organisatieregeling dienstonderdelen OM | 1 | 2004-09-10 to 2004-09-10 |
+| `regeling-toezicht-wmo` | Regeling toezicht WMO | 2 | 2001-03-03 to 2015-10-01 |
+| `vaststelling-actieplan-piek-2001` | Vaststelling actieplan Piek 2001 | 1 | 2001-04-14 to 2001-04-14 |
+| `wijzigingsregeling-regeling-afwikkeling-overlopende-personeelskosten-en-afdelingen-voor-sv` | Wijzigingsregeling Regeling afwikkeling overlopende personeelskosten en afdelingen voor svo/lom dan wel svo/mlk, enz. (vervallen overhevelingstoeslag) | 1 | 2001-03-24 to 2001-03-24 |
+| `besluit-tijdelijke-toekenning-van-nummers-voor-mobiele-telefonie` | Besluit tijdelijke toekenning van nummers voor mobiele telefonie | 1 | 2001-03-10 to 2001-03-10 |
+| `raamregeling-telewerken` | Raamregeling Telewerken | 2 | 2019-07-01 to 2020-01-01 |
+| `wijziging-regeling-verstrekkingen-asielzoekers-en-andere-categorieen-vreemdelingen-1997-rv-2` | Wijziging Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997 (Rva1997) | 1 | 2001-04-01 to 2001-04-01 |
+| `wijziging-regeling-verstrekkingen-bepaalde-categorieen-vreemdelingen-rvb` | Wijziging Regeling verstrekkingen bepaalde categorieën vreemdelingen (Rvb) | 1 | 2001-04-01 to 2001-04-01 |
+| `wijziging-regeling-opvang-asielzoekers-roa` | Wijziging Regeling opvang asielzoekers (ROA) | 1 | 2001-04-01 to 2001-04-01 |
+| `sanctieregeling-joegoslavie-2001` | Sanctieregeling Joegoslavië 2001 | 2 | 2010-09-15 to 2014-12-05 |
+| `samenwerkingsregeling-politie-koninklijke-marechaussee` | Samenwerkingsregeling politie-Koninklijke marechaussee | 1 | 2013-01-01 to 2013-01-01 |
+| `mandaat-abp-inzake-uitvoering-ontslaguitkeringen` | Mandaat ABP inzake uitvoering ontslaguitkeringen | 1 | 2001-05-17 to 2001-05-17 |
+| `instellingsbesluit-bovenregionaal-advies-college-management-development-politie` | Instellingsbesluit Bovenregionaal Advies College management development politie | 1 | 2005-06-25 to 2005-06-25 |
+| `wijziging-besluit-asbestwegen-wms` | Wijziging Besluit asbestwegen WMS | 1 | 2001-05-09 to 2001-05-09 |
+| `privacyreglement-project-integriteit-bedrijfsleven-rotterdam-rijnmond` | Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond | 1 | 2000-12-15 to 2000-12-15 |
+| `vaststelling-actieplan-ssz-2001` | Vaststelling actieplan SSZ 2001 | 1 | 2001-06-03 to 2001-06-03 |
+| `besluit-aanwijzing-controleurs-belastingdienst-fiod-ecd-voor-de-opsporing-van-economische` | Besluit aanwijzing controleurs Belastingdienst/FIOD-ECD voor de opsporing van economische delicten met betrekking tot de Wet voorraadvorming aardolieproducten 2001 | 1 | 2001-05-19 to 2001-05-19 |
+| `mandaatbesluit-wet-op-het-consumentenkrediet` | Mandaatbesluit Wet op het consumentenkrediet | 1 | 2001-05-31 to 2001-05-31 |
+| `vrijstelling-van-vluchten-waarbij-passagiers-zijn-onderworpen-aan-controle-op-gevaarlijke` | Vrijstelling van vluchten waarbij passagiers zijn onderworpen aan controle op gevaarlijke voorwerpen | 2 | 2001-07-01 to 2022-01-01 |
+| `regeling-co-financiering-uitfasering-doelstelling-1-flevoland` | Regeling co-financiering uitfasering doelstelling 1 Flevoland | 1 | 2002-06-13 to 2002-06-13 |
+| `instellingsbesluit-commissie-metamorfoze` | Instellingsbesluit Commissie Metamorfoze | 2 | 2001-06-03 to 2021-04-01 |
+| `conversieregeling-militaire-pensioenen` | Conversieregeling militaire pensioenen | 1 | 2001-06-01 to 2001-06-01 |
+| `nadere-regels-benoemingsperiode-ambtenaren-topmanagementgroep` | Nadere regels benoemingsperiode ambtenaren topmanagementgroep | 2 | 2001-06-16 to 2020-01-01 |
+| `regeling-boorduitrusting` | Regeling boorduitrusting | 1 | 2026-01-01 to 2026-01-01 |
+| `esf3-beleidskader-2001-als-bedoeld-in-artikel-4-van-de-subsidieregeling-esf-3` | ESF3-beleidskader 2001, als bedoeld in artikel 4 van de Subsidieregeling ESF-3 | 2 | 2007-01-12 to 2018-01-01 |
+| `nadere-regeling-merken-proefdieren` | Nadere regeling merken proefdieren | 2 | 2001-06-27 to 2014-12-18 |
+| `regeling-maximum-aantal-provinciale-opcenten-motorrijtuigenbelasting-2002` | Regeling maximum aantal provinciale opcenten motorrijtuigenbelasting 2002 | 1 | 2002-04-01 to 2002-04-01 |
+| `regeling-tarieven-rijksarchiefdienst` | Regeling tarieven Rijksarchiefdienst | 2 | 2001-07-01 to 2016-01-01 |
+| `regeling-varkenssperma` | Regeling varkenssperma | 2 | 2017-01-01 to 2021-04-21 |
+| `beperkende-bepalingen-t-a-v-openbaarheid-archiefbescheiden` | Beperkende bepalingen t.a.v. openbaarheid archiefbescheiden | 1 | 2001-07-11 to 2001-07-11 |
+| `regeling-gehandicaptenparkeerkaart` | Regeling gehandicaptenparkeerkaart | 1 | 2013-01-01 to 2013-01-01 |
+| `regeling-vaststelling-invorderingskosten` | Regeling vaststelling invorderingskosten | 1 | 2020-01-01 to 2020-01-01 |
+| `regeling-kennisgeving-ambtshandelingen-gerechtsdeurwaarders` | Regeling kennisgeving ambtshandelingen gerechtsdeurwaarders | 1 | 2014-06-12 to 2014-06-12 |
+| `regeling-rente-bijzondere-rekeningen-gerechtsdeurwaarders` | Regeling rente bijzondere rekeningen gerechtsdeurwaarders | 1 | 2001-07-15 to 2001-07-15 |
+| `administratieverordening-gerechtsdeurwaarders` | Administratieverordening gerechtsdeurwaarders | 2 | 2013-09-10 to 2023-02-01 |
+| `verordening-ledenraad-kbvg` | Verordening ledenraad KBvG | 2 | 2001-07-15 to 2017-02-25 |
+| `verordening-beroeps-en-gedragsregels-gerechtsdeurwaarders` | Verordening beroeps- en gedragsregels gerechtsdeurwaarders | 2 | 2005-03-01 to 2023-02-01 |
+| `regeling-stortplaatsen-voor-baggerspecie-op-land` | Regeling stortplaatsen voor baggerspecie op land | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-gespen-herinneringsmedaille-internationale-missies` | Besluit gespen Herinneringsmedaille Internationale Missies | 1 | 2026-10-08 to 2026-10-08 |
+| `regeling-tegemoetkoming-onderwijsbijdrage-en-schoolkosten` | Regeling tegemoetkoming onderwijsbijdrage en schoolkosten | 1 | 2026-01-01 to 2026-01-01 |
+| `mandaatbesluit-novem-subsidieprogramma-pmz-2001-en-gave-2001` | Mandaatbesluit NOVEM Subsidieprogramma PMZ 2001 en GAVE 2001 | 1 | 2001-08-26 to 2001-08-26 |
+| `regeling-eisen-kamer-justitiele-jeugdinrichtingen` | Regeling eisen kamer justitiële jeugdinrichtingen | 1 | 2001-09-01 to 2001-09-01 |
+| `regeling-tegemoetkoming-bijzondere-kosten-onderwijs-en-pedagogische-activiteiten-jeugdigen` | Regeling tegemoetkoming bijzondere kosten onderwijs en pedagogische activiteiten jeugdigen | 1 | 2011-07-17 to 2011-07-17 |
+| `regeling-melding-bijzondere-voorvallen-jeugdigen` | Regeling melding bijzondere voorvallen jeugdigen | 1 | 2015-10-01 to 2015-10-01 |
+| `regeling-plaatsing-en-overplaatsing-jeugdigen` | Regeling plaatsing en overplaatsing jeugdigen | 1 | 2015-03-24 to 2015-03-24 |
+| `regeling-toepassing-mechanische-middelen-jeugdigen` | Regeling toepassing mechanische middelen jeugdigen | 1 | 2015-03-24 to 2015-03-24 |
+| `regeling-geweldsinstructie-justitiele-jeugdinrichtingen` | Regeling geweldsinstructie justitiële jeugdinrichtingen | 1 | 2026-02-05 to 2026-02-05 |
+| `regeling-erkenning-scholings-en-trainingsprogramma` | Regeling erkenning scholings- en trainingsprogramma | 1 | 2015-10-01 to 2015-10-01 |
+| `regeling-straf-en-afzonderingscel-justitiele-jeugdinrichtingen` | Regeling straf- en afzonderingscel justitiële jeugdinrichtingen | 1 | 2015-03-24 to 2015-03-24 |
+| `besluit-aanwijzing-toezichthouders-wet-bemanning-zeeschepen` | Besluit aanwijzing toezichthouders Wet bemanning zeeschepen | 1 | 2025-09-04 to 2025-09-04 |
+| `instellingsregeling-commissie-van-beroep-kwaliteitstoets-tolken-en-vertalers` | Instellingsregeling Commissie van Beroep Kwaliteitstoets Tolken en Vertalers | 1 | 2001-11-01 to 2001-11-01 |
+| `planningsbesluit-neurochirurgie-2001` | Planningsbesluit neurochirurgie 2001 | 2 | 2024-06-05 to 2025-07-01 |
+| `kaderregeling-subsidiering-projecten-ten-behoeve-van-onderzoek-en-wetenschap` | Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap | 1 | 2002-01-01 to 2002-01-01 |
+| `paspoortuitvoeringsregeling-caribische-landen` | Paspoortuitvoeringsregeling Caribische landen | 1 | 2026-10-01 to 2026-10-01 |
+| `paspoortuitvoeringsregeling-buitenland-2001` | Paspoortuitvoeringsregeling Buitenland 2001 | 1 | 2026-10-01 to 2026-10-01 |
+| `paspoortuitvoeringsregeling-nederland-2001` | Paspoortuitvoeringsregeling Nederland 2001 | 1 | 2026-10-01 to 2026-10-01 |
+| `paspoortuitvoeringsregeling-koninklijke-marechaussee-2001` | Paspoortuitvoeringsregeling Koninklijke Marechaussee 2001 | 1 | 2026-10-01 to 2026-10-01 |
+| `beschikking-wind-en-stormwaarschuwingsdienst` | Beschikking wind- en stormwaarschuwingsdienst | 1 | 2019-07-01 to 2019-07-01 |
+| `mandaatbesluit-zvr-regeling` | Mandaatbesluit Zvr-regeling | 1 | 2001-08-01 to 2001-08-01 |
+| `aanwijzingsregeling-ambtenaar-kwijtschelding-betalingsverplichting-geluidsheffing-burgerlu` | Aanwijzingsregeling ambtenaar kwijtschelding betalingsverplichting geluidsheffing burgerluchtvaart | 1 | 2006-07-09 to 2006-07-09 |
+| `besluit-instelling-commissie-opperbevelhebberschap` | Besluit instelling commissie opperbevelhebberschap | 1 | 2001-10-03 to 2001-10-03 |
+| `regeling-inschrijving-nederlandse-burgerluchtvaartuigen` | Regeling inschrijving Nederlandse burgerluchtvaartuigen | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-onderhoud-luchtvaartuigen` | Regeling onderhoud luchtvaartuigen | 2 | 2018-04-01 to 2020-10-01 |
+| `regeling-onderhoud-lieren-2001` | Regeling onderhoud lieren 2001 | 1 | 2008-09-11 to 2008-09-11 |
+| `mandaatbesluit-zvd-regeling` | Mandaatbesluit Zvd-regeling | 1 | 2005-09-22 to 2005-09-22 |
+| `examenreglement-voor-rpl-g` | Examenreglement voor RPL(G) | 2 | 2001-11-01 to 2004-10-01 |
+| `regeling-opleidingsinstellingen-voor-luchtvarenden-2001` | Regeling opleidingsinstellingen voor luchtvarenden 2001 | 1 | 2024-01-01 to 2024-01-01 |
+| `beschikking-wijzigingspercentage-levensonderhoud-2002` | Beschikking wijzigingspercentage levensonderhoud 2002 | 1 | 2002-01-01 to 2002-01-01 |
+| `aanwijzingsregeling-bijzondere-dienst-koninklijke-marechaussee` | Aanwijzingsregeling bijzondere dienst Koninklijke marechaussee | 2 | 2001-11-11 to 2013-11-01 |
+| `regeling-nvc-2001` | Regeling NVC 2001 | 1 | 2013-11-30 to 2013-11-30 |
+| `regeling-tarieven-flora-en-faunawet` | Regeling tarieven Flora- en faunawet | 2 | 2016-03-18 to 2017-01-01 |
+| `regeling-aanwijzing-bromfietsen-of-motorfietsen-ten-behoeve-van-vrijstelling-van-de-helmdr` | Regeling aanwijzing bromfietsen of motorfietsen ten behoeve van vrijstelling van de helmdraagplicht | 1 | 2014-01-01 to 2014-01-01 |
+| `regeling-vaststelling-model-bewijs-van-verzekering` | Regeling vaststelling model bewijs van verzekering | 2 | 2002-04-01 to 2017-01-01 |
+| `beschikking-tot-instelling-van-de-leerling-en-ouderkamer` | Beschikking tot instelling van de Leerling- en Ouderkamer | 1 | 2022-08-01 to 2022-08-01 |
+| `beschikking-tot-instelling-van-het-strategisch-regieoverleg-primair-onderwijs-en-strategis` | Beschikking tot instelling van het Strategisch Regieoverleg primair onderwijs en Strategisch Regieoverleg voortgezet onderwijs | 1 | 2001-11-24 to 2001-11-24 |
+| `vaststellingsregeling-bedrag-nominaal-deel-eindejaarsuitkering-2001` | Vaststellingsregeling bedrag nominaal deel eindejaarsuitkering 2001 | 2 | 2001-11-21 to 2020-01-01 |
+| `instellingsregeling-commissie-kosten-en-kostendragers-van-transformatie-van-wijken` | Instellingsregeling Commissie Kosten en kostendragers van transformatie van wijken | 1 | 2002-01-01 to 2002-01-01 |
+| `instellingsregeling-taskforce-woningbouwproductie` | Instellingsregeling Taskforce Woningbouwproductie | 1 | 2002-01-01 to 2002-01-01 |
+| `regeling-toepassing-regeling-nadeelcompensatie-betuweroute-verbindingsweg-echteld` | Regeling toepassing Regeling Nadeelcompensatie Betuweroute (verbindingsweg Echteld) | 2 | 2001-12-06 to 2018-09-08 |
+| `regeling-tot-vaststelling-van-de-normbedragen-voor-voorschotverlening-in-2002-op-grond-van` | Regeling tot vaststelling van de normbedragen voor voorschotverlening in 2002 op grond van het Besluit vergoedingen rechtsbijstand 2000 | 1 | 2002-01-01 to 2002-01-01 |
+| `vaststellingsregeling-percentage-bedrag-ex-artikel-7e-eerste-lid-wet-op-de-kansspelen-en-o` | Vaststellingsregeling percentage bedrag ex artikel 7e, eerste lid, Wet op de kansspelen en omzetting bedragen in euro | 1 | 2002-01-01 to 2002-01-01 |
+| `instellingsregeling-nationaal-analysecentrum-voor-munten` | Instellingsregeling Nationaal Analysecentrum voor Munten | 1 | 2017-01-01 to 2017-01-01 |
+| `regeling-inwisseling-guldenmunten` | Regeling inwisseling guldenmunten | 1 | 2002-01-28 to 2002-01-28 |
+| `besluit-vaststelling-bijdragen-gemoedsbezwaarden-2002-ex-art-20-wet-aansprakelijkheidsverz` | Besluit vaststelling bijdragen gemoedsbezwaarden 2002 ex art. 20 Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-onderscheidingsvlag-nederlandse-kustwacht` | Besluit Onderscheidingsvlag Nederlandse Kustwacht | 1 | 2002-12-12 to 2002-12-12 |
+| `besluit-aanpassing-mandaatbesluiten-az-in-verband-met-invoering-euro` | Besluit aanpassing mandaatbesluiten AZ in verband met invoering euro | 1 | 2002-01-01 to 2002-01-01 |
+| `regeling-defensiesubsidies` | Regeling defensiesubsidies | 1 | 2012-01-01 to 2012-01-01 |
+| `programma-transactie-modal-shift-2002` | Programma Transactie/Modal Shift 2002 | 1 | 2002-01-01 to 2002-01-01 |
+| `regeling-beheer-en-schadebestrijding-dieren` | Regeling beheer en schadebestrijding dieren | 2 | 2011-04-01 to 2017-01-01 |
+| `regeling-methodiek-gebruiksvergoeding-rijksgebouwendienst` | Regeling methodiek gebruiksvergoeding Rijksgebouwendienst | 1 | 2002-01-01 to 2002-01-01 |
+| `maximering-herverzekering-exportkredieten-en-investeringen` | Maximering herverzekering exportkredieten en investeringen | 2 | 2002-01-12 to 2015-01-01 |
+| `jachtregeling` | Jachtregeling | 2 | 2015-03-28 to 2017-01-01 |
+| `regeling-co-financiering-interreg-iiia` | Regeling co-financiering Interreg IIIA | 1 | 2002-11-16 to 2002-11-16 |
+| `regeling-niet-bedrijfsmatige-levering-aan-kleinverbruikers-elektriciteitswet-1998` | Regeling niet-bedrijfsmatige levering aan kleinverbruikers Elektriciteitswet 1998 | 2 | 2002-01-01 to 2026-01-01 |
+| `uitvoeringsvoorschriften-artikel-11-belastingregeling-voor-het-koninkrijk-2002-nederlandse` | Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Nederlandse Antillen) | 1 | 2002-01-01 to 2002-01-01 |
+| `uitvoeringsvoorschriften-artikel-11-belastingregeling-voor-het-koninkrijk-2002-aruba` | Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Aruba) | 1 | 2002-01-01 to 2002-01-01 |
+| `rechtspositieregeling-voorzitter-rwi` | Rechtspositieregeling voorzitter RWI | 1 | 2012-07-01 to 2012-07-01 |
+| `wijzigingsregeling-uitvoeringsregeling-inkomstenbelasting-2001-enz-2002` | Wijzigingsregeling Uitvoeringsregeling inkomstenbelasting 2001, enz. (2002) | 1 | 2003-01-01 to 2003-01-01 |
+| `wijziging-van-enige-fiscale-uitvoeringsregelingen` | Wijziging van enige fiscale uitvoeringsregelingen | 1 | 2003-01-01 to 2003-01-01 |
+| `regeling-groenprojecten-buitenland-2002` | Regeling groenprojecten buitenland 2002 | 1 | 2019-01-01 to 2019-01-01 |
+| `regeling-suwi` | Regeling SUWI | 1 | 2026-07-01 to 2026-07-01 |
+| `instellingsbesluit-stuurgroep-bibliotheken` | Instellingsbesluit Stuurgroep Bibliotheken | 2 | 2006-04-01 to 2021-04-01 |
+| `besluit-vacatiegeld-raad-van-advies-college-bescherming-persoonsgegevens` | Besluit vacatiegeld Raad van Advies College bescherming persoonsgegevens | 1 | 2001-11-15 to 2001-11-15 |
+| `erkenningsregeling-trainingen-zeevaartbemanning` | Erkenningsregeling trainingen zeevaartbemanning | 2 | 2014-05-03 to 2025-07-01 |
+| `openbaarheid-archiefbescheiden-bureau-nationale-veiligheid` | Openbaarheid archiefbescheiden Bureau Nationale Veiligheid | 1 | 2001-10-04 to 2001-10-04 |
+| `vergoedingenregeling-algemene-energieraad` | Vergoedingenregeling Algemene Energieraad | 1 | 2002-02-22 to 2002-02-22 |
+| `vergoeding-werkzaamheden-adviescollege-programma-samenwerking-oost-europa` | Vergoeding werkzaamheden Adviescollege Programma Samenwerking Oost-Europa | 1 | 2002-04-01 to 2002-04-01 |
+| `vergoedingenregeling-rfv-2002` | Vergoedingenregeling Rfv 2002 | 1 | 2002-03-02 to 2002-03-02 |
+| `mandaatbesluit-2002-wet-op-het-consumentenkrediet` | Mandaatbesluit 2002 Wet op het consumentenkrediet | 1 | 2002-03-03 to 2002-03-03 |
+| `vaststelling-actieplan-piek-2002` | Vaststelling actieplan Piek 2002 | 1 | 2002-03-03 to 2002-03-03 |
+| `vaststelling-actieplan-ssz-2002` | Vaststelling actieplan SSZ 2002 | 1 | 2002-03-03 to 2002-03-03 |
+| `regeling-vaststelling-modellen-en-aanvraagformulieren-jacht-valkeniers-en-kooikersakten` | Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers- en kooikersakten | 2 | 2016-04-01 to 2017-01-01 |
+| `besluit-aanwijzing-toezichthouders-luchtvaart` | Besluit aanwijzing toezichthouders luchtvaart | 1 | 2025-09-04 to 2025-09-04 |
+| `regeling-afgifte-en-kenmerken-gesloten-pootringen-en-andere-merktekens` | Regeling afgifte en kenmerken gesloten pootringen en andere merktekens | 2 | 2009-12-09 to 2017-07-11 |
+| `verlenging-beperking-openbaarheid-archiefbescheiden-raad-van-beroep-voor-de-perszuivering` | Verlenging beperking openbaarheid archiefbescheiden Raad van Beroep voor de Perszuivering | 1 | 2002-05-01 to 2002-05-01 |
+| `regeling-amateurbouwluchtvaartuigen` | Regeling amateurbouwluchtvaartuigen | 2 | 2018-04-01 to 2020-10-01 |
+| `regeling-buitenlandse-verbindingsofficieren` | Regeling buitenlandse verbindingsofficieren | 1 | 2002-04-01 to 2002-04-01 |
+| `vaststellingsregeling-subsidieplafonds-2002-subsidieregeling-arbeidsomstandigheden` | Vaststellingsregeling subsidieplafonds 2002 Subsidieregeling arbeidsomstandigheden | 1 | 2004-12-12 to 2004-12-12 |
+| `regeling-verkrijging-en-verlies-nederlanderschap` | Regeling verkrijging en verlies Nederlanderschap | 1 | 2010-10-10 to 2010-10-10 |
+| `vaststelling-vergoeding-voorzitter-en-leden-adviescommissie-energiebesparing-door-innovati` | Vaststelling vergoeding voorzitter en leden Adviescommissie energiebesparing door innovatie | 1 | 2002-06-01 to 2002-06-01 |
+| `regeling-vrijstelling-vervoer-gevaarlijke-stoffen-militaire-voertuigen-2002` | Regeling vrijstelling vervoer gevaarlijke stoffen militaire voertuigen 2002 | 1 | 2021-10-16 to 2021-10-16 |
+| `vaststelling-modelformulier-wet-verevening-pensioenrechten-bij-scheiding` | Vaststelling modelformulier Wet verevening pensioenrechten bij scheiding | 2 | 2002-03-24 to 2017-10-19 |
+| `regeling-procesgang-eerste-en-tweede-ziektejaar` | Regeling procesgang eerste en tweede ziektejaar | 1 | 2025-07-01 to 2025-07-01 |
+| `regeling-europese-afvalstoffenlijst` | Regeling Europese afvalstoffenlijst | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-zoeken-rapen-en-beschermen-van-kievitseieren-flora-en-faunawet` | Regeling zoeken, rapen en beschermen van kievitseieren Flora -en faunawet | 2 | 2002-04-01 to 2017-01-01 |
+| `beperking-openbaarheid-archiefbescheiden-stichting-landelijke-bezettingsschade-slb-1942-19` | Beperking openbaarheid archiefbescheiden Stichting Landelijke Bezettingsschade (SLB) 1942-1945 en de Stichting Beheer Landbouwgronden (SBL) 1946-1982 | 1 | 2002-04-07 to 2002-04-07 |
+| `samenstelling-en-werkwijze-bedrijfscommissie-voor-de-overheid-2002` | Samenstelling en werkwijze Bedrijfscommissie voor de Overheid 2002 | 2 | 2002-04-18 to 2015-01-01 |
+| `vergoeding-leden-adviescommissie-duurzame-energie` | Vergoeding leden Adviescommissie duurzame energie | 1 | 2002-06-01 to 2002-06-01 |
+| `regeling-methoden-van-onderzoek-ten-aanzien-van-teer-nicotine-en-koolmonoxidegehaltes-in-s` | Regeling methoden van onderzoek ten aanzien van teer-, nicotine- en koolmonoxidegehaltes in sigaretten en shag | 2 | 2005-04-08 to 2016-05-20 |
+| `regeling-ammoniak-en-veehouderij` | Regeling ammoniak en veehouderij | 2 | 2023-04-01 to 2024-01-01 |
+| `vrijstellingsregeling-havo-vwo-profiel` | Vrijstellingsregeling havo/vwo profiel | 2 | 2002-05-25 to 2022-08-01 |
+| `vaststelling-formulier-opgave-doodsoorzaak` | Vaststelling formulier opgave doodsoorzaak | 2 | 2002-10-01 to 2022-01-01 |
+| `wijziging-subsidieregeling-ministerie-van-buitenlandse-zaken` | Wijziging Subsidieregeling Ministerie van Buitenlandse Zaken | 1 | 2002-05-17 to 2002-05-17 |
+| `vergoedingenregeling-awt` | Vergoedingenregeling AWT | 2 | 2013-04-11 to 2014-08-01 |
+| `regeling-vaargebieden-vissersvaartuigen` | Regeling vaargebieden vissersvaartuigen | 1 | 2002-05-31 to 2002-05-31 |
+| `vergoedingenregeling-commissie-van-advies-volkenrechtelijke-vraagstukken-en-staatscommissi` | Vergoedingenregeling Commissie van advies volkenrechtelijke vraagstukken en Staatscommissie internationaal privaatrecht | 1 | 2023-01-01 to 2023-01-01 |
 | `belastingwet-bes` | Belastingwet BES | 1 | 2026-04-11 to 2026-04-11 |
 | `tno-wet` | TNO-wet | 1 | 2022-05-01 to 2022-05-01 |
 | `wet-op-de-internationale-bijstandsverlening-bij-de-heffing-van-belastingen` | Wet op de internationale bijstandsverlening bij de heffing van belastingen | 1 | 2026-04-11 to 2026-04-11 |
@@ -5678,19 +6068,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `besluit-regiem-voor-militairen-die-voorlopig-arrest-resp-gevangenisstraf-hechtenis-of-mili` | Besluit regiem voor militairen, die voorlopig arrest, resp. gevangenisstraf, hechtenis of militaire detentie ondergaan | 1 | 2008-12-17 to 2008-12-17 |
 | `besluit-aanwijzing-medebetrokken-ministers-wet-agrarisch-grondverkeer` | Besluit aanwijzing medebetrokken ministers Wet agrarisch grondverkeer | 1 | 2012-12-07 to 2012-12-07 |
 
-The build made 12171 commits:
+The build made 12630 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5560 | first version of an act |
-| 6246 | one law on its in-force day |
-| 365 | changes no amendment note explains, credited to the publisher |
+| 5948 | first version of an act |
+| 6311 | one law on its in-force day |
+| 371 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 102 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3205 laws in the record.
-- 17638 tags.
+- 3247 laws in the record.
+- 18163 tags.
 
 ## Dates
 
@@ -5702,7 +6092,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `57e1d84d550ba45289b128669c26467b5d867e419578ffbfc68e3a3248cf4257` (226818038 bytes).
+- Corpus: sha256 `de302af1ea98612784e3bfb3e7561f79e4502095a8d7eed9f62ed801949696ff` (230257843 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5968,6 +6358,10 @@ No second build of this corpus has been compared yet.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 388 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 - Current text only (breadth first, Alan 2026-11-02): 496 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
@@ -6036,6 +6430,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

@@ -1,0 +1,9 @@
+# Kazachse uitvoeringsvoorschriften belastingverdrag Nederland-Kazachstan
+
+Kazachse uitvoeringsvoorschriften belastingverdrag Nederland-Kazachstan · 1 versions, from 1999-02-19 (latest in force: 1999-02-19) · <https://wetten.overheid.nl/BWBR0009835>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
