@@ -34733,5 +34733,2229 @@
   "part": "bwb-now-amvb-003",
   "current_label": "2026-01-23_0",
   "as_of": "2026-11-03"
+ },
+ "besluit-tenuitvoerlegging-jeugdstrafrecht-bes": {
+  "bwb": "BWBR0043946",
+  "short": "Besluit tenuitvoerlegging jeugdstrafrecht BES",
+  "title": "Besluit tenuitvoerlegging jeugdstrafrecht BES",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-verlenging-geldigheidsduur-rijbewijs-in-verband-met-covid-19": {
+  "bwb": "BWBR0044050",
+  "short": "Tijdelijk besluit verlenging geldigheidsduur rijbewijs in verband met COVID-19",
+  "title": "Tijdelijk besluit verlenging geldigheidsduur rijbewijs in verband met COVID-19",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-09-04_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-waterbesluit-actualisering-bijlagen-iii-en-iv": {
+  "bwb": "BWBR0044051",
+  "short": "Wijzigingsbesluit Waterbesluit (actualisering bijlagen III en IV)",
+  "title": "Wijzigingsbesluit Waterbesluit (actualisering bijlagen III en IV)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-s-hertogenbosch-als-nevenzittingsplaats-regionaal-tuchtcollege-voor-de": {
+  "bwb": "BWBR0044068",
+  "short": "Aanwijzingsbesluit 's-Hertogenbosch als nevenzittingsplaats Regionaal Tuchtcollege voor de Gezondheidszorg",
+  "title": "Aanwijzingsbesluit 's-Hertogenbosch als nevenzittingsplaats Regionaal Tuchtcollege voor de Gezondheidszorg",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-vws-2020": {
+  "bwb": "BWBR0044069",
+  "short": "Verzamelbesluit VWS 2020",
+  "title": "Verzamelbesluit VWS 2020",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-rangschikkingsbesluit-natuurschoonwet-1928-enz-evaluatie-natuurschoonwet": {
+  "bwb": "BWBR0044074",
+  "short": "Wijzigingsbesluit Rangschikkingsbesluit Natuurschoonwet 1928 enz. (evaluatie Natuurschoonwet 1928)",
+  "title": "Wijzigingsbesluit Rangschikkingsbesluit Natuurschoonwet 1928 enz. (evaluatie Natuurschoonwet 1928)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-registratie-uiteindelijk-belanghebbenden-van-vennootschappen-en-ander": {
+  "bwb": "BWBR0044104",
+  "short": "Implementatiebesluit registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten",
+  "title": "Implementatiebesluit registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-09-27_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ongewenste-zeggenschap-telecommunicatie": {
+  "bwb": "BWBR0044118",
+  "short": "Besluit ongewenste zeggenschap telecommunicatie",
+  "title": "Besluit ongewenste zeggenschap telecommunicatie",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-03-05_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-klachtadviescommissie-raad-voor-de-kinderbescherming": {
+  "bwb": "BWBR0044134",
+  "short": "Besluit klachtadviescommissie raad voor de kinderbescherming",
+  "title": "Besluit klachtadviescommissie raad voor de kinderbescherming",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-rechtspositie-rechterlijke-ambtenaren-enz-formalisering-arbeidsv-4": {
+  "bwb": "BWBR0044143",
+  "short": "Wijzigingsbesluit Besluit rechtspositie rechterlijke ambtenaren, enz. (formalisering Arbeidsvoorwaardenovereenkomst sector Rechterlijke Macht 2018-2020)",
+  "title": "Wijzigingsbesluit Besluit rechtspositie rechterlijke ambtenaren, enz. (formalisering Arbeidsvoorwaardenovereenkomst sector Rechterlijke Macht 2018-2020)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-regeling-voor-uitgebreide-producentenverantwoordelijkheid": {
+  "bwb": "BWBR0044197",
+  "short": "Besluit regeling voor uitgebreide producentenverantwoordelijkheid",
+  "title": "Besluit regeling voor uitgebreide producentenverantwoordelijkheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-11-09_0",
+  "as_of": "2026-11-03"
+ },
+ "loodsplichtbesluit-2021": {
+  "bwb": "BWBR0044209",
+  "short": "Loodsplichtbesluit 2021",
+  "title": "Loodsplichtbesluit 2021",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-decentralisatie-en-integratie-uitkeringen-2017": {
+  "bwb": "BWBR0044226",
+  "short": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2017",
+  "title": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2017",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-10-20_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-ex-artikel-85-van-boek-8-van-het-burgerlijk-wetboek-enz": {
+  "bwb": "BWBR0044247",
+  "short": "Wijzigingsbesluit Besluit ex artikel 85 van Boek 8 van het Burgerlijk Wetboek, enz.",
+  "title": "Wijzigingsbesluit Besluit ex artikel 85 van Boek 8 van het Burgerlijk Wetboek, enz.",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-elektronisch-procederen": {
+  "bwb": "BWBR0044275",
+  "short": "Bep",
+  "title": "Besluit elektronisch procederen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-genetisch-gemodificeerde-organismen-milieubeheer-2013-vervallen": {
+  "bwb": "BWBR0044292",
+  "short": "Wijzigingsbesluit Besluit genetisch gemodificeerde organismen milieubeheer 2013 (vervallen onderscheid II-k en II-v en wijziging procedure gentherapie)",
+  "title": "Wijzigingsbesluit Besluit genetisch gemodificeerde organismen milieubeheer 2013 (vervallen onderscheid II-k en II-v en wijziging procedure gentherapie)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-12-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-plantgezondheid": {
+  "bwb": "BWBR0044299",
+  "short": "Besluit plantgezondheid",
+  "title": "Besluit plantgezondheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-compensatie-transitievergoeding-bij-beeindiging-van-de-werkzaamheden-van-de-ondern": {
+  "bwb": "BWBR0044334",
+  "short": "Besluit compensatie transitievergoeding bij beëindiging van de werkzaamheden van de onderneming",
+  "title": "Besluit compensatie transitievergoeding bij beëindiging van de werkzaamheden van de onderneming",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verzekeringskeuringen-ex-kankerpatienten": {
+  "bwb": "BWBR0044342",
+  "short": "Besluit verzekeringskeuringen ex-kankerpatiënten",
+  "title": "Besluit verzekeringskeuringen ex-kankerpatiënten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ambulancezorgvoorzieningen": {
+  "bwb": "BWBR0044443",
+  "short": "Besluit ambulancezorgvoorzieningen",
+  "title": "Besluit ambulancezorgvoorzieningen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-tarieven-in-strafzaken-2003-jaarlijkse-indexering-vergoedingen-v": {
+  "bwb": "BWBR0044544",
+  "short": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (jaarlijkse indexering vergoedingen voor psychiaters en psychologen)",
+  "title": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (jaarlijkse indexering vergoedingen voor psychiaters en psychologen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-bewijzen-van-bevoegdheid-voor-de-luchtvaart-besluit-luchtvaartui": {
+  "bwb": "BWBR0044564",
+  "short": "Wijzigingsbesluit Besluit bewijzen van bevoegdheid voor de luchtvaart, Besluit luchtvaartuigen 2008 en Besluit vluchtuitvoering (onbemande luchtvaartuigen en regels en procedures voor de exploitatie van onbemande luchtvaartuigen)",
+  "title": "Wijzigingsbesluit Besluit bewijzen van bevoegdheid voor de luchtvaart, Besluit luchtvaartuigen 2008 en Besluit vluchtuitvoering (onbemande luchtvaartuigen en regels en procedures voor de exploitatie van onbemande luchtvaartuigen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2020-12-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-enz-jaarl-6": {
+  "bwb": "BWBR0044569",
+  "short": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2021)",
+  "title": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2021)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-enige-uitvoeringsbesluiten-belastingen-en-enige-andere-besluiten": {
+  "bwb": "BWBR0044585",
+  "short": "Wijzigingsbesluit enige uitvoeringsbesluiten (belastingen en enige andere besluiten)",
+  "title": "Wijzigingsbesluit enige uitvoeringsbesluiten (belastingen en enige andere besluiten)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-registratie-toeristische-verhuur-van-woonruimte": {
+  "bwb": "BWBR0044586",
+  "short": "Besluit registratie toeristische verhuur van woonruimte",
+  "title": "Besluit registratie toeristische verhuur van woonruimte",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-eg-verordening-300-2008": {
+  "bwb": "BWBR0044668",
+  "short": "Uitvoeringsbesluit EG-verordening 300/2008",
+  "title": "Uitvoeringsbesluit EG-verordening 300/2008",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanvullingsbesluit-grondeigendom-omgevingswet": {
+  "bwb": "BWBR0044674",
+  "short": "Aanvullingsbesluit grondeigendom Omgevingswet",
+  "title": "Aanvullingsbesluit grondeigendom Omgevingswet",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanvullingsbesluit-geluid-omgevingswet": {
+  "bwb": "BWBR0044679",
+  "short": "Aanvullingsbesluit geluid Omgevingswet",
+  "title": "Aanvullingsbesluit geluid Omgevingswet",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ex-art-13-vierde-lid-wet-buitengewone-bevoegdheden-burgerlijk-gezag": {
+  "bwb": "BWBR0044717",
+  "short": "Besluit ex art. 13, vierde lid, Wet buitengewone bevoegdheden burgerlijk gezag",
+  "title": "Besluit ex art. 13, vierde lid, Wet buitengewone bevoegdheden burgerlijk gezag",
+  "part": "bwb-now-amvb-004",
+  "current_label": "1953-12-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-onafhankelijke-uitoefening-toezicht-centrale-commissie-mensgebonden-onderzoek": {
+  "bwb": "BWBR0044726",
+  "short": "Besluit onafhankelijke uitoefening toezicht Centrale Commissie Mensgebonden Onderzoek",
+  "title": "Besluit onafhankelijke uitoefening toezicht Centrale Commissie Mensgebonden Onderzoek",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-31_0",
+  "as_of": "2026-11-03"
+ },
+ "aanvullingsbesluit-natuur-omgevingswet": {
+  "bwb": "BWBR0044730",
+  "short": "Aanvullingsbesluit natuur Omgevingswet",
+  "title": "Aanvullingsbesluit natuur Omgevingswet",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kansspelen-op-afstand": {
+  "bwb": "BWBR0044773",
+  "short": "Besluit kansspelen op afstand",
+  "title": "Besluit kansspelen op afstand",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-07-15_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-kapitaalvereisten-2020": {
+  "bwb": "BWBR0044791",
+  "short": "Implementatiebesluit kapitaalvereisten 2020",
+  "title": "Implementatiebesluit kapitaalvereisten 2020",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-diverse-eenmalige-uitkeringen-in-het-kader-van-de-arbeidsvoorwaardeno": {
+  "bwb": "BWBR0044816",
+  "short": "Besluit vaststelling diverse eenmalige uitkeringen in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie, alsmede wijzigingen ten behoeve van personeel dat de loonontwikkeling volgt in de sector Rijk",
+  "title": "Besluit vaststelling diverse eenmalige uitkeringen in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie, alsmede wijzigingen ten behoeve van personeel dat de loonontwikkeling volgt in de sector Rijk",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-02-12_0",
+  "as_of": "2026-11-03"
+ },
+ "kiesbesluit-kamers-van-koophandel-en-nijverheid-bes-2021": {
+  "bwb": "BWBR0044819",
+  "short": "Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021",
+  "title": "Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-clementie": {
+  "bwb": "BWBR0044822",
+  "short": "Besluit clementie",
+  "title": "Besluit clementie",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-02-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-loonkostensubsidie-en-minimumbedragen-studietoeslag-participatiewet-2021": {
+  "bwb": "BWBR0044894",
+  "short": "Besluit loonkostensubsidie en minimumbedragen studietoeslag Participatiewet 2021",
+  "title": "Besluit loonkostensubsidie en minimumbedragen studietoeslag Participatiewet 2021",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanvullingsbesluit-bodem-omgevingswet": {
+  "bwb": "BWBR0044911",
+  "short": "Aanvullingsbesluit bodem Omgevingswet",
+  "title": "Aanvullingsbesluit bodem Omgevingswet",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "invoeringsbesluit-omgevingswet": {
+  "bwb": "BWBR0044923",
+  "short": "Invoeringsbesluit Omgevingswet",
+  "title": "Invoeringsbesluit Omgevingswet",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ter-uitvoering-van-diverse-eu-verordeningen-inzake-grensoverschrijdende-distributi": {
+  "bwb": "BWBR0044931",
+  "short": "Besluit ter uitvoering van diverse EU-verordeningen inzake grensoverschrijdende distributie en duurzaamheid",
+  "title": "Besluit ter uitvoering van diverse EU-verordeningen inzake grensoverschrijdende distributie en duurzaamheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-03-13_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-openbaarmaking-toezicht-en-uitvoeringsgegevens-gezondheidswet-en": {
+  "bwb": "BWBR0044964",
+  "short": "Wijzigingsbesluit Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet",
+  "title": "Wijzigingsbesluit Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-doorberekening-kosten-college-van-toezicht": {
+  "bwb": "BWBR0044995",
+  "short": "Besluit doorberekening kosten College van Toezicht",
+  "title": "Besluit doorberekening kosten College van Toezicht",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-wtza": {
+  "bwb": "BWBR0045000",
+  "short": "Uitvoeringsbesluit Wtza",
+  "title": "Uitvoeringsbesluit Wtza",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-saba-comprehensive-school-en-gwendoline-van-puttenschool-bes": {
+  "bwb": "BWBR0045020",
+  "short": "Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES",
+  "title": "Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-elektronische-publicaties": {
+  "bwb": "BWBR0045037",
+  "short": "Besluit elektronische publicaties",
+  "title": "Besluit elektronische publicaties",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-diergezondheid": {
+  "bwb": "BWBR0045039",
+  "short": "Besluit diergezondheid",
+  "title": "Besluit diergezondheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bestuurlijke-boeten-energiegerelateerde-producten": {
+  "bwb": "BWBR0045092",
+  "short": "Besluit bestuurlijke boeten energiegerelateerde producten",
+  "title": "Besluit bestuurlijke boeten energiegerelateerde producten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-07-23_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-tarieven-ambtshandelingen-gerechtsdeurwaarders-herijking-schulde": {
+  "bwb": "BWBR0045099",
+  "short": "Wijzigingsbesluit Besluit tarieven ambtshandelingen gerechtsdeurwaarders (herijking schuldenaarstarieven)",
+  "title": "Wijzigingsbesluit Besluit tarieven ambtshandelingen gerechtsdeurwaarders (herijking schuldenaarstarieven)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-maatregelen-metalen-drankverpakkingen": {
+  "bwb": "BWBR0045135",
+  "short": "Besluit maatregelen metalen drankverpakkingen",
+  "title": "Besluit maatregelen metalen drankverpakkingen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-12-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-vrijstellingen-stortverbod-buiten-inrichtingen": {
+  "bwb": "BWBR0045159",
+  "short": "Wijzigingsbesluit Besluit vrijstellingen stortverbod buiten inrichtingen",
+  "title": "Wijzigingsbesluit Besluit vrijstellingen stortverbod buiten inrichtingen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-vreemdelingenbesluit-2000-regelen-aanmeldfase-vervallen-eerste-gehoor-al": {
+  "bwb": "BWBR0045193",
+  "short": "Wijzigingsbesluit Vreemdelingenbesluit 2000 (regelen aanmeldfase, vervallen eerste gehoor algemene asielprocedure en doorvoeren enkele technische aanpassingen)",
+  "title": "Wijzigingsbesluit Vreemdelingenbesluit 2000 (regelen aanmeldfase, vervallen eerste gehoor algemene asielprocedure en doorvoeren enkele technische aanpassingen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-06-25_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-energie-audit": {
+  "bwb": "BWBR0045194",
+  "short": "Besluit energie-audit",
+  "title": "Besluit energie-audit",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-benoemingsprocedure-ser": {
+  "bwb": "BWBR0045206",
+  "short": "Besluit benoemingsprocedure SER",
+  "title": "Besluit benoemingsprocedure SER",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-wet-straffen-en-beschermen": {
+  "bwb": "BWBR0045209",
+  "short": "Uitvoeringsbesluit Wet straffen en beschermen",
+  "title": "Uitvoeringsbesluit Wet straffen en beschermen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "alcoholbesluit": {
+  "bwb": "BWBR0045211",
+  "short": "Alcoholbesluit",
+  "title": "Alcoholbesluit",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kunststofproducten-voor-eenmalig-gebruik": {
+  "bwb": "BWBR0045257",
+  "short": "Besluit kunststofproducten voor eenmalig gebruik",
+  "title": "Besluit kunststofproducten voor eenmalig gebruik",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-12-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-verplichte-verzekering-bij-medisch-wetenschappelijk-onderzoek-me": {
+  "bwb": "BWBR0045258",
+  "short": "Wijzigingsbesluit Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015 (medisch-wetenschappelijk onderzoek zwangeren en als bedoeld in Embryowet)",
+  "title": "Wijzigingsbesluit Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015 (medisch-wetenschappelijk onderzoek zwangeren en als bedoeld in Embryowet)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-reglement-rijbewijzen-aanpassing-eisen-aan-examenvoertuigen-terminologis": {
+  "bwb": "BWBR0045406",
+  "short": "Wijzigingsbesluit Reglement rijbewijzen (aanpassing eisen aan examenvoertuigen, terminologische aanpassingen en aanpassingen in de procedure betreffende aanvraag verklaring van geschiktheid)",
+  "title": "Wijzigingsbesluit Reglement rijbewijzen (aanpassing eisen aan examenvoertuigen, terminologische aanpassingen en aanpassingen in de procedure betreffende aanvraag verklaring van geschiktheid)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-07-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-rechtspositie-voorzitters-regionale-toetsingscommissies-euthanasie": {
+  "bwb": "BWBR0045429",
+  "short": "Besluit rechtspositie voorzitters regionale toetsingscommissies euthanasie",
+  "title": "Besluit rechtspositie voorzitters regionale toetsingscommissies euthanasie",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-inburgering-2021": {
+  "bwb": "BWBR0045555",
+  "short": "Besluit inburgering 2021",
+  "title": "Besluit inburgering 2021",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-04-02_0",
+  "as_of": "2026-11-03"
+ },
+ "tweede-tijdelijk-besluit-verlenging-geldigheidsduur-rijbewijs-in-verband-met-covid-19": {
+  "bwb": "BWBR0045687",
+  "short": "Tweede tijdelijk besluit verlenging geldigheidsduur rijbewijs in verband met COVID-19",
+  "title": "Tweede tijdelijk besluit verlenging geldigheidsduur rijbewijs in verband met COVID-19",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-10-13_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-kwaliteitseisen-curatoren-beschermingsbewindvoerders-en-mentoren": {
+  "bwb": "BWBR0045699",
+  "short": "Wijzigingsbesluit Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren (evaluatie Wet wijziging curatele, beschermingsbewind en mentorschap)",
+  "title": "Wijzigingsbesluit Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren (evaluatie Wet wijziging curatele, beschermingsbewind en mentorschap)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-algemene-rechtspositie-politie-richtlijn-eu-2019-1937-europees-p": {
+  "bwb": "BWBR0045720",
+  "short": "Wijzigingsbesluit Besluit algemene rechtspositie politie (Richtlijn (EU) 2019/1937 Europees Parlement en Raad van 23 oktober 2019 (PbEU 2019, L 305))",
+  "title": "Wijzigingsbesluit Besluit algemene rechtspositie politie (Richtlijn (EU) 2019/1937 Europees Parlement en Raad van 23 oktober 2019 (PbEU 2019, L 305))",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-02-18_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verordening-europese-crowdfundingdienstverleners-voor-bedrijven": {
+  "bwb": "BWBR0045740",
+  "short": "Uitvoeringsbesluit verordening Europese crowdfundingdienstverleners voor bedrijven",
+  "title": "Uitvoeringsbesluit verordening Europese crowdfundingdienstverleners voor bedrijven",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-11-11_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-kapitaalmarkten-herstelpakket-i": {
+  "bwb": "BWBR0045743",
+  "short": "Uitvoeringsbesluit kapitaalmarkten herstelpakket I",
+  "title": "Uitvoeringsbesluit kapitaalmarkten herstelpakket I",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-wvo-2020": {
+  "bwb": "BWBR0045787",
+  "short": "UWVO 2020",
+  "title": "Uitvoeringsbesluit WVO 2020",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingsbesluit-wvo-2020": {
+  "bwb": "BWBR0045794",
+  "short": "Aanpassingsbesluit WVO 2020",
+  "title": "Aanpassingsbesluit WVO 2020",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bijdrage-koninklijke-bibliotheek-aan-overheidsdatacenter-belastingdienst": {
+  "bwb": "BWBR0045812",
+  "short": "Besluit bijdrage Koninklijke Bibliotheek aan Overheidsdatacenter Belastingdienst",
+  "title": "Besluit bijdrage Koninklijke Bibliotheek aan Overheidsdatacenter Belastingdienst",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-11-12_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verordening-herstel-en-afwikkeling-centrale-tegenpartijen": {
+  "bwb": "BWBR0045837",
+  "short": "Uitvoeringsbesluit verordening herstel en afwikkeling centrale tegenpartijen",
+  "title": "Uitvoeringsbesluit verordening herstel en afwikkeling centrale tegenpartijen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-11-13_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-prudentieel-toezicht-beleggingsondernemingen": {
+  "bwb": "BWBR0045910",
+  "short": "Implementatiebesluit prudentieel toezicht beleggingsondernemingen",
+  "title": "Implementatiebesluit prudentieel toezicht beleggingsondernemingen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-11-26_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-implementatie-richtlijn-grensoverschrijdende-distributie-van-beleggingsinstellinge": {
+  "bwb": "BWBR0045959",
+  "short": "Besluit implementatie richtlijn grensoverschrijdende distributie van beleggingsinstellingen en icbe’s",
+  "title": "Besluit implementatie richtlijn grensoverschrijdende distributie van beleggingsinstellingen en icbe’s",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-12-04_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-justitie-en-veiligheid-2021": {
+  "bwb": "BWBR0046010",
+  "short": "Verzamelbesluit Justitie en Veiligheid 2021",
+  "title": "Verzamelbesluit Justitie en Veiligheid 2021",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-decentralisatie-en-integratie-uitkeringen-2018": {
+  "bwb": "BWBR0046011",
+  "short": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2018",
+  "title": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2018",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2021-12-15_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-szw-2022": {
+  "bwb": "BWBR0046050",
+  "short": "Verzamelbesluit SZW 2022",
+  "title": "Verzamelbesluit SZW 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-actualisatie-markttoezicht-registerloodsen": {
+  "bwb": "BWBR0046069",
+  "short": "Besluit actualisatie markttoezicht registerloodsen",
+  "title": "Besluit actualisatie markttoezicht registerloodsen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoering-wet-arbeid-vreemdelingen-2022": {
+  "bwb": "BWBR0046078",
+  "short": "Besluit uitvoering Wet arbeid vreemdelingen 2022",
+  "title": "Besluit uitvoering Wet arbeid vreemdelingen 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-vergoedingen-rechtsbijstand-2000-enz-invoering-bijzondere-proced": {
+  "bwb": "BWBR0046083",
+  "short": "Wijzigingsbesluit Besluit vergoedingen rechtsbijstand 2000 enz. (invoering bijzondere procedurele bepalingen Vreemdelingenbesluit 2000)",
+  "title": "Wijzigingsbesluit Besluit vergoedingen rechtsbijstand 2000 enz. (invoering bijzondere procedurele bepalingen Vreemdelingenbesluit 2000)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-nadeelcompensatie-productiebeperking-kolencentrales": {
+  "bwb": "BWBR0046085",
+  "short": "Besluit nadeelcompensatie productiebeperking kolencentrales",
+  "title": "Besluit nadeelcompensatie productiebeperking kolencentrales",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-enige-uitvoeringsbesluiten-belastingen-en-enige-andere-besluiten-2": {
+  "bwb": "BWBR0046118",
+  "short": "Wijzigingsbesluit enige uitvoeringsbesluiten (belastingen en enige andere besluiten)",
+  "title": "Wijzigingsbesluit enige uitvoeringsbesluiten (belastingen en enige andere besluiten)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bekostiging-wpo-bes-2022": {
+  "bwb": "BWBR0046152",
+  "short": "Besluit bekostiging WPO BES 2022",
+  "title": "Besluit bekostiging WPO BES 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bescherming-koopvaardij": {
+  "bwb": "BWBR0046155",
+  "short": "Besluit bescherming koopvaardij",
+  "title": "Besluit bescherming koopvaardij",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bekostiging-wpo-2022": {
+  "bwb": "BWBR0046159",
+  "short": "Besluit bekostiging WPO 2022",
+  "title": "Besluit bekostiging WPO 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-06-12_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bekostiging-wec-2022": {
+  "bwb": "BWBR0046160",
+  "short": "Besluit bekostiging WEC 2022",
+  "title": "Besluit bekostiging WEC 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-06-12_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-enz-jaarl-7": {
+  "bwb": "BWBR0046237",
+  "short": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2022)",
+  "title": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2022)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-verliesabsorptie-en-herkapitalisatiecapaciteit-van-banken-en-beleggin": {
+  "bwb": "BWBR0046242",
+  "short": "Implementatiebesluit verliesabsorptie- en herkapitalisatiecapaciteit van banken en beleggingsondernemingen",
+  "title": "Implementatiebesluit verliesabsorptie- en herkapitalisatiecapaciteit van banken en beleggingsondernemingen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-01-29_0",
+  "as_of": "2026-11-03"
+ },
+ "inrichtingsbesluit-wpo": {
+  "bwb": "BWBR0046350",
+  "short": "Inrichtingsbesluit WPO",
+  "title": "Inrichtingsbesluit WPO",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-tuchtrechtbesluit-big-enz-terugbrengen-aantal-regionale-tuchtcolleges-va": {
+  "bwb": "BWBR0046376",
+  "short": "Wijzigingsbesluit Tuchtrechtbesluit BIG enz. (terugbrengen aantal regionale tuchtcolleges van vijf naar drie en nadere invulling van tijdens de stages te verrichten episiotomieën)",
+  "title": "Wijzigingsbesluit Tuchtrechtbesluit BIG enz. (terugbrengen aantal regionale tuchtcolleges van vijf naar drie en nadere invulling van tijdens de stages te verrichten episiotomieën)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-diergeneesmiddelen-2022": {
+  "bwb": "BWBR0046416",
+  "short": "Besluit diergeneesmiddelen 2022",
+  "title": "Besluit diergeneesmiddelen 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-uitvoering-wet-arbeid-vreemdelingen-2022-tijdelijke-vrijstelling": {
+  "bwb": "BWBR0046482",
+  "short": "Wijzigingsbesluit Besluit uitvoering Wet arbeid vreemdelingen 2022 (tijdelijke vrijstelling tewerkstellingsvergunningsplicht Besluit uitvoering Wet arbeid vreemdelingen 2022 in verband met het bestaan van een massale toestroom van ontheemden uit Oekraïne)",
+  "title": "Wijzigingsbesluit Besluit uitvoering Wet arbeid vreemdelingen 2022 (tijdelijke vrijstelling tewerkstellingsvergunningsplicht Besluit uitvoering Wet arbeid vreemdelingen 2022 in verband met het bestaan van een massale toestroom van ontheemden uit Oekraïne)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitvoering-pepp-verordening": {
+  "bwb": "BWBR0046484",
+  "short": "Besluit uitvoering PEPP-verordening",
+  "title": "Besluit uitvoering PEPP-verordening",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-03-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-betrouwbaarheid-en-geschiktheid-toezichthouders-en-bestuurders-collectieve-beheers": {
+  "bwb": "BWBR0046567",
+  "short": "Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties",
+  "title": "Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kwaliteitsborging-voor-het-bouwen": {
+  "bwb": "BWBR0046570",
+  "short": "Besluit kwaliteitsborging voor het bouwen",
+  "title": "Besluit kwaliteitsborging voor het bouwen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-registratie-uiteindelijk-belanghebbenden-van-trusts-en-soortgelijke-j": {
+  "bwb": "BWBR0046618",
+  "short": "Implementatiebesluit registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies",
+  "title": "Implementatiebesluit registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-10-24_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-omgevingswet-2022": {
+  "bwb": "BWBR0046640",
+  "short": "Verzamelbesluit Omgevingswet 2022",
+  "title": "Verzamelbesluit Omgevingswet 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "kaderbesluit-overige-jenv-subsidies": {
+  "bwb": "BWBR0046660",
+  "short": "Kaderbesluit overige JenV-subsidies",
+  "title": "Kaderbesluit overige JenV-subsidies",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-besluit-inhoud-bestuursverslag-tijdelijke-verplichting-grote-vennootscha": {
+  "bwb": "BWBR0046671",
+  "short": "Besluit wijziging Besluit inhoud bestuursverslag (tijdelijke verplichting grote vennootschappen om in bestuursverslag te rapporteren over man-vrouwverhouding in de top en subtop en over de streefcijfers)",
+  "title": "Besluit wijziging Besluit inhoud bestuursverslag (tijdelijke verplichting grote vennootschappen om in bestuursverslag te rapporteren over man-vrouwverhouding in de top en subtop en over de streefcijfers)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-omnibusrichtlijn-esfs-review": {
+  "bwb": "BWBR0046704",
+  "short": "Implementatiebesluit omnibusrichtlijn ESFS-review",
+  "title": "Implementatiebesluit omnibusrichtlijn ESFS-review",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-09-03_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-participatiefonds-2022": {
+  "bwb": "BWBR0046708",
+  "short": "Besluit participatiefonds 2022",
+  "title": "Besluit participatiefonds 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-31_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-emissie-van-broeikasgassen-bij-elektriciteitsopwekking": {
+  "bwb": "BWBR0046731",
+  "short": "Besluit emissie van broeikasgassen bij elektriciteitsopwekking",
+  "title": "Besluit emissie van broeikasgassen bij elektriciteitsopwekking",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-06-04_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-richtlijn-gedekte-obligaties": {
+  "bwb": "BWBR0046752",
+  "short": "Implementatiebesluit richtlijn gedekte obligaties",
+  "title": "Implementatiebesluit richtlijn gedekte obligaties",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-07-08_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-maximumtarieven-open-overheid": {
+  "bwb": "BWBR0046755",
+  "short": "Besluit maximumtarieven open overheid",
+  "title": "Besluit maximumtarieven open overheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-06-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-tarieven-in-strafzaken-2003-jaarlijkse-indexering-vergoedingen-v-2": {
+  "bwb": "BWBR0046766",
+  "short": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (jaarlijkse indexering vergoedingen voor psychiaters en psychologen)",
+  "title": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (jaarlijkse indexering vergoedingen voor psychiaters en psychologen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-06-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-suwi-tijdelijke-mogelijkheid-van-registratie-als-werkloze-werkzo": {
+  "bwb": "BWBR0046798",
+  "short": "Wijzigingsbesluit Besluit SUWI (tijdelijke mogelijkheid van registratie als werkloze werkzoekende in verband met een massale toestroom van ontheemden uit Oekraïne en tot invoering van tijdelijke bescherming naar aanleiding daarvan)",
+  "title": "Wijzigingsbesluit Besluit SUWI (tijdelijke mogelijkheid van registratie als werkloze werkzoekende in verband met een massale toestroom van ontheemden uit Oekraïne en tot invoering van tijdelijke bescherming naar aanleiding daarvan)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-12-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-experiment-bijzondere-nadere-vooropleidingseisen-opleiding-tot-leraar-basisonderwi": {
+  "bwb": "BWBR0046872",
+  "short": "Besluit experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs",
+  "title": "Besluit experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-07-09_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-vergoedingen-rechtsbijstand-2000-enz-aanpassing-vergoedingen-rec": {
+  "bwb": "BWBR0046991",
+  "short": "Wijzigingsbesluit Besluit vergoedingen rechtsbijstand 2000, enz. (aanpassing vergoedingen rechtsbijstandsverleners en mediators)",
+  "title": "Wijzigingsbesluit Besluit vergoedingen rechtsbijstand 2000, enz. (aanpassing vergoedingen rechtsbijstandsverleners en mediators)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-innovatie-strafvordering": {
+  "bwb": "BWBR0047134",
+  "short": "Besluit innovatie strafvordering",
+  "title": "Besluit innovatie strafvordering",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-rechtspositie-politie-2022": {
+  "bwb": "BWBR0047156",
+  "short": "Verzamelbesluit rechtspositie politie 2022",
+  "title": "Verzamelbesluit rechtspositie politie 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-decentralisatie-en-integratie-uitkeringen-2019": {
+  "bwb": "BWBR0047215",
+  "short": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2019",
+  "title": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2019",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-screening-ambtenaren-van-politie-en-politie-externen": {
+  "bwb": "BWBR0047260",
+  "short": "Besluit screening ambtenaren van politie en politie-externen",
+  "title": "Besluit screening ambtenaren van politie en politie-externen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verplicht-elektronisch-procederen-inzake-een-kinderbeschermingsmaatregel-en-jeugdh": {
+  "bwb": "BWBR0047268",
+  "short": "Besluit verplicht elektronisch procederen inzake een kinderbeschermingsmaatregel en jeugdhulp",
+  "title": "Besluit verplicht elektronisch procederen inzake een kinderbeschermingsmaatregel en jeugdhulp",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2022-10-12_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kiescollege-niet-ingezetenen": {
+  "bwb": "BWBR0047331",
+  "short": "Besluit kiescollege niet-ingezetenen",
+  "title": "Besluit kiescollege niet-ingezetenen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-genetisch-gemodificeerde-organismen-milieubeheer-2013-uitvoering": {
+  "bwb": "BWBR0047365",
+  "short": "Wijzigingsbesluit Besluit genetisch gemodificeerde organismen milieubeheer 2013 (uitvoering verordeningen (EU) 2019/1381 en (EU) 2020/1043)",
+  "title": "Wijzigingsbesluit Besluit genetisch gemodificeerde organismen milieubeheer 2013 (uitvoering verordeningen (EU) 2019/1381 en (EU) 2020/1043)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-05-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-experiment-onderwijszorgarrangementen": {
+  "bwb": "BWBR0047473",
+  "short": "Besluit experiment onderwijszorgarrangementen",
+  "title": "Besluit experiment onderwijszorgarrangementen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-specifieke-uitkeringen-volkshuisvesting": {
+  "bwb": "BWBR0047481",
+  "short": "Besluit specifieke uitkeringen volkshuisvesting",
+  "title": "Besluit specifieke uitkeringen volkshuisvesting",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-drinkwaterbesluit-enz-omzetting-eu-drinkwaterrichtlijn-2020-2184": {
+  "bwb": "BWBR0047493",
+  "short": "Wijzigingsbesluit Drinkwaterbesluit, enz. (omzetting EU-Drinkwaterrichtlijn 2020/2184)",
+  "title": "Wijzigingsbesluit Drinkwaterbesluit, enz. (omzetting EU-Drinkwaterrichtlijn 2020/2184)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-tarieven-in-strafzaken-2003-verhoging-minimumtarief-voor-tolken": {
+  "bwb": "BWBR0047521",
+  "short": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (verhoging minimumtarief voor tolken en jaarlijkse indexering vergoedingen voor psychologen en psychiaters 2023)",
+  "title": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (verhoging minimumtarief voor tolken en jaarlijkse indexering vergoedingen voor psychologen en psychiaters 2023)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-doorstroomtoetsen-po": {
+  "bwb": "BWBR0047568",
+  "short": "Besluit doorstroomtoetsen po",
+  "title": "Besluit doorstroomtoetsen po",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-arbeidsomstandighedenbesluit-nieuwe-opzet-aanvullende-risico-inventarisa": {
+  "bwb": "BWBR0047619",
+  "short": "Wijzigingsbesluit Arbeidsomstandighedenbesluit (nieuwe opzet aanvullende risico-inventarisatie en -evaluatie inzake risico’s zware ongevallen met gevaarlijke stoffen)",
+  "title": "Wijzigingsbesluit Arbeidsomstandighedenbesluit (nieuwe opzet aanvullende risico-inventarisatie en -evaluatie inzake risico’s zware ongevallen met gevaarlijke stoffen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-szw-2023": {
+  "bwb": "BWBR0047635",
+  "short": "Verzamelbesluit SZW 2023",
+  "title": "Verzamelbesluit SZW 2023",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-01-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-wettelijke-rente": {
+  "bwb": "BWBR0047640",
+  "short": "Besluit vaststelling wettelijke rente",
+  "title": "Besluit vaststelling wettelijke rente",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-periodieke-registratie-wet-big-periodieke-registratie-van-de-ort": {
+  "bwb": "BWBR0047693",
+  "short": "Wijzigingsbesluit Besluit periodieke registratie Wet BIG (periodieke registratie van de orthopedagoog-generalist en de klinisch technoloog)",
+  "title": "Wijzigingsbesluit Besluit periodieke registratie Wet BIG (periodieke registratie van de orthopedagoog-generalist en de klinisch technoloog)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verzamel-en-verificatievereisten-voor-rapporterende-platformexploitante": {
+  "bwb": "BWBR0047697",
+  "short": "Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende platformexploitanten",
+  "title": "Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende platformexploitanten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-12-12_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-financiele-markten-2022": {
+  "bwb": "BWBR0047831",
+  "short": "Wijzigingsbesluit financiële markten 2022",
+  "title": "Wijzigingsbesluit financiële markten 2022",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-richtlijnen-accijns-2023": {
+  "bwb": "BWBR0047882",
+  "short": "Implementatiebesluit richtlijnen accijns 2023",
+  "title": "Implementatiebesluit richtlijnen accijns 2023",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-02-16_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-enz-jaarl-8": {
+  "bwb": "BWBR0047884",
+  "short": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2023)",
+  "title": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2023)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-tarieven-ambtshandelingen-gerechtsdeurwaarders-werkzaamheden-voo": {
+  "bwb": "BWBR0047905",
+  "short": "Wijzigingsbesluit Besluit tarieven ambtshandelingen gerechtsdeurwaarders (werkzaamheden voor verplichte bevragingen)",
+  "title": "Wijzigingsbesluit Besluit tarieven ambtshandelingen gerechtsdeurwaarders (werkzaamheden voor verplichte bevragingen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-experimenten-rechtspleging": {
+  "bwb": "BWBR0047951",
+  "short": "Tijdelijk besluit experimenten rechtspleging",
+  "title": "Tijdelijk besluit experimenten rechtspleging",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-toetsingscommissie-experimenten-rechtspleging": {
+  "bwb": "BWBR0047952",
+  "short": "Tijdelijk besluit Toetsingscommissie experimenten rechtspleging",
+  "title": "Tijdelijk besluit Toetsingscommissie experimenten rechtspleging",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-uitvoering-markttoezichtverordening": {
+  "bwb": "BWBR0047989",
+  "short": "Warenwetbesluit uitvoering markttoezichtverordening",
+  "title": "Warenwetbesluit uitvoering markttoezichtverordening",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-04-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-gedragstoezicht-financiele-ondernemingen-wft-introductie-vergeli": {
+  "bwb": "BWBR0047999",
+  "short": "Wijzigingsbesluit Besluit Gedragstoezicht financiële ondernemingen Wft (introductie vergelijkingskaart financiëledienstverleners)",
+  "title": "Wijzigingsbesluit Besluit Gedragstoezicht financiële ondernemingen Wft (introductie vergelijkingskaart financiëledienstverleners)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-attractie-en-speeltoestellen-2023": {
+  "bwb": "BWBR0048026",
+  "short": "Warenwetbesluit attractie- en speeltoestellen 2023",
+  "title": "Warenwetbesluit attractie- en speeltoestellen 2023",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-ongerichte-reclame-kansspelen-op-afstand": {
+  "bwb": "BWBR0048060",
+  "short": "Besluit ongerichte reclame kansspelen op afstand",
+  "title": "Besluit ongerichte reclame kansspelen op afstand",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-experiment-bredere-inzet-re-integratie-instrumenten": {
+  "bwb": "BWBR0048090",
+  "short": "Tijdelijk besluit experiment bredere inzet re-integratie-instrumenten",
+  "title": "Tijdelijk besluit experiment bredere inzet re-integratie-instrumenten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-04-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-uitgebreide-producentenverantwoordelijkheid-textiel": {
+  "bwb": "BWBR0048093",
+  "short": "Besluit uitgebreide producentenverantwoordelijkheid textiel",
+  "title": "Besluit uitgebreide producentenverantwoordelijkheid textiel",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-elektronische-gegevensuitwisseling-in-de-zorg": {
+  "bwb": "BWBR0048096",
+  "short": "Besluit elektronische gegevensuitwisseling in de zorg",
+  "title": "Besluit elektronische gegevensuitwisseling in de zorg",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verkeersveiligheid-weginfrastructuur": {
+  "bwb": "BWBR0048193",
+  "short": "Besluit verkeersveiligheid weginfrastructuur",
+  "title": "Besluit verkeersveiligheid weginfrastructuur",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-toepassingsbereik-sensitieve-technologie": {
+  "bwb": "BWBR0048201",
+  "short": "Besluit toepassingsbereik sensitieve technologie",
+  "title": "Besluit toepassingsbereik sensitieve technologie",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-veiligheidstoets-investeringen-fusies-en-overnames": {
+  "bwb": "BWBR0048204",
+  "short": "Besluit veiligheidstoets investeringen, fusies en overnames",
+  "title": "Besluit veiligheidstoets investeringen, fusies en overnames",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-10-24_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beveiligde-verbinding-met-overheidswebsites-en-webapplicaties": {
+  "bwb": "BWBR0048225",
+  "short": "Besluit beveiligde verbinding met overheidswebsites en -webapplicaties",
+  "title": "Besluit beveiligde verbinding met overheidswebsites en -webapplicaties",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-wijziging-bestaande-upvs": {
+  "bwb": "BWBR0048234",
+  "short": "Verzamelbesluit wijziging bestaande UPV’s",
+  "title": "Verzamelbesluit wijziging bestaande UPV’s",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-goed-verhuurderschap": {
+  "bwb": "BWBR0048259",
+  "short": "Besluit goed verhuurderschap",
+  "title": "Besluit goed verhuurderschap",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verordening-hergebruik-stedelijk-afvalwater": {
+  "bwb": "BWBR0048283",
+  "short": "Uitvoeringsbesluit verordening hergebruik stedelijk afvalwater",
+  "title": "Uitvoeringsbesluit verordening hergebruik stedelijk afvalwater",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-experiment-pensioenregeling-zelfstandigen": {
+  "bwb": "BWBR0048326",
+  "short": "Besluit experiment pensioenregeling zelfstandigen",
+  "title": "Besluit experiment pensioenregeling zelfstandigen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-toekomst-pensioenen": {
+  "bwb": "BWBR0048343",
+  "short": "Besluit toekomst pensioenen",
+  "title": "Besluit toekomst pensioenen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-dlt-pilot-regime-verordening": {
+  "bwb": "BWBR0048361",
+  "short": "Uitvoeringsbesluit DLT pilot regime verordening",
+  "title": "Uitvoeringsbesluit DLT pilot regime verordening",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-07_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-bezoldigingsbesluit-1998-bes-enz-formalisering-arbeidsvoorwaardenovereen": {
+  "bwb": "BWBR0048367",
+  "short": "Wijzigingsbesluit Bezoldigingsbesluit 1998 BES, enz. (formalisering arbeidsvoorwaardenovereenkomst Rijksambtenaren BES 2021–2023)",
+  "title": "Wijzigingsbesluit Bezoldigingsbesluit 1998 BES, enz. (formalisering arbeidsvoorwaardenovereenkomst Rijksambtenaren BES 2021–2023)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-07_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bevoegde-instanties-grensoverschrijdende-representatieve-vorderingen": {
+  "bwb": "BWBR0048383",
+  "short": "Besluit bevoegde instanties grensoverschrijdende representatieve vorderingen",
+  "title": "Besluit bevoegde instanties grensoverschrijdende representatieve vorderingen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-13_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-wgnb-bes": {
+  "bwb": "BWBR0048396",
+  "short": "Uitvoeringsbesluit Wgnb BES",
+  "title": "Uitvoeringsbesluit Wgnb BES",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-15_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-richtlijn-herstelpakket-beleggingsondernemingen": {
+  "bwb": "BWBR0048427",
+  "short": "Implementatiebesluit richtlijn herstelpakket beleggingsondernemingen",
+  "title": "Implementatiebesluit richtlijn herstelpakket beleggingsondernemingen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-07-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-evidente-staatloosheid": {
+  "bwb": "BWBR0048471",
+  "short": "Besluit evidente staatloosheid",
+  "title": "Besluit evidente staatloosheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-invoering-minimumuurloon": {
+  "bwb": "BWBR0048501",
+  "short": "Besluit invoering minimumuurloon",
+  "title": "Besluit invoering minimumuurloon",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-belasting-en-invorderingsrente-toevoeging-van-de-solidariteitsbi": {
+  "bwb": "BWBR0048590",
+  "short": "Wijzigingsbesluit Besluit belasting- en invorderingsrente (toevoeging van de solidariteitsbijdrage en aanpassing van het rentepercentage voor de vennootschapsbelasting, de solidariteitsbijdrage en de bronbelasting)",
+  "title": "Wijzigingsbesluit Besluit belasting- en invorderingsrente (toevoeging van de solidariteitsbijdrage en aanpassing van het rentepercentage voor de vennootschapsbelasting, de solidariteitsbijdrage en de bronbelasting)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-grensoverschrijdende-betalingen-codificatie": {
+  "bwb": "BWBR0048607",
+  "short": "Uitvoeringsbesluit grensoverschrijdende betalingen codificatie",
+  "title": "Uitvoeringsbesluit grensoverschrijdende betalingen codificatie",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-09-12_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-omgevingswet-2023": {
+  "bwb": "BWBR0048633",
+  "short": "Verzamelbesluit Omgevingswet 2023",
+  "title": "Verzamelbesluit Omgevingswet 2023",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-experimenten-bijhouding-basisregistratie-personen": {
+  "bwb": "BWBR0048654",
+  "short": "Besluit experimenten bijhouding basisregistratie personen",
+  "title": "Besluit experimenten bijhouding basisregistratie personen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-technische-eenmaking-burgerlijke-rechtsvordering": {
+  "bwb": "BWBR0048655",
+  "short": "Besluit technische eenmaking Burgerlijke Rechtsvordering",
+  "title": "Besluit technische eenmaking Burgerlijke Rechtsvordering",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tijdelijke-tolheffing-blankenburgverbinding-en-via15": {
+  "bwb": "BWBR0048667",
+  "short": "Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15",
+  "title": "Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-09-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vrachtwagenheffing": {
+  "bwb": "BWBR0048668",
+  "short": "Besluit vrachtwagenheffing",
+  "title": "Besluit vrachtwagenheffing",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-tijdelijke-nieuwkomersvoorzieningen-in-het-onderwijs": {
+  "bwb": "BWBR0048729",
+  "short": "Tijdelijk besluit tijdelijke nieuwkomersvoorzieningen in het onderwijs",
+  "title": "Tijdelijk besluit tijdelijke nieuwkomersvoorzieningen in het onderwijs",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-10-11_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bufferstroken-meststoffen": {
+  "bwb": "BWBR0048762",
+  "short": "Besluit bufferstroken meststoffen",
+  "title": "Besluit bufferstroken meststoffen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-uitvoering-energiemarktverordeningen": {
+  "bwb": "BWBR0048768",
+  "short": "Tijdelijk besluit uitvoering energiemarktverordeningen",
+  "title": "Tijdelijk besluit uitvoering energiemarktverordeningen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-10-24_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-eenmalig-bedrag-ouderen-van-surinaamse-herkomst": {
+  "bwb": "BWBR0048840",
+  "short": "Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst",
+  "title": "Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-experimentenbesluit-nieuwe-stembiljetten": {
+  "bwb": "BWBR0048850",
+  "short": "Tijdelijk experimentenbesluit nieuwe stembiljetten",
+  "title": "Tijdelijk experimentenbesluit nieuwe stembiljetten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-wijzigingsverordening-europese-langetermijnbeleggingsinstellingen": {
+  "bwb": "BWBR0049014",
+  "short": "Uitvoeringsbesluit wijzigingsverordening Europese langetermijnbeleggingsinstellingen",
+  "title": "Uitvoeringsbesluit wijzigingsverordening Europese langetermijnbeleggingsinstellingen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-10_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-tarieven-in-strafzaken-2003-jaarlijkse-indexering-pro-justitia-r": {
+  "bwb": "BWBR0049031",
+  "short": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (jaarlijkse indexering Pro Justitia rapporteurs en minimumtarief tolken 2024)",
+  "title": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (jaarlijkse indexering Pro Justitia rapporteurs en minimumtarief tolken 2024)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-vergoeding-bewindvoerder-schuldsanering": {
+  "bwb": "BWBR0049063",
+  "short": "Besluit wijziging vergoeding bewindvoerder schuldsanering",
+  "title": "Besluit wijziging vergoeding bewindvoerder schuldsanering",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-cyberbeveiligingsverordening": {
+  "bwb": "BWBR0049070",
+  "short": "Uitvoeringsbesluit cyberbeveiligingsverordening",
+  "title": "Uitvoeringsbesluit cyberbeveiligingsverordening",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2023-12-16_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-implementatie-zesde-richtlijn-motorrijtuigenverzekering": {
+  "bwb": "BWBR0049090",
+  "short": "Besluit implementatie zesde richtlijn motorrijtuigenverzekering",
+  "title": "Besluit implementatie zesde richtlijn motorrijtuigenverzekering",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-10_0",
+  "as_of": "2026-11-03"
+ },
+ "eindejaarsbesluit-2023": {
+  "bwb": "BWBR0049134",
+  "short": "Eindejaarsbesluit 2023",
+  "title": "Eindejaarsbesluit 2023",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-02-21_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bestuurlijke-boete-visserijwet-1963": {
+  "bwb": "BWBR0049263",
+  "short": "Besluit bestuurlijke boete Visserijwet 1963",
+  "title": "Besluit bestuurlijke boete Visserijwet 1963",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-enz-jaarl-9": {
+  "bwb": "BWBR0049272",
+  "short": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2024)",
+  "title": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2024)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "inrichtingen-en-activiteitenbesluit-bes": {
+  "bwb": "BWBR0049276",
+  "short": "Inrichtingen- en activiteitenbesluit BES",
+  "title": "Inrichtingen- en activiteitenbesluit BES",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-rechtspositie-politie-2023": {
+  "bwb": "BWBR0049291",
+  "short": "Verzamelbesluit rechtspositie politie 2023",
+  "title": "Verzamelbesluit rechtspositie politie 2023",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-09-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-gemeentelijke-taak-mogelijk-maken-asielopvangvoorzieningen": {
+  "bwb": "BWBR0049310",
+  "short": "Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen",
+  "title": "Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-03-30_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-financiele-markten-2023": {
+  "bwb": "BWBR0049313",
+  "short": "Wijzigingsbesluit financiële markten 2023",
+  "title": "Wijzigingsbesluit financiële markten 2023",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-activiteiten-leefomgeving-enz-beperken-van-emissies-kooldioxide": {
+  "bwb": "BWBR0049368",
+  "short": "Wijzigingsbesluit Besluit activiteiten leefomgeving enz. (beperken van emissies kooldioxide door werkgebonden personenmobiliteit)",
+  "title": "Wijzigingsbesluit Besluit activiteiten leefomgeving enz. (beperken van emissies kooldioxide door werkgebonden personenmobiliteit)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-richtlijn-openbaarmaking-winstbelasting": {
+  "bwb": "BWBR0049420",
+  "short": "Implementatiebesluit Richtlijn openbaarmaking winstbelasting",
+  "title": "Implementatiebesluit Richtlijn openbaarmaking winstbelasting",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-06-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kwaliteit-incassodienstverlening": {
+  "bwb": "BWBR0049422",
+  "short": "Besluit kwaliteit incassodienstverlening",
+  "title": "Besluit kwaliteit incassodienstverlening",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beperkingengebied-weeze-en-wijzigingen-besluit-activiteiten-leefomgeving-en-omgevi": {
+  "bwb": "BWBR0049481",
+  "short": "Besluit beperkingengebied Weeze en wijzigingen Besluit activiteiten leefomgeving en Omgevingsbesluit",
+  "title": "Besluit beperkingengebied Weeze en wijzigingen Besluit activiteiten leefomgeving en Omgevingsbesluit",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-eu-verordeningen-wft": {
+  "bwb": "BWBR0049497",
+  "short": "Besluit EU-verordeningen Wft",
+  "title": "Besluit EU-verordeningen Wft",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-10-16_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-jeugdwet-enz-regels-ter-bevordering-goede-verhouding-prijs-en-kw": {
+  "bwb": "BWBR0049499",
+  "short": "Wijzigingsbesluit Besluit Jeugdwet, enz. (regels ter bevordering goede verhouding prijs en kwaliteit van door gemeenten te bekostigen preventie, jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering)",
+  "title": "Wijzigingsbesluit Besluit Jeugdwet, enz. (regels ter bevordering goede verhouding prijs en kwaliteit van door gemeenten te bekostigen preventie, jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-geslachtsnaamswijziging-inwerkingtreding-wet-introductie-gecombi": {
+  "bwb": "BWBR0049506",
+  "short": "Wijzigingsbesluit Besluit geslachtsnaamswijziging (inwerkingtreding Wet introductie gecombineerde geslachtsnaam)",
+  "title": "Wijzigingsbesluit Besluit geslachtsnaamswijziging (inwerkingtreding Wet introductie gecombineerde geslachtsnaam)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bevorderen-samenwerking-en-rechtmatige-zorg": {
+  "bwb": "BWBR0049565",
+  "short": "Besluit bevorderen samenwerking en rechtmatige zorg",
+  "title": "Besluit bevorderen samenwerking en rechtmatige zorg",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-inburgering-2021-enz-afschaffing-verblijfsgrond-voor-vermogende": {
+  "bwb": "BWBR0049575",
+  "short": "Wijzigingsbesluit Besluit inburgering 2021, enz. (afschaffing verblijfsgrond voor vermogende vreemdelingen, aanpassingen die voortvloeien uit de uitvoeringspraktijk en jurisprudentie en implementatie van EU-richtlijnen)",
+  "title": "Wijzigingsbesluit Besluit inburgering 2021, enz. (afschaffing verblijfsgrond voor vermogende vreemdelingen, aanpassingen die voortvloeien uit de uitvoeringspraktijk en jurisprudentie en implementatie van EU-richtlijnen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-04-17_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-vergoedingen-rechtsbijstand-2000-enz-vergoeding-reiskosten-en-ve": {
+  "bwb": "BWBR0049595",
+  "short": "Wijzigingsbesluit Besluit vergoedingen rechtsbijstand 2000, enz. (vergoeding reiskosten en vervolgverhoren, toeslagen, tijdschrijven, enz.)",
+  "title": "Wijzigingsbesluit Besluit vergoedingen rechtsbijstand 2000, enz. (vergoeding reiskosten en vervolgverhoren, toeslagen, tijdschrijven, enz.)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-experiment-dataminimalisatie-basisregistratie-personen": {
+  "bwb": "BWBR0049596",
+  "short": "Besluit experiment dataminimalisatie basisregistratie personen",
+  "title": "Besluit experiment dataminimalisatie basisregistratie personen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-04-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verplicht-elektronisch-procederen-in-civiele-prejudiciele-procedures-hoge-raad": {
+  "bwb": "BWBR0049597",
+  "short": "Besluit verplicht elektronisch procederen in civiele prejudiciële procedures Hoge Raad",
+  "title": "Besluit verplicht elektronisch procederen in civiele prejudiciële procedures Hoge Raad",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-richtlijn-beroepskwalificaties-binnenvaart": {
+  "bwb": "BWBR0049623",
+  "short": "Implementatiebesluit richtlijn beroepskwalificaties binnenvaart",
+  "title": "Implementatiebesluit richtlijn beroepskwalificaties binnenvaart",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-toegankelijkheidsvoorschriften-2024": {
+  "bwb": "BWBR0049688",
+  "short": "Warenwetbesluit toegankelijkheidsvoorschriften 2024",
+  "title": "Warenwetbesluit toegankelijkheidsvoorschriften 2024",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-11-26_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-geslachtsnaamswijziging-nazaten-van-tot-slaaf-gemaakten-en-tijdelijke-bekostiging": {
+  "bwb": "BWBR0049707",
+  "short": "Besluit geslachtsnaamswijziging nazaten van tot slaaf gemaakten en tijdelijke bekostiging",
+  "title": "Besluit geslachtsnaamswijziging nazaten van tot slaaf gemaakten en tijdelijke bekostiging",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-experiment-inspanningsplicht-ww": {
+  "bwb": "BWBR0049720",
+  "short": "Tijdelijk besluit experiment inspanningsplicht WW",
+  "title": "Tijdelijk besluit experiment inspanningsplicht WW",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-06-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-toegankelijkheidsvoorschriften-diensten-die-toegang-geven-tot-audiovi": {
+  "bwb": "BWBR0049740",
+  "short": "Implementatiebesluit toegankelijkheidsvoorschriften diensten die toegang geven tot audiovisuele mediadiensten",
+  "title": "Implementatiebesluit toegankelijkheidsvoorschriften diensten die toegang geven tot audiovisuele mediadiensten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-06-28_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-limitering-aansprakelijkheid-voor-terrorismeschade-luchtvaart": {
+  "bwb": "BWBR0049743",
+  "short": "Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart",
+  "title": "Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-23_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-toegankelijkheidsvoorschriften-personenvervoer-per-vliegtuig-en-over": {
+  "bwb": "BWBR0049746",
+  "short": "Implementatiebesluit toegankelijkheidsvoorschriften personenvervoer per vliegtuig en over water",
+  "title": "Implementatiebesluit toegankelijkheidsvoorschriften personenvervoer per vliegtuig en over water",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-06-28_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-toegankelijkheidsvoorschriften-e-boekdiensten": {
+  "bwb": "BWBR0049778",
+  "short": "Implementatiebesluit toegankelijkheidsvoorschriften e-boekdiensten",
+  "title": "Implementatiebesluit toegankelijkheidsvoorschriften e-boekdiensten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-06-28_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-specifieke-groepen-tijdelijke-huurovereenkomst": {
+  "bwb": "BWBR0049798",
+  "short": "Besluit specifieke groepen tijdelijke huurovereenkomst",
+  "title": "Besluit specifieke groepen tijdelijke huurovereenkomst",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-grondslag-verplicht-elektronisch-procederen-in-civiele-zaken": {
+  "bwb": "BWBR0049844",
+  "short": "Besluit grondslag verplicht elektronisch procederen in civiele zaken",
+  "title": "Besluit grondslag verplicht elektronisch procederen in civiele zaken",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-halt-feiten-2024": {
+  "bwb": "BWBR0049846",
+  "short": "Besluit aanwijzing Halt-feiten 2024",
+  "title": "Besluit aanwijzing Halt-feiten 2024",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-betaalbare-huur": {
+  "bwb": "BWBR0049892",
+  "short": "Besluit betaalbare huur",
+  "title": "Besluit betaalbare huur",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-huurprijzen-woonruimte-modernisering-van-het-waarderingsstelsel": {
+  "bwb": "BWBR0049904",
+  "short": "Wijzigingsbesluit Besluit huurprijzen woonruimte (modernisering van het waarderingsstelsel voor onzelfstandige woonruimte)",
+  "title": "Wijzigingsbesluit Besluit huurprijzen woonruimte (modernisering van het waarderingsstelsel voor onzelfstandige woonruimte)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-depositogarantie-2024": {
+  "bwb": "BWBR0049944",
+  "short": "Wijzigingsbesluit depositogarantie 2024",
+  "title": "Wijzigingsbesluit depositogarantie 2024",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-toegankelijkheidsvoorschriften-bankdiensten": {
+  "bwb": "BWBR0049950",
+  "short": "Implementatiebesluit toegankelijkheidsvoorschriften bankdiensten",
+  "title": "Implementatiebesluit toegankelijkheidsvoorschriften bankdiensten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-06-28_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-vuurwerkbesluit-implementatie-benelux-beschikking-betreffende-invoering": {
+  "bwb": "BWBR0049976",
+  "short": "Wijzigingsbesluit Vuurwerkbesluit (implementatie Benelux-beschikking betreffende invoering pyro-pass en enkele andere wijzigingen)",
+  "title": "Wijzigingsbesluit Vuurwerkbesluit (implementatie Benelux-beschikking betreffende invoering pyro-pass en enkele andere wijzigingen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-wijziging-verordening-centrale-effectenbewaarinstellingen": {
+  "bwb": "BWBR0049985",
+  "short": "Uitvoeringsbesluit wijziging verordening centrale effectenbewaarinstellingen",
+  "title": "Uitvoeringsbesluit wijziging verordening centrale effectenbewaarinstellingen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-16_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-specifieke-uitkering-regio-deals-vierde-vijfde-en-zesde-tranche": {
+  "bwb": "BWBR0050035",
+  "short": "Besluit specifieke uitkering Regio Deals vierde, vijfde en zesde tranche",
+  "title": "Besluit specifieke uitkering Regio Deals vierde, vijfde en zesde tranche",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-07-20_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-zorgverzekering-invoering-van-maatregelen-voor-de-vereveningsjar": {
+  "bwb": "BWBR0050201",
+  "short": "Wijzigingsbesluit Besluit zorgverzekering (invoering van maatregelen voor de vereveningsjaren 2023 en 2024)",
+  "title": "Wijzigingsbesluit Besluit zorgverzekering (invoering van maatregelen voor de vereveningsjaren 2023 en 2024)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-09-14_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-doorberekening-kosten-college-van-toezicht": {
+  "bwb": "BWBR0050209",
+  "short": "Besluit wijziging doorberekening kosten College van Toezicht",
+  "title": "Besluit wijziging doorberekening kosten College van Toezicht",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-toegankelijkheidsvoorschriften-elektronische-communicatiediensten": {
+  "bwb": "BWBR0050223",
+  "short": "Implementatiebesluit toegankelijkheidsvoorschriften elektronische communicatiediensten",
+  "title": "Implementatiebesluit toegankelijkheidsvoorschriften elektronische communicatiediensten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-06-28_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-decentralisatie-en-integratie-uitkeringen-2020": {
+  "bwb": "BWBR0050238",
+  "short": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2020",
+  "title": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2020",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-nlqf": {
+  "bwb": "BWBR0050303",
+  "short": "Besluit NLQF",
+  "title": "Besluit NLQF",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-recht-nadeelcompensatie-bestuursorganen-centrale-overheid": {
+  "bwb": "BWBR0050308",
+  "short": "Besluit vaststelling recht nadeelcompensatie bestuursorganen centrale overheid",
+  "title": "Besluit vaststelling recht nadeelcompensatie bestuursorganen centrale overheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-omgevingswet-ienw-bodem-en-water-2025": {
+  "bwb": "BWBR0050376",
+  "short": "Verzamelbesluit Omgevingswet IENW bodem en water 2025",
+  "title": "Verzamelbesluit Omgevingswet IENW bodem en water 2025",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-beroepsgerelateerde-gezondheidsklachten-politie": {
+  "bwb": "BWBR0050377",
+  "short": "Besluit beroepsgerelateerde gezondheidsklachten politie",
+  "title": "Besluit beroepsgerelateerde gezondheidsklachten politie",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergelijking-buitenlandse-rechtsvormen": {
+  "bwb": "BWBR0050400",
+  "short": "Besluit vergelijking buitenlandse rechtsvormen",
+  "title": "Besluit vergelijking buitenlandse rechtsvormen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-12-12_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-maatschappelijke-ondersteuning-en-bestrijding-huiselijk-geweld-en-kindermishandeli": {
+  "bwb": "BWBR0050401",
+  "short": "Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES",
+  "title": "Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-algemene-rechtspositie-politie-enz-formalisering-arbeidsvoorwaar": {
+  "bwb": "BWBR0050402",
+  "short": "Wijzigingsbesluit Besluit algemene rechtspositie politie, enz. (formalisering Arbeidsvoorwaardenakkoord sector politie 2024–2025)",
+  "title": "Wijzigingsbesluit Besluit algemene rechtspositie politie, enz. (formalisering Arbeidsvoorwaardenakkoord sector politie 2024–2025)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-besluit-bouwwerken-leefomgeving-2024": {
+  "bwb": "BWBR0050515",
+  "short": "Verzamelbesluit Besluit bouwwerken leefomgeving 2024",
+  "title": "Verzamelbesluit Besluit bouwwerken leefomgeving 2024",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "warenwetbesluit-uitvoering-verordening-algemene-productveiligheid-en-verordening-inzake-ac": {
+  "bwb": "BWBR0050525",
+  "short": "Warenwetbesluit uitvoering verordening algemene productveiligheid en verordening inzake accreditatie",
+  "title": "Warenwetbesluit uitvoering verordening algemene productveiligheid en verordening inzake accreditatie",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-05-09_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-tarieven-in-strafzaken-2003-jaarlijkse-indexering-pro-justitia-r-2": {
+  "bwb": "BWBR0050526",
+  "short": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (jaarlijkse indexering Pro Justitia rapporteurs en minimumtarief tolken 2025)",
+  "title": "Wijzigingsbesluit Besluit tarieven in strafzaken 2003 (jaarlijkse indexering Pro Justitia rapporteurs en minimumtarief tolken 2025)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-financiele-markten-2024": {
+  "bwb": "BWBR0050535",
+  "short": "Wijzigingsbesluit financiële markten 2024",
+  "title": "Wijzigingsbesluit financiële markten 2024",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-vaststelling-bedragen-ex-artikelen-1359-1399-en-1400-boek-8-bw-b-2": {
+  "bwb": "BWBR0050572",
+  "short": "Wijzigingsbesluit Besluit vaststelling bedragen ex artikelen 1359, 1399 en 1400 Boek 8 BW (beperking aansprakelijkheid vervoerder bij vervoer door de lucht) 2024",
+  "title": "Wijzigingsbesluit Besluit vaststelling bedragen ex artikelen 1359, 1399 en 1400 Boek 8 BW (beperking aansprakelijkheid vervoerder bij vervoer door de lucht) 2024",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2024-12-28_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-mica-en-tfr": {
+  "bwb": "BWBR0050574",
+  "short": "Uitvoeringsbesluit MiCA en TFR",
+  "title": "Uitvoeringsbesluit MiCA en TFR",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-02-04_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-energie-vervoer-opheffen-uitsluiting-inboekbevoegdheid-geleverde": {
+  "bwb": "BWBR0050580",
+  "short": "Wijzigingsbesluit Besluit energie vervoer (opheffen uitsluiting inboekbevoegdheid geleverde biobrandstoffen en hernieuwbare brandstoffen aan luchtvaart en zeevaart en wijzigen spaarpercentages hernieuwbare brandstofeenheden, enz.)",
+  "title": "Wijzigingsbesluit Besluit energie vervoer (opheffen uitsluiting inboekbevoegdheid geleverde biobrandstoffen en hernieuwbare brandstoffen aan luchtvaart en zeevaart en wijzigen spaarpercentages hernieuwbare brandstofeenheden, enz.)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-activiteiten-leefomgeving-enz-in-verband-met-het-instellen-van-e": {
+  "bwb": "BWBR0050582",
+  "short": "Wijzigingsbesluit Besluit activiteiten leefomgeving, enz. (in verband met het instellen van een ZZS-emissiedatabase en een ZZS-emissieregister)",
+  "title": "Wijzigingsbesluit Besluit activiteiten leefomgeving, enz. (in verband met het instellen van een ZZS-emissiedatabase en een ZZS-emissieregister)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-minimumbelasting-2024": {
+  "bwb": "BWBR0050584",
+  "short": "Uitvoeringsbesluit minimumbelasting 2024",
+  "title": "Uitvoeringsbesluit minimumbelasting 2024",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "eindejaarsbesluit-2024": {
+  "bwb": "BWBR0050618",
+  "short": "Eindejaarsbesluit 2024",
+  "title": "Eindejaarsbesluit 2024",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verplicht-elektronisch-communiceren-professionele-wettelijke-vertegenwoordigers": {
+  "bwb": "BWBR0050659",
+  "short": "Besluit verplicht elektronisch communiceren professionele wettelijke vertegenwoordigers",
+  "title": "Besluit verplicht elektronisch communiceren professionele wettelijke vertegenwoordigers",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-gegevensverwerking-door-samenwerkingsverbanden": {
+  "bwb": "BWBR0050665",
+  "short": "Besluit gegevensverwerking door samenwerkingsverbanden",
+  "title": "Besluit gegevensverwerking door samenwerkingsverbanden",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verordening-digitale-operationele-weerbaarheid": {
+  "bwb": "BWBR0050670",
+  "short": "Uitvoeringsbesluit verordening digitale operationele weerbaarheid",
+  "title": "Uitvoeringsbesluit verordening digitale operationele weerbaarheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-17_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verordening-kapitaalvereisten-2025": {
+  "bwb": "BWBR0050673",
+  "short": "Uitvoeringsbesluit verordening kapitaalvereisten 2025",
+  "title": "Uitvoeringsbesluit verordening kapitaalvereisten 2025",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-enz-jaarl-10": {
+  "bwb": "BWBR0050674",
+  "short": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2025)",
+  "title": "Wijzigingsbesluit Wet administratiefrechtelijke handhaving verkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2025)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-arbeidsvoorwaardenakkoord-2123": {
+  "bwb": "BWBR0050691",
+  "short": "Wijzigingsbesluit arbeidsvoorwaardenakkoord 21–23",
+  "title": "Wijzigingsbesluit arbeidsvoorwaardenakkoord 21–23",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-01-17_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-besluit-experiment-regelrechter": {
+  "bwb": "BWBR0050709",
+  "short": "Tijdelijk besluit experiment regelrechter",
+  "title": "Tijdelijk besluit experiment regelrechter",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-publieke-gezondheid-enz-invoering-vergunningplicht-en-meldplicht": {
+  "bwb": "BWBR0050725",
+  "short": "Wijzigingsbesluit Besluit publieke gezondheid, enz. (invoering vergunningplicht en meldplicht ter zake verrichten van handelingen met poliovirus)",
+  "title": "Wijzigingsbesluit Besluit publieke gezondheid, enz. (invoering vergunningplicht en meldplicht ter zake verrichten van handelingen met poliovirus)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-10-25_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bescherming-slachtoffergegevens-in-processtukken": {
+  "bwb": "BWBR0050747",
+  "short": "Besluit bescherming slachtoffergegevens in processtukken",
+  "title": "Besluit bescherming slachtoffergegevens in processtukken",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-uitvoeringsbesluit-artikel-1065-boek-8-burgerlijk-wetboek": {
+  "bwb": "BWBR0050800",
+  "short": "Wijzigingsbesluit Uitvoeringsbesluit artikel 1065, Boek 8 Burgerlijk Wetboek",
+  "title": "Wijzigingsbesluit Uitvoeringsbesluit artikel 1065, Boek 8 Burgerlijk Wetboek",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verordening-instantovermakingen-in-euros": {
+  "bwb": "BWBR0050835",
+  "short": "Uitvoeringsbesluit verordening instantovermakingen in euro’s",
+  "title": "Uitvoeringsbesluit verordening instantovermakingen in euro’s",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-03-07_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verordening-europese-groene-obligaties": {
+  "bwb": "BWBR0050856",
+  "short": "Uitvoeringsbesluit verordening Europese groene obligaties",
+  "title": "Uitvoeringsbesluit verordening Europese groene obligaties",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-03-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-gegevensverwerking-persoonsgerichte-aanpak-radicalisering-en-terroristische-activi": {
+  "bwb": "BWBR0050899",
+  "short": "Besluit gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten",
+  "title": "Besluit gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-experiment-gesloten-coffeeshopketen-aanpassing-van-de-aanwijzing": {
+  "bwb": "BWBR0050923",
+  "short": "Wijzigingsbesluit Besluit experiment gesloten coffeeshopketen (aanpassing van de aanwijzing van een deelnemende gemeente en verduidelijking van enkele eisen voor de aangewezen telers en coffeeshophouders en uitbreiding van de bevoegdheid om een bestuurlijke boete op te leggen)",
+  "title": "Wijzigingsbesluit Besluit experiment gesloten coffeeshopketen (aanpassing van de aanwijzing van een deelnemende gemeente en verduidelijking van enkele eisen voor de aangewezen telers en coffeeshophouders en uitbreiding van de bevoegdheid om een bestuurlijke boete op te leggen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-04-05_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bemanning-zeeschepen": {
+  "bwb": "BWBR0050941",
+  "short": "Besluit bemanning zeeschepen",
+  "title": "Besluit bemanning zeeschepen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-kentekenreglement-registratie-en-kentekenplicht-bijzondere-bromfietsen": {
+  "bwb": "BWBR0050976",
+  "short": "Wijzigingsbesluit Kentekenreglement (registratie- en kentekenplicht bijzondere bromfietsen)",
+  "title": "Wijzigingsbesluit Kentekenreglement (registratie- en kentekenplicht bijzondere bromfietsen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-afwijkend-gebruik-frequentieruimte": {
+  "bwb": "BWBR0050986",
+  "short": "Besluit afwijkend gebruik frequentieruimte",
+  "title": "Besluit afwijkend gebruik frequentieruimte",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-04-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-cameratoezicht-douane": {
+  "bwb": "BWBR0051016",
+  "short": "Besluit cameratoezicht douane",
+  "title": "Besluit cameratoezicht douane",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-05-10_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingsbesluit-rijkswet-nationaliteit-zeeschepen": {
+  "bwb": "BWBR0051040",
+  "short": "Aanpassingsbesluit Rijkswet nationaliteit zeeschepen",
+  "title": "Aanpassingsbesluit Rijkswet nationaliteit zeeschepen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-coordinatie-terrorismebestrijding-en-nationale-veiligheid": {
+  "bwb": "BWBR0051085",
+  "short": "Besluit coördinatie terrorismebestrijding en nationale veiligheid",
+  "title": "Besluit coördinatie terrorismebestrijding en nationale veiligheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-06-04_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-verlenging-tijdelijke-overbruggingsregeling-windturbineparken": {
+  "bwb": "BWBR0051117",
+  "short": "Wijzigingsbesluit verlenging tijdelijke overbruggingsregeling windturbineparken",
+  "title": "Wijzigingsbesluit verlenging tijdelijke overbruggingsregeling windturbineparken",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-06-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-reglement-rijbewijzen-enz-vrijstelling-rijbewijs-c-en-tachograaf": {
+  "bwb": "BWBR0051121",
+  "short": "Wijzigingsbesluit Reglement rijbewijzen, enz. (Vrijstelling rijbewijs C en tachograaf)",
+  "title": "Wijzigingsbesluit Reglement rijbewijzen, enz. (Vrijstelling rijbewijs C en tachograaf)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-programmatuur-verkiezingsuitslagen": {
+  "bwb": "BWBR0051174",
+  "short": "Besluit programmatuur verkiezingsuitslagen",
+  "title": "Besluit programmatuur verkiezingsuitslagen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-emir-3-verordening-en-emir-3-richtlijn": {
+  "bwb": "BWBR0051236",
+  "short": "Uitvoeringsbesluit EMIR 3-verordening en EMIR 3-richtlijn",
+  "title": "Uitvoeringsbesluit EMIR 3-verordening en EMIR 3-richtlijn",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-15_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-richtlijn-kredietservicers-en-kredietkopers": {
+  "bwb": "BWBR0051280",
+  "short": "Implementatiebesluit richtlijn kredietservicers en kredietkopers",
+  "title": "Implementatiebesluit richtlijn kredietservicers en kredietkopers",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-07-18_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verordening-terroristische-online-inhoud": {
+  "bwb": "BWBR0051455",
+  "short": "Uitvoeringsbesluit verordening terroristische online-inhoud",
+  "title": "Uitvoeringsbesluit verordening terroristische online-inhoud",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-09-05_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-omgevingswet-ienw-milieu-2025": {
+  "bwb": "BWBR0051527",
+  "short": "Verzamelbesluit Omgevingswet IenW milieu 2025",
+  "title": "Verzamelbesluit Omgevingswet IenW milieu 2025",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-rechtspositie-politie-2025": {
+  "bwb": "BWBR0051529",
+  "short": "Verzamelbesluit rechtspositie politie 2025",
+  "title": "Verzamelbesluit rechtspositie politie 2025",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-09-23_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-uitvoeringsbesluit-wmo-2015-enz-afbouwen-compensatie-vervallen-ouderento": {
+  "bwb": "BWBR0051562",
+  "short": "Wijzigingsbesluit Uitvoeringsbesluit Wmo 2015 enz. (afbouwen compensatie vervallen ouderentoeslag en afschaffen extra vermogensvrijstelling)",
+  "title": "Wijzigingsbesluit Uitvoeringsbesluit Wmo 2015 enz. (afbouwen compensatie vervallen ouderentoeslag en afschaffen extra vermogensvrijstelling)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-kinderopvang-bes": {
+  "bwb": "BWBR0051582",
+  "short": "Besluit kinderopvang BES",
+  "title": "Besluit kinderopvang BES",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "luchthavenbesluit-eelde": {
+  "bwb": "BWBR0051670",
+  "short": "Luchthavenbesluit Eelde",
+  "title": "Luchthavenbesluit Eelde",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-erkenningen-wegverkeer": {
+  "bwb": "BWBR0051671",
+  "short": "Besluit erkenningen wegverkeer",
+  "title": "Besluit erkenningen wegverkeer",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-07-04_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-eu-verordeningen-grenzen-en-veiligheid": {
+  "bwb": "BWBR0051701",
+  "short": "Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid",
+  "title": "Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-06-12_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiebesluit-verordening-instantovermakingen-in-euros": {
+  "bwb": "BWBR0051735",
+  "short": "Implementatiebesluit verordening instantovermakingen in euro’s",
+  "title": "Implementatiebesluit verordening instantovermakingen in euro’s",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-11-19_0",
+  "as_of": "2026-11-03"
+ },
+ "energiebesluit": {
+  "bwb": "BWBR0051745",
+  "short": "Energiebesluit",
+  "title": "Energiebesluit",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verbetering-beschikbaarheid-jeugdzorg": {
+  "bwb": "BWBR0051759",
+  "short": "Besluit verbetering beschikbaarheid jeugdzorg",
+  "title": "Besluit verbetering beschikbaarheid jeugdzorg",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelbesluit-justitie-en-veiligheid-en-asiel-en-migratie-2026": {
+  "bwb": "BWBR0051763",
+  "short": "Verzamelbesluit Justitie en Veiligheid en Asiel en Migratie 2026",
+  "title": "Verzamelbesluit Justitie en Veiligheid en Asiel en Migratie 2026",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-activiteiten-leefomgeving-enz-invoering-verstrekken-afschrift-bi": {
+  "bwb": "BWBR0051799",
+  "short": "Wijzigingsbesluit Besluit activiteiten leefomgeving, enz. (invoering verstrekken afschrift bij afwijking circulair materialenplan, wijziging landelijk afvalbeheerplan in circulair materialenplan en nadere invulling doelmatig beheer afvalstoffen)",
+  "title": "Wijzigingsbesluit Besluit activiteiten leefomgeving, enz. (invoering verstrekken afschrift bij afwijking circulair materialenplan, wijziging landelijk afvalbeheerplan in circulair materialenplan en nadere invulling doelmatig beheer afvalstoffen)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-12-30_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-terugvordering-werknemersverzekeringen-bes": {
+  "bwb": "BWBR0051904",
+  "short": "Besluit terugvordering werknemersverzekeringen BES",
+  "title": "Besluit terugvordering werknemersverzekeringen BES",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-wet-administratiefrechtelijke-handhavingverkeersvoorschriften-enz-jaarli": {
+  "bwb": "BWBR0051940",
+  "short": "Wijzigingsbesluit Wet administratiefrechtelijke handhavingverkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2026)",
+  "title": "Wijzigingsbesluit Wet administratiefrechtelijke handhavingverkeersvoorschriften, enz. (jaarlijkse indexering tarieven 2026)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "fiscaal-verzamelbesluit-2025": {
+  "bwb": "BWBR0051948",
+  "short": "Fiscaal verzamelbesluit 2025",
+  "title": "Fiscaal verzamelbesluit 2025",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2025-12-12_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-gegevensverwerking-bij-discriminatie-op-de-bes": {
+  "bwb": "BWBR0051964",
+  "short": "Besluit gegevensverwerking bij discriminatie op de BES",
+  "title": "Besluit gegevensverwerking bij discriminatie op de BES",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-van-school-naar-duurzaam-werk": {
+  "bwb": "BWBR0051966",
+  "short": "Besluit van school naar duurzaam werk",
+  "title": "Besluit van school naar duurzaam werk",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-vergoedingen-rechtsbijstand-2000-enz-aanpassing-enkele-vergoedin": {
+  "bwb": "BWBR0051970",
+  "short": "Wijzigingsbesluit Besluit vergoedingen rechtsbijstand 2000, enz. (aanpassing enkele vergoedingen voor rechtsbijstandverleners en mediators en uitbreiding bevoorschotting)",
+  "title": "Wijzigingsbesluit Besluit vergoedingen rechtsbijstand 2000, enz. (aanpassing enkele vergoedingen voor rechtsbijstandverleners en mediators en uitbreiding bevoorschotting)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-verbod-gebruik-elektrische-veedrijfmiddelen-bij-dieren-in-de-veehouderij": {
+  "bwb": "BWBR0051975",
+  "short": "Besluit verbod gebruik elektrische veedrijfmiddelen bij dieren in de veehouderij",
+  "title": "Besluit verbod gebruik elektrische veedrijfmiddelen bij dieren in de veehouderij",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-uitvoering-pensioenwet-en-wet-verplichte-beroepspensioenregeling": {
+  "bwb": "BWBR0052001",
+  "short": "Wijzigingsbesluit Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, enz. (uitvoering pensioentransitie)",
+  "title": "Wijzigingsbesluit Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, enz. (uitvoering pensioentransitie)",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "eindejaarsbesluit-2025": {
+  "bwb": "BWBR0052072",
+  "short": "Eindejaarsbesluit 2025",
+  "title": "Eindejaarsbesluit 2025",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanpassingen-eisen-voor-asos-en-fisos": {
+  "bwb": "BWBR0052139",
+  "short": "Besluit aanpassingen eisen voor ASO’s en FISO’s",
+  "title": "Besluit aanpassingen eisen voor ASO’s en FISO’s",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-01-09_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-regels-vervolgfuncties-bewindspersonen": {
+  "bwb": "BWBR0052295",
+  "short": "Besluit regels vervolgfuncties bewindspersonen",
+  "title": "Besluit regels vervolgfuncties bewindspersonen",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-02-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-veiligheid-en-kwaliteit-lichaamsmateriaal": {
+  "bwb": "BWBR0052544",
+  "short": "Besluit veiligheid en kwaliteit lichaamsmateriaal",
+  "title": "Besluit veiligheid en kwaliteit lichaamsmateriaal",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringsbesluit-verzamel-en-verificatievereisten-voor-rapporterende-aanbieders-van-cryp": {
+  "bwb": "BWBR0052571",
+  "short": "Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende aanbieders van cryptoactivadiensten",
+  "title": "Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende aanbieders van cryptoactivadiensten",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-04-24_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-bestuursrechtelijke-aanpak-online-kinderpornografisch-materiaal": {
+  "bwb": "BWBR0052573",
+  "short": "Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal",
+  "title": "Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal",
+  "part": "bwb-now-amvb-004",
+  "current_label": "2026-04-25_0",
+  "as_of": "2026-11-03"
  }
 }

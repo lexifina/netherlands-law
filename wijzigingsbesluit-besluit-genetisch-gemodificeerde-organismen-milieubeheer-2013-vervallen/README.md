@@ -1,0 +1,8 @@
+# Wijzigingsbesluit Besluit genetisch gemodificeerde organismen milieubeheer 2013 (vervallen onderscheid II-k en II-v en wijziging procedure gentherapie)
+
+Wijzigingsbesluit Besluit genetisch gemodificeerde organismen milieubeheer 2013 (vervallen onderscheid II-k en II-v en wijziging procedure gentherapie) · 1 versions, from 2021-12-23 (latest in force: 2021-12-23) · <https://wetten.overheid.nl/BWBR0044292>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. I | [add-art-01.md](add-art-01.md) | 0 |  |
+| Art. III | [add-art-03.md](add-art-03.md) | 0 |  |
