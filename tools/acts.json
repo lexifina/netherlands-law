@@ -15347,5 +15347,189 @@
   "part": "bwb-now-wet-004",
   "current_label": "2014-07-05_0",
   "as_of": "2026-11-03"
+ },
+ "invoeringswet-participatiewet": {
+  "bwb": "BWBR0035333",
+  "short": "Invoeringswet Participatiewet",
+  "title": "Invoeringswet Participatiewet",
+  "part": "bwb-now-wet-005",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "ijkwet-bes-2014": {
+  "bwb": "BWBR0035310",
+  "short": "IJkwet BES 2014",
+  "title": "IJkwet BES 2014",
+  "part": "bwb-now-wet-005",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-tegemoetkoming-chronisch-zieken-en-gehandicapten-enz-afschaffing-algemen": {
+  "bwb": "BWBR0035323",
+  "short": "Wijzigingswet Wet tegemoetkoming chronisch zieken en gehandicapten, enz. (afschaffing algemene tegemoetkoming chronisch zieken en gehandicapten, enz.)",
+  "title": "Wijzigingswet Wet tegemoetkoming chronisch zieken en gehandicapten, enz. (afschaffing algemene tegemoetkoming chronisch zieken en gehandicapten, enz.)",
+  "part": "bwb-now-wet-005",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-maatregelen-wet-werk-en-bijstand-en-enkele-andere-wetten": {
+  "bwb": "BWBR0035385",
+  "short": "Wet maatregelen Wet werk en bijstand en enkele andere wetten",
+  "title": "Wet maatregelen Wet werk en bijstand en enkele andere wetten",
+  "part": "bwb-now-wet-005",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-participatiebudget-enz-invoeren-specifieke-uitkering-educatie-en-vervall": {
+  "bwb": "BWBR0035386",
+  "short": "Wijzigingswet Wet participatiebudget, enz. (invoeren specifieke uitkering educatie en vervallen verplichte besteding educatiemiddelen bij regionale opleidingencentra)",
+  "title": "Wijzigingswet Wet participatiebudget, enz. (invoeren specifieke uitkering educatie en vervallen verplichte besteding educatiemiddelen bij regionale opleidingencentra)",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-gemeenschappelijke-regelingen-enz-dualisering-gemeente-en-provinciebestu": {
+  "bwb": "BWBR0035457",
+  "short": "Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.)",
+  "title": "Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.)",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-ontwerpen-voor-bewegwijzering": {
+  "bwb": "BWBR0035492",
+  "short": "Wijzigingswet Wegenverkeerswet 1994 (ontwerpen voor bewegwijzering)",
+  "title": "Wijzigingswet Wegenverkeerswet 1994 (ontwerpen voor bewegwijzering)",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-comptabiliteitswet-2001-zesde-wijziging": {
+  "bwb": "BWBR0035493",
+  "short": "Wijzigingswet Comptabiliteitswet 2001 (zesde wijziging)",
+  "title": "Wijzigingswet Comptabiliteitswet 2001 (zesde wijziging)",
+  "part": "bwb-now-wet-005",
+  "current_label": "2014-08-28_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-en-burgerlijk-wetboek-transparanter": {
+  "bwb": "BWBR0035637",
+  "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering en Burgerlijk Wetboek (transparanter en voor een breder publiek toegankelijk maken van de executoriale verkoop van onroerende zaken)",
+  "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering en Burgerlijk Wetboek (transparanter en voor een breder publiek toegankelijk maken van de executoriale verkoop van onroerende zaken)",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-positie-en-toezicht-advocatuur": {
+  "bwb": "BWBR0035645",
+  "short": "Wet positie en toezicht advocatuur",
+  "title": "Wet positie en toezicht advocatuur",
+  "part": "bwb-now-wet-005",
+  "current_label": "2020-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-koopkrachttegemoetkoming-lage-inkomens": {
+  "bwb": "BWBR0035651",
+  "short": "Wet koopkrachttegemoetkoming lage inkomens",
+  "title": "Wet koopkrachttegemoetkoming lage inkomens",
+  "part": "bwb-now-wet-005",
+  "current_label": "2014-10-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-uitbreiding-reikwijdte-recidiveregeling-ernstige-verke": {
+  "bwb": "BWBR0035652",
+  "short": "Wijzigingswet Wegenverkeerswet 1994 (uitbreiding reikwijdte recidiveregeling ernstige verkeersdelicten)",
+  "title": "Wijzigingswet Wegenverkeerswet 1994 (uitbreiding reikwijdte recidiveregeling ernstige verkeersdelicten)",
+  "part": "bwb-now-wet-005",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-elektronische-dienstverlening-burgerlijke-stand": {
+  "bwb": "BWBR0035653",
+  "short": "Wet elektronische dienstverlening burgerlijke stand",
+  "title": "Wet elektronische dienstverlening burgerlijke stand",
+  "part": "bwb-now-wet-005",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-verordening-erfrecht": {
+  "bwb": "BWBR0035741",
+  "short": "Uitvoeringswet Verordening erfrecht",
+  "title": "Uitvoeringswet Verordening erfrecht",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-08-17_0",
+  "as_of": "2026-11-03"
+ },
+ "invoeringswet-jeugdwet": {
+  "bwb": "BWBR0035782",
+  "short": "Invoeringswet Jeugdwet",
+  "title": "Invoeringswet Jeugdwet",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "reparatiewet-wnt": {
+  "bwb": "BWBR0035812",
+  "short": "Reparatiewet WNT",
+  "title": "Reparatiewet WNT",
+  "part": "bwb-now-wet-005",
+  "current_label": "2014-11-28_0",
+  "as_of": "2026-11-03"
+ },
+ "reparatiewet-bzk-2014": {
+  "bwb": "BWBR0035826",
+  "short": "Reparatiewet BZK 2014",
+  "title": "Reparatiewet BZK 2014",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-maximering-pensioengevend-loon-appa": {
+  "bwb": "BWBR0035851",
+  "short": "Wet maximering pensioengevend loon Appa",
+  "title": "Wet maximering pensioengevend loon Appa",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-op-de-raad-voor-volksgezondheid-en-samenleving": {
+  "bwb": "BWBR0035852",
+  "short": "Wet op de Raad voor volksgezondheid en samenleving",
+  "title": "Wet op de Raad voor volksgezondheid en samenleving",
+  "part": "bwb-now-wet-005",
+  "current_label": "2023-10-05_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-dierproeven-enz-implementatie-richtlijn-2010-63-eu": {
+  "bwb": "BWBR0035875",
+  "short": "Wijzigingswet Wet op de dierproeven, enz. (implementatie richtlijn 2010/63/EU)",
+  "title": "Wijzigingswet Wet op de dierproeven, enz. (implementatie richtlijn 2010/63/EU)",
+  "part": "bwb-now-wet-005",
+  "current_label": "2014-12-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-financiele-markten-2015": {
+  "bwb": "BWBR0035877",
+  "short": "Wijzigingswet financiële markten 2015",
+  "title": "Wijzigingswet financiële markten 2015",
+  "part": "bwb-now-wet-005",
+  "current_label": "2019-07-21_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-stelsel-openbare-bibliotheekvoorzieningen": {
+  "bwb": "BWBR0035878",
+  "short": "Wet stelsel openbare bibliotheekvoorzieningen",
+  "title": "Wet stelsel openbare bibliotheekvoorzieningen",
+  "part": "bwb-now-wet-005",
+  "current_label": "2022-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "fiscale-verzamelwet-2014": {
+  "bwb": "BWBR0035898",
+  "short": "Fiscale verzamelwet 2014",
+  "title": "Fiscale verzamelwet 2014",
+  "part": "bwb-now-wet-005",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
  }
 }

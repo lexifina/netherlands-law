@@ -2009,6 +2009,29 @@ The acts below have one version so far: the version in force on the day it was r
 | `wijzigingswet-wet-overdracht-tenuitvoerlegging-strafvonnissen-enz-aanvulling-bepaling-proc/` | [Wijzigingswet Wet overdracht tenuitvoerlegging strafvonnissen, enz. (aanvulling bepaling procedure voortgezette tenuitvoerlegging)](https://wetten.overheid.nl/BWBR0035272) | BWBR0035272 | wet | 2015-01-01 |
 | `wijzigingswet-instellingswet-autoriteit-consument-en-markt-enz-stroomlijning-markttoezicht/` | [Wijzigingswet Instellingswet Autoriteit Consument en Markt, enz. (stroomlijning markttoezicht ACM)](https://wetten.overheid.nl/BWBR0035297) | BWBR0035297 | wet | 2017-01-01 |
 | `wet-samenvoeging-gemeenten-bergambacht-nederlek-ouderkerk-schoonhoven-en-vlist/` | [Wet samenvoeging gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist](https://wetten.overheid.nl/BWBR0035300) | BWBR0035300 | wet | 2014-07-05 |
+| `invoeringswet-participatiewet/` | [Invoeringswet Participatiewet](https://wetten.overheid.nl/BWBR0035333) | BWBR0035333 | wet | 2018-01-01 |
+| `ijkwet-bes-2014/` | [IJkwet BES 2014](https://wetten.overheid.nl/BWBR0035310) | BWBR0035310 | wet-BES | 2019-01-01 |
+| `wijzigingswet-wet-tegemoetkoming-chronisch-zieken-en-gehandicapten-enz-afschaffing-algemen/` | [Wijzigingswet Wet tegemoetkoming chronisch zieken en gehandicapten, enz. (afschaffing algemene tegemoetkoming chronisch zieken en gehandicapten, enz.)](https://wetten.overheid.nl/BWBR0035323) | BWBR0035323 | wet | 2016-01-01 |
+| `wet-maatregelen-wet-werk-en-bijstand-en-enkele-andere-wetten/` | [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/BWBR0035385) | BWBR0035385 | wet | 2018-01-01 |
+| `wijzigingswet-wet-participatiebudget-enz-invoeren-specifieke-uitkering-educatie-en-vervall/` | [Wijzigingswet Wet participatiebudget, enz. (invoeren specifieke uitkering educatie en vervallen verplichte besteding educatiemiddelen bij regionale opleidingencentra)](https://wetten.overheid.nl/BWBR0035386) | BWBR0035386 | wet | 2015-01-01 |
+| `wijzigingswet-wet-gemeenschappelijke-regelingen-enz-dualisering-gemeente-en-provinciebestu/` | [Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.)](https://wetten.overheid.nl/BWBR0035457) | BWBR0035457 | wet | 2015-01-01 |
+| `wijzigingswet-wegenverkeerswet-1994-ontwerpen-voor-bewegwijzering/` | [Wijzigingswet Wegenverkeerswet 1994 (ontwerpen voor bewegwijzering)](https://wetten.overheid.nl/BWBR0035492) | BWBR0035492 | wet | 2015-01-01 |
+| `wijzigingswet-comptabiliteitswet-2001-zesde-wijziging/` | [Wijzigingswet Comptabiliteitswet 2001 (zesde wijziging)](https://wetten.overheid.nl/BWBR0035493) | BWBR0035493 | wet | 2014-08-28 |
+| `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-en-burgerlijk-wetboek-transparanter/` | [Wijzigingswet Wetboek van Burgerlijke Rechtsvordering en Burgerlijk Wetboek (transparanter en voor een breder publiek toegankelijk maken van de executoriale verkoop van onroerende zaken)](https://wetten.overheid.nl/BWBR0035637) | BWBR0035637 | wet | 2015-01-01 |
+| `wet-positie-en-toezicht-advocatuur/` | [Wet positie en toezicht advocatuur](https://wetten.overheid.nl/BWBR0035645) | BWBR0035645 | wet | 2020-03-01 |
+| `wet-koopkrachttegemoetkoming-lage-inkomens/` | [Wet koopkrachttegemoetkoming lage inkomens](https://wetten.overheid.nl/BWBR0035651) | BWBR0035651 | wet | 2014-10-18 |
+| `wijzigingswet-wegenverkeerswet-1994-uitbreiding-reikwijdte-recidiveregeling-ernstige-verke/` | [Wijzigingswet Wegenverkeerswet 1994 (uitbreiding reikwijdte recidiveregeling ernstige verkeersdelicten)](https://wetten.overheid.nl/BWBR0035652) | BWBR0035652 | wet | 2017-07-01 |
+| `wet-elektronische-dienstverlening-burgerlijke-stand/` | [Wet elektronische dienstverlening burgerlijke stand](https://wetten.overheid.nl/BWBR0035653) | BWBR0035653 | wet | 2020-01-01 |
+| `uitvoeringswet-verordening-erfrecht/` | [Uitvoeringswet Verordening erfrecht](https://wetten.overheid.nl/BWBR0035741) | BWBR0035741 | wet | 2015-08-17 |
+| `invoeringswet-jeugdwet/` | [Invoeringswet Jeugdwet](https://wetten.overheid.nl/BWBR0035782) | BWBR0035782 | wet | 2015-04-01 |
+| `reparatiewet-wnt/` | [Reparatiewet WNT](https://wetten.overheid.nl/BWBR0035812) | BWBR0035812 | wet | 2014-11-28 |
+| `reparatiewet-bzk-2014/` | [Reparatiewet BZK 2014](https://wetten.overheid.nl/BWBR0035826) | BWBR0035826 | wet | 2015-01-01 |
+| `wet-maximering-pensioengevend-loon-appa/` | [Wet maximering pensioengevend loon Appa](https://wetten.overheid.nl/BWBR0035851) | BWBR0035851 | wet | 2015-01-01 |
+| `wet-op-de-raad-voor-volksgezondheid-en-samenleving/` | [Wet op de Raad voor volksgezondheid en samenleving](https://wetten.overheid.nl/BWBR0035852) | BWBR0035852 | wet | 2023-10-05 |
+| `wijzigingswet-wet-op-de-dierproeven-enz-implementatie-richtlijn-2010-63-eu/` | [Wijzigingswet Wet op de dierproeven, enz. (implementatie richtlijn 2010/63/EU)](https://wetten.overheid.nl/BWBR0035875) | BWBR0035875 | wet | 2014-12-18 |
+| `wijzigingswet-financiele-markten-2015/` | [Wijzigingswet financiële markten 2015](https://wetten.overheid.nl/BWBR0035877) | BWBR0035877 | wet | 2019-07-21 |
+| `wet-stelsel-openbare-bibliotheekvoorzieningen/` | [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/BWBR0035878) | BWBR0035878 | wet | 2022-07-01 |
+| `fiscale-verzamelwet-2014/` | [Fiscale verzamelwet 2014](https://wetten.overheid.nl/BWBR0035898) | BWBR0035898 | wet | 2015-01-01 |
 
 ## A lawyer's questions as git commands
 
