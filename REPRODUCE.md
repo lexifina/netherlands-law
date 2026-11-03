@@ -184,6 +184,20 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -16130,6 +16144,2687 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `regeling-instelling-taxicommissie` | Regeling instelling Taxicommissie | 2 | 1991-10-16 to 2004-05-01 |
 | `regeling-omschrijving-gewezen-deelnemer` | Regeling omschrijving gewezen deelnemer | 2 | 1992-01-01 to 2007-01-01 |
 | `uitvoeringsregeling-wir-temporisering` | Uitvoeringsregeling WIR-temporisering | 2 | 1994-01-01 to 2008-04-01 |
+| `regeling-toelating-onderdanen-eeg-lid-staten-tot-de-uitoefening-van-de-diergeneeskunde` | Regeling toelating onderdanen EEG lid-staten tot de uitoefening van de diergeneeskunde | 2 | 2002-12-26 to 2008-09-21 |
+| `definitieve-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-a-w-b-z-1991` | Definitieve vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en a.w.b.z. 1991 | 2 | 1991-11-26 to 2004-08-28 |
+| `besteedbare-middelen-ter-dekking-van-de-kosten-van-verstrekkingen-en-vergoedingen-ziekenfo-2` | Besteedbare middelen ter dekking van de kosten van verstrekkingen en vergoedingen ziekenfondsverzekering 1992 | 2 | 1992-01-01 to 2004-08-28 |
+| `uniform-aanbestedingsreglement-eg-1991` | Uniform Aanbestedingsreglement EG 1991 | 2 | 2002-07-10 to 2004-08-15 |
+| `aanwijzing-instelling-belast-met-afgifte-klein-vaarbewijs` | Aanwijzing instelling belast met afgifte klein vaarbewijs | 2 | 1992-01-01 to 2009-07-01 |
+| `wijzigingsregeling-regeling-gratificatie-bij-ambtsjubileum` | Wijzigingsregeling Regeling gratificatie bij ambtsjubileum | 2 | 1991-12-13 to 2007-12-22 |
+| `instelling-directie-facilitaire-zaken` | Instelling Directie Facilitaire Zaken | 2 | 1991-12-20 to 2004-05-01 |
+| `besteedbare-middelen-ter-dekking-van-kosten-van-verstrekkingen-en-vergoedingen-ziekenfonds` | Besteedbare middelen ter dekking van kosten van verstrekkingen en vergoedingen ziekenfondsverzekering 1991 | 2 | 1992-03-01 to 2004-08-28 |
+| `voorlopige-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-awbz-1992` | Voorlopige vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en AWBZ 1992 | 2 | 1992-01-01 to 2004-08-28 |
+| `uitvoering-artikel-19-in-en-uitvoerwet-2` | Uitvoering artikel 19 In- en uitvoerwet | 2 | 1996-06-01 to 2008-08-01 |
+| `gelijkstelling-van-uitkeringen-met-ouderdomspensioen` | Gelijkstelling van uitkeringen met ouderdomspensioen | 2 | 1992-06-01 to 2012-03-01 |
+| `regeling-aanwijzing-artikel-29-ambtenaar` | Regeling aanwijzing artikel 29 ambtenaar | 2 | 1992-10-01 to 2009-05-01 |
+| `aanwijzingsbeschikking-bijzonder-opsporingsambtenaar-scheepvaart-en-luchtvaartinspectie` | Aanwijzingsbeschikking bijzonder opsporingsambtenaar Scheepvaart- en Luchtvaartinspectie | 2 | 1992-01-01 to 2005-01-02 |
+| `nadere-regeling-inschrijving-bijzondere-ziektekostenverzekering` | Nadere regeling inschrijving bijzondere ziektekostenverzekering | 2 | 2001-07-22 to 2006-01-01 |
+| `herziening-kinderbijslagbedragen-per-1-januari-1992` | Herziening kinderbijslagbedragen per 1 januari 1992 | 2 | 1992-01-01 to 2008-09-25 |
+| `ministeriele-regeling-ingevolge-art-7-a-k-w-werkloze-schoolverlaters` | Ministeriële regeling ingevolge art. 7 a.k.w. werkloze schoolverlaters | 2 | 2002-02-23 to 2008-09-25 |
+| `vaststelling-omroepbijdragen` | Vaststelling omroepbijdragen | 2 | 1992-01-01 to 2009-01-01 |
+| `regeling-hulp-in-het-buitenland-awbz` | Regeling hulp in het buitenland AWBZ | 2 | 2001-07-22 to 2005-02-01 |
+| `vaststelling-premies-geneeskundige-verzorging-politie-1992` | Vaststelling premies geneeskundige verzorging politie 1992 | 2 | 1992-01-01 to 2005-02-01 |
+| `regeling-kabeljauw-en-wijtingvisserij-1992` | Regeling kabeljauw- en wijtingvisserij 1992 | 2 | 1992-11-14 to 2004-01-24 |
+| `regeling-verzilvering-formatierekeneenheden-schooljaar-19921993` | Regeling verzilvering formatierekeneenheden schooljaar 1992–1993 | 2 | 1992-08-01 to 2004-12-31 |
+| `regeling-examenprogramma-geschiedenis-en-staatsinrichting-v-w-o-h-a-v-o-m-a-v-o-l-b-o` | Regeling examenprogramma geschiedenis en staatsinrichting v.w.o.-h.a.v.o.-m.a.v.o.-l.b.o. | 2 | 1998-08-01 to 2004-12-31 |
+| `regeling-model-borden-en-biljetten-vogelziekten` | Regeling model borden en biljetten vogelziekten | 2 | 1992-01-11 to 2004-01-24 |
+| `vaststelling-premies-geneeskundige-verzorging-politie-1992-2` | Vaststelling premies geneeskundige verzorging politie 1992 | 2 | 1992-01-01 to 2005-02-01 |
+| `onderwijsbevoegdheid-verbonden-aan-akten-van-bekwaamheid-techniek` | Onderwijsbevoegdheid verbonden aan akten van bekwaamheid techniek | 2 | 1992-01-20 to 2006-08-01 |
+| `onderwijsbevoegdheid-verbonden-aan-verschillende-akten-van-bekwaamheid` | Onderwijsbevoegdheid verbonden aan verschillende akten van bekwaamheid | 2 | 1992-01-20 to 2006-08-01 |
+| `aanwijzing-ambtenaren-belast-met-toezicht` | Aanwijzing ambtenaren belast met toezicht | 2 | 2004-12-18 to 2007-09-01 |
+| `buitentoepassingsverklaring-artikel-9-derde-tot-en-met-vijfde-lid-voor-stichting-bloemboll` | Buitentoepassingsverklaring artikel 9, derde tot en met vijfde lid, voor Stichting Bloembollenkeuringsdienst | 2 | 1992-01-29 to 2010-01-01 |
+| `vaststelling-eindtermen-administratie-sector-economie-middelbaar-beroepsonderwijs-m-b-o` | Vaststelling eindtermen administratie, sector Economie, middelbaar beroepsonderwijs (m.b.o.) | 2 | 1993-08-01 to 2008-08-01 |
+| `geldigheidsduur-certificaten-examenonderdelen-m-d-g-o-ag-aa` | Geldigheidsduur certificaten examenonderdelen m.d.g.o.-AG/AA | 2 | 1992-02-22 to 2004-12-31 |
+| `regeling-vaststelling-registratieformulier-dierlijke-meststoffen-1992` | Regeling vaststelling registratieformulier dierlijke meststoffen 1992 | 2 | 1992-02-01 to 2004-01-24 |
+| `thema-s-voor-het-centraal-examen-maatschappijleer-19931994` | Thema's voor het centraal examen maatschappijleer 1993–1994 | 2 | 1992-02-08 to 2004-12-31 |
+| `instelling-coordinerend-eg-fraudeberaad` | Instelling coördinerend EG-fraudeberaad | 2 | 1992-02-01 to 2005-01-02 |
+| `instelling-stuurgroep-decentralisatie-beheer-natte-waterstaatswerken` | Instelling Stuurgroep Decentralisatie Beheer Natte Waterstaatswerken | 2 | 1992-03-06 to 2004-05-01 |
+| `wijzigingsregeling-beschikking-superheffing-1988-enz` | Wijzigingsregeling Beschikking superheffing 1988, enz. | 2 | 1992-02-19 to 2004-01-24 |
+| `wijziging-organisatiebeschikking-vrom` | Wijziging Organisatiebeschikking VROM | 2 | 1992-04-01 to 2005-01-01 |
+| `instellingsbeschikking-commissie-voor-evaluatie-van-de-nederlandse-organisatie-voor-techno` | Instellingsbeschikking Commissie voor Evaluatie van de Nederlandse Organisatie voor Technologisch Aspectenonderzoek (NOTA) | 2 | 1992-03-21 to 2004-12-31 |
+| `algemene-mandaatregeling-defensie-1992` | Algemene mandaatregeling Defensie 1992 | 2 | 1992-02-24 to 2005-01-01 |
+| `algemeen-organisatiebesluit-defensie-1992` | Algemeen organisatiebesluit Defensie 1992 | 2 | 2002-08-07 to 2005-01-01 |
+| `instelling-commissie-onderzoek-mogelijkheden-verruiming-eigen-middelen-gemeenten-en-provin` | Instelling Commissie onderzoek mogelijkheden verruiming eigen middelen gemeenten en provincies | 2 | 1992-04-10 to 2005-02-01 |
+| `wijziging-indiening-en-verrekening-van-kostenopgaven-rijksvergoeding` | Wijziging indiening en verrekening van kostenopgaven rijksvergoeding | 2 | 1992-03-12 to 2004-09-22 |
+| `warenwetregeling-stoffen-in-aroma-s` | Warenwetregeling Stoffen in aroma's | 2 | 1992-03-14 to 2011-01-20 |
+| `schorsing-rrog` | Schorsing RROG | 2 | 1992-03-21 to 2004-12-23 |
+| `instelling-programma-en-stuurgroep-doelmatigheid-bedrijfsvoering-intramurale-zorginstellin` | Instelling programma en stuurgroep ‘doelmatigheid bedrijfsvoering intramurale zorginstellingen’ | 2 | 1992-06-01 to 2004-08-28 |
+| `vervroegde-openstelling-visseizoen-1992-1993` | Vervroegde openstelling visseizoen 1992/1993 | 2 | 1992-04-02 to 2004-01-24 |
+| `instelling-begeleidingscommissie-onderzoek-indeling-wieringerwaard` | Instelling begeleidingscommissie onderzoek indeling Wieringerwaard | 2 | 1992-05-14 to 2005-02-01 |
+| `regeling-ter-uitvoering-van-de-wet-openbaarheid-van-bestuur` | Regeling ter uitvoering van de Wet openbaarheid van bestuur | 2 | 2003-03-05 to 2010-03-23 |
+| `erkenning-als-audiologisch-centrum` | Erkenning als audiologisch centrum | 2 | 1992-04-10 to 2006-01-01 |
+| `beschikking-controlevoorschriften-inzake-de-herkomst-samenstelling-en-kwaliteit-van-bepaal` | Beschikking controlevoorschriften inzake de herkomst, samenstelling en kwaliteit van bepaalde landbouwprodukten | 2 | 2005-01-01 to 2007-07-15 |
+| `regeling-instelling-adviescommissie-mestverwerking` | Regeling instelling Adviescommissie mestverwerking | 2 | 1994-03-10 to 2005-01-01 |
+| `herziening-grondslagen-en-bedragen-uitkeringen` | Herziening grondslagen en bedragen uitkeringen | 2 | 1992-04-30 to 2004-08-28 |
+| `regeling-houdende-normen-voor-slagen-en-zakken` | Regeling houdende normen voor slagen en zakken | 2 | 1992-05-06 to 2014-01-01 |
+| `aanwijzing-inzake-de-officiele-controle-op-levensmiddelen-eeg` | Aanwijzing inzake de officiële controle op levensmiddelen (EEG) | 2 | 2000-11-15 to 2014-04-25 |
+| `vaststelling-maximum-aantal-onherroepelijke-veroordelingen-gebruik-bestuurders-vrachtauto` | Vaststelling maximum aantal onherroepelijke veroordelingen gebruik bestuurders vrachtauto's | 2 | 1992-05-01 to 2009-05-01 |
+| `regeling-vrachtbrief` | Regeling vrachtbrief | 2 | 1992-05-01 to 2005-01-01 |
+| `regeling-gegevensverstrekking` | Regeling gegevensverstrekking | 2 | 1994-07-29 to 2009-05-01 |
+| `regeling-aanwijzing-ambtenaren` | Regeling aanwijzing ambtenaren | 2 | 1998-06-25 to 2009-05-01 |
+| `regeling-rijnvaartverklaring-en-bewijs-van-toelating` | Regeling Rijnvaartverklaring en bewijs van toelating | 2 | 2004-04-09 to 2009-07-01 |
+| `regeling-ontvallen-betrouwbaarheid` | Regeling ontvallen betrouwbaarheid | 2 | 2006-07-09 to 2009-05-01 |
+| `besteedbare-middelen-ter-dekking-van-de-kosten-van-verstrekkingen-en-vergoedingen-ziekenfo-3` | Besteedbare middelen ter dekking van de kosten van verstrekkingen en vergoedingen ziekenfondsverzekering 1991 | 2 | 1992-07-01 to 2004-08-28 |
+| `wijziging-beschikking-toelating-bestrijdingsmiddelen` | Wijziging Beschikking Toelating Bestrijdingsmiddelen | 2 | 1992-06-05 to 2004-01-24 |
+| `vrijstellingsregeling-inwerkingtreding-warenwetbesluit-verduurzaamde-vruchtenprodukten` | Vrijstellingsregeling Inwerkingtreding Warenwetbesluit Verduurzaamde vruchtenprodukten | 2 | 1992-06-01 to 2004-08-28 |
+| `instellingsbeschikking-projectgroep-evaluatie-ovb` | Instellingsbeschikking projectgroep evaluatie OVB. | 2 | 1992-06-25 to 2004-12-31 |
+| `instelling-overlegcommissie-asielzoekercentra` | Instelling overlegcommissie asielzoekercentra | 2 | 1993-11-06 to 2004-08-28 |
+| `afwijkende-voorschriften-eindexamenbesluit-m-m-o` | Afwijkende voorschriften Eindexamenbesluit m.m.o. | 2 | 1993-08-01 to 2004-12-31 |
+| `gelijkstellingsregeling-brandweeropleidingen` | Gelijkstellingsregeling brandweeropleidingen | 2 | 1998-08-01 to 2010-10-01 |
+| `vrijstellingsregeling-sanctiebeschikking-betalingsverkeer-en-financiele-dienstenverkeer-se` | Vrijstellingsregeling Sanctiebeschikking betalingsverkeer en financiële dienstenverkeer Servië en Montenegro | 2 | 1992-06-18 to 2008-03-03 |
+| `instelling-iozv-commissie-commissie-interdepartementaal-overleg-inzake-zeegaande-vaartuige` | Instelling IOZV-commissie, Commissie Interdepartementaal Overleg inzake Zeegaande Vaartuigen | 2 | 1992-06-20 to 2003-05-15 |
+| `vaststelling-reglementen-recherchedienst-betalingsverkeer` | Vaststelling reglementen Recherchedienst Betalingsverkeer | 2 | 1992-07-01 to 2005-01-02 |
+| `onderwerpen-examen-geschiedenis-en-staatsinrichting-1994` | Onderwerpen examen geschiedenis en staatsinrichting 1994 | 2 | 1992-07-25 to 2004-12-31 |
+| `vaststelling-procentuele-premie-geneeskundige-verzorging-politie-1992` | Vaststelling procentuele premie geneeskundige verzorging politie 1992 | 2 | 1992-07-01 to 2005-02-01 |
+| `aanwijzing-controlerend-orgaan-naleving-warenwetbesluit-benzine` | Aanwijzing controlerend orgaan naleving Warenwetbesluit benzine | 2 | 1992-10-01 to 2005-02-25 |
+| `instelling-stuurgroep-human-resources-management` | Instelling Stuurgroep Human Resources Management | 2 | 1992-07-25 to 2004-12-31 |
+| `uitkering-inkomsten-uit-reclame-aan-bedrijfsfonds-voor-de-pers` | Uitkering inkomsten uit reclame aan Bedrijfsfonds voor de pers | 2 | 1992-07-12 to 2004-12-31 |
+| `bewijsstukken-overgangsregeling-fysiotherapie-bij-dieren` | Bewijsstukken overgangsregeling fysiotherapie bij dieren | 2 | 1992-08-01 to 2007-02-04 |
+| `regeling-uitvoering-wet-openbaarheid-van-bestuur-ow` | Regeling uitvoering Wet openbaarheid van bestuur (OW) | 2 | 1994-01-30 to 2010-01-01 |
+| `regeling-geldelijke-steun-verhuis-en-herinrichtingskosten-bij-voorzieningen-aan-woningen-i` | Regeling geldelijke steun verhuis- en herinrichtingskosten bij voorzieningen aan woningen in eigendom bij de Dienst der Domeinen | 2 | 1992-08-01 to 2008-12-13 |
+| `richtlijnen-financieel-verslag-en-begroting-h-b-o` | Richtlijnen financieel verslag en begroting h.b.o. | 2 | 1993-12-25 to 2014-01-23 |
+| `wijziging-examenprogramma-m-d-g-o-ag` | Wijziging examenprogramma m.d.g.o.-AG | 2 | 1992-09-04 to 2004-12-31 |
+| `regeling-spreiding-zomervakantie-19931998` | Regeling spreiding zomervakantie 1993–1998 | 2 | 1992-10-01 to 2004-12-31 |
+| `regeling-keuring-en-handelsverkeer-vleesproducten-1993` | Regeling keuring en handelsverkeer vleesproducten 1993 | 2 | 2005-01-01 to 2006-01-01 |
+| `opheffing-van-het-gemeenschappelijk-adviesorgaan-detailhandelsonderwijs-gado` | Opheffing van het Gemeenschappelijk Adviesorgaan Detailhandelsonderwijs (GADO) | 2 | 1992-09-03 to 2004-12-31 |
+| `vrijstellingsregeling-diergeneesmiddelen-voor-eeg-dierenartsen` | Vrijstellingsregeling diergeneesmiddelen voor EEG-dierenartsen. | 2 | 2001-12-19 to 2006-01-13 |
+| `warenwetregeling-stuksaanduiding-bakkerswaren` | Warenwetregeling Stuksaanduiding bakkerswaren | 2 | 1992-08-14 to 2014-12-13 |
+| `instelling-begeleidingscommissie-onderzoek-indische-na-oorlogse-generatie` | Instelling begeleidingscommissie Onderzoek Indische na-oorlogse generatie | 2 | 1992-08-22 to 2004-08-28 |
+| `wijziging-paspoortuitvoeringsregeling-nederland-paspoortuitvoeringsregeling-buitenland-pas` | Wijziging Paspoortuitvoeringsregeling Nederland, Paspoortuitvoeringsregeling Buitenland, Paspoortuitvoeringsregeling Koninklijke Marechaussee en Paspoortuitvoeringsregeling Stichting Bureau Internationale Vaart | 2 | 1992-09-01 to 2013-07-01 |
+| `wijziging-paspoortuitvoeringsregeling-nederlandse-antillen-en-aruba` | Wijziging Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba | 2 | 1992-09-01 to 2013-07-01 |
+| `instelling-commissie-overleg-en-voorlichting-milieuhygiene-vliegbasis-twenthe` | Instelling Commissie Overleg en Voorlichting Milieuhygiëne Vliegbasis Twenthe | 2 | 2002-06-26 to 2008-12-24 |
+| `instelling-commissie-overleg-en-voorlichting-milieuhygiene-vliegbasis-soesterberg` | Instelling Commissie Overleg en Voorlichting Milieuhygiëne Vliegbasis Soesterberg | 2 | 2002-06-26 to 2008-12-24 |
+| `exploitatievergoeding-dagscholen-voor-v-w-o-h-a-v-o-en-m-a-v-o-voor-het-jaar-1991` | Exploitatievergoeding dagscholen voor v.w.o., h.a.v.o. en m.a.v.o. voor het jaar 1991 | 2 | 1992-11-27 to 2014-01-23 |
+| `regeling-voorkoming-ziekten-bij-zalmachtigen` | Regeling voorkoming ziekten bij zalmachtigen | 2 | 2003-01-01 to 2008-08-01 |
+| `regeling-verzekeringsplaten-bromfietsen` | Regeling verzekeringsplaten bromfietsen | 2 | 1992-09-13 to 2004-03-04 |
+| `regeling-vaststelling-model-groot-vaarbewijs` | Regeling vaststelling model groot vaarbewijs | 2 | 1992-09-15 to 2009-07-01 |
+| `warenwetregeling-aanwijzing-normen-persoonlijke-beschermingsmiddelen` | Warenwetregeling aanwijzing normen persoonlijke beschermingsmiddelen | 2 | 1992-11-14 to 2004-08-28 |
+| `regeling-eg-erkenning-vaarbewijzen-bedrijfsmatige-vaart` | Regeling EG-erkenning vaarbewijzen bedrijfsmatige vaart | 2 | 2007-03-22 to 2009-07-01 |
+| `regeling-partijkeuring` | Regeling partijkeuring. | 2 | 2003-03-20 to 2006-01-13 |
+| `instelling-werkgroep-registratie-orgaan-donatie` | Instelling werkgroep Registratie Orgaan donatie | 2 | 1992-11-01 to 2004-08-28 |
+| `subsidiering-onderzoekprogramma-kwaliteit-van-zorg` | Subsidiëring Onderzoekprogramma Kwaliteit van Zorg | 2 | 1992-10-02 to 2004-08-28 |
+| `wijziging-voor-investeringspremieregeling-zeescheepvaart-1991-1992` | Wijziging voor Investeringspremieregeling zeescheepvaart 1991/1992 | 2 | 1992-09-17 to 2004-03-04 |
+| `regeling-verstrekken-leerlinggegevens-schooljaar-1993-1994` | Regeling verstrekken leerlinggegevens schooljaar 1993/1994 | 2 | 1992-09-25 to 2010-10-01 |
+| `wijziging-regeling-registratie-diergeneesmiddelen` | Wijziging Regeling registratie diergeneesmiddelen | 2 | 1993-01-01 to 2004-01-24 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1991-en-voor-1992` | Regeling vaststelling mede te financieren bedrag MOOZ voor 1991 en voor 1992 | 2 | 1993-10-15 to 2004-08-28 |
+| `instelling-interdepartementale-stuurgroep-inspectie-jeugdhulpverlening-en-jeugdbescherming` | Instelling Interdepartementale Stuurgroep Inspectie Jeugdhulpverlening en Jeugdbescherming | 2 | 1992-12-01 to 2004-08-28 |
+| `nederlandse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-zweden-1991` | Nederlandse Uitvoeringsvoorschriften belastingovereenkomst Nederland-Zweden 1991 | 2 | 1997-01-01 to 2004-10-01 |
+| `aanwijzing-registrerende-diensten-in-het-kader-van-de-regeling-in-en-doorvoer-vleesprodukt` | Aanwijzing registrerende diensten in het kader van de Regeling in- en doorvoer vleesprodukten 1985 en de Regeling in- en doorvoer vlees 1979 | 2 | 2003-01-01 to 2006-01-01 |
+| `beschikking-tijdelijke-verhoging-referentiehoeveelheden-en-heffingvrije-hoeveelheden` | Beschikking tijdelijke verhoging referentiehoeveelheden en heffingvrije hoeveelheden | 2 | 1992-10-16 to 2004-01-24 |
+| `wijziging-omroepbijdrage` | Wijziging omroepbijdrage | 2 | 1993-01-01 to 2009-01-01 |
+| `vaststelling-model-basisdiploma-vts` | Vaststelling model basisdiploma VTS | 2 | 1992-11-13 to 2005-11-02 |
+| `beschikking-compensatie-uitvoer-landbouwgoederen-italie-1992` | Beschikking compensatie uitvoer landbouwgoederen Italië 1992 | 2 | 1992-11-02 to 2004-01-24 |
+| `instelling-commissie-kwaliteit-kinderopvang` | Instelling Commissie Kwaliteit Kinderopvang | 2 | 1992-11-15 to 2004-08-28 |
+| `instelling-taakgroep-bevordering-vreemde-talenonderwijs` | Instelling taakgroep bevordering vreemde-talenonderwijs | 2 | 1992-12-18 to 2004-12-31 |
+| `definitieve-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-awbz-1992` | Definitieve vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en AWBZ 1992 | 2 | 1992-11-23 to 2004-08-28 |
+| `voorlopige-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-awbz-1993` | Voorlopige vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en AWBZ 1993 | 2 | 1993-01-01 to 2004-08-28 |
+| `besteedbare-middelen-ter-dekking-van-de-kosten-van-verstrekkingen-en-vergoedingen-ziekenfo-4` | Besteedbare middelen ter dekking van de kosten van verstrekkingen en vergoedingen ziekenfondsverzekering (1991) | 2 | 1993-01-01 to 2004-08-28 |
+| `besteedbare-middelen-ter-dekking-van-de-kosten-van-verstrekkingen-en-vergoedingen-ziekenfo-5` | Besteedbare middelen ter dekking van de kosten van verstrekkingen en vergoedingen ziekenfondsverzekering (1992) | 2 | 1993-01-01 to 2004-08-28 |
+| `besteedbare-middelen-ter-dekking-van-de-kosten-van-verstrekkingen-en-vergoedingen-bijzonde-2` | Besteedbare middelen ter dekking van de kosten van verstrekkingen en vergoedingen bijzondere ziektekostenverzekering 1993 | 2 | 1993-01-01 to 2004-08-28 |
+| `besteedbare-middelen-ter-dekking-van-de-kosten-van-verstrekkingen-en-vergoedingen-ziekenfo-6` | Besteedbare middelen ter dekking van de kosten van verstrekkingen en vergoedingen ziekenfondsverzekering 1993 | 2 | 1993-01-01 to 2004-08-28 |
+| `wijziging-regeling-kavelruil` | Wijziging Regeling kavelruil | 2 | 1992-11-17 to 2004-12-23 |
+| `instelling-bezwarencommissie-wet-herverdeling-wegenbeheer` | Instelling Bezwarencommissie Wet herverdeling wegenbeheer | 2 | 1992-11-26 to 2005-02-01 |
+| `geldswaarde-per-formatie-eenheid-voor-het-schooljaar-respectievelijk-cursusjaar-1992-1993` | Geldswaarde per formatie-eenheid voor het schooljaar respectievelijk cursusjaar 1992/1993 | 2 | 1992-11-28 to 2005-12-01 |
+| `regeling-aanbrengen-registratienummer-op-in-nederland-teboekgestelde-binnenschepen` | Regeling aanbrengen registratienummer op in Nederland teboekgestelde binnenschepen | 2 | 1992-11-27 to 2009-07-01 |
+| `regeling-proeven-op-farmaceutische-producten` | Regeling proeven op farmaceutische producten | 2 | 2004-12-15 to 2007-07-01 |
+| `vrijstellingsregeling-regeling-zuigelingenvoeding-warenwet` | Vrijstellingsregeling Regeling zuigelingenvoeding (Warenwet) | 2 | 1992-12-01 to 2004-08-28 |
+| `vaststelling-premiepercentage-awf` | Vaststelling premiepercentage AWf | 2 | 1993-01-01 to 2004-09-22 |
+| `instelling-directie-communicatie-documentatie-en-bibliotheek` | Instelling Directie Communicatie, Documentatie en Bibliotheek | 2 | 1993-01-01 to 2005-02-01 |
+| `aanwijzing-opsporingsambtenaren-vleeskeurings-en-destructiewet` | Aanwijzing opsporingsambtenaren Vleeskeurings- en Destructiewet | 2 | 1993-01-01 to 2005-01-02 |
+| `bezwarenregeling-privatisering-roi` | Bezwarenregeling privatisering ROI | 2 | 1992-12-31 to 2005-02-01 |
+| `sociaal-statuut-privatisering-roi` | Sociaal Statuut privatisering ROI | 2 | 1992-12-31 to 2005-02-01 |
+| `regeling-gegevensverstrekking-binnenvaart` | Regeling gegevensverstrekking binnenvaart | 2 | 2006-07-09 to 2009-07-01 |
+| `regeling-inschrijving-eigen-vervoer` | Regeling inschrijving eigen vervoer | 2 | 2002-07-01 to 2009-07-01 |
+| `regeling-vergunningverlening` | Regeling vergunningverlening | 2 | 2005-12-03 to 2009-07-01 |
+| `regeling-vergoedingen-binnenvaart` | Regeling vergoedingen binnenvaart | 2 | 2002-01-01 to 2004-01-01 |
+| `instelling-rijkscommissie-van-advies-voor-bouw-schouwburgen-concertzalen-en-musea` | Instelling rijkscommissie van advies voor bouw schouwburgen, concertzalen en musea | 2 | 1992-12-25 to 2005-01-01 |
+| `premiepercentages-aow-aww-en-aaw-en-het-fictieve-premiepercentage-aaw-per-1-januari-1993` | Premiepercentages AOW, AWW en AAW en het fictieve premiepercentage AAW per 1 januari 1993 | 2 | 1993-01-01 to 2004-09-22 |
+| `premiepercentage-en-de-franchise-voor-de-wet-op-de-arbeidsongeschiktheidsverzekering-per-1` | Premiepercentage en de franchise voor de Wet op de arbeidsongeschiktheidsverzekering per 1 januari 1993 | 2 | 1993-01-01 to 2004-09-22 |
+| `aanwijzingsregeling-stichting-erkenningsregeling-voor-de-uitoefening-van-het-koeltechnisch` | Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf | 2 | 1995-12-29 to 2011-07-01 |
+| `gemiddeld-premiepercentage-ww-voor-wachtgeldfonds-en-ziektewet` | Gemiddeld premiepercentage WW voor wachtgeldfonds en Ziektewet | 2 | 1993-01-01 to 2004-09-22 |
+| `mandaatbesluit-college-voor-de-toelating-van-bestrijdingsmiddelen` | Mandaatbesluit College voor de toelating van bestrijdingsmiddelen | 2 | 2000-01-01 to 2007-10-17 |
+| `regels-ter-uitvoering-van-accijnsrichtlijnen` | Regels ter uitvoering van accijnsrichtlijnen | 2 | 1993-01-01 to 2013-07-01 |
+| `samenstelling-bestuur-toeslagenfonds-per-1-januari-1993` | Samenstelling bestuur Toeslagenfonds per 1 januari 1993 | 2 | 1993-01-01 to 2004-09-22 |
+| `tarievenregeling` | Tarievenregeling | 2 | 1993-01-01 to 2008-07-19 |
+| `garantstellingsregeling-curatoren` | Garantstellingsregeling curatoren | 2 | 1993-04-26 to 2005-01-08 |
+| `voorwaarden-tijdelijke-bevoegdheid-onderwijs-in-de-joegoslavische-taal-en-cultuur` | Voorwaarden tijdelijke bevoegdheid onderwijs in de Joegoslavische taal en cultuur | 2 | 1993-11-20 to 2004-08-01 |
+| `regeling-verstrekken-leerlinggegevens-schooljaar-1994-1995` | Regeling verstrekken leerlinggegevens schooljaar 1994/1995 | 2 | 1993-09-24 to 2008-08-01 |
+| `examenprogramma-staatspraktijkdiploma-voor-bedrijfsadministratie` | Examenprogramma staatspraktijkdiploma voor bedrijfsadministratie | 2 | 1993-01-23 to 2014-01-23 |
+| `wijziging-regeling-bewijzen-van-bekwaamheid-owvo` | Wijziging Regeling bewijzen van bekwaamheid OWVO | 2 | 1993-08-01 to 2006-08-01 |
+| `intrekking-ijkregeling-niet-automatische-weegwerktuigen` | Intrekking IJkregeling niet-automatische weegwerktuigen | 2 | 1993-01-13 to 2007-02-01 |
+| `intrekking-eeg-ijkbeschikking-niet-automatische-weegwerktuigen` | Intrekking EEG-IJkbeschikking niet-automatische weegwerktuigen | 2 | 1993-01-13 to 2007-02-01 |
+| `instelling-tijdelijke-commissie-voor-de-comptabiliteitsvoorschriften-waterschappen` | Instelling Tijdelijke Commissie voor de comptabiliteitsvoorschriften waterschappen | 2 | 1993-02-12 to 2007-12-29 |
+| `begrotings-en-jaarrekeningsmodel-1992` | Begrotings- en jaarrekeningsmodel 1992 | 2 | 1993-03-04 to 2007-12-29 |
+| `instelling-begeleidingscommissie-onderzoek-late-problematiek-indische-jeugdige-oorlogsgetr` | Instelling begeleidingscommissie Onderzoek late problematiek Indische Jeugdige Oorlogsgetroffenen | 2 | 1994-03-06 to 2004-08-28 |
+| `regeling-instelling-beoordelingscommissie-gemeentelijke-natuurprijs` | Regeling instelling beoordelingscommissie gemeentelijke natuurprijs | 2 | 1997-02-27 to 2004-06-11 |
+| `regeling-onderwerpen-examen-geschiedenis-en-staatsinrichting-1995` | Regeling onderwerpen examen geschiedenis en staatsinrichting 1995 | 2 | 1993-08-01 to 2004-12-31 |
+| `instelling-toetsingscommissie-budgettering-verzekeraars` | Instelling Toetsingscommissie Budgettering Verzekeraars | 2 | 1993-04-01 to 2004-08-28 |
+| `nieuwe-vaststelling-programma-s-van-eisen-basisonderwijs-voor-het-jaar-1993` | Nieuwe vaststelling programma's van eisen basisonderwijs voor het jaar 1993 | 2 | 1993-01-30 to 2004-12-31 |
+| `nieuwe-vaststelling-programma-s-van-eisen-v-s-o-voor-het-jaar-1993` | Nieuwe vaststelling programma's van eisen v.s.o. voor het jaar 1993 | 2 | 1993-01-30 to 2004-12-31 |
+| `regeling-percentages-vergoeding-kosten-voor-vervanging-personeel-19921993` | Regeling percentages vergoeding kosten voor vervanging personeel 1992–1993. | 2 | 1993-02-06 to 2004-12-31 |
+| `wijziging-besluit-vergoedingen-wet-op-de-geneesmiddelenvoorziening` | Wijziging Besluit vergoedingen Wet op de Geneesmiddelenvoorziening | 2 | 1993-02-01 to 2007-07-01 |
+| `instelling-college-van-deskundigen-volksgezondheid-transparant-1993` | Instelling College van Deskundigen Volksgezondheid Transparant 1993 | 2 | 1993-02-15 to 2004-08-28 |
+| `vaststelling-premie-geneeskundige-verzorging-politie-1984` | Vaststelling premie geneeskundige verzorging politie 1984 | 2 | 1993-03-19 to 2005-02-01 |
+| `instelling-commissie-feiten-en-tarieven` | Instelling Commissie feiten en tarieven | 2 | 1995-05-01 to 2011-12-28 |
+| `regeling-afnemen-examens-praktijkscholen` | Regeling afnemen examens praktijkscholen | 2 | 1994-08-01 to 2005-12-01 |
+| `instelling-projectgroep-emancipatiebeleid-doorbreking-van-beeldvorming-in-termen-van-manne` | Instelling projectgroep emancipatiebeleid 'doorbreking van beeldvorming in termen van mannelijkheid en vrouwelijkheid' | 2 | 1993-05-01 to 2008-09-25 |
+| `instelling-projectgroep-emancipatiebeleid-vergroting-van-de-deelname-van-vrouwen-aan-polit` | Instelling projectgroep emancipatiebeleid ‘vergroting van de deelname van vrouwen aan politieke en maatschappelijke besluitvorming’ | 2 | 1993-05-01 to 2008-09-25 |
+| `instelling-projectgroep-emancipatiebeleid-herverdeling-van-onbetaalde-arbeid` | Instelling projectgroep emancipatiebeleid ‘herverdeling van onbetaalde arbeid' | 2 | 1993-05-01 to 2008-09-25 |
+| `verlenging-van-de-instellingsduur-van-de-overleg-commissie-verkenningen-ocv` | Verlenging van de instellingsduur van de Overleg Commissie Verkenningen (OCV) | 2 | 1993-03-25 to 2004-12-31 |
+| `regeling-in-en-doorvoer-van-pluimveeproducten-1993` | Regeling in en doorvoer van pluimveeproducten 1993 | 2 | 2004-12-10 to 2006-01-01 |
+| `exploitatiekostenvergoeding-dagscholen-voor-v-w-o-h-a-v-o-en-m-a-v-o-voor-het-jaar-1992` | Exploitatiekostenvergoeding dagscholen voor v.w.o., h.a.v.o. en m.a.v.o. voor het jaar 1992 | 2 | 1993-05-01 to 2014-01-23 |
+| `regeling-gegevensverstrekking-op-grond-van-artikel-14b-van-de-wet-op-het-consumentenkredie` | Regeling gegevensverstrekking op grond van artikel 14b van de Wet op het consumentenkrediet | 2 | 1993-03-25 to 2006-01-01 |
+| `landbouwkwaliteitsregeling-controle-groenten-en-fruit-1993` | Landbouwkwaliteitsregeling controle groenten en fruit 1993 | 2 | 2007-09-01 to 2007-09-28 |
+| `subsidies-en-specifieke-uitkeringen-ten-behoeve-van-cultuuruitingen` | Subsidies en specifieke uitkeringen ten behoeve van cultuuruitingen | 2 | 1993-04-16 to 2004-12-31 |
+| `instellingsbesluit-onderzoekscommissie-toepassing-abw` | Instellingsbesluit Onderzoekscommissie toepassing ABW | 2 | 1993-05-01 to 2008-09-25 |
+| `subsidies-en-specifieke-uitkeringen-t-b-v-cultuuruitingen-voor-1993` | Subsidies en specifieke uitkeringen t.b.v. cultuuruitingen voor 1993 | 2 | 1993-04-16 to 2004-12-31 |
+| `instellingsbeschikking-werkgroep-ziekenhuisonderwijs` | Instellingsbeschikking werkgroep ziekenhuisonderwijs | 2 | 1993-03-24 to 2004-12-31 |
+| `besluit-benoeming-adviseurs-nederlandse-toponcologie` | Besluit benoeming adviseurs Nederlandse toponcologie | 2 | 1993-06-01 to 2004-08-28 |
+| `vaststelling-modellen-aanvraagformulieren-besluit-uitkeringen-interreg-1993-94` | Vaststelling modellen aanvraagformulieren Besluit uitkeringen Interreg 1993/94 | 2 | 1993-04-01 to 2005-06-11 |
+| `regeling-bepaling-geluidszones-langs-wegen-1993` | Regeling bepaling geluidszones langs wegen 1993 | 2 | 1993-04-17 to 2007-01-01 |
+| `regeling-afrekening-exploitatiekosten-1992` | Regeling afrekening exploitatiekosten 1992 | 2 | 1993-05-01 to 2008-08-01 |
+| `aanwijzing-kcb-controleurs-voor-kwaliteitscontroles-groenten-en-fruit` | Aanwijzing KCB-controleurs voor kwaliteitscontroles groenten en fruit | 2 | 1998-09-01 to 2010-01-01 |
+| `benoeming-regionale-examencommissie` | Benoeming regionale examencommissie | 2 | 1993-05-14 to 2004-05-01 |
+| `regeling-model-diploma-certificaat-en-cijferlijst-h-a-v-o-m-b-o` | Regeling model diploma, -certificaat en -cijferlijst h.a.v.o./m.b.o. | 2 | 1993-05-20 to 2008-08-01 |
+| `regeling-houdende-instructie-en-vergoeding-gecommiteerden-mbo-examens` | Regeling houdende instructie en vergoeding gecommiteerden mbo-examens | 2 | 1993-05-05 to 2005-12-01 |
+| `compensatieregeling-vakonderwijs-basisonderwijs-2` | Compensatieregeling vakonderwijs basisonderwijs | 2 | 1993-05-17 to 2004-12-31 |
+| `regeling-saneringsprogramma-verkeerslawaai` | Regeling saneringsprogramma verkeerslawaai | 2 | 1997-05-01 to 2007-01-01 |
+| `nadere-regeling-identificatie-en-registratie-slachtdieren` | Nadere regeling identificatie en registratie slachtdieren | 2 | 1995-10-01 to 2006-01-01 |
+| `onderwerpen-centraal-en-schriftelijk-examen-aardrijkskunde-v-w-o-h-a-v-o-m-a-v-o-en-v-b-o` | Onderwerpen centraal en schriftelijk examen aardrijkskunde v.w.o., h.a.v.o., m.a.v.o. en v.b.o.-C/D schooljaar 1994–1995 | 2 | 1993-06-05 to 2004-12-31 |
+| `thema-beeldende-vakken-eindexamen-v-w-o-1994` | Thema beeldende vakken eindexamen v.w.o. 1994 | 2 | 1993-06-03 to 2004-12-31 |
+| `regeling-erkenning-deense-bewijzen-vaarbekwaamheid-niet-bedrijfsmatige-vaart` | Regeling erkenning Deense bewijzen vaarbekwaamheid niet-bedrijfsmatige vaart | 2 | 1993-05-15 to 2009-07-01 |
+| `regeling-erkenning-diploma-s-dierproevenbesluit` | Regeling erkenning diploma's Dierproevenbesluit | 2 | 2012-10-16 to 2013-07-01 |
+| `regeling-verzilvering-formatierekeneenheden-schooljaar-19931994` | Regeling verzilvering formatierekeneenheden schooljaar 1993–1994 | 2 | 1993-08-01 to 2004-12-31 |
+| `regeling-positie-directeur-en-adjunct-directeur-bij-vermindering-van-formatie-bij-institut` | Regeling positie directeur en adjunct-directeur bij vermindering van formatie bij instituten voor vormingswerk voor jeugdigen | 2 | 1993-06-05 to 2003-06-18 |
+| `begeleidingscommissie-filosofie` | Begeleidingscommissie filosofie | 2 | 1993-06-05 to 2004-12-31 |
+| `vaststelling-diepgang-of-scheepslengte-verbonden-aan-gedeelte-van-vaarweg` | Vaststelling diepgang of scheepslengte verbonden aan gedeelte van vaarweg | 2 | 1993-05-29 to 2011-05-25 |
+| `instelling-commissie-overleg-en-voorlichting` | Instelling Commissie Overleg en Voorlichting | 2 | 2002-06-26 to 2008-12-24 |
+| `regeling-jaarlijkse-opgave-wet-op-het-consumentenkrediet` | Regeling jaarlijkse opgave Wet op het consumentenkrediet | 2 | 2004-04-29 to 2006-01-01 |
+| `commissie-advisering-thema-aanbieding-voor-de-vakken-tekenen-handvaardigheid-en-textiele-w` | Commissie Advisering Thema-aanbieding voor de vakken tekenen, handvaardigheid en textiele werkvormen | 2 | 1993-06-12 to 2004-12-31 |
+| `wijziging-regeling-keuring-en-handelsverkeer-pluimveevlees-1992` | Wijziging Regeling keuring en handelsverkeer pluimveevlees 1992 | 2 | 1993-06-01 to 2004-01-24 |
+| `regeling-aanwijzing-autoriteit-belast-met-de-registratie-van-handelaren-die-zich-vlees-of` | Regeling aanwijzing autoriteit belast met de registratie van handelaren die zich vlees of vleesprodukten laten toezenden afkomstig uit andere lid-staten | 2 | 2000-11-15 to 2006-01-01 |
+| `selectiecommissie-periodieke-opsporingsberichtgeving-per-televisie` | Selectiecommissie Periodieke Opsporingsberichtgeving per Televisie | 2 | 1993-06-26 to 2005-01-02 |
+| `aanwijzing-positie-taak-en-bevoegdheid-deskundige-beroepen-water` | Aanwijzing positie, taak en bevoegdheid Deskundige Beroepen Water | 2 | 1996-06-06 to 2004-05-01 |
+| `regeling-invoer-konijne-en-hazevlees-1993` | Regeling invoer konijne- en hazevlees 1993 | 2 | 2004-11-25 to 2006-01-01 |
+| `regeling-keuring-en-handelsverkeer-konijne-en-hazevlees-1993` | Regeling keuring en handelsverkeer konijne- en hazevlees 1993 | 2 | 2005-01-22 to 2006-01-01 |
+| `wijzigingsregeling-algemeen-brandweerexamenreglement-enz` | Wijzigingsregeling Algemeen brandweerexamenreglement, enz. | 2 | 1993-09-01 to 2005-02-01 |
+| `vaststelling-bedragen-per-eenheid-voor-het-schooljaar-studiejaar-19931994` | Vaststelling bedragen per eenheid voor het schooljaar/studiejaar 1993–1994 | 2 | 1994-01-01 to 2003-06-18 |
+| `uitkeringen-regioprogramma-s-zuid-limburg-1993-94` | Uitkeringen regioprogramma's Zuid-Limburg 1993/94 | 2 | 1993-07-14 to 2005-06-11 |
+| `vaststelling-vacatiegeld-tijdelijke-commissie-comptabiliteitsvoorschriften-waterschappen` | Vaststelling vacatiegeld tijdelijke commissie comptabiliteitsvoorschriften waterschappen | 2 | 1993-07-22 to 2007-12-29 |
+| `regeling-bezwarenprocedure-functiewaardering-personeel-basisonderwijs-voortgezet-speciaal` | Regeling bezwarenprocedure functiewaardering personeel basisonderwijs, (voortgezet) speciaal onderwijs, voortgezet onderwijs, verzorgingsinstellingen en centrale diensten | 2 | 1993-09-08 to 2003-06-18 |
+| `regeling-subsidies-particuliere-terreinbeherende-natuurbeschermingsorganisaties` | Regeling subsidies particuliere terreinbeherende natuurbeschermingsorganisaties | 2 | 2013-01-01 to 2014-01-01 |
+| `regeling-bevoorschotting-personele-kosten-primair-en-voortgezet-onderwijs` | Regeling bevoorschotting personele kosten primair – en voortgezet onderwijs | 2 | 1993-08-01 to 2008-08-01 |
+| `regeling-pve-s-huisvestingskosten-v-o-b-b-o` | Regeling pve's huisvestingskosten v.o./b.b.o. | 2 | 1994-01-01 to 2005-04-06 |
+| `wijziging-toelatingsregeling-galeries` | Wijziging Toelatingsregeling Galeries | 2 | 1993-07-28 to 2004-12-31 |
+| `thema-s-centraal-examen-maatschappijleer-1995-en-1996` | Thema's centraal examen maatschappijleer 1995 en 1996 | 2 | 1993-07-29 to 2004-12-31 |
+| `voorbereidingsschema-landinrichting-1993` | Voorbereidingsschema Landinrichting 1993 | 2 | 1993-10-01 to 2004-01-24 |
+| `aanwijzing-inzake-het-besluit-bereiding-en-aflevering-farmaceutische-produkten` | Aanwijzing inzake het Besluit bereiding en aflevering farmaceutische produkten | 2 | 1993-08-08 to 2007-07-01 |
+| `regeling-programma-van-eisen-pve-inventariskosten-v-o-b-b-o` | Regeling programma van eisen (pve) inventariskosten v.o./b.b.o. | 2 | 1996-01-01 to 2008-08-01 |
+| `regeling-vrijstellingen-binnenschepenwet` | Regeling vrijstellingen Binnenschepenwet | 2 | 2007-07-21 to 2009-07-01 |
+| `regeling-eenheidsmassa-s-van-de-gebruiksmassaberekening-van-luchtvaartuigen` | Regeling eenheidsmassa's van de gebruiksmassaberekening van luchtvaartuigen | 2 | 1993-09-01 to 2008-07-19 |
+| `geldswaarde-per-formatie-eenheid-schooljaar-19931994-vormingsinstituten-voor-jeugdigen` | Geldswaarde per formatie-eenheid schooljaar 1993–1994; Vormingsinstituten voor jeugdigen | 2 | 1993-08-01 to 2005-12-01 |
+| `beschikking-intrekking-invoervergunning-aluminiumprodukten-uit-ex-sowjetstaten` | Beschikking intrekking invoervergunning aluminiumprodukten uit ex-Sowjetstaten | 2 | 1993-08-22 to 2005-06-11 |
+| `voortzetting-deelnemerschap-dienst-luchtvaart-aan-regeling-geneeskundige-verzorging-politi` | Voortzetting deelnemerschap Dienst Luchtvaart aan Regeling geneeskundige verzorging politie | 2 | 1993-09-08 to 2006-01-01 |
+| `wijziging-subsidieregeling-algemene-vorming-en-scholing-politiek-kader-in-midden-en-oost-e` | Wijziging Subsidieregeling Algemene Vorming en Scholing Politiek Kader in Midden- en Oost-Europa 1993 | 2 | 1993-09-04 to 2013-07-01 |
+| `regeling-erkenning-vaarbewijzen-niet-bedrijfsmatige-vaart-afgegeven-door-het-koninkrijk-be` | Regeling erkenning vaarbewijzen niet-bedrijfsmatige vaart afgegeven door het Koninkrijk België | 2 | 1993-09-15 to 2009-07-01 |
+| `regeling-huisvesting-v-o-b-v-e` | Regeling huisvesting v.o./b.v.e. | 2 | 1995-10-28 to 2008-08-01 |
+| `uitvoering-artikel-60-wet-op-de-accountants-administratieconsulenten` | Uitvoering artikel 60 Wet op de Accountants-Administratieconsulenten | 2 | 1993-09-10 to 2009-05-01 |
+| `regeling-schadevergoeding-slom-deelnemers` | Regeling schadevergoeding SLOM-deelnemers | 2 | 1993-09-11 to 2004-01-24 |
+| `formalisering-samenvoegingspublikaties-fbs-sector` | Formalisering samenvoegingspublikaties fbs-sector | 2 | 1993-09-30 to 2003-06-18 |
+| `personeelsplan-agrarische-opleidingscentra` | Personeelsplan agrarische opleidingscentra | 2 | 1993-09-25 to 2004-12-23 |
+| `vaststelling-telformulieren-beroepsbegeleidend-onderwijs-b-b-o` | Vaststelling telformulieren beroepsbegeleidend onderwijs (b.b.o.) | 2 | 1993-10-02 to 2014-01-23 |
+| `vaststelling-telformulier-landelijke-organen-voor-het-beroepsonderwijs` | Vaststelling telformulier Landelijke Organen voor het Beroepsonderwijs | 2 | 1993-10-02 to 2004-07-01 |
+| `vaststelling-regeling-medebewind-vergunningverlening-artikel-33-van-de-diergeneesmiddelenw` | Vaststelling Regeling medebewind vergunningverlening artikel 33 van de Diergeneesmiddelenwet | 2 | 1993-11-05 to 2006-01-13 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1992-en-voor-1993` | Regeling vaststelling mede te financieren bedrag MOOZ voor 1992 en voor 1993 | 2 | 1995-10-15 to 2004-08-28 |
+| `programma-s-van-eisen-i-s-o-v-s-o-1994` | Programma's van eisen i.s.o.v.s.o 1994 | 2 | 1994-01-01 to 2004-12-31 |
+| `vaststelling-programma-s-van-eisen-w-b-o-1994` | Vaststelling programma's van eisen w.b.o. 1994 | 2 | 1994-01-01 to 2004-12-31 |
+| `warenwetregeling-methode-van-onderzoek-voedingsvezelgehalte` | Warenwetregeling Methode van onderzoek voedingsvezelgehalte | 2 | 1993-10-01 to 2005-09-17 |
+| `beschikking-superheffing-slom-cessionarissen` | Beschikking superheffing SLOM-cessionarissen | 2 | 1993-10-02 to 2004-01-24 |
+| `regeling-verstrekking-gegevens-ten-behoeve-van-inschrijving-accountants-administratieconsu` | Regeling verstrekking gegevens ten behoeve van inschrijving; Accountants-administratieconsulenten | 2 | 2008-06-20 to 2013-01-01 |
+| `regeling-verstrekking-gegevens-ten-behoeve-van-inschrijving` | Regeling verstrekking gegevens ten behoeve van inschrijving | 2 | 2007-05-06 to 2013-01-01 |
+| `regeling-onderwerpen-examen-geschiedenis-en-staatsinrichting-1996` | Regeling onderwerpen examen geschiedenis en staatsinrichting 1996 | 2 | 1993-10-16 to 2004-12-31 |
+| `regeling-vaststelling-bedragen-nascholing-19931994` | Regeling vaststelling bedragen nascholing 1993–1994 | 2 | 1993-10-16 to 2008-08-01 |
+| `regeling-seinen` | Regeling seinen | 2 | 1993-10-20 to 2004-06-09 |
+| `toekenning-vacatiegeld-auditcommissie-stads-en-streekvervoer` | Toekenning vacatiegeld Auditcommissie Stads- en Streekvervoer | 2 | 1993-10-21 to 2004-05-01 |
+| `instelling-auditcommissie-stads-en-streekvervoer` | Instelling Auditcommissie Stads- en Streekvervoer | 2 | 1993-10-21 to 2004-05-01 |
+| `instelling-commissie-overleg-en-voorlichting-milieuhygiene-marinevliegkamp-de-kooy` | Instelling Commissie Overleg en Voorlichting Milieuhygiëne Marinevliegkamp De Kooy | 2 | 2002-06-26 to 2008-12-24 |
+| `instelling-commissie-overleg-en-voorlichting-milieuhygiene-vliegbasis-deelen` | Instelling Commissie Overleg en Voorlichting Milieuhygiëne Vliegbasis Deelen | 2 | 2002-06-26 to 2008-12-24 |
+| `regeling-lijst-van-homeopathische-diergeneesmiddelen-1993` | Regeling lijst van homeopathische diergeneesmiddelen 1993 | 2 | 1993-11-01 to 2006-01-13 |
+| `uitbreiding-opsporingsbevoegdheid-onbezoldigd-ambtenaar-korps-rijkspolitie-aid` | Uitbreiding opsporingsbevoegdheid onbezoldigd ambtenaar Korps Rijkspolitie AID | 2 | 1993-11-16 to 2005-01-02 |
+| `instelling-werkgroep-orgaandonatie` | Instelling werkgroep orgaandonatie | 2 | 1994-01-01 to 2004-08-28 |
+| `instelling-overlegcommissie-onderzoek-en-opvangcentra` | Instelling overlegcommissie onderzoek en opvangcentra | 2 | 1993-11-06 to 2004-08-28 |
+| `vaststelling-verzekeringsplaten-voor-bromfietsen` | Vaststelling verzekeringsplaten voor bromfietsen | 2 | 1993-11-25 to 2004-03-04 |
+| `aanwijzing-gegevensdragers-statistieken-goederenverkeer` | Aanwijzing gegevensdragers statistieken goederenverkeer | 2 | 1993-10-30 to 2004-01-01 |
+| `wijziging-diverse-regelingen-tarieven-rvv` | Wijziging diverse regelingen tarieven RVV | 2 | 1993-10-31 to 2004-01-24 |
+| `wijziging-regeling-tarieven-keuring-vlees-en-vleesprodukten-1993` | Wijziging Regeling tarieven keuring vlees en vleesprodukten 1993 | 2 | 1993-10-31 to 2004-01-24 |
+| `definitieve-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-awbz-1993` | Definitieve vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en AWBZ 1993 | 2 | 1993-01-01 to 2004-08-28 |
+| `voorlopige-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-awbz-1994` | Voorlopige vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en AWBZ 1994 | 2 | 1994-01-01 to 2004-08-28 |
+| `besteedbare-middelen-ter-dekking-van-de-kosten-van-verstrekkingen-en-vergoedingen-bijzonde-3` | Besteedbare middelen ter dekking van de kosten van verstrekkingen en vergoedingen bijzondere ziektekostenverzekering 1994 | 2 | 1994-01-01 to 2004-08-28 |
+| `regeling-startnotitie-milieu-effectrapportage` | Regeling startnotitie milieu-effectrapportage | 2 | 2005-07-01 to 2010-07-01 |
+| `nadere-regels-aanduiding-van-batterijen-en-accu-s-die-kwik-cadmium-of-lood-bevatten` | Nadere regels aanduiding van batterijen en accu's die kwik, cadmium of lood bevatten | 2 | 1994-01-01 to 2008-09-26 |
+| `wijziging-regeling-tarieven-kamer-voor-de-binnenvisserij` | Wijziging regeling tarieven Kamer voor de Binnenvisserij | 2 | 1993-11-21 to 2005-01-01 |
+| `instelling-adviescommissie-laagste-segment-arbeidsmarkt` | Instelling Adviescommissie laagste segment arbeidsmarkt | 2 | 1994-01-01 to 2008-09-25 |
+| `instelling-commissie-modernisering-ouderenzorg` | Instelling Commissie Modernisering Ouderenzorg | 2 | 1994-01-01 to 2004-08-28 |
+| `instelling-overlegcommissie-asielzoekerscentrum-ambt-delden` | Instelling overlegcommissie Asielzoekerscentrum Ambt Delden | 2 | 1993-11-26 to 2004-08-28 |
+| `regeling-inzake-financiele-tegemoetkomingen-en-eigen-bijdragen-wvg` | Regeling inzake financiële tegemoetkomingen en eigen bijdragen WVG | 2 | 2006-08-24 to 2007-01-01 |
+| `inhoudsomschrijving-thema-mens-en-werk-examen-maatschappijleer-h-a-v-o-en-v-w-o-19941995-e` | Inhoudsomschrijving thema ‘Mens en Werk’ examen maatschappijleer h.a.v.o. en v.w.o. 1994–1995 en 1995–1996 | 2 | 1993-12-04 to 2004-12-31 |
+| `wijziging-omroepbijdrage-2` | Wijziging omroepbijdrage | 2 | 1994-01-01 to 2009-01-01 |
+| `regeling-aanwijzing-publiekrechtelijke-ziektekostenregelingen-voor-ambtenaren-in-verband-m` | Regeling aanwijzing publiekrechtelijke ziektekostenregelingen voor ambtenaren in verband met de beperking medeverzekering ingevolge de Ziekenfondswet | 2 | 1994-11-30 to 2006-01-01 |
+| `regeling-aanwijzing-voorrang-hebbende-regelingen-ziekenfondsverzekering` | Regeling aanwijzing voorrang hebbende regelingen ziekenfondsverzekering | 2 | 1998-01-01 to 2006-01-01 |
+| `vrijstelling-toepassing-richtlijn-47-561-eeg-inzake-toegang-tot-het-beroep-van-transporton` | Vrijstelling toepassing Richtlijn 47/561/EEG inzake toegang tot het beroep van transportondernemer | 2 | 1993-12-16 to 2009-05-01 |
+| `regeling-vergoeding-van-reis-en-verblijfkosten-bij-dienstreizen-voor-onderwijspersoneel` | Regeling vergoeding van reis- en verblijfkosten bij dienstreizen voor onderwijspersoneel | 2 | 1994-01-01 to 2003-06-18 |
+| `voorschriften-aanvraagformulieren-gegevens-uit-justitiele-documentatie` | Voorschriften aanvraagformulieren gegevens uit justitiële documentatie | 2 | 1994-01-01 to 2004-04-01 |
+| `commissie-toetsing-toekomstbestendigheid-wsw` | Commissie Toetsing Toekomstbestendigheid WSW | 2 | 1994-02-01 to 2008-09-25 |
+| `uitvoeringsregeling-werknemersspaarregelingen-en-winstdelingsregelingen` | Uitvoeringsregeling werknemersspaarregelingen en winstdelingsregelingen | 2 | 2011-07-01 to 2012-01-01 |
+| `regeling-mandaat-afgifte-verklaringen-van-vrijstelling-havenmeester-rotterdam` | Regeling mandaat afgifte verklaringen van vrijstelling Havenmeester Rotterdam | 2 | 2003-12-31 to 2010-05-04 |
+| `regeling-financiele-verslaggeving-scholen-en-instellingen-voor-m-b-o-c-b-o-v-e` | Regeling financiële verslaggeving scholen en instellingen voor m.b.o.-c.b.o.-v.e. | 2 | 1994-01-01 to 2014-01-23 |
+| `instellingsbeschikking-platform-pedagogische-opdracht` | Instellingsbeschikking Platform Pedagogische Opdracht | 2 | 1994-01-15 to 2004-12-31 |
+| `instelling-commissie-evaluatie-onderzoekparagraaf-hoofdlijnenaccoord` | Instelling Commissie ‘Evaluatie Onderzoekparagraaf Hoofdlijnenaccoord’ | 2 | 1994-01-13 to 2004-12-31 |
+| `loonbegrip-ingeval-van-uitkeringen-en-verstrekkingen-terzake-van-dienstjubilea` | Loonbegrip ingeval van uitkeringen en verstrekkingen terzake van dienstjubilea | 2 | 2003-01-01 to 2005-01-01 |
+| `heffing-kanselarijrechten` | Heffing kanselarijrechten | 2 | 1994-03-01 to 2004-01-01 |
+| `wijziging-subsidieregeling-gehandicaptenbeleid-1993` | Wijziging Subsidieregeling gehandicaptenbeleid 1993 | 2 | 1994-01-01 to 2009-02-06 |
+| `wijziging-bedragen-uitkeringen-en-pensioenen-oorlogsslachtoffers` | Wijziging bedragen uitkeringen en pensioenen oorlogsslachtoffers | 2 | 1994-01-01 to 2004-08-28 |
+| `overgangsregeling-wet-verplaatsing-mestproduktie` | Overgangsregeling Wet verplaatsing mestproduktie | 2 | 1994-01-01 to 2004-01-24 |
+| `regeling-blokkade-verplaatsing-mestproductie` | Regeling blokkade verplaatsing mestproductie | 2 | 2005-07-08 to 2006-01-01 |
+| `regeling-gegevensverstrekking-wet-verplaatsing-mestproductie` | Regeling gegevensverstrekking Wet verplaatsing mestproductie | 2 | 2005-01-01 to 2006-01-01 |
+| `regeling-vaststelling-omvang-verplaatsbare-mestproductie` | Regeling vaststelling omvang verplaatsbare mestproductie | 2 | 2005-01-01 to 2006-01-01 |
+| `regeling-valschermspringen` | Regeling valschermspringen | 2 | 1994-01-01 to 2010-09-09 |
+| `vaststelling-premiepercentage-a-o-w-a-w-w-en-a-a-w-en-het-fictieve-premiepercentage-a-a-w` | Vaststelling premiepercentage a.o.w., a.w.w. en a.a.w. en het fictieve premiepercentage a.a.w. per 1 januari 1994 | 2 | 1994-01-01 to 2004-09-22 |
+| `vaststelling-premiepercentage-en-de-franchise-voor-de-w-a-o-per-1-januari-1994` | Vaststelling premiepercentage en de franchise voor de w.a.o. per 1 januari 1994 | 2 | 1994-01-01 to 2004-09-22 |
+| `cohortenbesluit` | Cohortenbesluit | 2 | 1996-12-24 to 2004-09-22 |
+| `besluit-stimuleringsuitkering` | Besluit stimuleringsuitkering | 2 | 1993-12-30 to 2004-09-22 |
+| `mandatering-stichtingen-voor-opvang-asielzoekers` | Mandatering stichtingen voor opvang asielzoekers | 2 | 1994-01-08 to 2004-08-28 |
+| `wijziging-regeling-verpakkingen-en-gebruiksartikelen` | Wijziging Regeling verpakkingen en gebruiksartikelen | 2 | 1995-02-02 to 2005-08-31 |
+| `regeling-vangstbeperking` | Regeling vangstbeperking | 2 | 2009-02-01 to 2009-07-01 |
+| `wijziging-subsidieregeling-exportfinanciering` | Wijziging Subsidieregeling exportfinanciering | 2 | 1994-01-01 to 2005-06-11 |
+| `premiepercentage-voor-de-w-w-dat-ten-gunste-komt-van-het-wachtgeldfonds-en-voor-de-ziektew` | Premiepercentage voor de w.w. dat ten gunste komt van het wachtgeldfonds en voor de Ziektewet per 1 januari 1994 | 2 | 1994-01-01 to 2004-09-22 |
+| `regeling-vooraangifte-oogstschade-1993-noord-nederland` | Regeling vooraangifte oogstschade 1993 Noord-Nederland | 2 | 1994-05-30 to 2004-12-23 |
+| `besluit-wijziging-inkomensgrenzen-en-eigen-bijdragen-wrb-januari-1994` | Besluit wijziging inkomensgrenzen en eigen bijdragen WRB januari 1994. | 2 | 1994-01-01 to 2005-01-02 |
+| `instelling-adviescommissie-inzake-functie-ziekenhuispsychiatrie` | Instelling adviescommissie inzake functie ziekenhuispsychiatrie | 2 | 1994-03-01 to 2004-08-28 |
+| `landbouwkwaliteitsregeling-geografische-aanduidingen-oorsprongsbenamingen-en-specificiteit` | Landbouwkwaliteitsregeling geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificering | 2 | 1994-01-21 to 2007-09-28 |
+| `regeling-wettelijke-beslistermijn-voor-beschikkingen-op-aanvraag-van-meer-formatie-op-gron` | Regeling wettelijke beslistermijn voor beschikkingen op aanvraag van meer formatie op grond van bijzondere omstandigheden in het primair onderwijs (PO) | 2 | 1994-01-22 to 2006-02-10 |
+| `regeling-model-diploma-certificaat-en-cijferlijst-m-b-o` | Regeling model diploma, certificaat en cijferlijst m.b.o. | 2 | 1994-01-22 to 2008-08-01 |
+| `vaststelling-eindtermen-deeltijd-middelbaar-beroepsonderwijs` | Vaststelling eindtermen deeltijd middelbaar beroepsonderwijs | 2 | 1994-08-01 to 2008-08-01 |
+| `toepassing-besluit-produktie-en-handel-vers-vlees` | Toepassing Besluit produktie en handel vers vlees | 2 | 1994-01-16 to 2006-01-01 |
+| `keuringsregulatief-1994` | Keuringsregulatief 1994 | 2 | 2004-10-22 to 2006-01-01 |
+| `merkenbeschikking-1994` | Merkenbeschikking 1994 | 2 | 2001-09-23 to 2006-01-01 |
+| `warenwetregeling-persoonlijke-beschermingsmiddelen-2` | Warenwetregeling persoonlijke beschermingsmiddelen. | 2 | 1994-01-21 to 2004-08-28 |
+| `nederlandse-uitvoeringsvoorschriften-belastingverdrag-nederland-brazilie` | Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland-Brazilië | 2 | 1997-01-01 to 2004-10-01 |
+| `instellingsbeschikking-overlegcommissie-asielzoekerscentrum-zuid-laren` | Instellingsbeschikking overlegcommissie asielzoekerscentrum Zuid-Laren | 2 | 1994-01-20 to 2004-08-28 |
+| `wijziging-besluit-produktie-en-handel-vers-vlees` | Wijziging Besluit produktie en handel vers vlees | 2 | 1994-02-26 to 2006-01-01 |
+| `regeling-vervoer-niet-volledig-gekoeld-varkensvlees` | Regeling vervoer niet volledig gekoeld varkensvlees | 2 | 1994-02-26 to 2006-01-01 |
+| `examenreglement-voor-het-examen-voor-interieurarchitecten` | Examenreglement voor het examen voor interieurarchitecten | 2 | 1994-02-12 to 2012-01-01 |
+| `uitvoeringsregeling-wet-identificatie-bij-dienstverlening-en-wet-melding-ongebruikelijke-t` | Uitvoeringsregeling Wet identificatie bij dienstverlening en Wet melding ongebruikelijke transacties | 2 | 2007-11-24 to 2008-08-01 |
+| `sociaal-statuut-privatisering-interdepartementaal-bureau-dienstreizen` | Sociaal statuut privatisering Interdepartementaal Bureau Dienstreizen | 2 | 1994-01-21 to 2005-02-01 |
+| `bescherming-van-vogels` | Bescherming van vogels | 2 | 1994-01-30 to 2004-11-13 |
+| `regeling-verevening-referentiehoeveelheid-rechtstreekse-verkoop-1989-1990-en-1991` | Regeling verevening referentiehoeveelheid rechtstreekse verkoop 1989, 1990 en 1991 | 2 | 1994-02-09 to 2004-01-24 |
+| `regeling-formulier-en-model-rekening-en-verantwoording-1993-voor-b-v-e-instellingen` | Regeling formulier en model rekening en verantwoording 1993 voor b.v.e.-instellingen | 2 | 1994-02-12 to 2003-08-01 |
+| `wijziging-regeling-technische-ontwikkelingskredieten-1991` | Wijziging Regeling technische ontwikkelingskredieten 1991 | 2 | 1994-02-04 to 2005-06-11 |
+| `stimuleringsprogramma-volksgezondheid-transparant` | Stimuleringsprogramma ‘Volksgezondheid transparant’ | 2 | 1994-02-11 to 2004-08-28 |
+| `overgangsregeling-bijdrage-landelijk-railnet` | Overgangsregeling bijdrage landelijk railnet | 2 | 1994-02-19 to 2004-03-04 |
+| `regeling-subsidieplafond-verdelingsregels-en-aanwijzing-bouwjaren-met-betrekking-tot-huisv` | Regeling subsidieplafond, verdelingsregels en aanwijzing bouwjaren met betrekking tot huisvestingsvoorzieningen b.a.o. en (v.)s.o. 1994 | 2 | 1994-06-23 to 2014-01-23 |
+| `regeling-vaststelling-formulieren-verplaatsing-mestproductie` | Regeling vaststelling formulieren verplaatsing mestproductie | 2 | 2002-10-01 to 2006-01-01 |
+| `regeling-premiebetaling-bij-schuldige-nalatigheid` | Regeling premiebetaling bij schuldige nalatigheid | 2 | 1994-07-30 to 2006-01-01 |
+| `wijziging-regelingen-rijksbrandweeracademie` | Wijziging regelingen Rijksbrandweeracademie | 2 | 1993-11-01 to 2005-02-01 |
+| `voorwaarden-toekenning-subsidies-rechtswinkels` | Voorwaarden toekenning subsidies rechtswinkels | 2 | 1994-04-01 to 2005-01-02 |
+| `regeling-met-betrekking-tot-scholing` | Regeling met betrekking tot scholing | 2 | 2010-09-25 to 2014-01-01 |
+| `regeling-inzake-tijdstip-van-registratie-van-werknemers-als-werkzoekende-bij-het-uitvoerin` | Regeling inzake tijdstip van registratie van werknemers als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen | 2 | 2010-09-25 to 2014-01-01 |
+| `dagloonregelen` | Dagloonregelen | 2 | 1996-08-01 to 2014-01-01 |
+| `regels-betreffende-het-begrip-vakantie-en-de-periode-van-vakantie-met-behoud-van-recht-op` | Regels betreffende het begrip vakantie en de periode van vakantie met behoud van recht op uitkering | 2 | 1994-03-01 to 2014-01-01 |
+| `regeling-periode-waarbinnen-het-recht-op-uitkering-kan-herleven` | Regeling periode waarbinnen het recht op uitkering kan herleven | 2 | 1996-08-01 to 2014-01-01 |
+| `regeling-gelijkstelling-weken-waarin-geen-arbeid-is-verricht-met-weken-waarin-arbeid-is-ve` | Regeling gelijkstelling weken, waarin geen arbeid is verricht met weken waarin arbeid is verricht | 2 | 1996-08-01 to 2014-01-01 |
+| `regeling-gelijkstelling-loondagen-besluit-werkloosheid-onderwijs-en-onderzoekpersoneel` | Regeling gelijkstelling loondagen Besluit werkloosheid onderwijs- en onderzoekpersoneel | 2 | 1996-08-01 to 2014-01-01 |
+| `regeling-vrijstelling-tot-registratie-bij-het-uitvoeringsinstituut-werknemersverzekeringen` | Regeling vrijstelling tot registratie bij het Uitvoeringsinstituut werknemersverzekeringen | 2 | 2010-09-25 to 2014-01-01 |
+| `regeling-geheel-of-gedeeltelijk-eindigen-van-het-recht-op-uitkering-bij-samenloop` | Regeling geheel of gedeeltelijk eindigen van het recht op uitkering bij samenloop | 2 | 1994-03-01 to 2014-01-01 |
+| `regels-om-bij-de-berekening-van-het-aantal-arbeidsuren-uren-waarin-geen-arbeid-is-verricht` | Regels om bij de berekening van het aantal arbeidsuren, uren waarin geen arbeid is verricht, gelijk te stellen met arbeidsuren, en uren, waarin arbeid is verricht, buiten beschouwing te laten | 2 | 1994-03-01 to 2014-01-01 |
+| `regeling-verzilvering-formatierekeneenheden-schooljaar-19941995` | Regeling verzilvering formatierekeneenheden schooljaar 1994–1995 | 2 | 1994-08-01 to 2004-12-31 |
+| `verstrekking-gegevens-aan-directeur-generaal-van-de-arbeid` | Verstrekking gegevens aan directeur-generaal van de Arbeid | 2 | 1997-03-01 to 2004-09-22 |
+| `erkenning-als-ziekenhuis-voor-orthotope-levertransplantaties` | Erkenning als ziekenhuis voor orthotope levertransplantaties | 2 | 1994-03-01 to 2006-01-01 |
+| `warenwetregeling-algemene-chemische-produktveiligheid` | Warenwetregeling algemene chemische produktveiligheid | 2 | 2007-01-16 to 2009-12-16 |
+| `regeling-vervoerskostenvergoeding-w-v-g` | Regeling vervoerskostenvergoeding W.v.g. | 2 | 1994-04-01 to 2007-01-01 |
+| `delegatie-van-bevoegdheden-met-betrekking-tot-verkeerstekens` | Delegatie van bevoegdheden met betrekking tot verkeerstekens | 2 | 2003-12-31 to 2010-05-04 |
+| `regeling-vervroegde-aflossing-van-leningen-basisonderwijs` | Regeling vervroegde aflossing van leningen basisonderwijs | 2 | 1994-01-01 to 2014-01-23 |
+| `regeling-samenstelling-task-force-jeugdhulpverlening` | Regeling samenstelling task force jeugdhulpverlening | 2 | 1994-05-01 to 2004-08-28 |
+| `verlenging-van-de-periode-gedurende-welke-artikel-15a-van-de-winkelsluitingswet-1976-geldt` | Verlenging van de periode gedurende welke artikel 15a van de Winkelsluitingswet 1976 geldt | 2 | 1994-03-17 to 2005-02-01 |
+| `algemeen-brandweerexamenreglement-1994` | Algemeen brandweerexamenreglement 1994 | 2 | 2005-03-31 to 2010-10-01 |
+| `bevoegdheid-stichting-centrale-opvang-vluchtelingen` | Bevoegdheid Stichting Centrale Opvang Vluchtelingen | 2 | 1994-03-20 to 2004-01-01 |
+| `aanwijzing-document-voor-vaststelling-identiteit-van-personen` | Aanwijzing document voor vaststelling identiteit van personen | 2 | 1994-06-01 to 2005-01-02 |
+| `aanwijzing-politieambtenaren-bevoegd-tot-betreding-van-luchtvaartterreinen` | Aanwijzing politieambtenaren bevoegd tot betreding van luchtvaartterreinen | 2 | 1994-03-25 to 2009-10-31 |
+| `aanwijzing-beheerder-justitiele-documentatiedienst` | Aanwijzing beheerder justitiële documentatiedienst | 2 | 1994-04-07 to 2004-04-01 |
+| `instelling-overlegorgaan-gezondheidszorg-en-multiculturele-samenleving` | Instelling Overlegorgaan Gezondheidszorg en Multiculturele-samenleving | 2 | 1994-06-01 to 2004-08-28 |
+| `regeling-voorbereidingsschema-landinrichting-1994` | Regeling voorbereidingsschema Landinrichting 1994 | 2 | 1994-07-17 to 2004-01-24 |
+| `organisatieregeling-aanhoudings-en-ondersteuningseenheid` | Organisatieregeling aanhoudings- en ondersteuningseenheid | 2 | 1994-11-13 to 2007-01-05 |
+| `taakbeschikking-bijzondere-ambtenaren-van-politie` | Taakbeschikking bijzondere ambtenaren van politie | 2 | 1994-04-01 to 2013-01-01 |
+| `regeling-mobiele-eenheid` | Regeling mobiele eenheid | 2 | 1994-11-13 to 2007-02-28 |
+| `regeling-rampenidentificatieteam-politie` | Regeling rampenidentificatieteam politie | 2 | 1994-04-01 to 2013-01-01 |
+| `nederlandse-uitvoeringsvoorschriften-belastingverdrag-nederland-italie-1990` | Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland-Italië 1990 | 2 | 1997-01-01 to 2004-10-01 |
+| `goedkeuring-wijziging-stemmachine-type-es1-es2` | Goedkeuring wijziging stemmachine type ES1/ES2 | 2 | 1994-06-01 to 2007-10-21 |
+| `aanwijzigingsbeschikking-opsporingsambtenaren-koninklijke-marechaussee` | Aanwijzigingsbeschikking opsporingsambtenaren Koninklijke marechaussee | 2 | 1994-04-14 to 2009-07-10 |
+| `instellingsregeling-bijzondere-bijstandseenheden-defensie` | Instellingsregeling bijzondere bijstandseenheden Defensie | 2 | 1994-04-14 to 2007-01-01 |
+| `regeling-modelprognose-basisonderwijs-1994` | Regeling modelprognose basisonderwijs 1994 | 2 | 1994-04-15 to 2004-12-31 |
+| `besluit-uitoefening-tekenbevoegdheid-inzake-ipa-systeem` | Besluit uitoefening tekenbevoegdheid inzake IPA-systeem | 2 | 1994-04-17 to 2013-07-01 |
+| `vaststelling-van-de-gemiddelde-personeelslast-voor-het-voortgezet-algemeen-volwassenenonde` | Vaststelling van de gemiddelde personeelslast voor het voortgezet algemeen volwassenenonderwijs (v.a.v.o.), het beroepsbegeleidend onderwijs (b.b.o.) en het deeltijdsmiddelbaar beroepsonderwijs (dt-m.b.o.) | 2 | 1994-04-23 to 2014-01-23 |
+| `spaarloonregeling-rijkspersoneel` | Spaarloonregeling rijkspersoneel | 2 | 2010-09-15 to 2013-07-01 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer` | Besluit vaststelling wisselkoers en prijsindexcijfer | 2 | 1994-04-24 to 2005-02-01 |
+| `verlenging-periode-bijstandsbesluit-landelijke-normering-m-b-t-kostgangers-en-onderhuurbep` | Verlenging periode Bijstandsbesluit landelijke normering m.b.t. kostgangers- en onderhuurbepalingen | 2 | 1994-04-27 to 2007-11-14 |
+| `regeling-vervroegde-opening-visseizoen` | Regeling vervroegde opening visseizoen | 2 | 1994-04-15 to 2009-01-01 |
+| `regeling-aanwijzing-gebieden-terreinen-en-planten-aardappelmoeheid` | Regeling aanwijzing gebieden, terreinen en planten aardappelmoeheid | 2 | 2010-01-01 to 2010-07-01 |
+| `regeling-examen-klein-vaarbewijs` | Regeling examen klein vaarbewijs | 2 | 2007-01-01 to 2009-07-01 |
+| `besluit-beperking-inschrijving-fysiotherapie` | Besluit beperking inschrijving fysiotherapie | 2 | 1994-05-07 to 2004-12-31 |
+| `besluit-beperking-inschrijving-logopedie` | Besluit beperking inschrijving logopedie | 2 | 1994-05-07 to 2004-12-31 |
+| `regeling-percentages-vergoeding-kosten-voor-vervanging-personeel-19941995` | Regeling percentages vergoeding kosten voor vervanging personeel 1994–1995 | 2 | 1994-08-01 to 2004-12-31 |
+| `besluit-beperking-inschrijving-diergeneeskunde-19941995-en-19951996` | Besluit beperking inschrijving diergeneeskunde 1994–1995 en 1995–1996 | 2 | 1994-04-30 to 2004-12-31 |
+| `besluit-beperking-inschrijving-tandheelkunde-1994-1995-en-1995-1996` | Besluit beperking inschrijving tandheelkunde 1994- 1995 en 1995 – 1996 | 2 | 1994-04-30 to 2012-01-01 |
+| `regeling-vaststelling-grensbedrag-vrijstellingsregeling-open-universiteit` | Regeling vaststelling grensbedrag vrijstellingsregeling Open Universiteit | 2 | 1994-05-01 to 2008-01-01 |
+| `regeling-functioneel-leeftijdsontslag-administratief-technische-functies` | Regeling functioneel leeftijdsontslag administratief-technische functies | 2 | 1994-04-30 to 2016-02-01 |
+| `vaststelling-model-meldingsformulier-geweldgebruik` | Vaststelling model meldingsformulier geweldgebruik | 2 | 1994-05-27 to 2005-01-02 |
+| `regeling-dekking-kosten-ziekenfondsraad-en-zijn-secretariaat-1993` | Regeling dekking kosten Ziekenfondsraad en zijn secretariaat 1993 | 2 | 1994-06-01 to 2004-08-28 |
+| `examenstof-klassieke-taal-en-letterkunde-1993-en-1994` | Examenstof klassieke taal en letterkunde 1993 en 1994 | 2 | 1991-09-07 to 2004-12-31 |
+| `instructie-en-vergoeding-gecommitteerden-m-b-o` | Instructie en vergoeding gecommitteerden m.b.o. | 2 | 1994-05-28 to 2005-12-01 |
+| `regeling-eeg-verordening-overbrenging-van-afvalstoffen` | Regeling EEG-verordening overbrenging van afvalstoffen | 2 | 2002-05-08 to 2007-08-08 |
+| `organisatie-en-mandaatbesluit-kfd-1994` | Organisatie- en mandaatbesluit KFD 1994. | 2 | 1994-05-01 to 2008-09-25 |
+| `mandaatbesluit-korps-landelijke-politiediensten` | Mandaatbesluit Korps landelijke politiediensten | 2 | 1994-04-01 to 2003-08-24 |
+| `vaststelling-vacatiegeld-leden-bestuursraad-landelijke-selectie-en-opleidingsinstituut-pol` | Vaststelling vacatiegeld leden Bestuursraad Landelijke Selectie- en Opleidingsinstituut politie | 2 | 1994-07-06 to 2005-01-02 |
+| `uitvoeringsregeling-administratieve-voorschriften-s-o-vermindering` | Uitvoeringsregeling administratieve voorschriften S&O-vermindering | 2 | 2003-05-22 to 2005-12-25 |
+| `regeling-vergoeding-verplaatsingskosten-politie` | Regeling vergoeding verplaatsingskosten politie | 2 | 2006-02-01 to 2008-07-01 |
+| `vaststelling-subsidiebedrag-besluit-uitkeringen-interreg-1993-1994` | Vaststelling subsidiebedrag Besluit uitkeringen Interreg 1993/1994 | 2 | 1994-05-26 to 2005-06-11 |
+| `vaststelling-subsidiebedrag-besluit-uitkeringen-regioprogramma-zuid-limburg-1993-1994` | Vaststelling subsidiebedrag Besluit uitkeringen regioprogramma Zuid-Limburg 1993/1994 | 2 | 1994-05-27 to 2005-06-11 |
+| `wijziging-opleidingenstructuur-dt-m-b-o-per-1-augustus-1994` | Wijziging opleidingenstructuur dt-m.b.o. per 1 augustus 1994 | 2 | 1994-08-01 to 2014-01-23 |
+| `wijziging-besluit-verantwoording-en-vergoeding-uitkeringskosten` | Wijziging Besluit verantwoording en vergoeding uitkeringskosten | 2 | 1994-05-27 to 2004-09-22 |
+| `instelling-commissie-medische-experimenten-met-wilsonbekwamen` | Instelling commissie Medische experimenten met wilsonbekwamen | 2 | 1994-08-01 to 2004-08-28 |
+| `thema-beeldende-vakken-eindexamen-v-w-o-1995` | Thema beeldende vakken eindexamen v.w.o. 1995 | 2 | 1994-06-23 to 2004-12-31 |
+| `examenstof-klassieke-taal-en-letterkunde-1996` | Examenstof klassieke taal en letterkunde 1996 | 2 | 1994-06-25 to 2004-12-31 |
+| `regeling-vergoeding-vice-voorzitters-leden-en-adjunct-secretarissen` | Regeling vergoeding (vice-)voorzitters, leden en (adjunct-)secretarissen | 2 | 2002-01-01 to 2009-05-01 |
+| `extra-tegemoetkoming-voor-aanpassingen-in-verband-met-basisvorming-v-s-o-voor-het-jaar-199` | Extra tegemoetkoming voor aanpassingen in verband met basisvorming v.s.o. voor het jaar 1994 | 2 | 1994-06-18 to 2004-12-31 |
+| `stofomschrijving-van-het-onderwerp-de-verenigde-staten-17871914-samenleving-op-de-rails-vo` | Stofomschrijving van het onderwerp ‘De Verenigde Staten (1787–1914): samenleving op de rails’ voor het examen geschiedenis en staatsinrichting | 2 | 1994-06-25 to 2004-12-31 |
+| `thema-s-voor-het-centraal-examen-maatschappijleer-1997-en-1998` | Thema's voor het centraal examen maatschappijleer 1997 en 1998 | 2 | 1994-06-25 to 2004-12-31 |
+| `inhoudsomschrijving-thema-s-politieke-besluitvorming-en-multiculturele-samenleving-voor-he` | Inhoudsomschrijving thema's ‘Politieke besluitvorming’ en ‘Multiculturele samenleving’ voor het examen maatschappijleer | 2 | 1994-06-25 to 2004-12-31 |
+| `onderwerpen-centraal-en-schriftelijk-examen-aardrijkskunde-19951996` | Onderwerpen centraal en schriftelijk examen aardrijkskunde 1995–1996 | 2 | 1994-06-25 to 2004-12-31 |
+| `regeling-formulieren-stichting-basisscholen-en-huisvesting-in-het-b-o-en-het-v-s-o` | Regeling formulieren stichting basisscholen en huisvesting in het b.o. en het (v.)s.o. | 2 | 1994-06-18 to 2004-12-31 |
+| `besluit-wijziging-inkomensgrenzen-wrb-juli-1994` | Besluit wijziging inkomensgrenzen WRB juli 1994 | 2 | 1994-07-01 to 2005-01-02 |
+| `uitvoeringsregeling-energieprogramma-s` | Uitvoeringsregeling energieprogramma's | 2 | 1994-12-24 to 2005-06-11 |
+| `regeling-tarieven-gezondheids-en-welzijnswet-voor-dieren` | Regeling tarieven Gezondheids- en welzijnswet voor dieren | 2 | 2005-04-01 to 2005-12-24 |
+| `regeling-keuring-en-handel-dierlijke-producten` | Regeling keuring en handel dierlijke producten | 2 | 2005-12-17 to 2006-01-01 |
+| `regeling-examenprogramma-s-arabische-taal-en-turkse-taal-v-b-o-d-en-m-a-v-o-d` | Regeling examenprogramma's Arabische taal en Turkse taal v.b.o.-D en m.a.v.o.-D | 2 | 1995-01-01 to 2004-12-31 |
+| `instelling-gecentraliseerd-systeem-voor-opslag-radiologische-gegevens-en-vaststelling-stra` | Instelling gecentraliseerd systeem voor opslag radiologische gegevens en vaststelling stralingspaspoort | 2 | 1994-08-12 to 2004-09-22 |
+| `banenpool-in-relatie-tot-overleg-van-16-maart-1994` | Banenpool in relatie tot overleg van 16 maart 1994 | 2 | 1994-07-01 to 2008-09-25 |
+| `wijziging-regeling-reconstructie-oude-glastuinbouwgebieden` | Wijziging Regeling reconstructie oude glastuinbouwgebieden | 2 | 1994-07-06 to 2004-12-23 |
+| `regeling-vaststelling-bedragen-nascholing-19941995` | Regeling vaststelling bedragen nascholing 1994–1995 | 2 | 1994-08-01 to 2008-08-01 |
+| `regeling-vaststelling-inkomsten-uit-of-in-verband-met-het-verrichten-van-arbeid-in-het-bed` | Regeling vaststelling inkomsten uit of in verband met het verrichten van arbeid in het bedrijfs- of beroepsleven | 2 | 1998-01-01 to 2006-01-01 |
+| `uitvoeringsregeling-besluit-verplicht-bodemonderzoek-bedrijfsterreinen` | Uitvoeringsregeling Besluit verplicht bodemonderzoek bedrijfsterreinen | 2 | 2002-09-15 to 2005-10-28 |
+| `warenwetregeling-vrijstelling-verduurzaamde-vruchtenprodukten` | Warenwetregeling Vrijstelling verduurzaamde vruchtenprodukten | 2 | 1994-07-09 to 2004-08-28 |
+| `nadere-regels-ter-voorkoming-van-olieverontreiniging-door-schepen` | Nadere regels ter voorkoming van olieverontreiniging door schepen | 2 | 2004-11-26 to 2004-12-24 |
+| `instelling-onderzoekscommissie-evaluatie-arbeidsvoorzieningswet` | Instelling Onderzoekscommissie Evaluatie Arbeidsvoorzieningswet | 2 | 1994-12-01 to 2008-09-25 |
+| `instellingsbeschikking-bedrijfsleven-tno` | Instellingsbeschikking Bedrijfsleven – TNO | 2 | 1994-09-14 to 2004-12-31 |
+| `wijziging-vergoeding-verblijfkosten-leden-tweede-kamer-1994` | Wijziging vergoeding verblijfkosten leden Tweede Kamer 1994 | 2 | 1994-01-01 to 2010-03-24 |
+| `samenvoegingsfaciliteiten-in-het-voortgezet-onderwijs-schooljaar-19941995` | Samenvoegingsfaciliteiten in het voortgezet onderwijs schooljaar 1994–1995 | 2 | 1994-09-03 to 2003-06-18 |
+| `uitvoeringsregeling-zeescheepsnieuwbouw` | Uitvoeringsregeling zeescheepsnieuwbouw | 2 | 1994-07-15 to 2010-01-01 |
+| `regeling-budgetten-wet-stimulering-zeescheepvaart-1994` | Regeling budgetten Wet stimulering zeescheepvaart 1994 | 2 | 1994-07-20 to 2011-07-01 |
+| `regeling-openstelling-wet-stimulering-zeescheepvaart-1994` | Regeling openstelling Wet stimulering zeescheepvaart 1994 | 2 | 1994-07-20 to 2011-07-01 |
+| `regeling-structuurplan-wet-stimulering-zeescheepvaart` | Regeling structuurplan Wet stimulering zeescheepvaart | 2 | 1995-03-30 to 2011-07-01 |
+| `regeling-controleprotocol-wet-stimulering-zeescheepvaart` | Regeling controleprotocol Wet stimulering zeescheepvaart | 2 | 1994-07-20 to 2011-07-01 |
+| `afkoopregeling` | Afkoopregeling | 2 | 2006-01-01 to 2007-01-01 |
+| `regeling-buitengewoon-verlof-in-verband-met-de-opleiding-schoolleiders-primair-onderwijs` | Regeling buitengewoon verlof in verband met de opleiding schoolleiders primair onderwijs | 2 | 1996-11-23 to 2003-06-18 |
+| `nederlandse-uitvoeringsvoorschriften-belastingverdrag-nederland-canada` | Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland-Canada | 2 | 1999-02-10 to 2004-10-01 |
+| `vaststelling-kleur-verzekeringsplaten-voor-bromfietsen-1995` | Vaststelling kleur verzekeringsplaten voor bromfietsen 1995 | 2 | 1994-08-26 to 2004-03-04 |
+| `regeling-merkteken-asbestverwijdering` | Regeling merkteken asbestverwijdering | 2 | 1994-08-31 to 2006-03-01 |
+| `wijziging-subsidieregeling-algemene-vorming-en-scholing-politiek-kader-in-midden-en-oost-e-2` | Wijziging Subsidieregeling Algemene Vorming en Scholing Politiek Kader in Midden- en Oost-Europa 1993–1996 | 2 | 1995-01-01 to 2005-02-01 |
+| `vaststelling-van-regels-als-bedoeld-in-de-artikelen-8-9-en-12-van-het-besluit-reken-en-pro` | Vaststelling van regels als bedoeld in de artikelen 8, 9 en 12 van het Besluit reken- en procedureregels recht op waarde-overdracht | 2 | 2004-02-01 to 2005-03-30 |
+| `benoemingsbeschikking-voor-de-voorzitter-en-leden-van-de-begeleidingscommissie-meldpunt-on` | Benoemingsbeschikking voor de voorzitter en leden van de Begeleidingscommissie meldpunt ongebruikelijke transacties | 2 | 1997-06-01 to 2008-08-01 |
+| `vaststelling-taken-van-de-minister-zonder-portefeuille-en-de-staatssecretaris` | Vaststelling taken van de minister zonder portefeuille en de staatssecretaris | 2 | 1995-11-01 to 2005-06-11 |
+| `regeling-besteding-en-beheer-overgeboekte-a-o-middelen-1994` | Regeling besteding en beheer overgeboekte A+O middelen 1994 | 2 | 1994-07-01 to 2013-07-01 |
+| `instelling-werkgroep-positionering-opleiding-tot-verloskundige` | Instelling Werkgroep Positionering Opleiding tot Verloskundige | 2 | 1994-09-14 to 2004-08-28 |
+| `aanwijzing-instelling-bereiding-en-aflevering-farmaceutische-produkten` | Aanwijzing instelling bereiding en aflevering farmaceutische produkten | 2 | 1994-10-06 to 2007-07-01 |
+| `organisatiebesluit-dienst-ziektekostenvoorziening-overheidspersoneel-1994` | Organisatiebesluit Dienst Ziektekostenvoorziening Overheidspersoneel 1994 | 2 | 1994-09-09 to 2005-02-01 |
+| `wijziging-uitvoeringsregeling-grondontsmettingsmiddelen` | Wijziging Uitvoeringsregeling grondontsmettingsmiddelen | 2 | 1994-09-16 to 2004-01-24 |
+| `regeling-verzending-latere-vermeldingen-bij-dubbelen-van-akten-burgerlijke-stand` | Regeling verzending latere vermeldingen bij dubbelen van akten burgerlijke stand | 2 | 1995-01-01 to 2005-01-02 |
+| `vaststelling-modellen-ten-behoeve-van-verantwoording-aan-verzekeringskamer` | Vaststelling modellen ten behoeve van verantwoording aan Verzekeringskamer | 2 | 1994-09-17 to 2006-01-01 |
+| `regeling-meldingen-wvo-glastuinbouw` | Regeling meldingen Wvo glastuinbouw | 2 | 1994-11-01 to 2004-03-04 |
+| `regeling-uitvoerprocedure-en-uitvoerkenteken-bewijs` | Regeling uitvoerprocedure en uitvoerkenteken(-bewijs) | 2 | 1994-10-01 to 2008-07-23 |
+| `instelling-platform-technologie-en-opsporing` | Instelling Platform Technologie en Opsporing | 2 | 1994-09-22 to 2005-01-02 |
+| `regeling-gemeentelijke-basisadministratie-persoonsgegevens` | Regeling gemeentelijke basisadministratie persoonsgegevens | 2 | 2012-07-03 to 2014-01-06 |
+| `vaststelling-model-machtiging-binnentreden-woning` | Vaststelling model machtiging binnentreden woning | 2 | 1994-10-01 to 2004-07-03 |
+| `regeling-vaststelling-formulier-speciale-noodslachtingen` | Regeling vaststelling formulier speciale noodslachtingen | 2 | 2002-03-22 to 2006-01-01 |
+| `regeling-aandachtstoffen-wet-milieugevaarlijke-stoffen-1994` | Regeling aandachtstoffen Wet milieugevaarlijke stoffen 1994 | 2 | 1994-10-23 to 2008-06-01 |
+| `regeling-bureau-communicatie-nederlandse-politie` | Regeling bureau communicatie Nederlandse politie | 2 | 1994-10-27 to 2005-01-02 |
+| `regeling-financiele-verslaggeving-landelijke-organen-voor-het-beroepsonderwijs-en-zelfstan` | Regeling financiële verslaggeving landelijke organen voor het beroepsonderwijs en zelfstandige instituten voor het vormingswerk | 2 | 1995-01-01 to 2014-01-23 |
+| `definitieve-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-awbz-1994` | Definitieve vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en AWBZ 1994 | 2 | 1994-01-01 to 2004-08-28 |
+| `voorlopige-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-awbz-1995` | Voorlopige vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en AWBZ 1995 | 2 | 1995-01-01 to 2004-08-28 |
+| `regeling-aanwijzing-keuringsinstelling-explosieven-voor-civiel-gebruik` | Regeling aanwijzing keuringsinstelling explosieven voor civiel gebruik | 2 | 2005-02-25 to 2010-10-19 |
+| `wijziging-opleidingenstructuur-b-b-o-per-1-augustus-1994` | Wijziging opleidingenstructuur b.b.o. per 1 augustus 1994 | 2 | 1994-11-05 to 2014-01-23 |
+| `instellingsregeling-onderzoekcommissie-wachttijden-co-assistenten` | Instellingsregeling onderzoekcommissie wachttijden co-assistenten | 2 | 1994-12-02 to 2004-12-31 |
+| `beschikbaar-bedrag-subsidieregeling-erkenningsregelingen` | Beschikbaar bedrag Subsidieregeling erkenningsregelingen | 2 | 1994-10-21 to 2005-06-11 |
+| `regeling-centrale-examens-m-b-o` | Regeling centrale examens m.b.o. | 2 | 1994-11-05 to 2005-12-01 |
+| `besluit-vaststelling-ziektevoorschriften-ez` | Besluit vaststelling ziektevoorschriften EZ | 2 | 1994-10-26 to 2005-12-01 |
+| `bezwarenregeling-verzelfstandiging-caop` | Bezwarenregeling verzelfstandiging CAOP | 2 | 1994-11-02 to 2005-02-01 |
+| `sociaal-statuut-verzelfstandiging-caop` | Sociaal statuut verzelfstandiging CAOP | 2 | 1994-11-02 to 2005-02-01 |
+| `aanwijzingsbesluiten-oost-westbaan-luchtvaartterrein-maastricht-zonder-nachtvluchten` | Aanwijzingsbesluiten Oost-Westbaan luchtvaartterrein Maastricht zonder nachtvluchten | 2 | 1994-11-26 to 2004-12-23 |
+| `besluit-als-bedoeld-in-artikel-27-juncto-artikel-24-van-de-luchtvaartwet-houdende-wijzigin` | Besluit als bedoeld in artikel 27 juncto artikel 24 van de Luchtvaartwet, houdende wijziging van de aanwijzing van het luchtvaartterrein Maastricht ten behoeve van de oostwestbaan, alsmede vaststelling van de geluidszones | 2 | 2000-05-12 to 2004-01-01 |
+| `regeling-reclamesleepvliegen` | Regeling reclamesleepvliegen | 2 | 1998-04-01 to 2013-10-01 |
+| `aanvullend-luchthavenreglement-luchthaven-schiphol` | Aanvullend luchthavenreglement luchthaven Schiphol | 2 | 2010-07-06 to 2013-07-01 |
+| `regeling-samenvoeging-van-scholen-in-het-v-o` | Regeling samenvoeging van scholen in het v.o. | 2 | 1995-08-01 to 2003-06-18 |
+| `regeling-wijze-van-keuren-niet-periodiek-keuringsplichtige-voertuigen` | Regeling wijze van keuren niet-periodiek-keuringsplichtige voertuigen | 2 | 2005-09-01 to 2009-05-01 |
+| `vaststelling-eenmalige-bijdrage-aan-gemeenten-voor-invoering-nieuwe-reisdocumenten` | Vaststelling eenmalige bijdrage aan gemeenten voor invoering nieuwe reisdocumenten | 2 | 1994-12-10 to 2005-02-01 |
+| `aanwijzing-opsporingsambtenaren-economische-delicten` | Aanwijzing opsporingsambtenaren (economische delicten) | 2 | 1994-12-01 to 2005-01-02 |
+| `regeling-meldingen-wvo-tandartspraktijken` | Regeling meldingen Wvo tandartspraktijken | 2 | 1995-01-01 to 2008-07-23 |
+| `regeling-vaststelling-bedragen-nascholing-b-v-e-1995` | Regeling vaststelling bedragen nascholing b.v.e. 1995 | 2 | 1995-01-01 to 2004-12-31 |
+| `regeling-met-betrekking-tot-indexering-van-het-dagloon` | Regeling met betrekking tot indexering van het dagloon | 2 | 1994-12-17 to 2014-01-01 |
+| `instelling-regiegroep-gegevensuitwisseling-fraudebestrijding-algemene-bijstandswet` | Instelling Regiegroep gegevensuitwisseling fraudebestrijding Algemene Bijstandswet | 2 | 1995-01-01 to 2008-09-25 |
+| `instelling-commissie-van-advies-inzake-evaluatie-van-de-bopz` | Instelling commissie van advies inzake evaluatie van de BOPZ | 2 | 1995-02-01 to 2004-08-28 |
+| `toekenning-eenmalige-bijdrage-aan-vereniging-kinderen-uit-de-japanse-bezetting-en-de-bersi` | Toekenning eenmalige bijdrage aan Vereniging Kinderen uit de Japanse bezetting en de Bersiap 1941–1949 | 2 | 1995-02-01 to 2005-02-01 |
+| `beschikking-organisatie-centrale-sector-vrom` | Beschikking Organisatie Centrale Sector VROM | 2 | 1994-12-16 to 2004-07-01 |
+| `regeling-vervroegde-aflossing-van-leningen-basisonderwijs-afgesloten-in-1985` | Regeling vervroegde aflossing van leningen basisonderwijs afgesloten in 1985 | 2 | 1994-12-15 to 2014-01-23 |
+| `warenwetregeling-ce-markering-voor-speelgoed` | Warenwetregeling CE-markering voor speelgoed | 2 | 1995-01-01 to 2011-07-20 |
+| `extra-vergoeding-voor-leermiddelen-t-b-v-gefuseerde-scholen-in-het-kader-van-toerusting-en` | Extra vergoeding voor leermiddelen t.b.v. gefuseerde scholen in het kader van Toerusting en Bereikbaarheid | 2 | 1994-12-17 to 2004-12-31 |
+| `aanwijzing-opsporingsambtenaren-voor-de-wegenverkeerswet-1994` | Aanwijzing opsporingsambtenaren voor de Wegenverkeerswet 1994 | 2 | 1995-01-01 to 2005-01-02 |
+| `vaststelling-omroepbijdragen-2` | Vaststelling omroepbijdragen | 2 | 1995-01-01 to 2009-01-01 |
+| `regeling-verzilvering-formatierekeneenheden-schooljaar-19951996` | Regeling verzilvering formatierekeneenheden schooljaar 1995–1996 | 2 | 1995-09-01 to 2004-12-31 |
+| `regeling-examenprogramma-s-algemene-eindexamenvakken-v-b-o-en-m-a-v-o` | Regeling examenprogramma's algemene eindexamenvakken v.b.o. en m.a.v.o. | 2 | 1996-08-01 to 2004-12-31 |
+| `regeling-procedures` | Regeling procedures | 2 | 2005-05-12 to 2006-03-26 |
+| `regeling-rijonderricht-motorrijtuigen` | Regeling rijonderricht motorrijtuigen | 2 | 2008-10-01 to 2009-06-01 |
+| `aanwijzing-belangenbehartiger-automobielbranche` | Aanwijzing belangenbehartiger automobielbranche | 2 | 1995-01-01 to 2007-03-01 |
+| `uitvoering-artikel-8-wet-mooz` | Uitvoering artikel 8 Wet MOOZ | 2 | 1995-01-01 to 2006-01-01 |
+| `besluit-wijziging-inkomensgrenzen-wrb-januari-1995` | Besluit wijziging inkomensgrenzen WRB januari 1995 | 2 | 1995-01-01 to 2005-01-02 |
+| `wijziging-regeling-tijdelijke-vrijstelling-verplichting-tot-inhouding-ziekenfondspremie` | Wijziging Regeling tijdelijke vrijstelling verplichting tot inhouding ziekenfondspremie | 2 | 1995-01-01 to 2006-01-01 |
+| `regeling-aanwijzing-belanghebbenden-verstrekking-diefstalgegevens-kentekenregister` | Regeling aanwijzing belanghebbenden verstrekking diefstalgegevens kentekenregister | 2 | 2002-09-01 to 2008-07-01 |
+| `vaststelling-gemiddelde-premiepercentage-voor-de-w-w-dat-ten-goede-komt-aan-het-wachtgeldf` | Vaststelling gemiddelde premiepercentage voor de w.w. dat ten goede komt aan het wachtgeldfonds en voor de z.w. per 1 januari 1995 | 2 | 1995-01-01 to 2004-09-22 |
+| `erkenning-bedrijfsverenigingen-zuivelindustrie` | Erkenning bedrijfsverenigingen (Zuivelindustrie) | 2 | 1995-01-01 to 2004-09-22 |
+| `vaststelling-ziekenfondspremie-aanwijzingsbesluit-verplicht-verzekerden-ziekenfondswet` | Vaststelling ziekenfondspremie Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet | 2 | 1995-01-01 to 2004-08-28 |
+| `inzet-hulpambulances` | Inzet hulpambulances | 2 | 1995-12-14 to 2013-01-01 |
+| `vrijstellingsregeling-westerschelde` | Vrijstellingsregeling Westerschelde | 2 | 2000-01-01 to 2006-12-21 |
+| `vrijstellingsregeling-ectoparasiticiden` | Vrijstellingsregeling ectoparasiticiden | 2 | 2002-01-01 to 2006-01-13 |
+| `rode-lijst-dagvlinders` | Rode lijst dagvlinders | 2 | 1995-05-23 to 2004-11-13 |
+| `premieregeling-geneeskundige-verzorging-politie-1995` | Premieregeling geneeskundige verzorging politie 1995 | 2 | 1995-01-01 to 2005-02-01 |
+| `regeling-vaststelling-formulier-mestafzetplan-1995-1996-1997` | Regeling vaststelling formulier Mestafzetplan 1995, 1996, 1997 | 2 | 1995-01-27 to 2004-01-24 |
+| `vaststelling-uitrusting-ambtenaren-van-politie-bij-korps-landelijke-politiediensten-en-bij` | Vaststelling uitrusting ambtenaren van politie bij Korps landelijke politiediensten en bijzondere ambtenaren van politie | 2 | 1995-02-01 to 2007-02-21 |
+| `instellingsregeling-commissie-voorkoming-en-bestrijding-van-geweld-in-scholen` | Instellingsregeling commissie voorkoming en bestrijding van geweld in scholen | 2 | 1995-02-04 to 2004-12-31 |
+| `regeling-verhoging-referentiehoeveelheden-1995` | Regeling verhoging referentiehoeveelheden, 1995 | 2 | 1995-01-18 to 2004-01-24 |
+| `bijdrageregeling-1993-incentive-algemene-bijstandswet` | Bijdrageregeling 1993 incentive Algemene Bijstandswet | 2 | 1995-01-18 to 2008-09-25 |
+| `regeling-commissie-officiele-nederlandse-zuivelnoteringen` | Regeling Commissie Officiële Nederlandse Zuivelnoteringen | 2 | 1995-01-20 to 2007-07-15 |
+| `regeling-vaststelling-mestboekhouding-producenten-1995` | Regeling vaststelling mestboekhouding producenten 1995 | 2 | 1995-01-22 to 2004-01-24 |
+| `regeling-bezwarenadviescommissie-personele-aangelegenheden-binnenlandse-zaken-en-koninkrij` | Regeling bezwarenadviescommissie personele aangelegenheden Binnenlandse Zaken en Koninkrijksrelaties | 2 | 2002-07-05 to 2009-10-18 |
+| `vaststelling-rode-lijst-zoogdieren` | Vaststelling rode lijst zoogdieren | 2 | 1995-02-03 to 2004-11-13 |
+| `wijziging-regeling-overzicht-diploma-s-en-certificaten-landbouwonderwijs` | Wijziging regeling overzicht diploma's en certificaten landbouwonderwijs | 2 | 1995-08-01 to 2007-02-04 |
+| `wijziging-subsidieregeling-bedrijfsgericht-technologisch-onderzoek-door-collectiviteiten-1` | Wijziging Subsidieregeling bedrijfsgericht technologisch onderzoek door collectiviteiten 1994 en vaststelling van het voor 1995 beschikbare budget | 2 | 1995-02-03 to 2005-06-11 |
+| `wijzigingsregeling-uitvoeringsregeling-t-u-en-vaststelling-van-het-voor-1995-beschikbare-b` | Wijzigingsregeling Uitvoeringsregeling T&U en vaststelling van het voor 1995 beschikbare budget | 2 | 1995-02-04 to 2005-06-11 |
+| `instellingsbesluit-commissie-integraal-waterbeheer-cuwvo` | Instellingsbesluit Commissie Integraal Waterbeheer/CUWVO | 2 | 2000-10-19 to 2004-02-10 |
+| `besluit-stuurgroep-structurering-informatievoorziening-jeugdzorg` | Besluit Stuurgroep Structurering Informatievoorziening Jeugdzorg | 2 | 1995-02-15 to 2004-08-28 |
+| `besluit-overgangsregeling-inzake-voortduren-opsporingsbevoegdheid-buitengewone-opsporingsa` | Besluit overgangsregeling inzake voortduren opsporingsbevoegdheid buitengewone opsporingsambtenaren | 2 | 1995-02-22 to 2005-01-02 |
+| `wijzigingsregeling-regeling-formatierekeneenheden-culturele-minderheidsgroepen-en-andersta` | Wijzigingsregeling Regeling formatierekeneenheden culturele minderheidsgroepen en anderstalige leerlingen WVO 1994 | 2 | 1995-08-01 to 2004-12-31 |
+| `regeling-borgstelling-waterschadekredieten-1995` | Regeling borgstelling waterschadekredieten 1995 | 2 | 1995-04-28 to 2005-06-11 |
+| `regeling-communautair-initiatief-werkgelegenheid` | Regeling Communautair Initiatief Werkgelegenheid | 2 | 1995-02-24 to 2008-09-25 |
+| `wijziging-uitvoeringsregeling-superheffing-1988` | Wijziging uitvoeringsregeling superheffing 1988 | 2 | 1995-02-26 to 2004-01-24 |
+| `besluit-buitengewoon-opsporingsambtenaren-waterschappen-1995` | Besluit buitengewoon opsporingsambtenaren Waterschappen 1995 | 2 | 2000-02-23 to 2004-06-23 |
+| `regeling-geldsom-visakten-1995` | Regeling geldsom visakten 1995 | 2 | 1995-03-01 to 2004-01-24 |
+| `regeling-structurele-vergoedingen-gsm-voor-1994-en-1995` | Regeling structurele vergoedingen GSM voor 1994 en 1995 | 2 | 1995-03-10 to 2012-09-27 |
+| `regeling-aanwijzing-gebieden-voor-luchtverkeersdienstverlening-door-buitenlandse-instantie-2` | Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties | 2 | 2004-03-19 to 2005-05-12 |
+| `regeling-stoffenlijsten-en-concentraties-schadelijke-vloeistoffen` | Regeling stoffenlijsten en concentraties schadelijke vloeistoffen | 2 | 2003-12-20 to 2008-09-17 |
+| `regeling-tolkenvergoeding-immigratie-en-naturalisatiedienst` | Regeling tolkenvergoeding Immigratie- en Naturalisatiedienst | 2 | 2009-06-01 to 2013-05-01 |
+| `regeling-verevening-referentiehoeveelheid-rechtstreekse-verkoop-1992-en-1993` | Regeling verevening referentiehoeveelheid rechtstreekse verkoop 1992 en 1993 | 2 | 1995-04-05 to 2004-01-24 |
+| `regeling-budgetten-wet-stimulering-zeescheepvaart-1995` | Regeling budgetten Wet stimulering zeescheepvaart 1995 | 2 | 1995-11-19 to 2011-07-01 |
+| `regeling-openstelling-wet-stimulering-zeescheepvaart-1995` | Regeling openstelling Wet stimulering zeescheepvaart 1995 | 2 | 1995-03-30 to 2011-07-01 |
+| `regeling-aanwijzing-ambtenaren-mede-belast-met-toezicht-op-naleving-van-het-bepaalde-krach` | Regeling aanwijzing ambtenaren mede belast met toezicht op naleving van het bepaalde krachtens artikel 17 Wet op de openluchtrecreatie | 2 | 1995-11-01 to 2005-02-25 |
+| `wijziging-van-de-op-grond-van-artikel-40-derde-lid-w-a-o-en-artikel-32-vierde-lid-ziektewe` | Wijziging van de op grond van artikel 40, derde lid, w.a.o. en artikel 32, vierde lid, Ziektewet getroffen regelingen | 2 | 1995-04-07 to 2004-09-22 |
+| `regelingen-inzake-pensioenen-en-uitkeringen-oorlogs-en-vervolgingsslachtoffers-1940-1945` | Regelingen inzake pensioenen en uitkeringen oorlogs- en vervolgingsslachtoffers 1940-1945 | 2 | 1995-04-08 to 2004-08-28 |
+| `intrekking-beschikking-jaarlijkse-bijdrage-bestaande-eigen-woningen-en-wijziging-regeling` | Intrekking Beschikking jaarlijkse bijdrage bestaande eigen woningen en wijziging Regeling overgangsbepalingen woninggebonden subsidies | 2 | 1995-07-13 to 2008-12-13 |
+| `vaststelling-van-enige-energieprogramma-s` | Vaststelling van enige energieprogramma's | 2 | 1995-12-29 to 2005-06-11 |
+| `vaststelling-dekking-van-de-kosten-ziekenfondsraad-1994` | Vaststelling dekking van de kosten Ziekenfondsraad 1994 | 2 | 1995-04-13 to 2004-08-28 |
+| `regeling-aanwijzing-hoog-risico-materiaal` | Regeling aanwijzing hoog-risico-materiaal | 2 | 1999-10-17 to 2003-09-07 |
+| `regeling-nadere-voorwaarden-inzake-vleesprodukten-vleesbereidingen-en-bepaalde-andere-prod` | Regeling nadere voorwaarden inzake vleesprodukten, vleesbereidingen en bepaalde andere produkten van dierlijke oorsprong uit andere lid-staten | 2 | 2000-06-30 to 2006-01-01 |
+| `besluit-hulpofficieren-van-justitie-fiod-1995` | Besluit hulpofficieren van justitie FIOD 1995 | 2 | 1996-06-14 to 2003-10-29 |
+| `regeling-classificatie-medische-hulpmiddelen` | Regeling classificatie medische hulpmiddelen | 2 | 2007-09-01 to 2010-03-21 |
+| `besluit-klinische-evaluatie-medische-hulpmiddelen` | Besluit klinische evaluatie medische hulpmiddelen | 2 | 1995-05-13 to 2010-03-21 |
+| `regeling-vrijstelling-verplichtingen-abw` | Regeling vrijstelling verplichtingen Abw | 2 | 2002-02-23 to 2005-02-01 |
+| `wijziging-uitvoeringsregeling-btip-en-vaststelling-budget-1995` | Wijziging Uitvoeringsregeling BTIP en vaststelling budget 1995 | 2 | 1995-12-03 to 2005-06-11 |
+| `regeling-onderzoek-criminele-inlichtingendienst-regionale-politiekorps-kennemerland` | Regeling onderzoek Criminele Inlichtingendienst regionale politiekorps Kennemerland | 2 | 1995-04-27 to 2005-01-02 |
+| `regeling-tegemoetkoming-kosten-cito-toets-en-nt2-cursus` | Regeling Tegemoetkoming kosten cito-toets en NT2-cursus | 2 | 1995-05-20 to 2004-12-31 |
+| `regeling-aanwijzing-toezichthoudende-ambtenaren-destructiewet` | Regeling aanwijzing toezichthoudende ambtenaren Destructiewet | 2 | 2003-01-01 to 2008-01-01 |
+| `subsidieregeling-netwerk-landelijke-wandelpaden` | Subsidieregeling netwerk landelijke wandelpaden | 2 | 2005-01-01 to 2007-01-01 |
+| `wijziging-regeling-keuring-en-handelsverkeer-vleesprodukten-1993` | Wijziging Regeling keuring en handelsverkeer vleesprodukten 1993 | 2 | 1995-05-05 to 2004-01-24 |
+| `wijziging-regeling-keuring-en-handelsverkeer-konijne-en-hazevlees-1993` | Wijziging Regeling keuring en handelsverkeer konijne- en hazevlees 1993 | 2 | 1996-01-18 to 2004-01-24 |
+| `vaststelling-enige-energieprogrammas-tweede-tranche-1995` | Vaststelling enige energieprogramma’s (tweede tranche) 1995 | 2 | 1995-12-22 to 2005-06-11 |
+| `regeling-typegoedkeuring-en-installatie-tachografen-rijnvaart-1995` | Regeling typegoedkeuring en installatie tachografen Rijnvaart 1995 | 2 | 2006-07-09 to 2009-07-01 |
+| `ijkregeling-taxameters` | IJkregeling taxameters | 2 | 2002-01-01 to 2007-02-01 |
+| `regeling-model-ondervolmacht` | Regeling model ondervolmacht | 2 | 1995-07-01 to 2006-01-01 |
+| `regeling-model-volmacht` | Regeling model volmacht | 2 | 1995-07-01 to 2006-01-01 |
+| `regeling-bevoegdheid-toekenning-toelage-functionarissen-koninklijke-en-diplomatieke-beveil` | Regeling bevoegdheid toekenning toelage functionarissen Koninklijke en Diplomatieke beveiliging KLPD | 2 | 1995-05-19 to 2006-12-22 |
+| `instelling-commissie-herijking-vergoedingen-rechtsbijstand` | Instelling Commissie herijking vergoedingen rechtsbijstand | 2 | 1995-07-01 to 2005-01-02 |
+| `regeling-natuurkampeerterreinen` | Regeling natuurkampeerterreinen | 2 | 1995-11-01 to 2005-11-01 |
+| `regeling-beperking-burgerluchtvaart-veiligheid-koninklijk-huis` | Regeling beperking burgerluchtvaart veiligheid Koninklijk Huis | 2 | 2003-05-23 to 2007-02-22 |
+| `regeling-gegevensverstrekking-overheidsaanbestedingen-en-aanbestedingen-nutssector` | Regeling gegevensverstrekking overheidsaanbestedingen en aanbestedingen nutssector | 2 | 1999-02-07 to 2006-01-01 |
+| `besluit-icpr-2` | Besluit ICPR | 2 | 1995-06-01 to 2013-07-01 |
+| `regeling-aanwijziging-wateren-verbod-nachtvisserij` | Regeling aanwijziging wateren verbod nachtvisserij | 2 | 1985-06-01 to 2009-01-01 |
+| `regeling-erkenning-vaarbekwaamheidsbewijs-politie` | Regeling erkenning vaarbekwaamheidsbewijs politie | 2 | 1997-03-20 to 2009-07-01 |
+| `wijziging-agrarische-examens-in-verband-met-taakoverdracht-aan-lobas` | Wijziging agrarische examens in verband met taakoverdracht aan LOBAS | 2 | 1995-06-11 to 2004-01-24 |
+| `beschikking-aanwijzing-gevoelige-gebieden` | Beschikking aanwijzing gevoelige gebieden | 2 | 1995-06-14 to 2007-09-01 |
+| `subsidiering-communautair-initiatief-adapt` | Subsidiëring communautair initiatief Adapt | 2 | 1995-09-08 to 2008-09-25 |
+| `wijziging-merkenbeschikking-1994` | Wijziging Merkenbeschikking 1994 | 2 | 1995-06-23 to 2006-01-01 |
+| `aanwijzing-categorie-rechts-personen-en-instellingen-waaraan-precursoren-mogen-worden-afge` | Aanwijzing categorie (rechts) personen en instellingen waaraan precursoren mogen worden afgeleverd | 2 | 1999-11-25 to 2006-02-22 |
+| `regeling-statistische-gegevens-a-b-w` | Regeling statistische gegevens a.b.w. | 2 | 1999-10-06 to 2004-01-01 |
+| `regeling-onderwerpen-examen-geschiedenis-en-staatsinrichting-1998` | Regeling onderwerpen examen geschiedenis en staatsinrichting 1998 | 2 | 1996-08-01 to 2004-12-31 |
+| `onderwerpen-centraal-en-schriftelijk-examen-aardrijkskunde-1996-1997` | Onderwerpen centraal en schriftelijk examen aardrijkskunde 1996-1997 | 2 | 1996-08-01 to 2004-12-31 |
+| `regeling-onderwerpen-en-stofomschrijving-geschiedenis-en-staatsinrichting-1997` | Regeling onderwerpen en stofomschrijving geschiedenis en staatsinrichting 1997 | 2 | 1996-08-01 to 2004-12-31 |
+| `reglement-politieregister-vir-divisie-cri` | Reglement politieregister VIR Divisie CRI | 2 | 2002-01-01 to 2008-01-01 |
+| `inhoudsomschrijving-thema-s-mens-en-werk-en-multiculturele-samenleving-voor-het-examen-maa` | Inhoudsomschrijving thema's "Mens en werk" en "Multiculturele samenleving" voor het examen maatschappijleer | 2 | 1995-07-01 to 2004-12-31 |
+| `uitvoeringsregeling-bsz-1995` | Uitvoeringsregeling BSZ 1995 | 2 | 1995-10-08 to 2005-06-11 |
+| `vaststelling-modellen-bij-besluit-gelden-regionaal-verkeersveiligheidsbeleid` | Vaststelling modellen bij Besluit gelden regionaal verkeersveiligheidsbeleid | 2 | 2001-01-01 to 2005-01-01 |
+| `regeling-invoer-hooi-en-stro` | Regeling invoer hooi en stro | 2 | 2004-10-03 to 2006-01-01 |
+| `wijziging-stoffenregeling-cosmetica` | Wijziging Stoffenregeling Cosmetica | 2 | 1995-07-06 to 2009-02-06 |
+| `wijziging-uitvoeringsregeling-eeg-premie-aanhouden-zoogkoeienbestand-1993` | Wijziging Uitvoeringsregeling EEG-premie aanhouden zoogkoeienbestand 1993 | 2 | 1995-07-02 to 2004-01-24 |
+| `vaststelling-energieprogrammas-derde-tranche` | Vaststelling energieprogramma’s (derde tranche) | 2 | 1995-12-22 to 2005-06-11 |
+| `aanwijzing-vervangende-tekst-van-handleiding-bodemsanering-tankstations` | Aanwijzing vervangende tekst van Handleiding bodemsanering tankstations | 2 | 1995-07-13 to 2008-01-01 |
+| `instelling-benoemingen-adviescommissie-leden-raad-voor-cultuur` | Instelling benoemingen-adviescommissie leden Raad voor cultuur | 2 | 1995-07-05 to 2004-12-31 |
+| `taken-en-verantwoordelijkheden-tijdelijke-adviescommissie-algemene-instellingsgebonden-eth` | Taken en verantwoordelijkheden tijdelijke adviescommissie Algemene Instellingsgebonden Ethische Commissies voor Onderzoek en Onderwijs | 2 | 1995-07-25 to 2004-12-31 |
+| `regeling-vrijstelling-dierenvervoer` | Regeling vrijstelling dierenvervoer | 2 | 1995-10-01 to 2007-01-05 |
+| `aanwijzing-tno-certification-voor-redding-en-zwemvesten` | Aanwijzing TNO-Certification voor redding- en zwemvesten | 2 | 2000-11-15 to 2008-01-11 |
+| `aanwijzing-bewijsstukken-ter-uitvoering-van-de-vestigingswet-bedrijven-1954-en-de-vestigin` | Aanwijzing bewijsstukken ter uitvoering van de Vestigingswet Bedrijven 1954 en de Vestigingswet detailhandel | 2 | 1995-07-28 to 2007-07-18 |
+| `machtiging-cbs-tot-inwinning-van-gegevens-inzake-verzekerings-bedrijven-en-pensioenfondse` | Machtiging CBS tot inwinning van gegevens inzake verzekerings- bedrijven en pensioenfondse | 2 | 1995-07-21 to 2004-01-03 |
+| `uitsluiting-toepassing-van-bepalingen-van-de-wet-ambulancevervoer-ten-aanzien-van-categori` | Uitsluiting toepassing van bepalingen van de Wet ambulancevervoer ten aanzien van categorieën van ambulancevervoer | 2 | 2008-05-23 to 2013-01-01 |
+| `bijdrageregeling-wateroverlast-zorgsector-1995` | Bijdrageregeling wateroverlast zorgsector 1995 | 2 | 1995-10-26 to 2004-08-28 |
+| `regeling-wijziging-normbedragen-constante-en-variabele-exploitatiekosten-standplaatsen-en` | Regeling wijziging normbedragen constante en variabele exploitatiekosten standplaatsen en huurprijzen woonwagens | 2 | 1995-07-26 to 2004-12-23 |
+| `instelling-buitengewone-dienst-commissie-uszo` | Instelling Buitengewone Dienst Commissie USZO | 2 | 1995-08-04 to 2005-02-01 |
+| `regeling-specifieke-formatie-instellingen-voor-speciaal-en-voortgezet-speciaal-onderwijs-a` | Regeling specifieke formatie instellingen voor speciaal en voortgezet speciaal onderwijs aan visueel gehandicapte kinderen | 2 | 1995-09-02 to 2004-12-31 |
+| `besluit-buitengewoon-opsporingsambtenaar-marine-beveiligingskorps-1995` | Besluit buitengewoon opsporingsambtenaar Marine Beveiligingskorps 1995 | 2 | 1999-07-16 to 2005-08-04 |
+| `regeling-eigen-bijdrage-kraamzorg-ziekenfondsverzekering` | Regeling eigen bijdrage kraamzorg ziekenfondsverzekering | 2 | 2005-01-01 to 2006-01-01 |
+| `verlenging-regeling-borgstelling-waterschadekredieten-1995` | Verlenging Regeling borgstelling waterschadekredieten 1995 | 2 | 1995-08-18 to 2005-06-11 |
+| `verlenging-subsidie-regeling-waterschade-1995` | Verlenging Subsidie- regeling waterschade 1995 | 2 | 1995-08-18 to 2010-01-01 |
+| `kleur-bromfietsplaten-1996` | Kleur bromfietsplaten 1996 | 2 | 1995-08-25 to 2008-01-01 |
+| `delegatie-en-uitvoeringsbesluit-wet-arbeid-vreemdelingen` | Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen | 2 | 2013-12-30 to 2014-01-01 |
+| `tegemoetkoming-a-o-w-a-w-w-aan-gvp-deelnemers` | Tegemoetkoming a.o.w./a.w.w. aan GVP-deelnemers | 2 | 1995-09-01 to 2004-12-01 |
+| `aanwijzing-bevolkingsonderzoek-naar-borstkanker-als-bevolkingsonderzoek-bedoeld-in-besluit` | Aanwijzing bevolkingsonderzoek naar borstkanker als bevolkingsonderzoek bedoeld in Besluit c.p.v. | 2 | 1995-09-01 to 2008-12-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-inspectie-voor-de-gezondheidszorg-1995` | Besluit buitengewoon opsporingsambtenaar Inspectie voor de Gezondheidszorg 1995 | 2 | 2000-08-02 to 2005-08-22 |
+| `regeling-ter-aanpassing-van-een-aantal-bve-regelingen-aan-de-wet-verzelfstandiging-informa` | Regeling ter aanpassing van een aantal BVE-regelingen aan de Wet verzelfstandiging Informatiseringsbank | 2 | 1995-09-09 to 2004-12-31 |
+| `vaststelling-bedrag-bedoeld-in-artikel-35a-van-de-werkloosheidswet` | Vaststelling bedrag bedoeld in artikel 35a van de Werkloosheidswet | 2 | 2002-01-01 to 2004-01-01 |
+| `instelling-commissie-van-advies-stoomwezen-b-v` | Instelling Commissie van Advies Stoomwezen b.v. | 2 | 1995-09-08 to 2008-09-25 |
+| `beperking-examenprogramma-wiskunde-b-v-w-o` | Beperking examenprogramma wiskunde B v.w.o. | 2 | 1995-09-09 to 2004-12-31 |
+| `beschikking-begeleidingscommissie-onderzoek-vb-accountants` | Beschikking begeleidingscommissie onderzoek VB-accountants | 2 | 1995-09-16 to 2004-12-31 |
+| `regeling-controlelijst-schepen-met-gevaarlijke-lading` | Regeling controlelijst schepen met gevaarlijke lading | 2 | 1995-09-13 to 2004-12-01 |
+| `instelling-comite-van-toezicht-voor-uitvoering-esf-subsidieregelingen` | Instelling Comité van Toezicht voor uitvoering ESF-subsidieregelingen | 2 | 1995-11-01 to 2008-09-25 |
+| `regeling-statistische-gegevens-ioaw-ioaz` | Regeling statistische gegevens IOAW/IOAZ | 2 | 1999-10-06 to 2004-01-01 |
+| `vrijstellingsregeling-uitrijverbod-september-1995` | Vrijstellingsregeling uitrijverbod september 1995 | 2 | 1995-09-15 to 2004-12-23 |
+| `wijziging-systeembeschrijving-door-wijziging-logisch-ontwerp-gba-versie-2` | Wijziging systeembeschrijving door wijziging Logisch ontwerp GBA versie 2 | 2 | 1995-11-01 to 2005-10-01 |
+| `aanwijzing-opsporingsambtenaren-4` | Aanwijzing opsporingsambtenaren | 2 | 1995-10-01 to 2003-10-01 |
+| `opschorting-toestemmingsprocedures-wet-ziekenhuisvoorzieningen` | Opschorting toestemmingsprocedures Wet ziekenhuisvoorzieningen | 2 | 1995-09-21 to 2004-08-28 |
+| `regeling-tarief-verklaringen-van-vrijstelling-scheepvaartverkeerswet` | Regeling tarief verklaringen van vrijstelling Scheepvaartverkeerswet | 2 | 2004-12-30 to 2008-01-01 |
+| `regeling-loodsgeldtarieven` | Regeling Loodsgeldtarieven | 2 | 2007-01-01 to 2008-01-01 |
+| `regeling-tarief-loodsenregister-en-register-loodsplicht-kleine-zeeschepen` | Regeling tarief loodsenregister en Register loodsplicht kleine zeeschepen | 2 | 2004-12-30 to 2008-01-01 |
+| `besluit-belasten-lvnl-met-luchtverkeersdienstverlening` | Besluit belasten LVNL met luchtverkeersdienstverlening | 2 | 2005-03-17 to 2005-05-12 |
+| `regeling-bijzondere-voorwaarden-voor-de-erkenning-van-herverpakkingscentra` | Regeling bijzondere voorwaarden voor de erkenning van herverpakkingscentra | 2 | 1995-10-04 to 2006-01-01 |
+| `regeling-aanwijzing-bevoegde-autoriteit-binnenvaartpolitiereglement` | Regeling aanwijzing bevoegde autoriteit Binnenvaartpolitiereglement | 2 | 2003-12-31 to 2004-12-01 |
+| `regeling-vaststelling-programma-s-van-eisen-pve-s-voortgezet-speciaal-onderwijs-voor-het-j` | Regeling vaststelling programma's van eisen (pve's) (voortgezet) speciaal onderwijs voor het jaar 1996 | 2 | 1996-01-01 to 2004-12-31 |
+| `regeling-vaststelling-programma-s-van-eisen-pve-s-basisonderwijs-voor-het-jaar-1996` | Regeling vaststelling programma's van eisen (pve's) basisonderwijs voor het jaar 1996 | 2 | 1996-01-01 to 2004-12-31 |
+| `regeling-frauderegistratie-abw-ioaw-ioaz-en-wik` | Regeling frauderegistratie Abw, Ioaw, Ioaz en Wik | 2 | 2002-01-01 to 2004-01-01 |
+| `regeling-overbruggingsuitkering-abw` | Regeling overbruggingsuitkering Abw | 2 | 1996-01-01 to 2004-01-01 |
+| `regeling-bekwaamheidseisen-buitengewoon-opsporingsambtenaar-brandweerwet-1985` | Regeling bekwaamheidseisen buitengewoon opsporingsambtenaar Brandweerwet 1985 | 2 | 1995-11-01 to 2010-10-01 |
+| `vaststelling-mede-te-financieren-bedrag-mooz-voor-1993-en-1995` | Vaststelling mede te financieren bedrag MOOZ voor 1993 en 1995 | 2 | 1996-11-24 to 2004-08-28 |
+| `regeling-onderwijsbevoegdheid-algemene-voorbereiding-op-maatschappij-en-beroep` | Regeling onderwijsbevoegdheid algemene voorbereiding op maatschappij en beroep | 2 | 1995-10-28 to 2004-12-31 |
+| `besluit-ambtenaren-brandweerwet-1985` | Besluit ambtenaren Brandweerwet 1985 | 2 | 1995-10-25 to 2010-10-01 |
+| `regeling-bereddingskosten-evacues` | Regeling bereddingskosten evacués | 2 | 1995-10-29 to 2005-02-01 |
+| `besluit-buitengewoon-opsporingsambtenaren-rijkswaterstaat-1995` | Besluit buitengewoon opsporingsambtenaren Rijkswaterstaat 1995 | 2 | 2000-10-15 to 2005-11-08 |
+| `regeling-vaste-autokostenvergoeding-burgemeesters-1996` | Regeling vaste autokostenvergoeding burgemeesters 1996 | 2 | 2002-01-01 to 2004-01-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-belastingdienst-1995` | Besluit buitengewoon opsporingsambtenaar Belastingdienst 1995 | 2 | 2000-11-02 to 2005-11-06 |
+| `aanwijzing-macro-verstrekkingenbudget-ziekenfondsverzekering-1996` | Aanwijzing macro-verstrekkingenbudget ziekenfondsverzekering 1996 | 2 | 1996-10-01 to 2004-08-28 |
+| `definitieve-vaststelling-aanvaardbare-beheerskosten-ziekenfondsverzekering-en-awbz-1995` | Definitieve vaststelling aanvaardbare beheerskosten ziekenfondsverzekering en AWBZ 1995 | 2 | 1995-01-01 to 2004-08-28 |
+| `instelling-commissie-ondersteuning-wederopbouw-sint-maarten` | Instelling commissie ondersteuning wederopbouw Sint Maarten | 2 | 1995-11-24 to 2013-07-01 |
+| `regeling-samenvoeging-van-scholen-in-het-vo-1996` | Regeling samenvoeging van scholen in het VO 1996 | 2 | 1996-08-01 to 2004-12-31 |
+| `regeling-omzetting-faciliteitenregelingen-fbs-naar-lump-sum-vo-samenvoeging-van-scholen-in` | Regeling omzetting faciliteitenregelingen fbs naar lump sum vo, samenvoeging van scholen in het vo 1996 | 2 | 1998-08-01 to 2004-12-31 |
+| `tijdelijke-bijdrageregeling-awbz-gemeenten` | Tijdelijke bijdrageregeling AWBZ-gemeenten | 2 | 1998-02-01 to 2006-01-01 |
+| `regeling-sociaal-vervoer-awbz-instellingen` | Regeling sociaal vervoer AWBZ-instellingen | 2 | 2006-01-01 to 2007-01-01 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer-1994-1995` | Besluit vaststelling wisselkoers en prijsindexcijfer 1994/1995 | 2 | 1995-11-22 to 2005-02-01 |
+| `instelling-commissie-herziening-scheidingsprocedure` | Instelling Commissie herziening scheidingsprocedure | 2 | 1996-01-01 to 2005-01-02 |
+| `regeling-aanwijzing-nationaal-park-zuid-kennemerland` | Regeling aanwijzing nationaal park Zuid-Kennemerland | 2 | 1999-03-13 to 2007-09-01 |
+| `regeling-hulpmiddelen-1996` | Regeling hulpmiddelen 1996 | 2 | 2005-03-23 to 2006-01-01 |
+| `regeling-medische-uitrusting-aan-boord-van-zeeschepen` | Regeling medische uitrusting aan boord van zeeschepen | 2 | 2001-08-01 to 2006-07-16 |
+| `ijkregeling-automatische-weegwerktuigen` | IJkregeling automatische weegwerktuigen | 2 | 2000-12-24 to 2007-02-01 |
+| `extra-vergoeding-voor-leermiddelen-ten-behoeve-van-gefuseerde-scholen-in-het-kader-van-toe` | Extra vergoeding voor leermiddelen ten behoeve van gefuseerde scholen in het kader van Toerusting en Bereikbaarheid | 2 | 1995-12-02 to 2004-12-31 |
+| `wijziging-regeling-tandheelkundige-hulp-ziekenfondsverzekering-en-uitvoeringsbesluit-vergo` | Wijziging Regeling tandheelkundige hulp ziekenfondsverzekering en Uitvoeringsbesluit vergoedingen particulier verzekerden | 2 | 1996-01-01 to 2006-01-01 |
+| `regeling-gezondheidsverklaring-personen-werkzaam-in-de-vleessector` | Regeling gezondheidsverklaring personen werkzaam in de vleessector | 2 | 2003-01-01 to 2006-01-01 |
+| `vaststellingsregeling-normvergoeding-materiele-exploitatie-afdelingen-vhbo-en-havo-mbo` | Vaststellingsregeling normvergoeding materiële exploitatie afdelingen vhbo en havo/mbo | 2 | 1996-01-01 to 2004-12-31 |
+| `regeling-vervroegde-aflossing-van-leningen-basisonderwijs-en-voortgezet-speciaal-onderwijs` | Regeling vervroegde aflossing van leningen basisonderwijs en (voortgezet) speciaal onderwijs afgesloten in 1986 | 2 | 1996-01-01 to 2014-01-23 |
+| `regeling-wijziging-in-totaalprogramma-s-c-q-eindtermen-leerlingwezen` | Regeling wijziging in totaalprogramma's c.q. eindtermen leerlingwezen | 2 | 1996-08-01 to 2004-12-31 |
+| `regeling-etikettering-energiegebruik-koel-en-vriesapparatuur` | Regeling etikettering energiegebruik koel- en vriesapparatuur | 2 | 2003-12-17 to 2012-03-17 |
+| `regeling-informatieverstrekking-wtn` | Regeling informatieverstrekking WTN | 2 | 2002-01-01 to 2006-05-04 |
+| `sociaal-statuut-rpd-advies` | Sociaal statuut RPD Advies | 2 | 1995-12-09 to 2005-02-01 |
+| `regeling-vaststelling-grondslagen-bekostiging-landelijke-organen-beroepsonderwijs` | Regeling vaststelling grondslagen bekostiging landelijke organen beroepsonderwijs | 2 | 1996-01-01 to 2004-12-31 |
+| `regeling-intensieve-opleidingen-bbo` | Regeling intensieve opleidingen bbo | 2 | 1996-01-01 to 2004-12-31 |
+| `regeling-vaststelling-bedragen-nascholing-bve-1996` | Regeling vaststelling bedragen nascholing BVE 1996 | 2 | 1996-01-01 to 2004-12-31 |
+| `regeling-effectgerichte-maatregelen-in-bossen-en-natuurterreinen` | Regeling effectgerichte maatregelen in bossen en natuurterreinen | 2 | 2005-07-01 to 2007-04-01 |
+| `regeling-farmaceutische-hulp-1996` | Regeling farmaceutische hulp 1996 | 2 | 2005-12-15 to 2006-01-01 |
+| `regeling-wijziging-in-eindtermen-middelbaar-beroepsonderwijs` | Regeling wijziging in eindtermen middelbaar beroepsonderwijs | 2 | 1996-08-01 to 2004-12-31 |
+| `regeling-toepasselijkheid-regeling-training-en-toetsing-vuurwapen-gebruik-politie` | Regeling toepasselijkheid Regeling training en toetsing vuurwapen-gebruik politie | 2 | 1996-01-01 to 2005-01-02 |
+| `vaststelling-energieprogrammas-en-beschikbare-bedragen` | Vaststelling energieprogramma’s en beschikbare bedragen | 2 | 1995-12-29 to 2005-06-11 |
+| `eenmalige-bijdrageregeling-stadseconomie-grote-steden-beleid` | Eenmalige bijdrageregeling Stadseconomie Grote Steden beleid | 2 | 1996-02-01 to 2005-02-01 |
+| `regeling-geldsom-visakten-1996` | Regeling geldsom visakten 1996 | 2 | 1996-01-01 to 2004-01-24 |
+| `regeling-aanvraaggegevens-en-formulieren-drank-en-horecawet` | Regeling aanvraaggegevens en formulieren Drank- en Horecawet | 2 | 2010-02-18 to 2013-01-01 |
+| `vaststelling-omroepbijdrage` | Vaststelling omroepbijdrage | 2 | 1996-01-01 to 2009-01-01 |
+| `wijziging-uitvoeringsregelingen-w-z-v-in-verband-met-wijziging-meldingsregime` | Wijziging uitvoeringsregelingen w.z.v. in verband met wijziging meldingsregime | 2 | 1996-01-01 to 2004-08-28 |
+| `vaststelling-premiepercentage-en-franchise-voor-de-wet-op-de-arbeidsongeschiktheidsverzeke` | Vaststelling premiepercentage en franchise voor de Wet op de arbeidsongeschiktheidsverzekering per 1 januari 1996 | 2 | 1996-01-01 to 2004-09-22 |
+| `vaststellingsregeling-premiepercentage-awf-per-1-januari-1996` | Vaststellingsregeling premiepercentage AWf per 1 januari 1996 | 2 | 1996-03-01 to 2004-09-22 |
+| `vaststelling-premiepercentages-aow-aww-aaw-per-1-januari-1996` | Vaststelling premiepercentages AOW, AWW, AAW per 1 januari 1996 | 2 | 1996-01-01 to 2004-09-22 |
+| `regeling-inzake-erkenning-van-door-andere-lid-staten-verleende-vergunningen` | Regeling inzake erkenning van door andere lid-staten verleende vergunningen | 2 | 2002-07-19 to 2007-01-01 |
+| `vaststelling-overgangsdatum-wet-stichting-uszo` | Vaststelling overgangsdatum Wet Stichting USZO | 2 | 1996-01-01 to 2013-07-01 |
+| `premieregeling-geneeskundige-verzorging-politie-1996` | Premieregeling geneeskundige verzorging politie 1996 | 2 | 1997-11-01 to 2005-02-01 |
+| `vaststelling-rekenpremies-ziektewet-en-wachtgeldfondsen` | Vaststelling rekenpremies ziektewet en wachtgeldfondsen | 2 | 2004-01-01 to 2004-09-22 |
+| `aanpassing-delegatiebesluit-1993` | Aanpassing Delegatiebesluit 1993 | 2 | 1996-01-01 to 2004-09-22 |
+| `wijziging-in-en-uitvoerbeschikking-landbouwgoederen-1981` | Wijziging In- en uitvoerbeschikking landbouwgoederen 1981 | 2 | 1996-01-01 to 2004-12-23 |
+| `wijziging-beschikking-postcodeloterij` | Wijziging Beschikking Postcodeloterij | 2 | 1996-01-01 to 2005-01-02 |
+| `wijziging-beschikking-sponsorloterij` | Wijziging Beschikking Sponsorloterij | 2 | 1996-01-01 to 2005-01-02 |
+| `wijziging-beschikking-bank-en-giroloterij` | Wijziging Beschikking Bank- en GiroLoterij | 2 | 1996-01-01 to 2005-01-02 |
+| `wijziging-beschikking-sporttotalisator` | Wijziging Beschikking Sporttotalisator | 2 | 1996-01-01 to 2005-01-02 |
+| `wijziging-beschikking-instantloterij` | Wijziging Beschikking instantloterij | 2 | 1996-01-01 to 2005-01-02 |
+| `vaststelling-mandaten-decentralisatie-impuls` | Vaststelling mandaten Decentralisatie Impuls | 2 | 1997-03-19 to 2013-12-18 |
+| `organisatieregeling-ci` | Organisatieregeling Cƒi | 2 | 1996-01-01 to 2006-01-01 |
+| `regeling-samenvoeging-van-scholen-in-het-p-o-per-1-augustus-1996` | Regeling samenvoeging van scholen in het p.o. per 1 augustus 1996 | 2 | 1996-08-01 to 2004-12-31 |
+| `vaststelling-formulier-autorisatie-sociaal-fiscaal-nummer` | Vaststelling formulier autorisatie sociaal-fiscaal nummer | 2 | 1996-01-11 to 2009-11-13 |
+| `regeling-melding-fosforwaterstof-en-methylbromide` | Regeling melding fosforwaterstof en methylbromide | 2 | 2003-10-05 to 2007-10-17 |
+| `beschikbaarstelling-bedragen-bijdragenbesluit-openbare-lichamen-milieubeheer-autowrakken` | Beschikbaarstelling bedragen Bijdragenbesluit openbare lichamen milieubeheer, autowrakken | 2 | 1996-02-01 to 2004-12-23 |
+| `vaststelling-vergoedingen-vakbekwaamheidsexamens-wet-assurantiebemiddelingsbedrijf` | Vaststelling vergoedingen vakbekwaamheidsexamens Wet assurantiebemiddelingsbedrijf | 2 | 1996-02-01 to 2006-01-01 |
+| `tweede-besluit-organisatorische-inrichting-dgob-1995` | Tweede Besluit organisatorische inrichting DGOB 1995 | 2 | 1996-02-02 to 2005-02-01 |
+| `vaststelling-beschikbaar-budget-1996-besluit-subsidies-bedrijfsgerichte-technologiestimule` | Vaststelling beschikbaar budget 1996 Besluit subsidies bedrijfsgerichte technologiestimulering internationale programma’s | 2 | 1996-02-01 to 2005-06-11 |
+| `eindtermen-assistentopleiding` | Eindtermen assistentopleiding | 2 | 1996-08-01 to 2004-07-01 |
+| `goedkeuring-vastgestelde-tarieven-ophalen-gestorven-landbouwhuisdieren` | Goedkeuring vastgestelde tarieven ophalen gestorven landbouwhuisdieren | 2 | 1996-02-04 to 2004-05-01 |
+| `geheimhoudingsregeling-cosmetica` | Geheimhoudingsregeling cosmetica | 2 | 2008-06-01 to 2013-07-11 |
+| `regeling-vaststelling-mestboekhouding-producenten-1996` | Regeling vaststelling mestboekhouding producenten 1996 | 2 | 1996-03-01 to 2004-01-24 |
+| `regeling-standards` | Regeling Standards | 2 | 2004-11-26 to 2008-09-17 |
+| `wijziging-regeling-verpakkingen-en-gebruiksartikelen-warenwet` | Wijziging Regeling verpakkingen en gebruiksartikelen (Warenwet) | 2 | 1996-03-14 to 2005-08-31 |
+| `regeling-etikettering-energiegebruik-droogtrommels` | Regeling etikettering energiegebruik droogtrommels | 2 | 2012-07-18 to 2013-05-29 |
+| `regeling-etikettering-energiegebruik-wasmachines` | Regeling etikettering energiegebruik wasmachines | 2 | 1998-07-01 to 2012-03-17 |
+| `regeling-mandaat-ns-railinfrabeheer-b-v` | Regeling mandaat NS Railinfrabeheer B.V. | 2 | 1998-03-07 to 2005-01-01 |
+| `vaststelling-gemiddeld-premiepercentage-voor-de-werkloosheidswet-dat-ten-gunste-komt-van-h-2` | Vaststelling gemiddeld premiepercentage voor de Werkloosheidswet dat ten gunste komt van het wachtgeldfonds per 1 maart 1996 | 2 | 1996-07-01 to 2004-09-22 |
+| `wijziging-subsidieregeling-welzijnsbeleid` | Wijziging Subsidieregeling welzijnsbeleid | 2 | 1996-03-15 to 2007-01-01 |
+| `aanwijzing-bevoegde-autoriteiten-en-bevoegde-instantie-reglement-onderzoek-schepen-op-de-r` | Aanwijzing bevoegde autoriteiten en bevoegde instantie Reglement onderzoek schepen op de Rijn 1995 | 2 | 2005-07-07 to 2006-01-01 |
+| `benoeming-wederopbouwcoordinator-sint-maarten` | Benoeming wederopbouwcoördinator Sint Maarten | 2 | 1996-03-01 to 2013-07-01 |
+| `vrijstellingsregeling-zegenvisserij-ijsselmeer` | Vrijstellingsregeling zegenvisserij IJsselmeer | 2 | 1996-03-16 to 2004-01-24 |
+| `regeling-aanwijzing-besmettelijke-dierziekten` | Regeling aanwijzing besmettelijke dierziekten | 2 | 2004-08-04 to 2005-06-26 |
+| `regeling-toegang-van-personen-of-groepen-van-personen-tot-besmette-of-van-besmetting-verda` | Regeling toegang van personen of groepen van personen tot besmette of van besmetting verdachte gebouwen en terreinen | 2 | 2003-01-01 to 2005-06-26 |
+| `regeling-inzake-het-verlaten-van-besmette-of-van-besmetting-verdachte-gebouwen-en-terreine` | Regeling inzake het verlaten van besmette of van besmetting verdachte gebouwen en terreinen | 2 | 2003-01-01 to 2005-06-26 |
+| `onderwerpen-centraal-en-schriftelijk-examen-aardrijkskunde-1997-1998` | Onderwerpen centraal en schriftelijk examen aardrijkskunde 1997-1998 | 2 | 1997-08-01 to 2004-12-31 |
+| `uitvoeringsregeling-stirea` | Uitvoeringsregeling StiREA | 2 | 1996-05-09 to 2005-06-11 |
+| `vaststellingsregeling-totaalprogramma-s-leerlingwezen-stichting-beroepsopleidingen-weg-en` | Vaststellingsregeling totaalprogramma's leerlingwezen Stichting Beroepsopleidingen Weg- en Waterbouw (SBW) | 2 | 1996-03-23 to 2004-12-31 |
+| `regeling-zevendaagse-kentekenbewijzen` | Regeling zevendaagse kentekenbewijzen | 2 | 2002-08-31 to 2007-11-01 |
+| `dekking-kosten-ziekenfondsraad-en-zijn-secretariaat-voor-1995` | Dekking kosten Ziekenfondsraad en zijn secretariaat voor 1995 | 2 | 1996-03-28 to 2004-08-28 |
+| `openstelling-spieringvisserij-ijsselmeer-1996` | Openstelling spieringvisserij IJsselmeer 1996 | 2 | 1996-04-03 to 2004-01-24 |
+| `vrijstelling-zegenvisserij-binnenwateren-1996` | Vrijstelling zegenvisserij binnenwateren 1996 | 2 | 1996-03-31 to 2004-01-24 |
+| `regeling-tegemoetkoming-schade-kalvereigenaren-bse-1996` | Regeling tegemoetkoming schade kalvereigenaren BSE 1996 | 2 | 1998-10-16 to 2004-01-24 |
+| `ontheffing-ex-artikel-13-eerste-lid-destructiewet` | Ontheffing ex artikel 13, eerste lid, Destructiewet | 2 | 1996-04-06 to 2008-01-01 |
+| `regeling-vaststelling-bedragen-nascholing-voortgezet-onderwijs-vo-1996-1997` | Regeling vaststelling bedragen nascholing voortgezet onderwijs (vo) 1996-1997 | 2 | 1996-08-01 to 2005-04-06 |
+| `afleverings-en-toepassingsverbod-van-een-bepaalde-hiv-test` | Afleverings- en toepassingsverbod van een bepaalde HIV-test | 2 | 1996-04-11 to 2004-08-28 |
+| `verlening-vrijstelling-spieringvisserij-op-het-ijsselmeer` | Verlening vrijstelling spieringvisserij op het IJsselmeer | 2 | 1996-04-14 to 2004-01-24 |
+| `instelling-platform-alternative-dispute-resolution-adr` | Instelling Platform Alternative Dispute Resolution (ADR) | 2 | 1996-06-01 to 2005-01-02 |
+| `regeling-stimulering-regionale-infrastructuur-bve-1996` | Regeling stimulering regionale infrastructuur bve 1996 | 2 | 1996-04-27 to 2004-12-31 |
+| `uitvoeringsvoorschriften-suppletieregeling-gedeeltelijk-arbeidsongeschikten-sector-rijk-vo` | Uitvoeringsvoorschriften Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk voor rechterlijk ambtenaren | 2 | 1996-05-08 to 2007-01-01 |
+| `regeling-maatregelen-rijvaardigheid-en-geschiktheid` | Regeling maatregelen rijvaardigheid en geschiktheid | 2 | 2011-11-01 to 2011-12-01 |
+| `instelling-begeleidingscommissie-evaluatie-onderzoek-euthanasiepraktijk` | Instelling begeleidingscommissie evaluatie-onderzoek euthanasiepraktijk | 2 | 1996-05-03 to 2004-08-28 |
+| `regeling-vaststelling-energieprogrammas-1996-eerste-tranche` | Regeling vaststelling energieprogramma’s 1996 (eerste tranche) | 2 | 1996-12-21 to 2005-06-11 |
+| `besluit-wijziging-inkomensgrenzen-en-eigen-bijdragen-wrb-april-1996` | Besluit wijziging inkomensgrenzen en eigen bijdragen WRB april 1996 | 2 | 1996-04-28 to 2005-01-02 |
+| `instelling-commissie-herijking-omvang-verplichte-procesvertegenwoordiging` | Instelling Commissie herijking omvang verplichte procesvertegenwoordiging | 2 | 1996-06-01 to 2005-01-02 |
+| `subsidieregeling-diergezondheid-1996` | Subsidieregeling diergezondheid 1996 | 2 | 2002-01-01 to 2009-01-01 |
+| `herbenoeming-leden-examencommissie-stedebouwkundigen` | Herbenoeming leden examencommissie stedebouwkundigen | 2 | 1996-07-01 to 2012-01-01 |
+| `aanwijzing-ambtenaren-toezicht-binnenschepenwet` | Aanwijzing ambtenaren toezicht Binnenschepenwet | 2 | 1996-05-23 to 2009-07-01 |
+| `douaneregeling` | Douaneregeling | 2 | 2008-07-01 to 2008-08-01 |
+| `regeling-merkteken-asbestonderzoek` | Regeling merkteken asbestonderzoek | 2 | 1996-05-25 to 2006-03-01 |
+| `regeling-eisen-bromfiets-examen` | Regeling eisen bromfiets-examen | 2 | 1996-06-01 to 2006-10-01 |
+| `regeling-teruggave-omgewisselde-niet-nederlandse-rijbewijzen` | Regeling teruggave omgewisselde niet-Nederlandse rijbewijzen | 2 | 1996-06-01 to 2004-10-01 |
+| `regeling-vaststelling-model-bromfietscertificaat` | Regeling vaststelling model bromfietscertificaat | 2 | 1996-06-01 to 2006-10-01 |
+| `regeling-eisen-praktijk-examens-d-en-e-bij-d` | Regeling eisen praktijk-examens D en E bij D | 2 | 2002-08-01 to 2003-09-30 |
+| `regeling-eisen-praktijk-examens-c-en-e-bij-c` | Regeling eisen praktijk-examens C en E bij C | 2 | 2002-08-01 to 2003-09-30 |
+| `regeling-eisen-praktijk-examens-b-en-e-bij-b` | Regeling eisen praktijk-examens B en E bij B | 2 | 1999-09-22 to 2003-09-30 |
+| `regeling-eisen-praktijk-examen-a` | Regeling eisen praktijk-examen A | 2 | 1999-09-22 to 2003-09-30 |
+| `regeling-afdracht-vergoeding-afgifte-bromfietscertificaten` | Regeling afdracht vergoeding afgifte bromfietscertificaten | 2 | 2002-01-01 to 2006-10-01 |
+| `regeling-vaststelling-kosten-verstrekking-en-kennisneming-gegevens-crb` | Regeling vaststelling kosten verstrekking en kennisneming gegevens CRB | 2 | 1996-06-01 to 2006-10-01 |
+| `regeling-eisen-theorie-examen-c` | Regeling eisen theorie-examen C | 2 | 1996-06-01 to 2003-09-30 |
+| `regeling-eisen-theorie-examen-d` | Regeling eisen theorie-examen D | 2 | 1996-06-01 to 2003-09-30 |
+| `regeling-eisen-theorie-examen-a` | Regeling eisen theorie-examen A | 2 | 1996-06-01 to 2003-09-30 |
+| `regeling-eisen-theorie-examen-b` | Regeling eisen theorie-examen B | 2 | 1996-06-01 to 2003-09-30 |
+| `regeling-financiering-actieprogrammas-jeugd-en-veiligheid-1996-1999` | Regeling Financiering Actieprogramma’s Jeugd en Veiligheid 1996-1999 | 2 | 1996-05-25 to 2005-02-01 |
+| `toekenning-aanvullende-opsporingsbevoegdheid-voor-buitengewoon-opsporingsambtenaren-bij-de` | Toekenning aanvullende opsporingsbevoegdheid voor buitengewoon opsporingsambtenaren bij de AID | 2 | 1996-06-01 to 2005-01-02 |
+| `regeling-nationale-coordinerende-instantie-leonardo-da-vinci-1995-2000` | Regeling nationale Coördinerende Instantie Leonardo da Vinci (1995-2000) | 2 | 2001-01-01 to 2006-01-01 |
+| `commissie-regulering-voorgestructureerde-samengestelde-programma-s-hbo` | Commissie regulering voorgestructureerde samengestelde programma's hbo | 2 | 1996-06-12 to 2004-12-31 |
+| `bekendmaking-gesloten-periode-ijsselmeervisserij` | Bekendmaking gesloten periode IJsselmeervisserij | 2 | 1996-06-01 to 2004-01-24 |
+| `wijziging-regeling-stimulering-bosuitbreiding-op-landbouwgronden` | Wijziging Regeling stimulering bosuitbreiding op landbouwgronden | 2 | 1996-06-03 to 2009-12-31 |
+| `vaststelling-enige-energieprogrammas-tweede-tranche-1996` | Vaststelling enige energieprogramma’s (tweede tranche) 1996 | 2 | 1996-12-21 to 2005-06-11 |
+| `regeling-wijziging-model-diploma-en-certificaat-middelbaar-beroepsonderwijs-mbo` | Regeling wijziging model diploma en certificaat middelbaar beroepsonderwijs (mbo) | 2 | 1996-06-22 to 2008-08-01 |
+| `regeling-wachtgeldopslag-voor-po-vo-wov-en-bve` | Regeling wachtgeldopslag voor po, vo, wov en bve | 2 | 1996-09-21 to 2004-12-31 |
+| `uitvoeringsregeling-bsz-1996` | Uitvoeringsregeling BSZ 1996 | 2 | 1996-10-31 to 2005-06-11 |
+| `besluit-wijziging-inkomensgrenzen-en-eigen-bijdragen-wrb-juli-1996` | Besluit Wijziging inkomensgrenzen en eigen bijdragen WRB juli 1996 | 2 | 1996-07-01 to 2009-07-01 |
+| `regeling-vrijstelling-verplichtingen-ioaw-en-ioaz` | Regeling vrijstelling verplichtingen Ioaw en Ioaz | 2 | 2002-02-23 to 2005-01-01 |
+| `regeling-verhoging-school-gpl-in-verband-met-algemene-salarismaatregelen` | Regeling verhoging school-gpl in verband met algemene salarismaatregelen | 2 | 1996-06-22 to 2004-12-31 |
+| `selectie-archiefbescheiden-raad-van-state` | Selectie archiefbescheiden Raad van State | 2 | 1996-08-14 to 2004-12-31 |
+| `integrale-regeling-specifieke-doelgroepen-1996` | Integrale regeling specifieke doelgroepen 1996 | 2 | 1997-01-01 to 2004-12-31 |
+| `bekendmaking-periodes-dierlijke-premieregeling` | Bekendmaking periodes dierlijke premieregeling | 2 | 1996-06-23 to 2004-01-24 |
+| `aanwijzing-raad-voor-de-kinderbescherming-voor-de-invordering-van-onderhoudsgelden` | Aanwijzing raad voor de kinderbescherming voor de invordering van onderhoudsgelden | 2 | 1996-07-01 to 2005-01-02 |
+| `aanwijzing-als-privaat-rechtelijk-lichaam-wet-privatisering-abp` | Aanwijzing als privaat-rechtelijk lichaam – Wet privatisering ABP | 2 | 1996-07-18 to 2013-07-01 |
+| `warenwetregeling-zuiverheidseisen-van-kleurstoffen` | Warenwetregeling Zuiverheidseisen van kleurstoffen | 2 | 2004-05-28 to 2009-02-19 |
+| `informatiestatuut-dienst-wegverkeer` | Informatiestatuut Dienst Wegverkeer | 2 | 1996-07-01 to 2013-01-01 |
+| `regeling-ontheffingverlening-dienst-wegverkeer` | Regeling ontheffingverlening Dienst Wegverkeer | 2 | 2002-12-25 to 2006-01-01 |
+| `regeling-gegevensverstrekking-kentekenregister` | Regeling gegevensverstrekking Kentekenregister | 2 | 2007-10-03 to 2008-07-01 |
+| `instelling-commissie-openstelling-burgerlijk-huwelijk` | Instelling Commissie openstelling burgerlijk huwelijk | 2 | 1996-09-01 to 2005-01-02 |
+| `vrijstellingsregeling-visserij-inspanning-ijsselmeer` | Vrijstellingsregeling visserij- inspanning IJsselmeer | 2 | 1996-06-27 to 2006-12-21 |
+| `verzamelregeling-bwoo` | Verzamelregeling BWOO | 2 | 1996-08-01 to 2014-01-01 |
+| `rivm-bestuursorgaan-voor-controle-geimporteerde-farmaceutische-produkten` | RIVM bestuursorgaan voor controle geïmporteerde farmaceutische produkten | 2 | 1997-03-01 to 2007-07-01 |
+| `wijziging-in-en-uitvoerbeschikking-landbouwgoederen-1981-2` | Wijziging In- en uitvoerbeschikking landbouwgoederen 1981 | 2 | 1996-07-01 to 2008-08-01 |
+| `besluit-departementale-uitgangspunten-tarievenbeleid-dienst-wegverkeer` | Besluit departementale uitgangspunten tarievenbeleid Dienst Wegverkeer | 2 | 2001-01-01 to 2013-01-01 |
+| `besluit-vaststelling-bedrag-goedkeuring-geldleningen-dienst-wegverkeer` | Besluit vaststelling bedrag goedkeuring geldleningen Dienst Wegverkeer | 2 | 2002-01-01 to 2013-01-01 |
+| `wijziging-normbedragen-voor-constante-en-variabele-exploitatiekosten-voor-standplaatsen-en` | Wijziging normbedragen voor constante en variabele exploitatiekosten voor standplaatsen en van de huurprijzen voor woonwagens | 2 | 1996-07-13 to 2004-12-21 |
+| `vrijstellingsregeling-grootverpakkingen-zuigelingenvoeding` | Vrijstellingsregeling grootverpakkingen zuigelingenvoeding | 2 | 1996-07-12 to 2007-09-28 |
+| `regeling-vangstbeperking-haring` | Regeling vangstbeperking haring | 2 | 1996-07-07 to 2004-01-24 |
+| `regeling-registratie-houders-aanvullende-machtiging` | Regeling registratie houders aanvullende machtiging | 2 | 1996-07-15 to 2006-12-13 |
+| `aanwijzing-bergschenhoek-als-gemeente-met-een-omvangrijke-opgave-woningbouw` | Aanwijzing Bergschenhoek als gemeente met een omvangrijke opgave woningbouw | 2 | 1996-09-01 to 2011-02-23 |
+| `aanwijzing-berkel-en-rodenrijs-als-gemeente-met-een-omvangrijke-opgave-woningbouw` | Aanwijzing Berkel en Rodenrijs als gemeente met een omvangrijke opgave woningbouw | 2 | 1996-09-01 to 2011-02-23 |
+| `subsidieregeling-extensivering-vleesstierenhouderij` | Subsidieregeling extensivering vleesstierenhouderij | 2 | 2002-01-01 to 2004-12-23 |
+| `regeling-onderwerpen-geschiedenis-en-staatsinrichting-1999-en-stofomschrijving-1998-en-199` | Regeling onderwerpen geschiedenis en staatsinrichting 1999 en stofomschrijving 1998 en 1999 | 2 | 1997-08-01 to 2004-12-31 |
+| `landbouwkwaliteitsregeling-biologische-productiemethode-1996` | Landbouwkwaliteitsregeling biologische productiemethode 1996 | 2 | 2006-07-12 to 2007-09-28 |
+| `wijziging-algemeen-brandweerexamenreglement-1994-en-andere-reglementen-brandweerexamens` | Wijziging Algemeen brandweerexamenreglement 1994 en andere reglementen brandweerexamens | 2 | 1996-08-01 to 2005-02-01 |
+| `regeling-bestuursvergoeding-centraal-orgaan-opvang-asielzoekers-1996` | Regeling bestuursvergoeding Centraal Orgaan opvang asielzoekers 1996 | 2 | 2002-01-01 to 2012-06-01 |
+| `regeling-overdracht-vestigingsregister-en-centrale-registers` | Regeling overdracht vestigingsregister en centrale registers | 2 | 2006-03-08 to 2014-01-06 |
+| `regeling-monitoring-fiscale-faciliteit-wetenschappelijk-onderzoek` | Regeling monitoring fiscale faciliteit wetenschappelijk onderzoek | 2 | 1996-08-01 to 2012-01-01 |
+| `instelling-commissie-platform-begeleiding-grote-railinfrastructuur-projecten` | Instelling Commissie ’Platform Begeleiding Grote Railinfrastructuur Projecten’ | 2 | 1997-05-23 to 2004-05-01 |
+| `vrijstellingsregeling-sledehondensport` | Vrijstellingsregeling sledehondensport | 2 | 1996-09-01 to 2006-10-12 |
+| `aanvullende-voorschriften-en-beperkingen-verbonden-aan-machtigingen-voor-zendinrichtingen` | aanvullende voorschriften en beperkingen verbonden aan machtigingen voor zendinrichtingen voor het doen van onderzoekingen door verenigingen van radiozendamateurs 1996 | 2 | 1996-09-01 to 2013-03-15 |
+| `regeling-vaststelling-van-enige-energieprogrammas-1996-derde-tranche` | Regeling vaststelling van enige energieprogramma’s 1996 (derde tranche) | 2 | 1996-12-21 to 2005-06-11 |
+| `implementatie-richtlijn-96-11-eg-verpakkingen-en-gebruiksartikelen` | Implementatie richtlijn 96/11/EG (Verpakkingen en Gebruiksartikelen) | 2 | 2002-01-01 to 2005-08-31 |
+| `warenwetregeling-vrijstelling-frisdranken-met-hoog-cafeinegehalte` | Warenwetregeling Vrijstelling frisdranken met hoog cafeïnegehalte | 2 | 2003-07-01 to 2004-07-01 |
+| `besluit-vaststelling-kleur-en-aanduidingen-bromfietsplaten` | Besluit vaststelling kleur en aanduidingen bromfietsplaten | 2 | 2006-01-01 to 2007-01-01 |
+| `regeling-anker-en-meerverboden-waal-rijn-en-lek` | Regeling anker- en meerverboden Waal, Rijn en Lek | 2 | 2000-10-12 to 2011-05-25 |
+| `vrijstellingsregeling-uitrijverbod-grasland-1996` | Vrijstellingsregeling uitrijverbod grasland 1996 | 2 | 1996-08-30 to 2004-12-23 |
+| `mandaatbesluit-personele-bevoegdheden-directeur-generaal-openbare-orde-en-veiligheid` | Mandaatbesluit personele bevoegdheden directeur-generaal Openbare Orde en Veiligheid | 2 | 1996-09-01 to 2005-02-01 |
+| `regeling-teldatum-m-b-o` | Regeling teldatum m.b.o. | 2 | 1996-09-21 to 2004-12-31 |
+| `vrijstellingsregeling-uitrijverbod-achtkarspelen-tytsjerksteradiel-en-smallingerland-1996` | Vrijstellingsregeling uitrijverbod Achtkarspelen, Tytsjerksteradiel en Smallingerland 1996 en 1997 | 2 | 1996-09-04 to 2004-12-23 |
+| `regeling-compensatie-gevolgen-bse-crisis-1996` | Regeling compensatie gevolgen BSE-crisis 1996 | 2 | 1996-09-05 to 2004-01-24 |
+| `regeling-indexering-kinderbijslagbedragen-januari-1997` | Regeling indexering kinderbijslagbedragen januari 1997 | 2 | 1997-01-01 to 2004-09-22 |
+| `aanwijzing-plv-leden-permanente-kontaktgroep-handhaving-noordzee` | Aanwijzing (plv.) leden Permanente Kontaktgroep Handhaving Noordzee | 2 | 1997-01-01 to 2007-01-01 |
+| `regeling-geluidsbelastingberekening-kleine-vliegtuigen` | Regeling geluidsbelastingberekening kleine vliegtuigen | 2 | 2001-03-29 to 2008-12-24 |
+| `instelling-commissies-overleg-en-voorlichting-milieuhygiene-marinevliegkamp-valkenburg` | Instelling Commissies Overleg en Voorlichting Milieuhygiëne; Marinevliegkamp Valkenburg | 2 | 2002-06-26 to 2008-12-24 |
+| `instelling-commissies-overleg-en-voorlichting-milieuhygiene-vliegbasis-gilze-rijen` | Instelling Commissies Overleg en Voorlichting Milieuhygiëne; Vliegbasis Gilze-Rijen | 2 | 2002-06-26 to 2008-12-24 |
+| `instelling-commissies-overleg-en-voorlichting-milieuhygiene-vliegbasis-volkel` | Instelling Commissies Overleg en Voorlichting Milieuhygiëne; Vliegbasis Volkel | 2 | 2002-06-26 to 2008-12-24 |
+| `wijziging-van-de-regeling-bloedprodukten` | Wijziging van de Regeling bloedprodukten | 2 | 1996-10-02 to 2009-02-06 |
+| `warenwetregeling-gebruik-van-additieven-met-uitzondering-van-kleurstoffen-en-zoetstoffen-i` | Warenwetregeling Gebruik van additieven met uitzondering van kleurstoffen en zoetstoffen in levensmiddelen | 2 | 2011-04-01 to 2013-06-01 |
+| `aanwijzing-bevolkingsonderzoek-naar-baarmoederhalskanker` | Aanwijzing bevolkingsonderzoek naar baarmoederhalskanker | 2 | 1996-10-03 to 2008-12-01 |
+| `wijziging-regeling-wijze-van-keuren-regeling-permanente-eisen-erkenningsregeling-apk-en-lp` | Wijziging Regeling wijze van keuren, Regeling permanente eisen, Erkenningsregeling APK en LPG-erkenningsregeling | 2 | 1997-01-01 to 2004-03-04 |
+| `vaststellingsregeling-programma-s-van-eisen-pve-s-voortgezet-speciaal-onderwijs-voor-het-j` | Vaststellingsregeling programma's van eisen (pve's) (voortgezet) speciaal onderwijs voor het jaar 1997 | 2 | 1997-01-01 to 2004-12-31 |
+| `vaststellingsregeling-programma-s-van-eisen-pve-s-basisonderwijs-voor-het-jaar-1997` | Vaststellingsregeling programma's van eisen (pve's) basisonderwijs voor het jaar 1997 | 2 | 1997-01-01 to 2004-12-31 |
+| `vrijstellingsregeling-vermeldingen-bij-gasverpakkingen-warenwet` | Vrijstellingsregeling vermeldingen bij gasverpakkingen (Warenwet) | 2 | 1997-01-01 to 2004-08-28 |
+| `warenwetregeling-vrijstelling-vermeldingen-bij-gasverpakkingen` | Warenwetregeling Vrijstelling vermeldingen bij gasverpakkingen | 2 | 2000-02-14 to 2014-12-13 |
+| `aanwijzing-ambtenaar-artikel-16-wud` | Aanwijzing ambtenaar artikel 16 WUD | 2 | 1996-10-13 to 2009-05-01 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer-1995-1996` | Besluit vaststelling wisselkoers en prijsindexcijfer 1995/1996 | 2 | 1996-10-23 to 2005-02-01 |
+| `besluit-incasso-boeten-en-onverschuldigde-betalingen-werkgevers` | Besluit incasso boeten en onverschuldigde betalingen werkgevers | 2 | 2005-12-29 to 2009-07-01 |
+| `regeling-afgifte-type-certificaten-luchtvaartuigen-1996` | Regeling afgifte type-certificaten luchtvaartuigen 1996 | 2 | 1998-04-01 to 2013-08-23 |
+| `onderwijsregeling-inburgering-nieuwkomers-1997` | Onderwijsregeling inburgering nieuwkomers 1997 | 2 | 1997-07-19 to 2004-12-31 |
+| `regeling-tot-opschorting-toestemmingsprocedures-inzake-de-bouw-van-bloedbanken` | Regeling tot opschorting toestemmingsprocedures inzake de bouw van bloedbanken | 2 | 1997-04-02 to 2004-08-28 |
+| `wijziging-vaststelling-energieprogrammas-tweede-tranche` | Wijziging vaststelling energieprogramma’s (tweede tranche) | 2 | 1996-10-20 to 2005-06-11 |
+| `benoemingsbesluit-klachtencommissie-bijzondere-ambtenaren-van-politie-1996` | Benoemingsbesluit klachtencommissie bijzondere ambtenaren van politie 1996 | 2 | 1996-11-03 to 2013-01-01 |
+| `nadere-vaststelling-per-regio-van-het-schoolprofielbudget-1996-1997` | Nadere vaststelling per regio van het schoolprofielbudget 1996-1997 | 2 | 1996-11-02 to 2004-12-31 |
+| `nadere-regels-bewaking-en-regelsysteem-voor-lozingen-door-schepen` | Nadere regels bewaking- en regelsysteem voor lozingen door schepen | 2 | 2004-11-26 to 2008-09-17 |
+| `instellingsregeling-vlaams-nederlandse-expertgroep-geesteswetenschappen` | Instellingsregeling Vlaams-Nederlandse Expertgroep Geesteswetenschappen | 2 | 1997-01-01 to 2004-12-31 |
+| `regeling-hydraulische-randvoorwaarden-primaire-waterkeringen` | Regeling hydraulische randvoorwaarden primaire waterkeringen | 2 | 2001-12-30 to 2007-09-13 |
+| `rode-lijst-paddestoelen` | Rode lijst paddestoelen | 2 | 1996-11-14 to 2004-11-13 |
+| `rode-lijst-reptielen-en-amfibieen` | Rode lijst reptielen en amfibieën | 2 | 1996-11-14 to 2004-11-13 |
+| `aanwijzing-macro-verstrekkingenbudget-ziekenfondsverzekering-1997` | Aanwijzing macro-verstrekkingenbudget ziekenfondsverzekering 1997 | 2 | 1998-07-01 to 2004-08-28 |
+| `nadere-aanwijzing-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-1996` | Nadere aanwijzing besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 1996 | 2 | 1996-11-15 to 2004-08-28 |
+| `aanwijzing-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-1997` | Aanwijzing besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 1997 | 2 | 1996-11-15 to 2004-08-28 |
+| `regeling-verhoging-schoolgemiddelde-personeelslast-school-gpl-in-verband-met-algemene-sala` | Regeling verhoging ‘schoolgemiddelde personeelslast’ (school-gpl) in verband met algemene salarismaatregel | 2 | 1996-11-30 to 2004-12-31 |
+| `aanpassing-esf-4-regeling` | Aanpassing ESF-4 regeling | 2 | 1996-11-15 to 2008-09-25 |
+| `erkenning-bewijs-vaarbekwaamheid-niet-bedrijfsmatige-vaart` | Erkenning bewijs vaarbekwaamheid niet-bedrijfsmatige vaart | 2 | 1996-11-28 to 2009-07-01 |
+| `regeling-hulpofficieren-van-justitie-1996` | Regeling hulpofficieren van justitie 1996 | 2 | 2000-06-28 to 2003-09-02 |
+| `regeling-belastingcapaciteit` | Regeling belastingcapaciteit | 2 | 2006-04-14 to 2011-01-01 |
+| `vaststelling-omroepbijdrage-2` | Vaststelling omroepbijdrage | 2 | 1997-01-01 to 2009-01-01 |
+| `regeling-berekening-geluidsbelasting-in-kosteneenheden` | Regeling berekening geluidsbelasting in Kosteneenheden | 2 | 2004-10-10 to 2008-12-24 |
+| `regeling-berekening-nachtelijke-geluidsbelasting` | Regeling berekening nachtelijke geluidsbelasting | 2 | 1996-11-30 to 2008-12-24 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1995-en-voor-1996` | Regeling vaststelling mede te financieren bedrag MOOZ voor 1995 en voor 1996 | 2 | 1997-11-30 to 2004-08-28 |
+| `besluit-mandaat-regeling-nadeelcompensatie-betuweroute` | Besluit mandaat Regeling Nadeelcompensatie Betuweroute | 2 | 2005-01-01 to 2009-09-26 |
+| `vaststelling-periode-bedoeld-in-artikel-22-eerste-lid-examenbesluit-zeevaartdiplomas-1991` | Vaststelling periode, bedoeld in artikel 22, eerste lid, Examenbesluit zeevaartdiploma’s 1991 | 2 | 1996-12-06 to 2014-01-01 |
+| `nadere-algemene-voorschriften-inzake-de-36-urige-werkweek-bij-de-rijksoverheid` | Nadere algemene voorschriften inzake de 36-urige werkweek bij de rijksoverheid | 2 | 1997-01-01 to 2006-01-01 |
+| `korting-1997-op-de-aanvaardbare-kosten-van-de-ziekenhuizen-en-academische-ziekenhuizen` | Korting 1997 op de aanvaardbare kosten van de ziekenhuizen en academische ziekenhuizen | 2 | 1996-12-20 to 2004-08-28 |
+| `regeling-financiering-actieplannen-jeugd-en-veiligheid-1996-1999-g15` | Regeling financiering actieplannen Jeugd en Veiligheid 1996-1999 G15 | 2 | 1996-12-01 to 2005-02-01 |
+| `instelling-overleggroep-toetsing-zorgvuldig-medisch-handelen-rond-het-levenseinde-bij-pasg` | Instelling Overleggroep toetsing zorgvuldig medisch handelen rond het levenseinde bij pasgeborenen | 2 | 1997-02-01 to 2004-08-28 |
+| `mandaatbesluit-faop-uszo-inning-wor-heffing` | Mandaatbesluit FAOP/USZO (inning WOR-heffing) | 2 | 1996-12-12 to 2005-02-01 |
+| `extra-vergoeding-voor-leermiddelen-1996-voor-gefuseerde-scholen-in-het-kader-van-toerustin` | Extra vergoeding voor leermiddelen 1996 voor gefuseerde scholen in het kader van Toerusting en Bereikbaarheid (TenB) | 2 | 1996-12-14 to 2004-12-31 |
+| `regeling-vaststelling-aanvraagperioden-1997-eg-premies-ooien-en-stieren` | Regeling vaststelling aanvraagperioden 1997 EG-premies ooien en stieren | 2 | 1997-01-25 to 2004-01-24 |
+| `overdrachtsregeling-waterkwaliteitsbeheer-vecht-aan-de-provincie-noord-holland` | Overdrachtsregeling waterkwaliteitsbeheer Vecht aan de provincie Noord-Holland | 2 | 1996-12-15 to 2009-12-22 |
+| `regeling-kostencomponent-tarief-deel-i-kentekenbewijs` | Regeling kostencomponent tarief deel I kentekenbewijs | 2 | 2013-01-23 to 2014-01-01 |
+| `instelling-overleggroep-late-zwangerschapsafbreking` | Instelling Overleggroep late zwangerschapsafbreking | 2 | 1997-02-01 to 2004-08-28 |
+| `vergoedingenregeling-kiesraad` | Vergoedingenregeling Kiesraad | 2 | 2002-01-01 to 2006-01-01 |
+| `wijziging-delegatiebesluit-1993` | Wijziging Delegatiebesluit 1993 | 2 | 1997-01-01 to 2004-09-22 |
+| `aanwijzingen-ex-artikel-14-wet-tarieven-gezondheidszorg-tarievenbeleid-1997-voor-medisch-s` | Aanwijzingen ex artikel 14 Wet tarieven gezondheidszorg: Tarievenbeleid 1997 voor medisch specialisten (exclusief psychiaters) | 2 | 1996-12-20 to 2004-08-28 |
+| `aanwijzingen-ex-artikel-14-wet-tarieven-gezondheidszorg-tarievenbeleid-1997-voor-de-fysiot` | Aanwijzingen ex artikel 14 Wet tarieven gezondheidszorg: Tarievenbeleid 1997 voor de fysiotherapeuten | 2 | 1996-12-20 to 2004-08-28 |
+| `vaststellingsregeling-aanvaardbare-kosten-1997-thuiszorg` | Vaststellingsregeling aanvaardbare kosten 1997 thuiszorg | 2 | 1996-12-20 to 2004-08-28 |
+| `aanwijzingen-ex-artikel-14-wet-tarieven-gezondheidszorg-2` | Aanwijzingen ex artikel 14 Wet tarieven gezondheidszorg | 2 | 1996-12-20 to 2004-08-28 |
+| `regeling-samenvoeging-van-scholen-in-het-primair-onderwijs-po-per-1-augustus-1997` | Regeling samenvoeging van scholen in het primair onderwijs (po) per 1 augustus 1997 | 2 | 1997-08-01 to 2004-12-31 |
+| `vaststelling-bedragen-voor-regeling-beheers-overeenkomsten-1993` | Vaststelling bedragen voor Regeling beheers- overeenkomsten 1993 | 2 | 1997-01-01 to 2004-01-24 |
+| `wijziging-bijlage-beschikking-beheersovereenkomsten-1983` | Wijziging bijlage beschikking beheersovereenkomsten 1983 | 2 | 1997-01-01 to 2004-01-24 |
+| `regeling-invoeringsdatum-onderwijs-en-examenregeling-opleidingen-educatie` | Regeling invoeringsdatum onderwijs- en examenregeling opleidingen educatie | 2 | 1996-12-21 to 2004-12-31 |
+| `regeling-huisvesting-beroepsonderwijs-en-volwasseneneducatie-bve-1997` | Regeling huisvesting beroepsonderwijs en volwasseneneducatie (bve) 1997 | 2 | 1996-12-21 to 2004-12-31 |
+| `warenwetregeling-preparaat-informatie-formulier` | Warenwetregeling preparaat informatie formulier | 2 | 1997-01-01 to 2009-10-16 |
+| `beschikking-instelling-permanente-kontaktgroep-handhaving-noordzee` | Beschikking instelling Permanente Kontaktgroep Handhaving Noordzee | 2 | 1999-07-14 to 2007-01-01 |
+| `regeling-bevrachting-en-prijsvorming-binnenvaart` | Regeling bevrachting en prijsvorming binnenvaart | 2 | 1998-11-30 to 2009-07-01 |
+| `regeling-stimulering-grensoverschrijdende-samenwerking-hoger-onderwijs-1997-2000` | Regeling stimulering grensoverschrijdende samenwerking hoger onderwijs 1997-2000 | 2 | 1997-06-01 to 2004-12-31 |
+| `aanvullende-regeling-materiele-bekostiging-scholen-voor-basisonderwijs` | Aanvullende regeling materiële bekostiging scholen voor basisonderwijs | 2 | 1997-01-01 to 2004-12-31 |
+| `overgangsregeling-materiele-instandhouding-tenb-dislocaties` | Overgangsregeling materiële instandhouding TenB-dislocaties | 2 | 1997-01-01 to 2004-12-31 |
+| `afwijking-regeling-aanvullende-vergoeding-b-b-o-en-rectificatie-regeling-personele-ratio-k` | Afwijking regeling aanvullende vergoeding b.b.o. en rectificatie regeling personele ratio korte opleiding m.b.o.-afdeling mode en kleding sector dienstverlening en gezondheidszorg | 2 | 1997-01-02 to 2004-12-31 |
+| `uitvoeringsregeling-stirea-1997` | Uitvoeringsregeling StiREA 1997 | 2 | 1996-12-20 to 2005-06-11 |
+| `wijziging-enige-energieprogrammas-en-vaststelling-energieprogramma` | Wijziging enige energieprogramma’s en vaststelling energieprogramma | 2 | 1996-12-21 to 2005-06-11 |
+| `regeling-herbeoordeling-45-50-jarigen` | Regeling herbeoordeling 45-50-jarigen | 2 | 1996-12-24 to 2004-09-22 |
+| `vaststelling-premiepercentage-awf-per-1-januari-1997` | Vaststelling premiepercentage AWf per 1 januari 1997 | 2 | 1997-01-01 to 2006-01-01 |
+| `vaststelling-premiepercentage-en-franchise-voor-de-wet-op-de-arbeidsongeschiktheidsverzeke-2` | Vaststelling premiepercentage en franchise voor de Wet op de arbeidsongeschiktheidsverzekering per 1 januari 1997 | 2 | 1997-01-01 to 2004-09-22 |
+| `vaststelling-premiepercentages-aow-anw-en-aaw-per-1-januari-1997` | Vaststelling premiepercentages AOW, Anw en AAW per 1 januari 1997 | 2 | 1997-01-01 to 2004-09-22 |
+| `regeling-geldsom-visakten-1997` | Regeling geldsom visakten 1997 | 2 | 1997-01-01 to 2004-01-24 |
+| `regeling-vaststelling-aanvraagperiode-specifieke-premierechten-ooien-1997` | Regeling vaststelling aanvraagperiode specifieke premierechten ooien 1997 | 2 | 1997-01-01 to 2004-01-24 |
+| `vaststelling-gemiddeld-premie-percentage-voor-de-werkloosheidswet-dat-ten-gunste-komt-van` | Vaststelling gemiddeld premie-percentage voor de Werkloosheidswet dat ten gunste komt van het wachtgeldfonds per 1 januari 1997 | 2 | 1997-01-01 to 2004-09-22 |
+| `regeling-maatregelen-sector-oenw` | Regeling maatregelen sector OenW | 2 | 2010-09-25 to 2014-01-01 |
+| `regeling-contingentering-zeevis` | Regeling contingentering zeevis | 2 | 2009-01-01 to 2009-07-01 |
+| `aanvullende-regeling-materiele-bekostiging-basisscholen-voor-het-schooljaar-1997-1998` | Aanvullende regeling materiële bekostiging basisscholen voor het schooljaar 1997-1998 | 2 | 1997-07-19 to 2004-12-31 |
+| `uitvoeringsregeling-e-e-t` | Uitvoeringsregeling E.E.T | 2 | 1997-01-22 to 2004-01-01 |
+| `mandaatbesluit-directeur-rijksdienst-voor-de-keuring-van-vee-en-vlees` | Mandaatbesluit directeur Rijksdienst voor de keuring van Vee en Vlees | 2 | 1996-01-25 to 2004-04-26 |
+| `warenwetregeling-onderzoeksmethoden-cosmetische-producten` | Warenwetregeling onderzoeksmethoden cosmetische producten | 2 | 1997-07-01 to 2013-07-11 |
+| `warenwetregeling-nadere-eisen-cosmetische-producten` | Warenwetregeling nadere eisen cosmetische producten | 2 | 2011-08-24 to 2013-07-11 |
+| `aanwijzing-keuringsinstantie-voor-machines-skh-1997` | Aanwijzing keuringsinstantie voor machines SKH 1997 | 2 | 2002-01-01 to 2003-09-01 |
+| `aanwijzing-als-representatieve-organisatie-in-kader-van-z-f-w-en-w-t-g` | Aanwijzing als representatieve organisatie in kader van z.f.w. en w.t.g. | 2 | 1997-01-31 to 2006-10-01 |
+| `instellingsbesluit-stuurgroep-overheidsloket-2000` | Instellingsbesluit stuurgroep Overheidsloket 2000 | 2 | 1997-02-13 to 2005-02-01 |
+| `regeling-wvo-septic-tank` | Regeling Wvo septic tank | 2 | 1997-03-01 to 2013-01-01 |
+| `besluit-tekenbevoegdheid-vertrouwensfuncties-en-veiligheidsonderzoeken-ministerie-van-binn` | Besluit tekenbevoegdheid vertrouwensfuncties en veiligheidsonderzoeken ministerie van Binnenlandse Zaken | 2 | 1997-02-01 to 2004-02-01 |
+| `regeling-wijziging-van-het-reken-en-meetvoorschrift-railverkeerslawaai` | Regeling wijziging van het Reken- en Meetvoorschrift Railverkeerslawaai | 2 | 1997-03-03 to 2007-01-01 |
+| `regeling-voorschriften-voor-het-indienen-van-tekeningen-en-bescheiden-ten-behoeve-van-de-a` | Regeling voorschriften voor het indienen van tekeningen en bescheiden ten behoeve van de afgifte van een certificaat | 2 | 2004-11-26 to 2008-09-17 |
+| `regeling-modellen-certificaten-voorkoming-verontreiniging-door-schepen` | Regeling modellen certificaten voorkoming verontreiniging door schepen | 2 | 2001-12-21 to 2007-01-01 |
+| `regeling-voorschriften-schepen-geen-olietankschepen-met-tonnage-kleiner-dan-400` | Regeling voorschriften schepen (geen olietankschepen) met tonnage kleiner dan 400 | 2 | 1997-12-25 to 2008-09-17 |
+| `aanwijzing-hoofd-van-de-inspectie-cultuurbezit-als-inspecteur` | Aanwijzing Hoofd van de Inspectie Cultuurbezit als inspecteur | 2 | 1997-02-19 to 2004-12-31 |
+| `regeling-communautair-initiatief-adapt-ii` | Regeling Communautair Initiatief ADAPT-II | 2 | 1997-04-03 to 2008-09-25 |
+| `regeling-communautair-initiatief-werkgelegenheid-ii` | Regeling Communautair Initiatief Werkgelegenheid-II | 2 | 1997-04-03 to 2008-09-25 |
+| `warenwetregeling-zuiverheidseisen-van-levensmiddelenadditieven-met-uitzondering-van-kleurs` | Warenwetregeling Zuiverheidseisen van levensmiddelenadditieven met uitzondering van kleurstoffen en zoetstoffen | 2 | 2004-05-28 to 2008-11-13 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-februari-1997` | Beschikking rendementen gesubsidieerde woningbouw, februari 1997 | 2 | 1997-02-01 to 2004-12-23 |
+| `regeling-vaststelling-literaire-genres-centraal-examen-en-staatsexamen-klassieke-taal-en-l` | Regeling vaststelling literaire genres centraal examen en staatsexamen klassieke taal en letterkunde 1999 | 2 | 1997-03-08 to 2004-12-31 |
+| `regeling-inschakeling-studenten-bij-screening-varkensbedrijven` | Regeling inschakeling studenten bij screening varkensbedrijven | 2 | 1997-08-14 to 2004-01-24 |
+| `regeling-vaststelling-bedragen-nascholing-voortgezet-onderwijs-1997-1998` | Regeling vaststelling bedragen nascholing voortgezet onderwijs 1997-1998 | 2 | 1997-08-01 to 2004-12-31 |
+| `regeling-vaststelling-datum-eerste-toelating-van-voertuigen` | Regeling vaststelling datum eerste toelating van voertuigen | 2 | 2005-09-01 to 2009-05-01 |
+| `regeling-aanwijzing-belastingplichtige-tussenpersonen-voor-de-assurantiebelasting` | Regeling aanwijzing belastingplichtige tussenpersonen voor de assurantiebelasting | 2 | 2002-02-23 to 2007-01-01 |
+| `regeling-indeling-van-het-bedrijfs-en-beroepsleven-in-sectoren` | Regeling indeling van het bedrijfs- en beroepsleven in sectoren | 2 | 2004-10-29 to 2006-01-01 |
+| `regeling-vergoeding-studie-en-beroepskeuzebegeleiding-vo-1997-en-1998` | Regeling vergoeding studie- en beroepskeuzebegeleiding VO 1997 en 1998 | 2 | 1997-08-01 to 2004-12-31 |
+| `regeling-vrijstelling-sofi-nummer-volksverzekeringen` | Regeling vrijstelling Sofi-nummer volksverzekeringen | 2 | 2002-02-23 to 2008-09-25 |
+| `besluit-vaststelling-bedragen-per-eenheid-voor-het-uitkeringsjaar-1996` | Besluit vaststelling bedragen per eenheid voor het uitkeringsjaar 1996 | 2 | 1997-04-11 to 2005-02-01 |
+| `regeling-vaststelling-controleprotocol-rijksbijdrage-basiseducatie-1996` | Regeling vaststelling controleprotocol rijksbijdrage basiseducatie 1996 | 2 | 1997-03-22 to 2004-12-31 |
+| `openstelling-spieringvisserij-ijsselmeer-1997` | Openstelling spieringvisserij IJsselmeer 1997 | 2 | 1997-03-13 to 2004-01-24 |
+| `vaststelling-energieprogrammas-eerste-tranche` | Vaststelling energieprogramma’s (eerste tranche) | 2 | 1997-12-18 to 2005-06-11 |
+| `instelling-commissie-financieringsmodaliteiten` | Instelling Commissie Financieringsmodaliteiten | 2 | 1997-05-01 to 2005-02-01 |
+| `verlening-vrijstelling-bepaalde-in-regeling-ijsselmeervisserij-1993` | Verlening vrijstelling bepaalde in Regeling IJsselmeervisserij 1993 | 2 | 1997-03-16 to 2004-01-24 |
+| `nederlandse-voorschriften-tot-uitvoering-belastingverdrag-nederland-mexico` | Nederlandse voorschriften tot uitvoering belastingverdrag Nederland-Mexico | 2 | 1997-03-23 to 2004-10-01 |
+| `quotaruil-schol-en-haring` | Quotaruil schol en haring | 2 | 1997-03-28 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-maart-1997` | Beschikking rendementen gesubsidieerde woningbouw, maart 1997 | 2 | 1997-03-01 to 2004-12-23 |
+| `vaststelling-dekking-kosten-ziekenfondsraad-en-zijn-secretariaat-voor-het-jaar-1996` | Vaststelling dekking kosten Ziekenfondsraad en zijn secretariaat voor het jaar 1996 | 2 | 1997-03-28 to 2004-08-28 |
+| `regeling-vaststelling-mestboekhouding-producenten-1997` | Regeling vaststelling mestboekhouding producenten 1997 | 2 | 1997-04-06 to 2004-01-24 |
+| `vrijstellingsregeling-zegenvisserij-ijsselmeer-1997` | Vrijstellingsregeling zegenvisserij IJsselmeer 1997 | 2 | 1997-03-27 to 2004-01-24 |
+| `regeling-vaststelling-indieningsperiode-1997-aanvraag-oppervlakten` | Regeling vaststelling indieningsperiode 1997 aanvraag oppervlakten | 2 | 1997-03-29 to 2004-01-24 |
+| `tijdelijke-regeling-inzet-extra-middelen-jeugd-en-veiligheid` | Tijdelijke Regeling inzet extra middelen Jeugd en Veiligheid | 2 | 1997-04-06 to 2005-02-01 |
+| `vergoedingenregeling-raad-landelijk-gebied` | Vergoedingenregeling raad landelijk gebied | 2 | 2006-03-18 to 2012-06-23 |
+| `goedkeuring-vastgestelde-tarieven-ophalen-gestorven-landbouwhuisdieren-1997` | Goedkeuring vastgestelde tarieven ophalen gestorven landbouwhuisdieren 1997 | 2 | 1997-06-01 to 2004-01-24 |
+| `regeling-inzake-uitvoeringsvoorschriften-krachtens-de-artikelen-33-en-35-van-het-bza` | Regeling inzake uitvoeringsvoorschriften krachtens de artikelen 33 en 35 van het BZA | 2 | 2002-03-23 to 2007-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-april-1997` | Beschikking rendementen gesubsidieerde woningbouw april 1997 | 2 | 1997-04-01 to 2004-12-23 |
+| `subsidieplafond-tweede-tender-1997` | Subsidieplafond tweede tender 1997 | 2 | 1997-12-11 to 2004-01-01 |
+| `instelling-en-benoemingen-overleg-en-begeleidingscommissie-cas` | Instelling en benoemingen Overleg- en begeleidingscommissie CAS | 2 | 2000-04-16 to 2013-07-01 |
+| `regeling-tijdelijke-aanpassing-school-gpl-per-1-juni-1997-in-verband-met-de-maatregel-ter` | Regeling tijdelijke aanpassing school-gpl per 1 juni 1997 in verband met de maatregel ter verbetering van de koopkracht | 2 | 1997-08-01 to 2004-12-31 |
+| `aanwijzing-persoon-bevoegd-tot-het-geven-van-verkeersaanwijzingen` | Aanwijzing persoon bevoegd tot het geven van verkeersaanwijzingen | 2 | 1997-04-25 to 2014-01-01 |
+| `vaststelling-huursubsidie-uitgavennorm-subsidiejaar-1997-1998` | Vaststelling huursubsidie-uitgavennorm subsidiejaar 1997/1998 | 2 | 1997-07-01 to 2003-07-01 |
+| `stimuleringsregeling-vernieuwing-landelijk-gebied` | Stimuleringsregeling vernieuwing landelijk gebied | 2 | 2005-01-01 to 2007-04-01 |
+| `vaststelling-vergoedingen-gecommitteerden-vakbekwaamheidsexamens-wet-assurantie-bemiddelin` | Vaststelling vergoedingen gecommitteerden vakbekwaamheidsexamens Wet assurantie-bemiddelingsbedrijf | 2 | 2002-01-01 to 2006-01-01 |
+| `instelling-directoraat-generaal-goederenvervoer` | Instelling Directoraat-Generaal Goederenvervoer | 2 | 2001-06-01 to 2005-04-01 |
+| `instelling-directoraat-generaal-personenvervoer` | Instelling Directoraat-Generaal Personenvervoer | 2 | 2001-07-01 to 2008-07-01 |
+| `beschikbare-bedragen-bijdragenbesluit-openbare-lichamen-milieubeheer` | Beschikbare bedragen Bijdragenbesluit openbare lichamen milieubeheer | 2 | 1997-10-30 to 2004-12-23 |
+| `thema-s-en-domeinen-centraal-examen-maatschappijleer-1999-en-2000` | Thema's en domeinen centraal examen maatschappijleer 1999 en 2000 | 2 | 1997-06-07 to 2004-12-31 |
+| `inhoudsomschrijving-thema-criminaliteit-en-rechtsstaat-examen-maatschappijleer-vwo-schoolj` | Inhoudsomschrijving thema 'Criminaliteit en rechtsstaat' examen maatschappijleer vwo, schooljaren 1998-1999 en 1999-2000 | 2 | 1997-06-07 to 2004-12-31 |
+| `mandaatregeling-centrale-dienst-voor-in-en-uitvoer-1997` | Mandaatregeling Centrale Dienst voor In- en Uitvoer 1997 | 2 | 2003-01-01 to 2012-01-01 |
+| `herziene-regeling-landelijke-politieopleidingen` | herziene Regeling landelijke politieopleidingen | 2 | 1997-06-11 to 2003-04-01 |
+| `vaststelling-gesloten-periode-ijsselmeervisserij` | Vaststelling gesloten periode IJsselmeervisserij | 2 | 1997-06-14 to 2004-01-24 |
+| `wijziging-machtigingsregeling-directie-visserij` | Wijziging machtigingsregeling Directie Visserij | 2 | 1997-06-15 to 2004-04-26 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-mei-1997` | Beschikking rendementen gesubsidieerde woningbouw, mei 1997 | 2 | 1997-05-01 to 2004-12-23 |
+| `faciliteitenregeling-roc-vorming-1997` | Faciliteitenregeling ROC-vorming 1997 | 2 | 1998-01-01 to 2004-12-31 |
+| `regeling-wijziging-normbedragen-constante-en-variabele-exploitatiekosten-huurstandplaatsen` | Regeling Wijziging normbedragen constante en variabele exploitatiekosten huurstandplaatsen en huurprijzen woonwagens | 2 | 1997-06-15 to 2004-12-23 |
+| `nadere-regeling-invoer-geslacht-pluimvee` | Nadere regeling invoer geslacht pluimvee | 2 | 1997-06-07 to 2004-03-17 |
+| `regeling-tegemoetkoming-lump-sum` | Regeling tegemoetkoming lump sum | 2 | 1997-06-12 to 2004-12-31 |
+| `opheffing-rijks-geologische-dienst-en-programma-adviescommissie-rijks-geologische-dienst` | Opheffing Rijks Geologische Dienst en programma-adviescommissie Rijks Geologische Dienst | 2 | 1997-09-01 to 2005-06-11 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinen-luchtvaartterrein-budel` | Instelling commissies milieuhygiëne luchtvaartterreinen; Luchtvaartterrein Budel | 2 | 2001-11-02 to 2008-12-24 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinen-luchtvaartterrein-terlet` | Instelling commissies milieuhygiëne luchtvaartterreinen; Luchtvaartterrein Terlet | 2 | 2001-11-02 to 2008-12-24 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinen-luchtvaartterrein-noordoostpolder` | Instelling commissies milieuhygiëne luchtvaartterreinen; luchtvaartterrein Noordoostpolder | 2 | 2001-07-01 to 2008-12-24 |
+| `instelling-redactiecommissie-jaarrapportage-armoede-en-sociale-uitsluiting` | Instelling redactiecommissie Jaarrapportage Armoede en Sociale Uitsluiting | 2 | 1997-08-01 to 2008-09-25 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinen-luchtvaartterrein-ameland` | Instelling commissies milieuhygiëne luchtvaartterreinen; Luchtvaartterrein Ameland | 2 | 2001-11-02 to 2008-12-24 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinen-luchtvaartterrein-hoogeveen` | Instelling commissies milieuhygiëne luchtvaartterreinen; Luchtvaartterrein Hoogeveen | 2 | 2001-11-02 to 2008-12-24 |
+| `wijziging-diverse-regelingen-zeevisserij` | Wijziging diverse regelingen zeevisserij | 2 | 1997-06-22 to 2005-01-01 |
+| `instellingsbesluit-examencommissie-opleidingsmodulen-leergang-bestrijding-georganiseerde-c` | Instellingsbesluit Examencommissie opleidingsmodulen ’Leergang bestrijding georganiseerde criminaliteit’ | 2 | 1997-07-02 to 2005-01-02 |
+| `regeling-inkomen-kinderbijslag-1997` | Regeling inkomen kinderbijslag 1997 | 2 | 2012-05-03 to 2014-07-01 |
+| `regeling-gelijkstelling-franse-certificaten-speeltoestellen` | Regeling gelijkstelling Franse certificaten speeltoestellen | 2 | 1997-06-14 to 2005-03-05 |
+| `instelling-mdw-projectgroep-ziekenhuiszorg` | Instelling MDW-projectgroep ziekenhuiszorg | 2 | 1997-06-21 to 2004-08-28 |
+| `regeling-verhoging-gemiddelde-personeelslast-school-school-gpl-in-verband-met-algemene-sal` | Regeling verhoging gemiddelde personeelslast school (school-GPL) in verband met algemene salarismaatregel (ZKOO) 1997 | 2 | 1997-06-28 to 2004-12-31 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juni-1997` | Beschikking rendementen gesubsidieerde woningbouw juni 1997 | 2 | 1997-06-01 to 2004-12-23 |
+| `regeling-etikettering-energiegebruik-afwasmachines` | Regeling etikettering energiegebruik afwasmachines | 2 | 1999-08-01 to 2012-03-17 |
+| `besluit-nadere-vaststelling-organisatie-en-taakverdeling-az-2` | Besluit nadere vaststelling organisatie en taakverdeling AZ | 2 | 1997-07-01 to 2009-04-29 |
+| `regeling-onderwijsbevoegdheid-lid-staten` | Regeling onderwijsbevoegdheid Lid-Staten | 2 | 1997-07-19 to 2007-12-21 |
+| `regeling-vaststelling-perioden-zoogkoeienpremie-1997` | Regeling vaststelling perioden zoogkoeienpremie 1997 | 2 | 1997-06-27 to 2004-01-24 |
+| `regeling-geldsom-visakten-1998` | Regeling geldsom visakten 1998 | 2 | 1998-01-01 to 2004-01-24 |
+| `regeling-vaststelling-middelen-voor-gemeentelijk-onderwijsachterstandenbeleid-schooljaar-1` | Regeling vaststelling middelen voor gemeentelijk onderwijsachterstandenbeleid schooljaar 1997/1998 | 2 | 1997-08-01 to 2004-12-31 |
+| `besluit-wijziging-inkomensgrenzen-en-eigen-bijdragen-wrb-juli-1997` | Besluit wijziging inkomensgrenzen en eigen bijdragen WRB juli 1997 | 2 | 1997-07-01 to 2005-01-02 |
+| `vaststelling-premiepercentage-awf-per-1-juli-1997` | Vaststelling premiepercentage AWf per 1 juli 1997 | 2 | 1997-07-01 to 2004-09-22 |
+| `garantieregeling-vereenvoudiging-londo` | Garantieregeling Vereenvoudiging Londo | 2 | 1997-07-05 to 2004-12-31 |
+| `regeling-handhaving-aanspraak-op-studiefinanciering-i-v-m-afbouw-beroepsbegeleidend-onderw` | Regeling handhaving aanspraak op studiefinanciering i.v.m. afbouw beroepsbegeleidend onderwijs en middelbaar beroepsonderwijs, alsmede aanvullend overgangsrecht WEB | 2 | 1997-08-01 to 2004-12-31 |
+| `onderwerpen-centraal-en-schriftelijk-examen-aardrijkskunde-1998-1999` | Onderwerpen centraal en schriftelijk examen aardrijkskunde 1998-1999 | 2 | 1997-07-19 to 2004-12-31 |
+| `regeling-indexering-akw-en-tog-bedragen-juli-1997` | Regeling indexering AKW- en TOG-bedragen juli 1997 | 2 | 1997-07-05 to 2004-09-22 |
+| `correctieregeling-hogescholen-haarlem-en-tilburg` | Correctieregeling Hogescholen Haarlem en Tilburg | 2 | 1997-07-19 to 2004-12-31 |
+| `subsidieregeling-vereniging-colo-1996-en-1997` | Subsidieregeling vereniging Colo 1996 en 1997 | 2 | 1997-07-19 to 2004-12-31 |
+| `vaststelling-energieprogrammas-en-beschikbare-bedragen-1997-tweede-tranche` | Vaststelling energieprogramma’s en beschikbare bedragen 1997 (tweede tranche) | 2 | 1997-12-18 to 2005-06-11 |
+| `regeling-onderwerpen-centraal-examen-oude-stijl-geschiedenis-en-staatsinrichting-2000-en-s` | Regeling onderwerpen centraal examen 'oude stijl' geschiedenis en staatsinrichting 2000 en stofomschrijving 1999 en 2000 | 2 | 1998-08-01 to 2004-12-31 |
+| `uitvoeringsregeling-bsz-1997` | Uitvoeringsregeling BSZ 1997 | 2 | 1997-07-11 to 2005-06-11 |
+| `regeling-bloed-en-urineonderzoek-2` | Regeling bloed- en urineonderzoek | 2 | 2002-01-01 to 2005-09-30 |
+| `besluit-vervanging-ovp-archief` | Besluit vervanging OVP-archief | 2 | 1997-10-01 to 2013-07-01 |
+| `besluit-rijksbijdrage-economische-stimuleringsgebieden` | Besluit rijksbijdrage economische stimuleringsgebieden | 2 | 1997-07-18 to 2005-02-01 |
+| `regeling-stimulering-van-internationale-structurele-samenwerking-van-hogescholen-1997-2000` | Regeling stimulering van internationale structurele samenwerking van hogescholen 1997-2000 | 2 | 1997-07-19 to 2004-12-31 |
+| `besluit-openstelling-investeringsregeling-markt-en-concurrentiekracht-primaire-landbouw` | Besluit openstelling Investeringsregeling markt en concurrentiekracht (primaire landbouw) | 2 | 1998-01-01 to 2004-01-24 |
+| `regeling-openstelling-investeringsregeling-markt-en-concurrentiekracht-verwerking-en-afzet` | Regeling openstelling Investeringsregeling markt en concurrentiekracht (verwerking en afzet landbouwproducten) | 2 | 1997-09-01 to 2004-01-24 |
+| `wijziging-bijlagen-1-en-2-van-de-regeling-farmaceutische-hulp-1996` | Wijziging bijlagen 1 en 2 van de Regeling farmaceutische hulp 1996 | 2 | 1997-08-01 to 2006-01-01 |
+| `regeling-doden-van-dieren` | Regeling doden van dieren | 2 | 2012-10-03 to 2013-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juli-1997` | Beschikking rendementen gesubsidieerde woningbouw, juli 1997 | 2 | 1997-07-01 to 2004-12-23 |
+| `tijdelijke-regeling-steunmaatregelen-financiele-positie-en-financieel-management-bve-inste` | Tijdelijke regeling steunmaatregelen financiële positie en financieel management bve-instellingen | 2 | 1997-07-26 to 2004-12-31 |
+| `instelling-commissie-evaluatie-vermogensstructuur-stichting-roi` | Instelling Commissie evaluatie vermogensstructuur Stichting ROI | 2 | 1997-07-14 to 2005-02-01 |
+| `vaststelling-vergoeding-voorzitter-en-overige-leden-staatscommissie-voor-de-waterstaatswet` | Vaststelling vergoeding voorzitter en overige leden Staatscommissie voor de waterstaatswetgeving | 2 | 1997-08-06 to 2004-03-04 |
+| `opheffing-van-de-stichting-voor-onderzoek-van-het-onderwijs` | Opheffing van de Stichting voor Onderzoek van het Onderwijs | 2 | 1997-10-01 to 2004-12-31 |
+| `voorschrift-algemene-wet-bestuursrecht-1997` | Voorschrift Algemene wet bestuursrecht 1997 | 2 | 1997-07-25 to 2007-02-25 |
+| `regeling-melding-overdracht-premierechten-ooien-1997` | Regeling melding overdracht premierechten ooien 1997 | 2 | 1997-08-14 to 2004-01-24 |
+| `aanwijzing-personen-bevoegd-tot-het-geven-van-verkeersinformatie-aanwijzingen` | Aanwijzing personen bevoegd tot het geven van verkeersinformatie/ -aanwijzingen | 2 | 1997-08-22 to 2005-11-02 |
+| `regeling-vaststelling-eindtermen-beroepsonderwijs-op-het-gebied-van-de-landbouw-en-de-natu-2` | Regeling vaststelling eindtermen beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving 1998 | 2 | 1997-08-01 to 2004-01-24 |
+| `regeling-vaststelling-deelkwalificatie-uitvoeren-elementaire-bedrijfshulpverlening` | Regeling vaststelling deelkwalificatie uitvoeren elementaire bedrijfshulpverlening | 2 | 1997-09-13 to 2007-02-04 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-augustus-1997` | Beschikking rendementen gesubsidieerde woningbouw, augustus 1997 | 2 | 1997-08-01 to 2004-12-23 |
+| `extra-vergoeding-materiele-instandhouding-1997-in-verband-met-verkleining-van-de-groepsgro` | Extra vergoeding materiële instandhouding 1997 in verband met verkleining van de groepsgrootte | 2 | 1997-09-13 to 2004-12-31 |
+| `vaststelling-circulaire-wapens-en-munitie-1997` | Vaststelling circulaire wapens en munitie 1997 | 2 | 1997-09-01 to 2005-08-01 |
+| `instelling-interdisciplinaire-stuurgroep-bestrijding-voetbalvandalisme-en-geweld` | Instelling interdisciplinaire stuurgroep bestrijding voetbalvandalisme en -geweld | 2 | 2001-09-20 to 2007-10-19 |
+| `regeling-toelage-raad-van-toezicht-academische-ziekenhuizen` | Regeling toelage Raad van Toezicht academische ziekenhuizen | 2 | 2002-01-01 to 2008-01-01 |
+| `subsidieplafond-derde-tender-1997` | Subsidieplafond derde tender 1997 | 2 | 1998-04-18 to 2004-01-01 |
+| `regeling-eenmalige-invoeringskosten-wet-inschakeling-werkzoekenden` | Regeling eenmalige invoeringskosten Wet inschakeling werkzoekenden | 2 | 1997-09-11 to 2004-09-22 |
+| `instelling-commissie-vogelaanvaringen-luchtvaartuigen` | Instelling Commissie Vogelaanvaringen Luchtvaartuigen | 2 | 1997-09-27 to 2010-10-01 |
+| `wijziging-regeling-beheersovereenkomsten-en-natuurontwikkeling-invoering-ruime-jas` | Wijziging Regeling beheersovereenkomsten en natuurontwikkeling; invoering ruime jas | 2 | 1997-09-13 to 2009-12-31 |
+| `regeling-verlaging-van-de-gemiddelde-personeelslast-van-de-school-school-gpl-in-het-voortg` | Regeling verlaging van de gemiddelde personeelslast van de school (school-gpl) in het voortgezet onderwijs | 2 | 1997-10-04 to 2004-12-31 |
+| `overhevelingsregeling-saldi-andere-voorzieningen` | Overhevelingsregeling saldi ’Andere Voorzieningen’ | 2 | 1997-10-04 to 2004-12-31 |
+| `kortingsregeling-preventieve-maatregelen-klassieke-varkenspest-1997` | Kortingsregeling preventieve maatregelen klassieke varkenspest 1997 | 2 | 1999-01-01 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-september-1997` | Beschikking rendementen gesubsidieerde woningbouw, september 1997 | 2 | 1997-12-01 to 2004-12-23 |
+| `regeling-aanscherping-vervoersverboden-in-toezichtsgebieden-varkenspest-1997` | Regeling aanscherping vervoersverboden in toezichtsgebieden varkenspest 1997 | 2 | 1998-08-01 to 2004-01-24 |
+| `regeling-ondersteuning-producenteninkomen-rundvleessector-in-verband-met-de-bse-situatie-1` | Regeling ondersteuning producenteninkomen rundvleessector in verband met de BSE-situatie 1997 | 2 | 1997-09-18 to 2004-01-24 |
+| `regeling-aanwijzing-bevoegde-kamer-van-koophandel-en-fabrieken` | Regeling aanwijzing bevoegde Kamer van Koophandel en Fabrieken | 2 | 2006-01-01 to 2008-07-01 |
+| `bekendmaking-subsidiabele-themas-natuur-en-milieu-educatieregeling` | Bekendmaking subsidiabele thema’s natuur- en milieu-educatieregeling | 2 | 1997-09-25 to 2004-01-24 |
+| `peildatum-aantal-leden-omroepverenigingen` | Peildatum aantal leden omroepverenigingen | 2 | 1997-09-25 to 2004-12-31 |
+| `subsidieregeling-fokverbod-varkens-1997` | Subsidieregeling fokverbod varkens 1997 | 2 | 1997-09-22 to 2004-01-24 |
+| `regeling-beperking-of-verbod-uitoefening-burgerluchtverkeer-in-bepaalde-gebieden-en-aanwij` | Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden en aanwijzing bijzondere luchtverkeersgebieden | 2 | 2008-06-22 to 2014-03-06 |
+| `regeling-impuls-achterstallig-onderhoud-alsmede-btw-afdracht-scholen-vo` | Regeling impuls achterstallig onderhoud alsmede btw-afdracht scholen vo | 2 | 1997-10-11 to 2004-12-31 |
+| `regeling-verhoging-contingent-haring-1997-ex-artikel-10-regeling-contingentering-zeevis` | Regeling verhoging contingent haring 1997 ex artikel 10 Regeling contingentering zeevis | 2 | 1997-10-08 to 2004-01-24 |
+| `extra-vergoeding-voor-leermiddelen-1997-voor-gefuseerde-scholen-in-het-kader-van-toerustin` | Extra vergoeding voor leermiddelen 1997 voor gefuseerde scholen in het kader van Toerusting en Bereikbaarheid (TenB) | 2 | 1997-11-01 to 2004-12-31 |
+| `verlenging-indieningstermijn-aanvraag-tot-het-verlenen-van-huursubsidie-subsidiejaar-1997` | Verlenging indieningstermijn aanvraag tot het verlenen van huursubsidie subsidiejaar 1997/1998 | 2 | 1997-12-13 to 2004-12-23 |
+| `instelling-stuurgroep-ouderen-onderzoek` | Instelling Stuurgroep ouderen onderzoek | 2 | 1997-12-15 to 2004-12-31 |
+| `verhoging-omroepbijdragen-1998` | Verhoging omroepbijdragen 1998 | 2 | 1998-01-01 to 2009-01-01 |
+| `regeling-vaststelling-model-verklaring-terbeschikkingstelling` | Regeling vaststelling model verklaring terbeschikkingstelling | 2 | 1997-10-17 to 2009-05-01 |
+| `uitvoeringsregeling-ex-artikel-89-van-de-isovso-houdende-vaststelling-programma-s-van-eise` | Uitvoeringsregeling ex artikel 89 van de ISOVSO houdende vaststelling programma's van eisen 1998 | 2 | 1998-01-01 to 2004-12-31 |
+| `uitvoeringsregeling-ex-artikel-92-van-de-wbo-houdende-vaststelling-programma-s-van-eisen-1` | Uitvoeringsregeling ex artikel 92 van de WBO houdende vaststelling programma's van eisen 1998 | 2 | 1998-01-01 to 2004-12-31 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-oktober-1997` | Beschikking rendementen gesubsidieerde woningbouw oktober 1997 | 2 | 1997-10-01 to 2004-12-23 |
+| `verbod-burgerluchtvaart-in-bepaalde-gebieden-in-verband-met-militaire-oefeningen` | Verbod burgerluchtvaart in bepaalde gebieden in verband met militaire oefeningen | 2 | 1997-10-30 to 2004-02-06 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1996-en-voor-1997` | Regeling vaststelling mede te financieren bedrag MOOZ voor 1996 en voor 1997 | 2 | 1998-11-19 to 2004-08-28 |
+| `vergoedingenregeling-leden-raad-voor-verkeer-en-waterstaat` | Vergoedingenregeling leden Raad voor verkeer en waterstaat | 2 | 1997-11-01 to 2012-06-23 |
+| `regeling-indicatie-sociale-werkvoorziening` | Regeling indicatie sociale werkvoorziening | 2 | 1999-11-01 to 2005-01-01 |
+| `regeling-arbeidsinpassing-en-begeleiding-sociale-werkvoorziening` | Regeling arbeidsinpassing en begeleiding sociale werkvoorziening | 2 | 2004-10-02 to 2005-01-01 |
+| `regeling-financiering-actieplannen-jeugd-en-veiligheid-1997-1999-g6` | Regeling financiering actieplannen Jeugd en Veiligheid 1997-1999 G6 | 2 | 1997-11-23 to 2005-02-01 |
+| `aanpassing-quota-zeevisserij` | Aanpassing quota zeevisserij | 2 | 1997-11-09 to 2004-01-24 |
+| `regeling-routeringssysteem-noord-hinder-duitse-bocht` | Regeling routeringssysteem Noord Hinder - Duitse Bocht | 2 | 2008-05-17 to 2013-08-01 |
+| `nadere-regeling-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-1997` | Nadere regeling besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 1997 | 2 | 1997-12-14 to 2004-08-28 |
+| `aanwijzing-macro-verstrekkingenbudget-ziekenfondsverzekering-1998` | Aanwijzing macro-verstrekkingenbudget ziekenfondsverzekering 1998 | 2 | 1997-12-14 to 2004-08-28 |
+| `onderwijsregeling-inburgering-nieuwkomers-1998` | Onderwijsregeling inburgering nieuwkomers 1998 | 2 | 2003-12-01 to 2004-12-31 |
+| `regeling-maat-middellijn-ringetjes-en-gaatjes-in-zijwanden-aalkistjes` | Regeling maat middellijn ringetjes en gaatjes in zijwanden aalkistjes | 2 | 1997-11-16 to 2009-01-01 |
+| `regeling-aassoorten-hengel` | Regeling aassoorten hengel | 2 | 1997-11-16 to 2007-01-01 |
+| `vrijstellingsregeling-mossel-en-oestervisserij` | Vrijstellingsregeling mossel- en oestervisserij | 2 | 1998-03-01 to 2006-12-21 |
+| `regeling-tijdelijke-commissie-voor-geschillen-inzake-universitaire-medezeggenschapsaangele` | Regeling tijdelijke commissie voor geschillen inzake universitaire medezeggenschapsaangelegenheden | 2 | 1997-11-22 to 2004-12-31 |
+| `regeling-betreffende-maatregelen-ter-voorkoming-van-overbrenging-besmetting` | Regeling betreffende maatregelen ter voorkoming van overbrenging besmetting | 2 | 1997-11-22 to 2009-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-november-1997` | Beschikking rendementen gesubsidieerde woningbouw, november 1997 | 2 | 1997-11-01 to 2004-12-23 |
+| `kaderregeling-subsidiering-bve-raad` | Kaderregeling subsidiëring BVE Raad | 2 | 2000-01-01 to 2010-01-01 |
+| `regeling-vaststelling-aanvraagperioden-1998-eg-premies-ooien-stieren-en-ossen` | Regeling vaststelling aanvraagperioden 1998 EG-premies ooien, stieren en ossen | 2 | 1997-11-27 to 2005-01-01 |
+| `wijziging-investeringslijst-en-subsidieplafond-stimuleringskader` | Wijziging investeringslijst en subsidieplafond stimuleringskader | 2 | 1998-01-01 to 2004-01-24 |
+| `mandaatverlening-aan-senter` | Mandaatverlening aan Senter | 2 | 1997-11-30 to 2004-05-01 |
+| `regeling-aanwijzing-ziekenfondsen-ziekenfondswet-1998` | Regeling aanwijzing ziekenfondsen Ziekenfondswet 1998 | 2 | 2003-11-05 to 2006-01-01 |
+| `vrijstellingsregeling-natuurlijk-mineraal-en-bronwater-warenwet` | Vrijstellingsregeling natuurlijk mineraal- en bronwater (Warenwet) | 2 | 1997-12-03 to 2004-08-28 |
+| `tweede-wijziging-subsidieregeling-referentieprojecten-milieutechnologie` | Tweede wijziging Subsidieregeling referentieprojecten milieutechnologie | 2 | 1997-11-30 to 2005-06-11 |
+| `regeling-informatieprofiel-dcs-1800-gecombineerd-met-gsm` | Regeling informatieprofiel DCS 1800 gecombineerd met GSM | 2 | 1997-12-01 to 2012-09-27 |
+| `subsidieplafonds-onderhoud-monumenten-en-historische-buitenplaatsen` | Subsidieplafonds onderhoud monumenten en historische buitenplaatsen | 2 | 1997-12-17 to 2004-12-31 |
+| `regeling-vaststelling-gebruik-politielogo-door-klpd` | Regeling vaststelling gebruik politielogo door KLPD | 2 | 1997-12-11 to 2013-01-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-dienst-bewaking-beveiliging-en-vervoer-amsterdam` | Besluit buitengewoon opsporingsambtenaar dienst Bewaking, Beveiliging en Vervoer Amsterdam 1995 | 2 | 1997-12-11 to 2003-10-01 |
+| `regeling-gelijkwaardige-snelheidsbegrenzers` | Regeling gelijkwaardige snelheidsbegrenzers | 2 | 1997-12-11 to 2009-05-01 |
+| `mandaatbesluit-kof` | Mandaatbesluit KOF | 2 | 2001-07-01 to 2005-07-01 |
+| `regeling-tarieven-rijnpatenten-dienstboekjes-vaartijdenboek-en-verklaring-vaartijdenboek` | Regeling tarieven Rijnpatenten, dienstboekjes, vaartijdenboek en verklaring vaartijdenboek | 2 | 2003-01-23 to 2004-01-01 |
+| `regeling-aanwijzing-bevoegde-autoriteiten-reglement-rijnpatenten-1998` | Regeling aanwijzing bevoegde autoriteiten Reglement Rijnpatenten 1998 | 2 | 2005-07-07 to 2006-01-01 |
+| `mandaat-bezwaarschriften-nadeelcompensatie-betuweroute` | Mandaat bezwaarschriften nadeelcompensatie Betuweroute | 2 | 2005-01-01 to 2009-09-26 |
+| `tijdelijke-regeling-toelating-voortgezet-algemeen-volwassenen-onderwijs-vavo` | Tijdelijke regeling toelating voortgezet algemeen volwassenen onderwijs (vavo) | 2 | 2003-12-20 to 2006-01-01 |
+| `nederlandse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-israel` | Nederlandse uitvoeringsvoorschriften belastingovereenkomst Nederland-Israël | 2 | 1997-12-14 to 2004-10-01 |
+| `regeling-informatie-arbeidsvoorziening` | Regeling informatie Arbeidsvoorziening | 2 | 1997-12-14 to 2004-09-22 |
+| `uitvoeringsregeling-e-e-t-1998` | Uitvoeringsregeling E.E.T. 1998 | 2 | 2002-01-01 to 2004-01-01 |
+| `regeling-vaststelling-regels-voor-de-keuring-van-autos` | Regeling vaststelling regels voor de keuring van auto’s | 2 | 2008-11-20 to 2009-05-01 |
+| `regeling-permanente-eisen-taxis` | Regeling permanente eisen taxi’s | 2 | 2008-11-20 to 2009-05-01 |
+| `ijkregeling-vloeistofhoogtemeters` | IJkregeling vloeistofhoogtemeters | 2 | 2000-12-24 to 2007-02-01 |
+| `subsidieregeling-actieve-zon-thermische-systemen-1998` | Subsidieregeling actieve zon-thermische systemen 1998 | 2 | 2002-11-16 to 2003-06-07 |
+| `klachtenregeling-rijksrecherche-1997` | Klachtenregeling Rijksrecherche 1997 | 2 | 1998-01-01 to 2006-09-30 |
+| `wijziging-uitvoeringsregeling-bts-en-vaststelling-tenderperioden-1998` | Wijziging Uitvoeringsregeling BTS en vaststelling tenderperioden 1998 | 2 | 1999-11-17 to 2004-01-01 |
+| `wijziging-energieprogramma-en-wijziging-beschikbare-bedragen-en-aanvraagperiodes` | Wijziging energieprogramma en wijziging beschikbare bedragen en aanvraagperiodes | 2 | 1997-12-18 to 2005-06-11 |
+| `uitvoeringsregeling-bmkb-1997` | Uitvoeringsregeling BMKB 1997 | 2 | 2008-11-02 to 2009-01-01 |
+| `wijziging-regeling-subsidies-en-uitkeringen-cultuuruitingen` | Wijziging Regeling subsidies en uitkeringen cultuuruitingen | 2 | 1997-12-19 to 2004-12-31 |
+| `ijkregeling-lengtematen` | IJkregeling lengtematen | 2 | 2000-12-24 to 2007-02-01 |
+| `ijkregeling-gewichten` | IJkregeling gewichten | 2 | 2000-12-24 to 2007-02-01 |
+| `ijkregeling-scheepstanks` | IJkregeling scheepstanks | 2 | 2000-12-24 to 2007-02-01 |
+| `ijkregeling-meetreservoirs` | IJkregeling meetreservoirs | 2 | 2000-12-24 to 2007-02-01 |
+| `ijkregeling-inhoudsmaten` | IJkregeling inhoudsmaten | 2 | 2000-12-24 to 2007-02-01 |
+| `ijkregeling-meetsjablonen` | IJkregeling meetsjablonen | 2 | 2000-12-24 to 2007-02-01 |
+| `ijkregeling-meetwerktuigen` | IJkregeling meetwerktuigen | 2 | 2000-12-24 to 2007-02-01 |
+| `ijkregeling-kilowattuurmeters` | IJkregeling kilowattuurmeters | 2 | 2000-12-24 to 2007-02-01 |
+| `instellingsbesluit-comite-van-toezicht-doelstelling-3` | Instellingsbesluit Comité van toezicht ’doelstelling 3’ | 2 | 1998-02-01 to 2008-09-25 |
+| `regeling-schoonmaakdiensten-particulieren` | Regeling schoonmaakdiensten particulieren | 2 | 2005-03-23 to 2005-07-01 |
+| `instelling-commissie-milieuhygiene-luchtvaartterrein-hilversum` | Instelling Commissie milieuhygiëne luchtvaartterrein Hilversum | 2 | 2004-02-06 to 2008-12-24 |
+| `openstelling-stimuleringsregeling-vernieuwing-landelijk-gebied-1997` | Openstelling Stimuleringsregeling vernieuwing landelijk gebied 1997 | 2 | 1997-12-18 to 2004-01-24 |
+| `regeling-optische-en-geluidssignalen` | Regeling optische en geluidssignalen | 2 | 2005-03-10 to 2009-03-01 |
+| `wijzigingsregeling-warenwetregeling-gebruik-van-zoetstoffen-in-levensmiddelen` | Wijzigingsregeling Warenwetregeling Gebruik van zoetstoffen in levensmiddelen | 2 | 1997-12-19 to 2010-01-20 |
+| `regeling-uitzondering-keuringsplicht` | Regeling uitzondering keuringsplicht | 2 | 2002-09-01 to 2009-05-01 |
+| `bewapeningsregeling-politie` | Bewapeningsregeling politie | 2 | 2011-07-27 to 2013-01-01 |
+| `vaststelling-bedragen-1998-kostenregeling-wet-toezicht-beleggingsinstellingen` | Vaststelling bedragen 1998 Kostenregeling Wet toezicht beleggingsinstellingen | 2 | 1997-12-25 to 2004-01-01 |
+| `organisatieregeling-dienstonderdelen-om` | Organisatieregeling dienstonderdelen OM | 2 | 1998-01-01 to 2012-08-14 |
+| `organisatieregeling-beheer-gerechten-en-landelijke-diensten` | Organisatieregeling beheer gerechten en landelijke diensten | 2 | 1998-01-01 to 2002-01-01 |
+| `kleine-serie-regeling` | Kleine serie-regeling | 2 | 2006-11-09 to 2009-05-01 |
+| `regeling-wijziging-constructie` | Regeling wijziging constructie | 2 | 2007-07-21 to 2009-05-01 |
+| `nederlandse-uitvoeringsvoorschriften-belastingverdrag-nederland-finland-1995` | Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland-Finland 1995 | 2 | 1998-01-01 to 2004-10-01 |
+| `regeling-toelating-radio-elektrische-inrichtingen` | Regeling toelating radio-elektrische inrichtingen | 2 | 1999-11-05 to 2005-01-01 |
+| `instelling-gebiedsindeling-en-bestuursgrootte-kamers-van-koophandel` | Instelling, gebiedsindeling en bestuursgrootte kamers van koophandel | 2 | 1998-01-01 to 2005-06-11 |
+| `aanwijzing-publicatieblad-kamers-van-koop-handel-en-fabrieken` | Aanwijzing publicatieblad kamers van koop- handel en fabrieken | 2 | 1998-01-01 to 2008-01-01 |
+| `regeling-amalgaamafscheiders-tandartspraktijken-milieubeheer` | Regeling amalgaamafscheiders tandartspraktijken milieubeheer | 2 | 1998-02-01 to 2008-01-01 |
+| `regeling-testmethoden-amalgaamafscheiders-tandartspraktijken-milieubeheer` | Regeling testmethoden amalgaamafscheiders tandartspraktijken milieubeheer | 2 | 1998-02-01 to 2008-01-01 |
+| `regeling-meldingen-tandartspraktijken-milieubeheer` | Regeling meldingen tandartspraktijken milieubeheer | 2 | 1998-02-01 to 2008-01-01 |
+| `uitvoeringsregeling-lozingenbesluit-bodembescherming` | Uitvoeringsregeling lozingenbesluit bodembescherming | 2 | 1998-01-15 to 2013-01-01 |
+| `warenwetregeling-invoer-pistachenoten-uit-iran` | Warenwetregeling Invoer pistachenoten uit Iran | 2 | 1998-07-12 to 2005-03-10 |
+| `regeling-vaststelling-klasse-indeling-onderhoudsspecie` | Regeling vaststelling klasse-indeling onderhoudsspecie | 2 | 2000-01-01 to 2008-07-01 |
+| `regeling-o-g-v-invoeringswet-stelselherziening-sociale-zekerheid` | Regeling o.g.v. invoeringswet stelselherziening sociale zekerheid | 2 | 2005-12-29 to 2008-01-01 |
+| `aanwijzingsregeling-uitvoeringsinstelling-als-bedoeld-in-de-wet-overheidspersoneel-onder-d` | Aanwijzingsregeling uitvoeringsinstelling als bedoeld in de Wet overheidspersoneel onder de werknemersverzekeringen | 2 | 1998-01-01 to 2004-09-22 |
+| `vergoedingenregeling-leden-gezondheidsraad` | Vergoedingenregeling leden Gezondheidsraad | 2 | 2002-01-01 to 2010-03-24 |
+| `regeling-eisen-individuele-goedkeuring` | Regeling eisen individuele goedkeuring | 2 | 2008-12-07 to 2009-05-01 |
+| `beschikking-sponsor-loterij` | Beschikking Sponsor Loterij | 2 | 2004-09-01 to 2006-01-01 |
+| `voorschriften-meetmiddelen-1997` | Voorschriften meetmiddelen 1997 | 2 | 2008-12-10 to 2009-05-01 |
+| `subsidieregeling-emancipatie-ondersteuning-1998` | Subsidieregeling emancipatie-ondersteuning 1998 | 2 | 1998-01-01 to 2008-08-01 |
+| `regeling-bosbouw-en-natuurterrein-meststoffenwet` | Regeling bosbouw en natuurterrein Meststoffenwet | 2 | 1998-01-01 to 2004-01-01 |
+| `jaarlijkse-actualisering-vergoeding-regeling-beheersovereenkomsten-1993` | Jaarlijkse actualisering vergoeding Regeling beheersovereenkomsten 1993 | 2 | 1998-01-01 to 2004-01-24 |
+| `jaarlijkse-actualisering-vergoeding-beschikking-beheersovereenkomsten-1983` | Jaarlijkse actualisering vergoeding Beschikking beheersovereenkomsten 1983 | 2 | 1998-01-01 to 2004-01-24 |
+| `besluit-uitvoering-regeling-ziektekostenvoorziening-rijkspersoneel` | Besluit uitvoering Regeling ziektekostenvoorziening rijkspersoneel | 2 | 2002-02-02 to 2006-01-01 |
+| `wijziging-regeling-contingentering-zeevis-en-regeling-vangstbeperking` | Wijziging Regeling contingentering zeevis en Regeling vangstbeperking | 2 | 1998-01-18 to 2005-01-01 |
+| `premieregeling-gvp-1998` | Premieregeling GVP 1998 | 2 | 1998-01-01 to 2005-02-01 |
+| `regeling-tonnage-meting-vissersvaartuigen` | Regeling tonnage-meting vissersvaartuigen | 2 | 1998-01-01 to 2006-08-01 |
+| `regeling-toelating-natriumhypochloriet` | Regeling toelating natriumhypochloriet | 2 | 1998-01-01 to 2007-10-17 |
+| `regeling-houdende-regels-in-verband-met-herstructurering-ziekenfondswet` | Regeling, houdende regels in verband met herstructurering Ziekenfondswet | 2 | 1998-01-01 to 2006-01-01 |
+| `regeling-tot-vaststelling-van-het-tijdvak-voor-de-bepaling-van-het-inkomen-alsmede-tot-ver` | Regeling tot vaststelling van het tijdvak voor de bepaling van het inkomen alsmede tot verstrekken door de Sociale Verzekeringsbank van een verklaring over het inkomen van personen van 65 jaar of ouder | 2 | 2002-07-13 to 2006-01-01 |
+| `regeling-beperking-voorwaarden-ziekenfondsverzekering-voor-personen-van-65-jaar-of-ouder` | Regeling beperking voorwaarden ziekenfondsverzekering voor personen van 65 jaar of ouder | 2 | 2005-01-01 to 2006-01-01 |
+| `regeling-vergoedingen-leden-beroepsgenoten` | Regeling vergoedingen leden-beroepsgenoten | 2 | 2002-01-01 to 2009-11-08 |
+| `regeling-nadere-voorschriften-varkensvlees-in-verband-met-klassieke-varkenspest` | Regeling nadere voorschriften varkensvlees in verband met klassieke varkenspest | 2 | 1998-01-07 to 2006-01-01 |
+| `regeling-verklaring-stortverbod-afvalstoffen` | Regeling verklaring stortverbod afvalstoffen | 2 | 2002-05-08 to 2013-01-01 |
+| `regeling-aanwijzing-ambtenaren-toezicht-en-opsporing-binnenschepenwet` | Regeling aanwijzing ambtenaren toezicht en opsporing Binnenschepenwet | 2 | 2004-11-26 to 2009-07-01 |
+| `aanwijzingsbesluit-regionale-inspecteur-milieuhygiene` | Aanwijzingsbesluit regionale inspecteur milieuhygiëne | 2 | 1998-01-24 to 2005-02-25 |
+| `instellingsbesluit-consultatief-orgaan-friese-taal` | Instellingsbesluit consultatief orgaan Friese Taal | 2 | 2002-03-30 to 2010-02-18 |
+| `delegatie-bepaalde-bevoegdheden-in-en-uitvoerbeschikking-landbouwgoederen-1981` | Delegatie bepaalde bevoegdheden In- en uitvoerbeschikking landbouwgoederen 1981 | 2 | 1998-01-23 to 2008-08-01 |
+| `gelijkstelling-certificaat-voor-attractietoestellen` | Gelijkstelling certificaat voor attractietoestellen | 2 | 1998-01-23 to 2005-03-05 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-januari-1998` | Beschikking rendementen gesubsidieerde woningbouw januari 1998 | 2 | 1998-02-01 to 2004-12-23 |
+| `regeling-donorregister` | Regeling donorregister | 2 | 1998-02-01 to 2007-01-01 |
+| `vergoeding-werkzaamheden-adviescommissie-kir` | Vergoeding werkzaamheden adviescommissie KIR | 2 | 1998-11-28 to 2005-02-01 |
+| `uitvoeringsregeling-stirea-1998` | Uitvoeringsregeling StiREA 1998 | 2 | 1998-01-30 to 2005-06-11 |
+| `instellingsbesluit-begeleidingscommissie-onderzoek-indische-tegoeden` | Instellingsbesluit Begeleidingscommissie Onderzoek Indische Tegoeden | 2 | 1998-02-05 to 2004-08-28 |
+| `regeling-samenloop-kinderbijslag` | Regeling samenloop kinderbijslag | 2 | 2005-04-15 to 2009-01-17 |
+| `regeling-ter-implementatie-eu-richtlijn-meststoffen` | Regeling ter implementatie EU-Richtlijn meststoffen | 2 | 1998-02-04 to 2008-01-01 |
+| `instelling-commissie-de-vries` | Instelling Commissie De Vries | 2 | 1998-04-01 to 2004-05-01 |
+| `aanwijzing-toezichthoudende-ambtenaren-in-en-uitvoerwet` | Aanwijzing toezichthoudende ambtenaren In- en uitvoerwet | 2 | 1998-02-07 to 2005-01-01 |
+| `besluit-aanwijzing-gevoelige-gebieden-1998` | Besluit aanwijzing gevoelige gebieden 1998 | 2 | 1998-02-13 to 2007-09-01 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinen-lelystad` | Instelling commissies milieuhygiëne luchtvaartterreinen; Lelystad | 2 | 2001-11-28 to 2008-12-24 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinen-seppe` | Instelling commissies milieuhygiëne luchtvaartterreinen; Seppe | 2 | 2001-11-02 to 2008-12-24 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinentexel` | Instelling commissies milieuhygiëne luchtvaartterreinenTexel | 2 | 2001-11-02 to 2008-12-24 |
+| `instelling-commissies-milieuhygiene-luchtvaartterreinen-teuge` | Instelling commissies milieuhygiëne luchtvaartterreinen; Teuge | 2 | 2001-11-02 to 2008-12-24 |
+| `regeling-zelfstandige-behandelcentra` | Regeling zelfstandige behandelcentra | 2 | 2003-07-03 to 2006-01-01 |
+| `regeling-grondtekens-en-markeringen` | Regeling grondtekens en markeringen | 2 | 1998-03-07 to 2010-01-20 |
+| `ministeriele-regeling-stimulering-experimenten-duale-opleidingen-wetenschappelijk-onderwij` | Ministeriële regeling stimulering experimenten duale opleidingen wetenschappelijk onderwijs 1998-2001 | 2 | 1998-09-01 to 2004-12-31 |
+| `instelling-adviseur-bestuursakkoord-stappenplan-bestuurlijke-en-ambtelijke-vernieuwing-sin` | Instelling Adviseur Bestuursakkoord/Stappenplan bestuurlijke en ambtelijke vernieuwing Sint Maarten | 2 | 1998-04-01 to 2013-07-01 |
+| `gelijkstelling-diplomas-aan-het-diploma-vakbekwaamheid-voor-het-reisbureaubedrijf` | Gelijkstelling diploma’s aan het diploma vakbekwaamheid voor het reisbureaubedrijf | 2 | 1998-03-07 to 2006-01-01 |
+| `registratieregeling-vissersvaartuigen-1998` | Registratieregeling vissersvaartuigen 1998 | 2 | 2005-01-01 to 2006-08-01 |
+| `verlening-vergunning-dcs-1800-aan-koninklijke-ptt-nederland-n-v-i` | Verlening vergunning DCS 1800 aan Koninklijke PTT Nederland N.V. (I) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-koninklijke-ptt-nederland-n-v-iv` | Verlening vergunning DCS 1800 aan Koninklijke PTT Nederland N.V. (IV) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-koninklijke-ptt-nederland-n-v-vii` | Verlening vergunning DCS 1800 aan Koninklijke PTT Nederland N.V. (VII) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-orange-site-interests-b-v-i` | Verlening vergunning DCS 1800 aan Orange Site Interests B.V. (I) | 2 | 2013-01-23 to 2013-02-25 |
+| `regeling-verlening-vergunning-voor-dcs-1800-gecombineerd-met-gsm-aan-federa-n-v` | Regeling verlening vergunning voor DCS 1800 gecombineerd met GSM aan Federa N.V. | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-voor-dcs-1800-aan-libertel-groep-b-v-ii` | Verlening vergunning voor DCS 1800 aan Libertel Groep B.V. (II) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-voor-dcs-1800-aan-koninklijke-ptt-nederland-n-v-v` | Verlening vergunning voor DCS 1800 aan Koninklijke PTT Nederland N.V. (V) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-gecombineerd-met-gsm-aan-telfort-holding-n-v` | Verlening vergunning DCS 1800 gecombineerd met GSM aan Telfort Holding N.V. | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-tele-danmark-a-s-iv` | Verlening vergunning DCS 1800 aan Tele Danmark A/S (IV) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-tele-danmark-a-s-iii` | Verlening vergunning DCS 1800 aan Tele Danmark A/S (III) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-tele-danmark-a-s-ii` | Verlening vergunning DCS 1800 aan Tele Danmark A/S (II) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-tele-danmark-a-s-i` | Verlening vergunning DCS 1800 aan Tele Danmark A/S (I) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-orange-site-interests-b-v-ii` | Verlening vergunning DCS 1800 aan Orange Site Interests B.V. (II) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-libertel-groep-b-v-i` | Verlening vergunning DCS 1800 aan Libertel Groep B.V. (I) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-koninklijke-ptt-nederland-n-v-vi` | Verlening vergunning DCS 1800 aan Koninklijke PTT Nederland N.V. (VI) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-koninklijke-ptt-nederland-n-v-iii` | Verlening vergunning DCS 1800 aan Koninklijke PTT Nederland N.V. (III) | 2 | 2013-01-23 to 2013-02-25 |
+| `verlening-vergunning-dcs-1800-aan-koninklijke-ptt-nederland-n-v-ii` | Verlening vergunning DCS 1800 aan Koninklijke PTT Nederland N.V. (II) | 2 | 2013-01-23 to 2013-02-25 |
+| `aanpassing-van-de-opheffingsnormen-voor-het-basisonderwijs` | Aanpassing van de opheffingsnormen voor het basisonderwijs | 2 | 1998-05-01 to 2004-12-31 |
+| `besluit-vaststelling-investeringslijst-markt-en-concurrentiekracht` | Besluit vaststelling investeringslijst markt en concurrentiekracht | 2 | 2002-01-01 to 2004-01-24 |
+| `vaststelling-aanvraagperiode-1998-investeringsregeling-markt-en-concurrentiekracht` | Vaststelling aanvraagperiode 1998 Investeringsregeling markt en concurrentiekracht | 2 | 1998-03-01 to 2004-01-24 |
+| `regeling-landelijke-gpl-bedragen` | Regeling landelijke gpl-bedragen | 2 | 1998-08-01 to 2004-12-31 |
+| `regeling-gewogen-gemiddelde-leeftijd` | Regeling gewogen gemiddelde leeftijd | 2 | 2000-09-16 to 2005-04-06 |
+| `aanpassing-van-de-stichtings-en-opheffingsnormen-voor-het-basisonderwijs` | Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs | 2 | 1997-01-01 to 2008-08-01 |
+| `openstelling-spieringvisserij-ijsselmeer-1998` | Openstelling spieringvisserij IJsselmeer 1998 | 2 | 1998-03-21 to 2004-01-24 |
+| `regeling-vaststelling-indieningsperiode-1998-aanvraag-oppervlakten` | Regeling vaststelling indieningsperiode 1998 aanvraag oppervlakten | 2 | 1998-03-19 to 2004-01-24 |
+| `regeling-ontheffing-nationaliteitseis-kapitein` | Regeling ontheffing nationaliteitseis kapitein | 2 | 2003-01-01 to 2003-09-01 |
+| `regeling-gebruikelijke-vakantieduur-abw` | Regeling gebruikelijke vakantieduur Abw | 2 | 1998-04-01 to 2004-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-maart-1998` | Beschikking rendementen gesubsidieerde woningbouw, maart 1998 | 2 | 1998-03-01 to 2004-12-23 |
+| `aanwijzing-coordinator-instellingen-slachtofferhulp` | Aanwijzing coördinator instellingen slachtofferhulp | 2 | 1998-01-01 to 2009-01-01 |
+| `vaststelling-subsidieplafond-subsidiebesluit-maatschappelijke-organisaties-en-milieu-1998` | Vaststelling subsidieplafond Subsidiebesluit maatschappelijke organisaties en milieu 1998 | 2 | 1999-02-04 to 2004-12-23 |
+| `vaststelling-subsidieplafond-subsidiebesluit-openbare-lichamen-milieubeheer` | Vaststelling subsidieplafond Subsidiebesluit openbare lichamen milieubeheer | 2 | 2000-06-15 to 2004-12-23 |
+| `regeling-permanente-eisen-bussen` | Regeling permanente eisen bussen | 2 | 2007-07-21 to 2009-05-01 |
+| `regeling-vaststelling-regels-voor-de-keuring-van-bussen` | Regeling vaststelling regels voor de keuring van bussen | 2 | 1998-04-10 to 2009-05-01 |
+| `vaststelling-subsidieplafond-en-aanvraagperiode-groene-hart-1998` | Vaststelling subsidieplafond en aanvraagperiode Groene Hart 1998 | 2 | 1998-03-21 to 2004-12-23 |
+| `regeling-subsidiering-kwaliteit-groene-hart` | Regeling subsidiëring kwaliteit Groene Hart | 2 | 2006-06-24 to 2007-01-01 |
+| `regeling-bevoegdheden-van-de-secretaris-generaal-van-vrom-met-betrekking-tot-personeelsaan` | Regeling bevoegdheden van de secretaris-generaal van VROM met betrekking tot personeelsaangelegenheden | 2 | 2004-03-25 to 2004-07-01 |
+| `examenreglement-vliegtuigonderhoudstechnicus` | Examenreglement vliegtuigonderhoudstechnicus | 2 | 2001-07-01 to 2013-08-23 |
+| `examenreglement-voor-prive-vliegbewijzen` | Examenreglement voor privé-vliegbewijzen | 2 | 2001-07-01 to 2010-01-20 |
+| `examenreglement-voor-beroepsvliegbewijzen` | Examenreglement voor beroepsvliegbewijzen | 2 | 2001-07-01 to 2013-08-23 |
+| `regeling-inzake-melden-van-gebreken-defecten-en-beschadigingen-van-vliegtuigen-waarmee-ver` | Regeling inzake melden van gebreken, defecten en beschadigingen van vliegtuigen, waarmee verkeersvluchten, niet zijnde rondvluchten worden uitgevoerd | 2 | 1998-04-01 to 2008-07-19 |
+| `regeling-voorbereiding-en-uitvoering-verkeersvluchten-uitgezonderd-rondvluchten` | Regeling voorbereiding en uitvoering verkeersvluchten, uitgezonderd rondvluchten | 2 | 2000-08-24 to 2008-07-19 |
+| `examenreglement-zweefvliegen` | Examenreglement zweefvliegen | 2 | 2001-07-01 to 2013-08-23 |
+| `indieningstermijn-aanvragen-wet-balansverkorting-geldelijke-steun-volkshuisvesting` | Indieningstermijn aanvragen Wet balansverkorting geldelijke steun volkshuisvesting | 2 | 1998-04-08 to 2004-12-23 |
+| `financieringsregeling-algemene-kinderbijslagwet` | Financieringsregeling Algemene Kinderbijslagwet | 2 | 2002-02-23 to 2005-07-09 |
+| `financieringsregeling-toeslagenwet` | Financieringsregeling Toeslagenwet | 2 | 2002-04-07 to 2004-01-01 |
+| `vaststelling-subsidieplafonds-sanering-verkeerslawaai` | Vaststelling subsidieplafonds sanering verkeerslawaai | 2 | 1998-12-16 to 2004-12-23 |
+| `financieringsregeling-wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten` | Financieringsregeling Wet arbeidsongeschiktheidsvoorziening jonggehandicapten | 2 | 2002-04-07 to 2004-01-01 |
+| `instellingsregeling-tijdelijke-commissie-nieuwe-leerweg-voor-opgeleiden-hoger-onderwijs-to` | Instellingsregeling tijdelijke commissie Nieuwe leerweg voor opgeleiden hoger Onderwijs tot leraar basisonderwijs | 2 | 1998-03-26 to 2004-12-31 |
+| `regeling-nadere-uitwerking-deskundigheidsgebied-verloskundigen` | Regeling nadere uitwerking deskundigheidsgebied verloskundigen | 2 | 1998-04-03 to 2008-09-01 |
+| `regeling-aanwijzing-slachtinrichtingen` | Regeling aanwijzing slachtinrichtingen | 2 | 2000-10-15 to 2004-01-24 |
+| `instellingsregeling-commissie-evaluatie-sail` | Instellingsregeling commissie evaluatie SAIL | 2 | 1998-08-01 to 2004-12-31 |
+| `regeling-aanvullende-aanwijzing-van-slachtinrichtingen` | Regeling aanvullende aanwijzing van slachtinrichtingen | 2 | 1998-04-05 to 2004-01-24 |
+| `rode-lijst-korstmossen` | Rode lijst korstmossen | 2 | 1998-04-05 to 2004-11-13 |
+| `rode-lijst-krekels-en-sprinkhanen` | Rode lijst krekels en sprinkhanen | 2 | 1998-04-05 to 2004-11-13 |
+| `rode-lijst-libellen` | Rode lijst libellen | 2 | 1998-04-05 to 2004-11-13 |
+| `regeling-erkenning-britse-bewijzen-van-vaarbekwaamheid-voor-de-niet-bedrijfsmatige-vaart` | Regeling erkenning Britse bewijzen van vaarbekwaamheid voor de niet-bedrijfsmatige vaart | 2 | 1998-04-24 to 2009-07-01 |
+| `regeling-vaststelling-subsidieplafond-subsidieregeling-nieuwe-agrarische-schadeverzekering` | Regeling vaststelling subsidieplafond subsidieregeling nieuwe agrarische schadeverzekeringen | 2 | 1998-04-08 to 2003-10-23 |
+| `regeling-erkenning-gelijkwaardige-vaarbekwaamheidsbewijzen-reglement-rijnpatenten-1998` | Regeling erkenning gelijkwaardige vaarbekwaamheidsbewijzen Reglement Rijnpatenten 1998 | 2 | 1998-04-25 to 2008-04-01 |
+| `regeling-aanwijzing-bewijzen-van-voldoende-didactische-bekwaamheid-in-de-bve-sector` | Regeling aanwijzing bewijzen van voldoende didactische bekwaamheid in de bve-sector | 2 | 2003-08-02 to 2008-08-01 |
+| `regeling-vaststelling-perioden-zoogkoeienpremie-1998` | Regeling vaststelling perioden zoogkoeienpremie 1998 | 2 | 1998-04-17 to 2004-01-24 |
+| `mandaatsbesluit-voor-uitvoering-zogenaamde-visie-regeling-door-nuffic` | Mandaatsbesluit voor uitvoering zogenaamde visie-regeling door Nuffic | 2 | 1998-04-26 to 2005-01-29 |
+| `mandaatverlening-aan-senter-ter-uitvoering-van-de-regeling-gecombineerd-goederenvervoer-19` | Mandaatverlening aan Senter ter uitvoering van de Regeling gecombineerd goederenvervoer 1998 | 2 | 1998-05-03 to 2010-01-01 |
+| `besluit-normeringsstelsel-fuwasys-1997` | Besluit Normeringsstelsel FUWASYS 1997 | 2 | 1998-05-29 to 2000-01-01 |
+| `uitvoeringsregeling-bse-1998-i` | Uitvoeringsregeling BSE 1998-I | 2 | 1999-03-18 to 2005-06-11 |
+| `instelling-projectgroep-schadevoertuigen-psv` | Instelling Projectgroep Schadevoertuigen (PSV) | 2 | 1998-05-03 to 2004-05-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-april-1998` | Beschikking rendementen gesubsidieerde woningbouw april 1998 | 2 | 1998-04-01 to 2004-12-23 |
+| `wijziging-normbedragen-voor-exploitatie-kosten-huurstandplaatsen-en-huurprijzen-woonwagens` | Wijziging normbedragen voor exploitatie kosten huurstandplaatsen en huurprijzen woonwagens | 2 | 1998-05-11 to 2004-12-23 |
+| `regeling-sps-code-schepenbesluit-1965` | Regeling SPS-Code Schepenbesluit 1965 | 2 | 1998-05-01 to 2005-01-01 |
+| `vaststelling-huursubsidie-uitgavennorm-voor-het-subsidiejaar-1998-1999` | Vaststelling huursubsidie-uitgavennorm voor het subsidiejaar 1998/1999 | 2 | 1998-07-01 to 2003-07-01 |
+| `besluit-machtiging-organisaties-en-aanwijzing-werkzaamheden-scheepvaartinspectie` | Besluit machtiging organisaties en aanwijzing werkzaamheden Scheepvaartinspectie | 2 | 1998-05-01 to 2004-11-01 |
+| `wijziging-i-m-b-1979` | Wijziging I.M.B. 1979 | 2 | 1998-05-01 to 2009-07-01 |
+| `regeling-vaarbevoegdheidsbewijs-1998` | Regeling vaarbevoegdheidsbewijs 1998 | 2 | 2002-01-01 to 2005-01-01 |
+| `regeling-verhoging-contingent-haring-1998-ex-artikel-10-regeling-contingentering-zeevis` | Regeling verhoging contingent haring 1998 ex artikel 10 Regeling contingentering zeevis | 2 | 1998-05-03 to 2004-01-24 |
+| `vaststelling-van-het-bedrag-bedoeld-in-artikel-4-eerste-lid-van-de-regeling-kostenverhaal` | Vaststelling van het bedrag bedoeld in artikel 4, eerste lid, van de Regeling kostenverhaal Wet melding zeggenschap 1996 | 2 | 1998-05-09 to 2004-01-01 |
+| `regeling-examenprogrammas-profielen-v-w-o-h-a-v-o-nederlands-en-moderne-vreemde-talen` | Regeling examenprogramma’s profielen v.w.o./h.a.v.o. Nederlands en moderne vreemde talen | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-examenprogrammas-profielen-v-w-o-klassieke-talen-en-cultuur` | Regeling examenprogramma’s profielen v.w.o. klassieke talen en cultuur | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-examenprogrammas-profielen-v-w-o-h-a-v-o-natuurwetenschappelijke-vakken` | Regeling examenprogramma’s profielen v.w.o./h.a.v.o. natuurwetenschappelijke vakken | 2 | 1998-01-01 to 2007-08-01 |
+| `regeling-examenprogrammas-profielen-v-w-o-h-a-v-o-economische-vakken` | Regeling examenprogramma’s profielen v.w.o./h.a.v.o. economische vakken | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-examenprogrammas-profielen-v-w-o-h-a-v-o-informatica` | Regeling examenprogramma’s profielen v.w.o./h.a.v.o. informatica | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-examenprogrammas-profielen-v-w-o-h-a-v-o-filosofie` | Regeling examenprogramma’s profielen v.w.o./h.a.v.o. filosofie | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-examenprogrammas-profielen-v-w-o-h-a-v-o-wiskunde` | Regeling examenprogramma’s profielen v.w.o./h.a.v.o. wiskunde | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-examenprogramma-profielen-v-w-o-h-a-v-o-lichamelijke-opvoeding-1` | Regeling examenprogramma profielen v.w.o./h.a.v.o. lichamelijke opvoeding 1 | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-examenprogramma-profielen-v-w-o-h-a-v-o-ckv1` | Regeling examenprogramma profielen v.w.o./h.a.v.o. CKV1 | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-examenprogrammas-profielen-v-w-o-h-a-v-o-maatschappelijke-vakken` | Regeling examenprogramma’s profielen v.w.o./h.a.v.o. maatschappelijke vakken | 2 | 1998-08-01 to 2007-08-01 |
+| `regeling-herbezettingsruimte-adv-en-bapo-voor-de-drie-landelijke-pedagogische-centra-het-i` | Regeling herbezettingsruimte adv en bapo voor de drie landelijke pedagogische centra, het Instituut voor Leerplanontwikkeling en het Instituut voor Toetsontwikkeling in de periode van 1 augustus 1997 tot en met 31 december 1998 | 2 | 1998-06-06 to 2004-12-31 |
+| `aanwijzing-opsporingsambtenaren-5` | Aanwijzing opsporingsambtenaren | 2 | 2002-07-01 to 2006-09-02 |
+| `regeling-herstel-verwijzing-in-besluit-onderwijsvoorrangsgebieden-naar-voormalig-bekostigi` | Regeling herstel verwijzing in Besluit onderwijsvoorrangsgebieden naar voormalig Bekostigingsbesluit W.V.O. | 2 | 1998-05-23 to 2004-12-31 |
+| `wijziging-uitvoeringsregeling-e-e-t-1998` | Wijziging Uitvoeringsregeling E.E.T. 1998 | 2 | 1998-05-13 to 2004-01-01 |
+| `regeling-aanwijzing-producten-wit-en-bruingoed` | Regeling aanwijzing producten wit- en bruingoed | 2 | 2002-05-08 to 2004-08-13 |
+| `mandaatbesluit-novem-subsidiebesluit-milieugerichte-technologie` | Mandaatbesluit Novem Subsidiebesluit milieugerichte technologie | 2 | 1999-03-25 to 2005-05-20 |
+| `instellingsbesluit-beheerorganisatie-centrale-diensten-verkeer-en-waterstaat` | Instellingsbesluit Beheerorganisatie Centrale Diensten Verkeer en Waterstaat | 2 | 1998-06-10 to 2004-04-10 |
+| `regeling-huursubsidiegrenzen-1998` | Regeling huursubsidiegrenzen 1998 | 2 | 1998-07-01 to 2004-12-23 |
+| `regeling-havenstaatcontrole` | Regeling havenstaatcontrole | 2 | 2010-12-31 to 2011-01-01 |
+| `besluit-terbeschikkingstelling-ambtenaren-aan-scheepvaartinspectie-t-b-v-havenstaatcontrol` | Besluit terbeschikkingstelling ambtenaren aan Scheepvaartinspectie t.b.v. havenstaatcontrole | 2 | 2002-07-01 to 2004-11-01 |
+| `openstelling-aanvraagperiode-investeringsregeling-markt-en-concurrentiekracht-algemeen` | Openstelling aanvraagperiode Investeringsregeling markt en concurrentiekracht (algemeen) | 2 | 1998-07-01 to 2004-01-24 |
+| `openstelling-aanvraagperiode-investeringsregeling-markt-en-concurrentiekracht-varkensvlees` | Openstelling aanvraagperiode Investeringsregeling markt en concurrentiekracht (varkensvlees) | 2 | 1998-07-01 to 2004-01-24 |
+| `bijdrage-toezichtskosten-wet-toezicht-beleggingsinstellingen-voor-1998` | Bijdrage toezichtskosten Wet toezicht beleggingsinstellingen voor 1998 | 2 | 1998-05-31 to 2004-01-01 |
+| `regeling-vaststelling-bedragen-nascholing-voortgezet-onderwijs-1998-1999` | Regeling vaststelling bedragen nascholing voortgezet onderwijs 1998-1999 | 2 | 1998-08-01 to 2004-12-31 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-mei-1998` | Beschikking rendementen gesubsidieerde woningbouw mei 1998 | 2 | 1998-05-01 to 2004-12-23 |
+| `instellingsbeschikking-geschillencommissie-samenwerkingsverbanden-wsns` | Instellingsbeschikking geschillencommissie samenwerkingsverbanden WSNS | 2 | 2010-01-01 to 2014-08-01 |
+| `besluit-aanwijzing-instellingen-versterking-recreatie` | Besluit aanwijzing instellingen versterking recreatie | 2 | 1998-06-10 to 2007-01-01 |
+| `regeling-versterking-recreatie` | Regeling versterking recreatie | 2 | 2007-01-01 to 2007-04-01 |
+| `regeling-visueel-of-auditief-gehandicapte-leerlingen-wvo` | Regeling visueel of auditief gehandicapte leerlingen WVO | 2 | 1998-08-01 to 2009-10-21 |
+| `openstelling-stimuleringsregeling-vernieuwing-landelijk-gebied-1998` | Openstelling Stimuleringsregeling vernieuwing landelijk gebied 1998 | 2 | 1998-05-31 to 2004-01-24 |
+| `instellingsregeling-bib-beraad` | Instellingsregeling BIB-Beraad | 2 | 2000-05-20 to 2013-07-01 |
+| `vaststelling-dekking-kosten-ziekenfondsraad-en-zijn-secretariaat-voor-1997` | Vaststelling dekking kosten Ziekenfondsraad en zijn secretariaat voor 1997 | 2 | 1998-06-13 to 2004-08-28 |
+| `literaire-genres-voor-centraal-examen-en-staatsexamen-klassieke-taal-en-letterkunde-2000` | Literaire genres voor centraal examen en staatsexamen klassieke taal en letterkunde 2000 | 2 | 1998-06-27 to 2004-12-31 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juni-1998` | Beschikking rendementen gesubsidieerde woningbouw juni 1998 | 2 | 1998-06-01 to 2004-12-23 |
+| `regeling-vervoersverbod-bijen-boxtel-1998` | Regeling vervoersverbod bijen Boxtel 1998 | 2 | 1998-07-13 to 2004-01-24 |
+| `regeling-samenvoeging-van-scholen-in-het-basisonderwijs-en-voortgezet-speciaal-onderwijs-p` | Regeling samenvoeging van scholen in het basisonderwijs en (voortgezet) speciaal onderwijs per 1 augustus 1998 | 2 | 1998-08-01 to 2004-12-31 |
+| `indexering-specifieke-uitkering-goa` | Indexering specifieke uitkering goa | 2 | 1999-07-31 to 2004-12-31 |
+| `bekendmaking-subsidiabele-themas-extra-impuls-natuur-en-milieu-educatie` | Bekendmaking subsidiabele thema’s Extra Impuls natuur- en milieu-educatie | 2 | 1998-06-19 to 2004-01-24 |
+| `regeling-fondsbelasting-wet-rea` | Regeling fondsbelasting Wet REA | 2 | 2005-01-01 to 2005-12-29 |
+| `mandaatverlening-novem` | Mandaatverlening NOVEM | 2 | 2004-10-31 to 2010-01-01 |
+| `uitvoeringsregeling-voorlopige-teruggaaf` | Uitvoeringsregeling voorlopige teruggaaf | 2 | 1998-07-01 to 2004-01-01 |
+| `instellingsbesluit-werkgroep-grensoverschrijdende-samenwerking-regio-limburg` | Instellingsbesluit werkgroep Grensoverschrijdende samenwerking regio Limburg | 2 | 1998-06-26 to 2005-02-01 |
+| `rode-lijst-zoetwatervissen` | Rode lijst zoetwatervissen | 2 | 1998-06-26 to 2004-11-13 |
+| `regeling-overgang-arbeidstoeleidingstaken-arbeidsgehandicapten` | Regeling overgang arbeidstoeleidingstaken arbeidsgehandicapten | 2 | 1998-07-01 to 2005-12-29 |
+| `vaststellingsregeling-gesloten-periode-ijsselmeervisserij-zomer-1998` | Vaststellingsregeling gesloten periode IJsselmeervisserij (zomer 1998) | 2 | 1998-06-28 to 2004-01-24 |
+| `regeling-toelaatbaarheid-leerling-tot-een-speciale-school-voor-basisonderwijs-of-een-schoo` | Regeling toelaatbaarheid leerling tot een speciale school voor basisonderwijs of een school waar so-zmok-onderwijs wordt gegeven bij de invoering van de Wet op het primair onderwijs | 2 | 1998-08-01 to 2004-12-31 |
+| `uitvoeringsregeling-bsz-1998` | Uitvoeringsregeling BSZ 1998 | 2 | 1998-06-28 to 2005-06-11 |
+| `opgravingsbevoegdheid-rijksdienst-voor-het-oudheidkundig-bodemonderzoek` | Opgravingsbevoegdheid Rijksdienst voor het Oudheidkundig Bodemonderzoek | 2 | 1998-05-01 to 2007-09-01 |
+| `bekendmaking-gesloten-periode-ijsselmeervisserij-1998` | Bekendmaking gesloten periode IJsselmeervisserij 1998 | 2 | 1998-06-28 to 2004-01-24 |
+| `regeling-thema-s-centraal-examen-geschiedenis-h-a-v-o-profielen-2000-en-stofomschrijving-o` | Regeling thema's centraal examen geschiedenis h.a.v.o. (profielen) 2000 en stofomschrijving ‘oude stijl’ 2000 | 2 | 1998-08-01 to 2004-12-31 |
+| `beschikking-totalisator-1998` | Beschikking totalisator 1998 | 2 | 2004-10-01 to 2005-07-01 |
+| `regeling-aanwijzing-toezichthouders-wtg` | Regeling aanwijzing toezichthouders WTG | 2 | 2000-01-01 to 2006-10-01 |
+| `uitvoeringsregeling-bse-1998-ii` | Uitvoeringsregeling BSE 1998-II | 2 | 1998-12-30 to 2005-06-11 |
+| `regeling-verhoging-van-de-gemiddelde-personeelslast-van-de-school-school-gpl-in-verband-me` | Regeling verhoging van de gemiddelde personeelslast van de school (School-GPL) in verband met de algemene salarismaatregel | 2 | 1998-07-25 to 2004-12-31 |
+| `verlening-mandaat-inspectie-voor-de-gezondheidsbescherming-inzake-uitvoering-eg-verordenin` | Verlening mandaat Inspectie voor de Gezondheidsbescherming inzake uitvoering EG-verordening etikettering rundvlees | 2 | 2000-11-15 to 2004-01-24 |
+| `regeling-melding-overdracht-premierechten-ooien-1998` | Regeling melding overdracht premierechten ooien 1998 | 2 | 1998-07-12 to 2004-01-24 |
+| `uitvoeringsregeling-bse-1998-iii` | Uitvoeringsregeling BSE 1998-III | 2 | 1998-12-30 to 2005-06-11 |
+| `lijkomhulselbesluit-1998` | Lijkomhulselbesluit 1998 | 2 | 2000-01-01 to 2013-01-01 |
+| `vaststelling-aanvraagperiode-en-subsidieplafond-subsidieregeling-zeldzame-landbouwhuisdier` | Vaststelling aanvraagperiode en subsidieplafond Subsidieregeling zeldzame landbouwhuisdierrassen | 2 | 1998-09-01 to 2004-01-24 |
+| `regeling-aanwijzing-keuringsartsen-reglement-rijnpatenten-1998` | Regeling aanwijzing keuringsartsen Reglement Rijnpatenten 1998 | 2 | 1999-03-01 to 2008-03-30 |
+| `centraal-examen-filosofie-profielen-2000-en-2001-havo-en-2001-en-2002-vwo` | Centraal examen filosofie (profielen) 2000 en 2001 havo en 2001 en 2002 vwo | 2 | 1998-08-01 to 2004-12-31 |
+| `verlening-mandaat-en-machtiging-aan-de-nederlandse-onderneming-voor-energie-en-milieu-b-v` | Verlening mandaat en machtiging aan de Nederlandse Onderneming Voor Energie en Milieu B.V. | 2 | 1998-07-24 to 2013-05-01 |
+| `vaststellingsregeling-eindtermen-operationele-techniek-verlenging-regeling-bestuursoverdra` | Vaststellingsregeling eindtermen operationele techniek, verlenging Regeling bestuursoverdrachten invoeringsperiode WEB en tijdelijke beëindiging registratie beroepsopleidingen | 2 | 1998-07-25 to 2008-08-01 |
+| `regeling-informatievoorziening-bve` | Regeling Informatievoorziening BVE | 2 | 1999-08-05 to 2004-12-31 |
+| `regeling-financiele-tegemoetkoming-wet-herstructurering-varkenshouderij` | Regeling financiële tegemoetkoming Wet herstructurering varkenshouderij | 2 | 2002-01-01 to 2004-01-24 |
+| `regeling-op-grond-van-besluit-ex-artikel-66a-anw` | Regeling op grond van Besluit ex artikel 66a ANW | 2 | 2012-12-18 to 2014-01-01 |
+| `regeling-informatieverstrekking-aan-verzekeringnemers-1998` | Regeling informatieverstrekking aan verzekeringnemers 1998 | 2 | 2003-01-09 to 2006-05-04 |
+| `vangnetregeling-huursubsidie` | Vangnetregeling huursubsidie | 2 | 2004-01-01 to 2006-01-01 |
+| `mandatering-van-bevoegdheden-aan-ambtenaren-van-de-scheepvaartinspectie` | Mandatering van bevoegdheden aan ambtenaren van de Scheepvaartinspectie | 2 | 1999-11-01 to 2007-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juli-1998` | Beschikking rendementen gesubsidieerde woningbouw juli 1998 | 2 | 1998-07-01 to 2004-12-23 |
+| `landbouwkwaliteitsregeling-kaas` | Landbouwkwaliteitsregeling kaas | 2 | 2003-12-19 to 2006-01-01 |
+| `instellingsbesluit-agentschap-laser` | Instellingsbesluit Agentschap LASER | 2 | 1999-01-01 to 2006-01-01 |
+| `erkenning-aanvoergegevensbestanden-visserij` | Erkenning aanvoergegevensbestanden visserij | 2 | 1998-07-30 to 2006-08-01 |
+| `subsidieregeling-volksgezondheid` | Subsidieregeling volksgezondheid | 2 | 2005-04-08 to 2006-07-01 |
+| `regeling-administratieve-verplichtingen-wet-herstructurering-varkenshouderij` | Regeling administratieve verplichtingen Wet herstructurering varkenshouderij | 2 | 2005-01-01 to 2006-01-01 |
+| `besluit-subsidieverlening-nederlands-politie-instituut` | Besluit subsidieverlening Nederlands Politie Instituut | 2 | 2002-01-01 to 2006-08-01 |
+| `openstelling-investeringsregeling-markt-en-concurrentiekracht-voor-verzamelcentra-en-slach` | Openstelling Investeringsregeling markt en concurrentiekracht voor verzamelcentra en slachterijen | 2 | 2002-01-01 to 2004-01-24 |
+| `instelling-commissie-heroverweging-eigen-bijdragen-rechtsbijstand` | Instelling Commissie heroverweging eigen bijdragen rechtsbijstand | 2 | 1998-10-01 to 2005-01-02 |
+| `regeling-amsterdamse-dekschuiten` | Regeling Amsterdamse dekschuiten | 2 | 1998-08-01 to 2009-07-01 |
+| `regeling-verkeer-rassen-met-communautair-kwekersrecht` | Regeling verkeer rassen met communautair kwekersrecht | 2 | 2004-04-17 to 2006-02-01 |
+| `vaststelling-subsidieplafond-1998-artikel-50a-van-de-wet-op-de-ruimtelijke-ordening` | Vaststelling subsidieplafond 1998 artikel 50a van de Wet op de Ruimtelijke Ordening | 2 | 1998-08-28 to 2005-02-25 |
+| `goedkeuring-tarieven-nmi-in-kader-van-erkenning-onderzoeksgerechtigden-apk-meetmiddelen` | Goedkeuring tarieven Nmi in kader van erkenning onderzoeksgerechtigden APK-meetmiddelen | 2 | 1998-08-21 to 2004-05-01 |
+| `regeling-invoercontrole-citruspulp-1998` | Regeling invoercontrole citruspulp 1998 | 2 | 2003-01-01 to 2004-10-18 |
+| `regeling-in-en-uitvoercontroles-diervoeders` | Regeling in- en uitvoercontroles diervoeders | 2 | 2003-08-01 to 2004-10-18 |
+| `besluit-aanwijzing-toezichthoudende-ambtenaren-wet-herstructurering-varkenshouderij` | Besluit aanwijzing toezichthoudende ambtenaren Wet herstructurering varkenshouderij | 2 | 1998-09-01 to 2006-01-01 |
+| `taakomschrijving-staatssecretaris-van-economische-zaken` | Taakomschrijving staatssecretaris van Economische Zaken | 2 | 1998-10-01 to 2005-06-11 |
+| `regeling-vaststelling-eindtermen-beroepsonderwijs-en-vaststelling-overzicht-bekostigde-ber` | Regeling vaststelling eindtermen beroepsonderwijs en vaststelling overzicht bekostigde beroepsopleidingen 1999-2000 | 2 | 2000-07-31 to 2004-12-31 |
+| `wijziging-machtiging-directeur-juridische-zaken-lnv` | Wijziging machtiging directeur Juridische Zaken LNV | 2 | 1998-08-27 to 2004-04-26 |
+| `wijziging-machtiging-hoofd-bureau-registratie-diergeneesmiddelen` | Wijziging machtiging hoofd Bureau Registratie Diergeneesmiddelen | 2 | 1998-08-20 to 2005-03-01 |
+| `regeling-voortzetting-leefvervoersvoorzieningen-buitenland-aaw` | Regeling voortzetting leefvervoersvoorzieningen buitenland AAW | 2 | 1998-08-28 to 2005-12-29 |
+| `regeling-tot-wijziging-van-de-subsidieregeling-welzijnsbeleid` | Regeling tot wijziging van de Subsidieregeling welzijnsbeleid | 2 | 1998-08-29 to 2007-01-01 |
+| `sluiting-aanvraagmogelijkheid-subsidieregeling-zeldzame-landbouwhuisdierrassen` | Sluiting aanvraagmogelijkheid Subsidieregeling zeldzame landbouwhuisdierrassen | 2 | 1998-09-04 to 2004-01-24 |
+| `regeling-overgangsrecht-landelijke-gpl-vo` | Regeling overgangsrecht landelijke gpl VO | 2 | 1998-09-23 to 2004-12-31 |
+| `regeling-vaststelling-rentepercentages-bedoeld-in-de-w-t-z` | Regeling vaststelling rentepercentages bedoeld in de w.t.z. | 2 | 1999-01-01 to 2006-01-01 |
+| `regeling-werkzaamhedenvergoeding-bestuur-suo` | Regeling werkzaamhedenvergoeding bestuur SUO | 2 | 2005-03-13 to 2006-01-01 |
+| `aanwijzing-suo-te-utrecht-als-uitvoeringsorgaan-w-t-z` | Aanwijzing SUO te Utrecht als uitvoeringsorgaan w.t.z. | 2 | 1998-09-01 to 2006-01-01 |
+| `regeling-aanwijzing-organen-die-publiekrechtelijke-ziektekostenregelingen-voor-ambtenaren` | Regeling Aanwijzing organen die publiekrechtelijke ziektekostenregelingen voor ambtenaren uitvoeren | 2 | 1998-09-01 to 2006-01-01 |
+| `vaststelling-toegevoegd-bedrag-ter-financiering-omslagtekort-als-bedoeld-in-w-t-z` | Vaststelling toegevoegd bedrag ter financiering omslagtekort als bedoeld in w.t.z. | 2 | 1998-09-01 to 2004-08-28 |
+| `regeling-vaststelling-formulieren-wet-herstructurering-varkenshouderij` | Regeling vaststelling formulieren Wet herstructurering varkenshouderij | 2 | 2002-10-01 to 2006-01-01 |
+| `wijziging-diverse-tariefregelingen` | Wijziging diverse tariefregelingen | 2 | 1998-09-01 to 2004-01-24 |
+| `wijziging-regeling-tarieven-keuring-vlees-en-vleesproducten-1993` | Wijziging Regeling tarieven keuring vlees en vleesproducten 1993 | 2 | 1998-09-01 to 2004-01-24 |
+| `wijzigingsregeling-regeling-tarieven-in-en-doorvoer-overige-produkten-1993-enz` | Wijzigingsregeling Regeling tarieven in- en doorvoer overige produkten 1993, enz. | 2 | 1998-09-01 to 2005-07-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-augustus-1998` | Beschikking rendementen gesubsidieerde woningbouw augustus 1998 | 2 | 1998-08-01 to 2004-12-23 |
+| `tariefstelling-destructiebedrijven-1998` | Tariefstelling destructiebedrijven 1998 | 2 | 1998-09-04 to 2004-01-24 |
+| `regeling-eigen-bijdrage-asielzoekers-met-inkomen-en-vermogen` | Regeling eigen bijdrage asielzoekers met inkomen en vermogen | 2 | 2002-01-01 to 2008-11-26 |
+| `financieringsregeling-hoofdstuk-7-wet-arbeid-en-zorg` | Financieringsregeling hoofdstuk 7 Wet arbeid en zorg | 2 | 2004-01-01 to 2004-04-28 |
+| `regeling-inzake-verevening-kanselarijrechten-oekraine` | Regeling inzake verevening kanselarijrechten Oekraïne | 2 | 1998-09-30 to 2004-01-01 |
+| `vaststelling-subsidieplafond-subsidieregeling-welzijnsbeleid` | Vaststelling subsidieplafond Subsidieregeling welzijnsbeleid | 2 | 1998-09-26 to 2004-08-28 |
+| `uitvoeringsregeling-iop-1998` | Uitvoeringsregeling IOP 1998 | 2 | 1998-09-13 to 2005-11-16 |
+| `vaststelling-modelformulier-aanmelding-voor-inburgeringsonderzoek` | Vaststelling modelformulier aanmelding voor inburgeringsonderzoek | 2 | 1998-09-30 to 2007-01-01 |
+| `regeling-nadere-vooropleidingseisen-hoger-onderwijs` | Regeling nadere vooropleidingseisen hoger onderwijs | 2 | 2006-12-24 to 2007-06-13 |
+| `subsidieplafond-1999-subsidieverlening-subsidieregeling-welzijnsbeleid` | Subsidieplafond 1999 subsidieverlening Subsidieregeling welzijnsbeleid | 2 | 1998-09-30 to 2004-08-28 |
+| `regeling-taakverdeling-beheer` | Regeling Taakverdeling Beheer | 2 | 1999-01-01 to 2007-01-02 |
+| `regeling-aanwijzing-nieuwkomers-wegens-verblijf-voor-tijdelijk-doel` | Regeling aanwijzing nieuwkomers wegens verblijf voor tijdelijk doel | 2 | 2005-03-18 to 2007-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-september-1998` | Beschikking rendementen gesubsidieerde woningbouw september 1998 | 2 | 1998-09-01 to 2004-12-23 |
+| `regeling-commissie-van-deskundigen-voor-de-rijnvaart` | Regeling Commissie van Deskundigen voor de Rijnvaart | 2 | 2006-07-09 to 2009-07-01 |
+| `regeling-klokuren-1998` | Regeling klokuren 1998 | 2 | 2010-01-01 to 2010-04-01 |
+| `besluit-buitengewoon-opsporingsambtenaren-dienst-vervoer-ondersteuning-1998` | Besluit buitengewoon opsporingsambtenaren Dienst Vervoer & Ondersteuning 1998 | 2 | 1999-01-01 to 2004-01-01 |
+| `verlenging-termijn-voor-indiening-aanvragen-huursubsidie-subsidiejaar-1998-1999-door-prima` | Verlenging termijn voor indiening aanvragen huursubsidie subsidiejaar 1998/1999 door primaire aanvragers | 2 | 1998-10-24 to 2004-12-23 |
+| `wijziging-programma-s-van-eisen-v-so-en-vaststelling-bedragen-voor-1999` | Wijziging programma's van eisen (v)so en vaststelling bedragen voor 1999 | 2 | 1999-01-01 to 2004-12-31 |
+| `wijziging-programma-s-van-eisen-basisonderwijs-en-vaststelling-bedragen-voor-1999` | Wijziging programma's van eisen basisonderwijs en vaststelling bedragen voor 1999 | 2 | 1999-01-01 to 2004-12-31 |
+| `regeling-bekostiging-rechtspositie-en-samenvoeging-leerwegondersteunend-onderwijs-en-prakt` | Regeling bekostiging, rechtspositie en samenvoeging leerwegondersteunend onderwijs en praktijkonderwijs | 2 | 2002-04-13 to 2004-12-31 |
+| `tijdelijke-regeling-aanvullende-vergoeding-knelpunten-huisvesting-roc-s-als-gevolg-van-de` | Tijdelijke regeling aanvullende vergoeding knelpunten huisvesting roc's als gevolg van de overdracht van het inservice onderwijs | 2 | 1998-10-17 to 2004-12-31 |
+| `regeling-ontheffing-verplichting-tot-aanwijzing-netbeheerder` | Regeling ontheffing verplichting tot aanwijzing netbeheerder | 2 | 1998-10-11 to 2006-04-30 |
+| `vrijstellingsregeling-zuiveringsslib-1998` | Vrijstellingsregeling zuiveringsslib 1998 | 2 | 1998-10-25 to 2009-12-02 |
+| `verstrekking-eenmalige-subsidie-aan-advocaten` | Verstrekking eenmalige subsidie aan advocaten | 2 | 1998-12-01 to 2005-01-02 |
+| `regeling-erkenningen-interventie` | Regeling erkenningen interventie | 2 | 2005-01-01 to 2007-07-15 |
+| `wijziging-diverse-regelingen-i-v-m-overgang-interventietaken-naar-laser` | Wijziging diverse regelingen i.v.m. overgang interventietaken naar LASER | 2 | 1998-11-04 to 2004-01-24 |
+| `beleidsregels-inzake-afwijkingen-van-modellen-van-vennootschapsstatuten` | Beleidsregels inzake afwijkingen van modellen van vennootschapsstatuten | 2 | 1998-10-24 to 2005-05-28 |
+| `regeling-meldingen-bouwstoffen-besluit-oppervlaktewater` | Regeling meldingen Bouwstoffen-besluit oppervlaktewater | 2 | 1998-12-01 to 2008-07-01 |
+| `vaststelling-formulieren-het-zuivere-ei` | Vaststelling formulieren ’het Zuivere Ei’ | 2 | 1998-10-31 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-oktober-1998` | Beschikking rendementen gesubsidieerde woningbouw oktober 1998 | 2 | 1998-10-01 to 2004-12-23 |
+| `vaststelling-subsidieplafonds-en-thema-voor-1999-in-kader-versterking-recreatie` | Vaststelling subsidieplafonds en thema voor 1999 in kader versterking recreatie | 2 | 1998-11-04 to 2004-01-24 |
+| `aanwijzing-domeinenen-centraal-examen-maatschappijleer-havo-examenjaar-2000` | Aanwijzing domeinenen centraal examen maatschappijleer havo, examenjaar 2000 | 2 | 1998-11-21 to 2004-12-31 |
+| `regeling-voorwaarden-inzamelen-huishoudelijke-afvalstoffen-nabij-elk-perceel` | Regeling voorwaarden inzamelen huishoudelijke afvalstoffen nabij elk perceel | 2 | 2002-05-08 to 2008-11-26 |
+| `instelling-overlegplatform-tolk-en-vertaaldiensten` | Instelling overlegplatform tolk- en vertaaldiensten | 2 | 1999-01-01 to 2004-01-23 |
+| `besluit-mandaat-laser-uitvoeringsregelingen-wts` | Besluit mandaat Laser uitvoeringsregelingen WTS | 2 | 2003-10-17 to 2006-04-01 |
+| `regeling-toekenning-aanvullende-exploitatiekosten-vergoeding-1998-1999-aan-scholen-voor-ma` | Regeling toekenning aanvullende exploitatiekosten vergoeding 1998-1999 aan scholen voor mavo, vbo en scholen voor leerwegondersteunend onderwijs | 2 | 1998-11-14 to 2004-12-31 |
+| `regeling-geldsom-visakten-1999` | Regeling geldsom visakten 1999 | 2 | 1999-01-01 to 2004-01-24 |
+| `centraal-examen-aardrijkskunde-2000` | Centraal examen aardrijkskunde 2000 | 2 | 1998-11-21 to 2004-12-31 |
+| `aanpassing-van-de-opheffingsnormen-voor-het-basisonderwijs-voor-de-gemeente-heusden` | Aanpassing van de opheffingsnormen voor het basisonderwijs voor de gemeente Heusden | 2 | 1998-11-21 to 2004-12-31 |
+| `planningsbesluit-orgaantransplantatie` | Planningsbesluit orgaantransplantatie | 2 | 1999-04-01 to 2005-02-24 |
+| `centraal-examen-geschiedenis-2001` | Centraal examen geschiedenis 2001 | 2 | 1999-07-10 to 2004-12-31 |
+| `aanwijzing-post-actieve-ambtenaren-nederlandse-emigratie-dienst` | Aanwijzing post-actieve ambtenaren Nederlandse Emigratie Dienst | 2 | 1998-11-18 to 2006-01-01 |
+| `openstelling-investeringsregeling-markten-concurrentiekracht-voor-investeringsprojecten-ve` | Openstelling Investeringsregeling markten concurrentiekracht voor investeringsprojecten verwerking en afzet visserijproducten | 2 | 1998-11-13 to 2005-01-01 |
+| `nadere-regeling-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-1998` | Nadere regeling besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 1998 | 2 | 1998-11-14 to 2004-08-28 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1997-en-voor-1998` | Regeling vaststelling mede te financieren bedrag MOOZ voor 1997 en voor 1998 | 2 | 1999-09-23 to 2004-08-28 |
+| `aanwijzing-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-1999` | Aanwijzing besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 1999 | 2 | 1998-11-20 to 2004-08-28 |
+| `aanwijzing-macro-verstrekkingenbudget-ziekenfondsverzekering-1999` | Aanwijzing macro-verstrekkingenbudget ziekenfondsverzekering 1999 | 2 | 2000-09-07 to 2004-08-28 |
+| `subsidieregeling-millenniumkosten-in-het-primair-onderwijzen-het-voortgezet-speciaal-onder` | Subsidieregeling millenniumkosten in het primair onderwijzen het voortgezet speciaal onderwijs | 2 | 1998-11-28 to 2004-12-31 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-november-1998` | Beschikking rendementen gesubsidieerde woningbouw november 1998 | 2 | 1998-11-01 to 2004-12-23 |
+| `vaststelling-omroepbijdrage-1999` | Vaststelling omroepbijdrage 1999 | 2 | 1999-01-01 to 2009-01-01 |
+| `regeling-vastlegging-gegevens-sbo-personeel-speciale-scholen-voor-basisonderwijs-bij-herpl` | Regeling vastlegging gegevens sbo-personeel (speciale scholen voor basisonderwijs) bij herplaatsing | 2 | 1998-11-28 to 2008-08-01 |
+| `regeling-tijdelijke-voorschriften-mavo-vbo-svo` | Regeling tijdelijke voorschriften mavo-vbo-svo | 2 | 1998-12-05 to 2004-12-31 |
+| `besluit-verlening-bevoegdheden-aan-projectmanager-en-senior-projectleider-gis-2` | Besluit verlening bevoegdheden aan projectmanager en senior projectleider GIS-2 | 2 | 1998-11-26 to 2008-12-24 |
+| `vaststelling-subsidieplafond-1999-actieve-zon-thermische-systemen` | Vaststelling subsidieplafond 1999 actieve zon-thermische systemen | 2 | 1998-11-20 to 2003-06-07 |
+| `regeling-werkmap` | Regeling werkmap | 2 | 2010-07-01 to 2011-10-01 |
+| `aanwijzing-toezichthoudende-ambtenaren-arbeidstijden-vervoer` | Aanwijzing toezichthoudende ambtenaren Arbeidstijden vervoer | 2 | 2006-07-09 to 2009-01-01 |
+| `regeling-getuigschrift-vakbekwaamheid` | Regeling getuigschrift vakbekwaamheid | 2 | 2009-05-01 to 2009-09-10 |
+| `vaststelling-vergoedingen-staatscommissie-dualisme-en-lokale-democratie` | Vaststelling vergoedingen Staatscommissie Dualisme en lokale democratie | 2 | 1998-12-09 to 2005-02-01 |
+| `subsidieregeling-pilots-indicatiestelling-leerlinggebonden-financiering` | Subsidieregeling pilots Indicatiestelling 'Leerlinggebonden financiering' | 2 | 1998-12-05 to 2004-12-31 |
+| `regeling-aanwijzing-overheidsorganen-bedoeld-in-artikel-3-4-van-de-telecommunicatiewet` | Regeling aanwijzing overheidsorganen, bedoeld in artikel 3.4 van de Telecommunicatiewet | 2 | 2007-09-01 to 2013-03-15 |
+| `regeling-aanvraag-en-toelating-vergunningen-op-volgorde-van-binnenkomst-of-bij-wijze-van-v` | Regeling aanvraag en toelating vergunningen op volgorde van binnenkomst of bij wijze van voorrang | 2 | 2001-09-05 to 2003-10-29 |
+| `regeling-nummeridentificatie` | Regeling nummeridentificatie | 2 | 1998-12-15 to 2004-05-19 |
+| `regeling-vaststelling-premiepercentage-nabestaanden-verzekering-1999` | Regeling vaststelling premiepercentage nabestaanden-verzekering 1999 | 2 | 1999-01-01 to 2006-01-01 |
+| `regeling-vaststelling-verschuldigde-delen-werkgevers-en-werknemers-in-de-awf-premie-en-de` | Regeling vaststelling verschuldigde delen werkgevers en werknemers in de Awf-premie en de franchises WW 1999 | 2 | 1999-01-01 to 2004-09-22 |
+| `vrijstellingsregeling-kunstaasvisserij-oostvoornsemeer` | Vrijstellingsregeling kunstaasvisserij Oostvoornsemeer | 2 | 1998-12-13 to 2006-12-21 |
+| `wijziging-subsidieregeling-exportmedewerkers-midden-en-kleinbedrijf-en-uitvoering-van-arti` | Wijziging subsidieregeling exportmedewerkers midden- en kleinbedrijf en uitvoering van artikel 4, eerste lid | 2 | 1998-12-18 to 2005-06-11 |
+| `vaststellingsregeling-budgetcorrectie-beroepsonderwijs-en-normbedrag-exploitatiekosten-pre` | Vaststellingsregeling budgetcorrectie beroepsonderwijs en normbedrag exploitatiekosten pre-sea cursus Opleiding Petroleum en Gastechnologie Onderhoudstechniek | 2 | 1998-12-18 to 2004-12-31 |
+| `besluit-terbeschikkingstelling-ambtenaren-aan-scheepvaartinspectie` | Besluit terbeschikkingstelling ambtenaren aan Scheepvaartinspectie | 2 | 2002-07-01 to 2004-11-01 |
+| `regeling-vaststelling-maximumpremies-wtz` | Regeling vaststelling maximumpremies Wtz | 2 | 2005-01-01 to 2006-01-01 |
+| `verevening-kanselarijrechten-in-suriname` | Verevening kanselarijrechten in Suriname | 2 | 1999-01-01 to 2004-01-01 |
+| `regeling-samenvoeging-van-scholen-in-het-basisonderwijs-het-voortgezet-speciaal-onderwijs` | Regeling samenvoeging van scholen in het basisonderwijs, het (voortgezet) speciaal onderwijs en het speciaal voortgezet onderwijs per 1 augustus 1999 | 2 | 1999-08-01 to 2004-12-31 |
+| `regeling-herkansing-schoolexamen-vwo-havo` | Regeling herkansing schoolexamen vwo/havo | 2 | 1998-12-19 to 2004-12-31 |
+| `sluiting-aanvragen-subsidie-investeringsprojecten-primaire-landbouw` | Sluiting aanvragen subsidie investeringsprojecten primaire landbouw | 2 | 1998-12-11 to 2004-01-24 |
+| `instellingsbeschikking-millennium-platform-transport` | Instellingsbeschikking Millennium Platform Transport | 2 | 1998-12-18 to 2004-05-01 |
+| `tijdelijke-regeling-inzake-meerjarige-subsidiering-van-het-landelijk-steunpunt-educatie-mo` | Tijdelijke regeling inzake meerjarige subsidiëring van het Landelijk Steunpunt Educatie Molukkers | 2 | 1999-01-01 to 2009-01-01 |
+| `nabetaling-over-december-1996-en-aanpassing-per-1-januari-1997-ingevolge-de-wetten-voor-oo` | Nabetaling over december 1996 en aanpassing per 1 januari 1997 ingevolge de wetten voor oorlogsgetroffenen over 1995, 1996, 1997 en 1998 | 2 | 1999-01-01 to 2004-08-28 |
+| `nabetaling-over-december-1997-en-aanpassing-per-1-januari-1998-ingevolge-de-wetten-voor-oo` | Nabetaling over december 1997 en aanpassing per 1 januari 1998 ingevolge de wetten voor oorlogsgetroffenen over 1995, 1996, 1997 en 1998 | 2 | 1999-01-01 to 2004-08-28 |
+| `nabetaling-over-juni-1997-en-aanpassing-per-1-juli-1997-ingevolge-de-wetten-voor-oorlogsge` | Nabetaling over juni 1997 en aanpassing per 1 juli 1997 ingevolge de wetten voor oorlogsgetroffenen over 1995, 1996, 1997 en 1998 | 2 | 1999-01-01 to 2004-08-28 |
+| `nabetaling-over-juni-1998-en-aanpassing-per-1-juli-1998-ingevolge-de-wetten-voor-oorlogsge` | Nabetaling over juni 1998 en aanpassing per 1 juli 1998 ingevolge de wetten voor oorlogsgetroffenen over 1995, 1996, 1997 en 1998 | 2 | 1999-01-01 to 2004-08-28 |
+| `nabetaling-over-juli-1996-en-aanpassing-per-1-januari-1996-ingevolge-de-wetten-voor-oorlog` | Nabetaling over juli 1996 en aanpassing per 1 januari 1996 ingevolge de wetten voor oorlogsgetroffenen over 1995, 1996, 1997 en 1998 | 2 | 1999-01-01 to 2004-08-28 |
+| `nabetaling-over-1995-en-aanpassing-per-1-januari-1996-ingevolge-de-wetten-voor-oorlogsgetr` | Nabetaling over 1995 en aanpassing per 1 januari 1996 ingevolge de wetten voor oorlogsgetroffenen over 1995, 1996, 1997 en 1998 | 2 | 1999-01-01 to 2004-08-28 |
+| `subsidieplafond-1999-subsidieregeling-energie-efficiency-en-milieuadviezen-schoner-produce` | Subsidieplafond 1999 Subsidieregeling energie-efficiency- en milieuadviezen Schoner Produceren | 2 | 1998-12-17 to 2003-06-07 |
+| `wijziging-kredietregeling-milieugerichte-productontwikkeling-1998-en-vaststelling-subsidie` | Wijziging Kredietregeling milieugerichte productontwikkeling 1998 en vaststelling subsidieplafonds 1999 | 2 | 1999-01-01 to 2005-06-11 |
+| `vaststelling-voor-1998-van-programmas-en-subsidieplafonds-besluit-diverse-subsidies-milieu` | Vaststelling voor 1998 van programma’s en subsidieplafonds Besluit diverse subsidies milieubeheer | 2 | 1998-02-28 to 2004-12-23 |
+| `wijziging-diverse-regelingen-zeevisserij-2` | Wijziging diverse regelingen zeevisserij | 2 | 1998-12-17 to 2005-01-01 |
+| `voorschrift-informatieverstrekking-1993-viv-1993` | Voorschrift informatieverstrekking 1993 (VIV 1993) | 2 | 1993-01-01 to 2008-01-18 |
+| `regeling-indexering-akw-en-tog-bedragen-januari-1999` | Regeling indexering AKW- en TOG-bedragen januari 1999 | 2 | 1999-01-01 to 2004-09-22 |
+| `uitvoeringsregeling-milieuverslaglegging` | Uitvoeringsregeling milieuverslaglegging | 2 | 2007-01-25 to 2009-07-01 |
+| `vaststelling-aanvraagperiode-subsidie-in-kader-van-stimuleringsregeling-innovatie-markt-en` | Vaststelling aanvraagperiode subsidie in kader van Stimuleringsregeling innovatie markt en concurrentiekracht; 2e helft 1998 | 2 | 1998-12-18 to 2004-01-24 |
+| `uitvoeringsregeling-stirea-1999` | Uitvoeringsregeling StiREA 1999 | 2 | 1998-12-20 to 2005-06-11 |
+| `wijziging-uitvoeringsregeling-bmkb-1997-en-vaststelling-subsidieplafond-1999` | Wijziging Uitvoeringsregeling BMKB 1997 en vaststelling subsidieplafond 1999 | 2 | 1999-03-14 to 2009-01-01 |
+| `regeling-vacatiegelden-secretarissen` | Regeling vacatiegelden secretarissen | 2 | 2002-01-01 to 2009-11-08 |
+| `regeling-mandaat-vervoersvergunningen-kernenergiewet` | Regeling mandaat vervoersvergunningen Kernenergiewet | 2 | 1999-02-05 to 2003-07-04 |
+| `openstelling-aanvragen-op-grond-regeling-subsidiering-kwaliteit-groene-hart` | Openstelling aanvragen op grond Regeling subsidiëring kwaliteit Groene Hart | 2 | 1998-12-19 to 2004-12-23 |
+| `regeling-vaststelling-vervangende-premie-werkloosheidswet-1999` | Regeling vaststelling vervangende premie Werkloosheidswet 1999 | 2 | 1999-01-01 to 2004-09-22 |
+| `vaststelling-subsidieplafond-voor-de-eerste-tender-bts-in-1999` | Vaststelling subsidieplafond voor de eerste tender BTS in 1999 | 2 | 1999-08-27 to 2004-01-01 |
+| `regeling-tegemoetkoming-schade-bij-tweede-extreem-zware-regenval-1998` | Regeling tegemoetkoming schade bij tweede extreem zware regenval 1998 | 2 | 1998-12-23 to 2005-02-01 |
+| `regeling-afkoop-geldelijke-steun-woonwagens-en-standplaatsen` | Regeling afkoop geldelijke steun woonwagens en standplaatsen | 2 | 2003-07-18 to 2008-12-13 |
+| `regeling-tekortgemeenten-standplaatsen-huisvestingswet` | Regeling tekortgemeenten standplaatsen Huisvestingswet | 2 | 1999-03-01 to 2004-12-23 |
+| `tijdelijke-regeling-regionale-verwijzingscommissies-voortgezet-onderwijs` | Tijdelijke regeling regionale verwijzingscommissies voortgezet onderwijs | 2 | 1999-01-16 to 2004-12-31 |
+| `subsidieplafond-subsidieregeling-1999-managementcursussen-midden-en-oost-europa-1998` | Subsidieplafond Subsidieregeling 1999 managementcursussen Midden- en Oost-Europa 1998 | 2 | 1998-12-20 to 2005-06-11 |
+| `regeling-vaststelling-subsidieplafonds-eerste-tender-eet-projecten-1999` | Regeling vaststelling subsidieplafonds eerste tender EET-projecten 1999 | 2 | 1999-12-12 to 2004-01-01 |
+| `besluit-vaststelling-model-meldingsformulier-voor-het-gebruik-van-bouwstoffen-op-of-in-de` | Besluit vaststelling model meldingsformulier voor het gebruik van bouwstoffen op of in de bodem | 2 | 1998-12-30 to 2008-07-01 |
+| `wijziging-regeling-exportfinancieringsarrangement-indonesie` | Wijziging Regeling exportfinancieringsarrangement Indonesië | 2 | 1999-07-09 to 2005-06-11 |
+| `wijziging-regeling-exportfinancieringsarrangement-lichte-matching` | Wijziging Regeling exportfinancieringsarrangement lichte matching | 2 | 1999-12-17 to 2005-06-11 |
+| `wijziging-regeling-exportfinancieringsarrangement-rente-overbruggingsfaciliteit` | Wijziging Regeling exportfinancieringsarrangement rente-overbruggingsfaciliteit | 2 | 1999-12-17 to 2005-06-11 |
+| `wijziging-regeling-exportfinancieringsarrangement-zware-matching` | Wijziging Regeling exportfinancieringsarrangement zware matching | 2 | 1999-12-17 to 2010-01-01 |
+| `regeling-vaststelling-aanvraagperioden-1999-eg-premies-ooien-stieren-en-ossen` | Regeling vaststelling aanvraagperioden 1999 EG-premies ooien, stieren en ossen | 2 | 1998-12-20 to 2004-01-24 |
+| `besluit-vaststelling-emc-normen-1998` | Besluit vaststelling EMC-normen 1998 | 2 | 1998-12-24 to 2007-07-20 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-december-1998` | Beschikking rendementen gesubsidieerde woningbouw december 1998 | 2 | 1998-12-01 to 2004-12-23 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer-1996-1997` | Besluit vaststelling wisselkoers en prijsindexcijfer 1996/1997 | 2 | 1999-01-15 to 2005-02-01 |
+| `jaarlijkse-actualisering-vergoedingen-regeling-beheersovereenkomsten-1993` | Jaarlijkse actualisering vergoedingen Regeling beheersovereenkomsten 1993 | 2 | 1999-01-01 to 2004-01-24 |
+| `regeling-jaarlijkse-actualisering-vergoedingen-beschikking-beheersovereenkomsten-1983-1999` | Regeling jaarlijkse actualisering vergoedingen Beschikking beheersovereenkomsten 1983 (1999) | 2 | 1999-01-01 to 2004-01-24 |
+| `regeling-vaststelling-modellen-registers-overige-organische-meststoffen-1998` | Regeling vaststelling modellen registers overige organische meststoffen 1998 | 2 | 1998-12-25 to 2008-01-01 |
+| `regeling-verdeling-procentuele-ziekenfondspremie-1999` | Regeling verdeling procentuele ziekenfondspremie 1999 | 2 | 1999-01-01 to 2004-08-28 |
+| `vaststelling-van-het-tijdstip-van-beeindiging-van-de-toepasselijkheid-van-de-algemene-arbe` | Vaststelling van het tijdstip van beëindiging van de toepasselijkheid van de Algemene Arbeidsongeschiktheidswet | 2 | 1998-12-30 to 2004-09-22 |
+| `toepassing-wet-nationale-ombudsman` | Toepassing Wet Nationale ombudsman | 2 | 1999-01-01 to 2013-07-01 |
+| `vaststelling-formulier-grondgebruiksverklaring-1998` | Vaststelling formulier Grondgebruiksverklaring 1998 | 2 | 1998-12-26 to 2004-01-24 |
+| `vaststelling-formulier-grondgebruiksverklaring-1999` | Vaststelling formulier Grondgebruiksverklaring 1999 | 2 | 1998-12-26 to 2004-01-24 |
+| `vaststelling-bedragen-kostenregeling-wet-toezicht-beleggingsinstellingen` | Vaststelling bedragen Kostenregeling Wet toezicht beleggingsinstellingen | 2 | 1998-12-30 to 2004-01-01 |
+| `regeling-schadevergoeding-slom-concessionarissen` | Regeling schadevergoeding SLOM-concessionarissen | 2 | 1998-12-31 to 2004-01-24 |
+| `erkenningsregeling-penitentiair-programma` | Erkenningsregeling penitentiair programma | 2 | 2004-03-01 to 2004-12-05 |
+| `besluit-instelling-financieel-expertisecentrum` | Besluit instelling financieel expertisecentrum | 2 | 2001-01-17 to 2004-03-15 |
+| `instelling-project-tijdelijke-noodvoorziening-vreemdelingen` | Instelling Project Tijdelijke Noodvoorziening Vreemdelingen | 2 | 1999-03-01 to 2005-01-02 |
+| `aanpassing-bedrag-besluit-draagkracht-burger-oorlogsslachtoffers-per-1-januari-1999` | Aanpassing bedrag Besluit draagkracht burger-oorlogsslachtoffers per 1 januari 1999 | 2 | 1999-02-07 to 2001-01-01 |
+| `aanpassing-bedrag-vrijstelling-uit-vermogen-ingevolge-de-wetten-oorlogsgetroffenen-per-1-j` | Aanpassing bedrag vrijstelling uit vermogen ingevolge de wetten oorlogsgetroffenen per 1 januari 1999 | 2 | 1999-02-07 to 2004-08-28 |
+| `aanpassing-bedragen-besluiten-draagkracht-vervolgden-en-burger-oorlogsslachtoffers-per-1-j` | Aanpassing bedragen Besluiten draagkracht vervolgden en burger-oorlogsslachtoffers per 1 januari 1999 | 2 | 1999-02-07 to 2001-01-01 |
+| `aanpassing-grondslagen-bedragen-en-percentages-wetten-oorlogsgetroffenen-per-1-december-19` | Aanpassing grondslagen, bedragen en percentages wetten oorlogsgetroffenen per 1 december 1998 en 1 januari 1999 | 2 | 1999-02-07 to 2004-08-28 |
+| `instelling-werkgroep-kwaliteit-in-de-gefinancierde-rechtsbijstand` | Instelling werkgroep kwaliteit in de gefinancierde rechtsbijstand | 2 | 1999-04-01 to 2005-01-02 |
+| `subsidieregeling-publieksvoorlichting-wetenschap-en-technologie` | Subsidieregeling publieksvoorlichting wetenschap en technologie | 2 | 1999-02-19 to 2008-08-01 |
+| `subsidieplafond-publieksvoorlichting-wetenschap-en-technologie` | Subsidieplafond publieksvoorlichting wetenschap en technologie | 2 | 1999-02-19 to 2004-12-31 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-januari-1999` | Beschikking rendementen gesubsidieerde woningbouw januari 1999 | 2 | 1999-01-01 to 2004-12-23 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer-1994` | Besluit vaststelling wisselkoers en prijsindexcijfer 1994 | 2 | 1995-01-28 to 2005-02-01 |
+| `aansluiting-nijmegen-bij-nationale-ombudsman` | Aansluiting Nijmegen bij Nationale ombudsman | 2 | 1999-02-01 to 2013-07-01 |
+| `vaststelling-administratiekostenvergoeding-in-het-kader-van-de-wtz-1998-voor-het-jaar-1999` | Vaststelling administratiekostenvergoeding in het kader van de Wtz 1998 voor het jaar 1999 | 2 | 1999-02-04 to 2004-08-28 |
+| `instelling-platform-aanpak-wachttijden-zorgsector` | Instelling Platform aanpak wachttijden (zorgsector) | 2 | 1999-01-31 to 2004-08-28 |
+| `bekendmaking-subsidiabel-thema-regeling-subsidiering-extra-impuls-natuur-en-milieu-educati` | Bekendmaking subsidiabel thema Regeling subsidiëring Extra Impuls natuur- en milieu-educatie | 2 | 2002-01-01 to 2004-01-24 |
+| `regeling-herziening-arbeidsongeschiktheidsuitkering-zonder-wachttijd` | Regeling herziening arbeidsongeschiktheidsuitkering zonder wachttijd | 2 | 1999-02-11 to 2004-09-22 |
+| `openstelling-investeringsregeling-markt-en-concurrentiekracht-t-b-v-verzamelcentra-varkens` | Openstelling investeringsregeling markt en concurrentiekracht t.b.v. verzamelcentra varkens | 2 | 2002-01-01 to 2004-01-24 |
+| `regeling-meldingen-lozingenbesluit-wvo-vaste-objecten` | Regeling meldingen Lozingenbesluit Wvo vaste objecten | 2 | 1999-04-01 to 2011-07-01 |
+| `regeling-go-en-vakbondsfaciliteiten-1998` | Regeling GO- en vakbondsfaciliteiten 1998 | 2 | 1999-02-20 to 2005-01-01 |
+| `regeling-vaststelling-werkgebieden-verwerkingsbedrijven-gespecificeerd-hoog-risico-materia` | Regeling vaststelling werkgebieden verwerkingsbedrijven gespecificeerd hoog-risico-materiaal | 2 | 2001-05-03 to 2004-05-01 |
+| `regeling-aanwijzing-elektronenmicro-scopen-kernenergiewet-1998` | Regeling aanwijzing Elektronenmicro-scopen Kernenergiewet 1998 | 2 | 1999-02-12 to 2004-09-22 |
+| `regeling-toekenning-aanvullende-exploitatiekostenvergoeding-svo-lom-mlk` | Regeling toekenning aanvullende exploitatiekostenvergoeding svo-lom/mlk | 2 | 1999-08-01 to 2004-12-31 |
+| `instellingsbesluit-landelijk-platform-tegen-geweld-op-straat` | Instellingsbesluit Landelijk Platform Tegen Geweld op Straat | 2 | 1999-02-04 to 2005-02-01 |
+| `wijziging-subsidieregeling-innovatiegerichte-onderzoekprogrammas-1999` | Wijziging Subsidieregeling innovatiegerichte onderzoekprogramma’s 1999 | 2 | 1999-02-14 to 2005-06-11 |
+| `centraal-examen-geschiedenis-2002-en-2003` | Centraal examen geschiedenis 2002 en 2003 | 2 | 1999-02-20 to 2004-12-31 |
+| `landenlijst-rhi` | Landenlijst Rhi | 2 | 1999-03-25 to 2010-01-01 |
+| `regeling-vaststelling-bedrag-nascholing-voortgezet-onderwijs-1999-2000` | Regeling vaststelling bedrag nascholing voortgezet onderwijs 1999-2000 | 2 | 1999-08-01 to 2004-12-31 |
+| `regeling-onderwijsbevoegdheid-ckv2-3` | Regeling onderwijsbevoegdheid CKV2,3 | 2 | 1999-02-20 to 2006-08-01 |
+| `instellingsbesluit-landelijke-coordinatiecommissie-milieuwethandhaving-lccm` | Instellingsbesluit Landelijke Coördinatiecommissie Milieuwethandhaving (LCCM) | 2 | 1999-03-02 to 2003-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-februari-1999` | Beschikking rendementen gesubsidieerde woningbouw, februari 1999 | 2 | 1999-02-01 to 2004-12-23 |
+| `regeling-verbod-diermelen-in-diervoeders` | Regeling verbod diermelen in diervoeders | 2 | 2004-10-18 to 2005-01-01 |
+| `besluit-voorkoming-verbossing-rietlanden` | Besluit voorkoming verbossing rietlanden | 2 | 2005-01-01 to 2007-04-01 |
+| `aanwijzing-representatieve-organisatie-ambulancevervoerders` | Aanwijzing representatieve organisatie ambulancevervoerders | 2 | 2006-01-01 to 2006-10-01 |
+| `aanwijzing-keuringsinstantie-voor-machines-sgs-1999` | Aanwijzing keuringsinstantie voor machines SGS 1999 | 2 | 2002-01-01 to 2003-09-01 |
+| `instelling-adviescommissie-duaal-ontslagstelsel` | Instelling Adviescommissie Duaal Ontslagstelsel | 2 | 1999-03-03 to 2004-09-22 |
+| `instelling-coordinatiecommissie-millennium-oov` | Instelling Coördinatiecommissie Millennium OOV | 2 | 1999-03-10 to 2005-02-01 |
+| `regeling-tot-aanpassing-schadegebied-bij-tweede-extreem-zware-regenval-1998` | Regeling tot aanpassing schadegebied bij tweede extreem zware regenval 1998 | 2 | 1999-03-18 to 2005-02-01 |
+| `verhoging-grondslagen-wet-uitkeringen-vervolgingsslachtoffers` | Verhoging grondslagen Wet uitkeringen vervolgingsslachtoffers | 2 | 1999-03-06 to 2004-08-28 |
+| `besluit-instelling-commissie-pachtbeleid` | Besluit instelling commissie pachtbeleid | 2 | 1999-03-01 to 2004-06-11 |
+| `openstelling-spieringvisserij-ijsselmeer-1999` | Openstelling spieringvisserij IJsselmeer 1999 | 2 | 1999-03-26 to 2004-01-24 |
+| `regeling-kennisoverdracht-milieubeheer-1999` | Regeling Kennisoverdracht Milieubeheer 1999 | 2 | 1999-07-21 to 2004-12-23 |
+| `instelling-evaluatiecommissie-stichting-weten` | Instelling evaluatiecommissie Stichting WeTeN | 2 | 1999-05-01 to 2004-12-31 |
+| `instellingsregeling-tijdelijke-adviescommissie-begeleiding-decentrale-toelating` | Instellingsregeling tijdelijke adviescommissie begeleiding decentrale toelating | 2 | 1999-03-19 to 2004-12-31 |
+| `mandaatbesluit-novem-regeling-milieugerichte-technologie` | Mandaatbesluit NOVEM Regeling milieugerichte technologie | 2 | 1999-06-23 to 2005-05-20 |
+| `instelling-interdepartementale-commissie-voor-constitutionele-aangelegenheden-wetgevingsbe` | Instelling Interdepartementale commissie voor constitutionele aangelegenheden wetgevingsbeleid (ICCW) | 2 | 2009-10-24 to 2013-02-28 |
+| `mandaatbesluit-directeur-natuurbeheer` | Mandaatbesluit directeur Natuurbeheer | 2 | 1999-03-12 to 2004-04-26 |
+| `regeling-overgang-oud-nieuw-5-vwo` | Regeling overgang oud/nieuw 5 vwo | 2 | 1999-08-01 to 2004-12-31 |
+| `regeling-aanwijzing-slachtinrichtingen-offerfeest-1999` | Regeling aanwijzing slachtinrichtingen offerfeest 1999 | 2 | 1999-03-31 to 2004-01-24 |
+| `uitvoeringsregeling-bse-1999-i` | Uitvoeringsregeling BSE 1999-I | 2 | 1999-12-19 to 2005-06-11 |
+| `besluit-vertrouwenspersonen-integriteit-bzk` | Besluit Vertrouwenspersonen Integriteit BZK | 2 | 1999-04-10 to 2013-08-08 |
+| `richtlijn-passende-arbeid-1999` | Richtlijn passende arbeid 1999 | 2 | 2002-03-23 to 2014-01-01 |
+| `regeling-controlelijst-schepen-met-schadelijke-of-gevaarlijke-lading` | Regeling controlelijst schepen met schadelijke of gevaarlijke lading | 2 | 1999-04-01 to 2004-12-01 |
+| `wijziging-uitvoeringsregeling-varkensheffing` | Wijziging Uitvoeringsregeling varkensheffing | 2 | 1999-03-17 to 2004-08-01 |
+| `vaststelling-subsidieplafonds-sanering-verkeerslawaai-2` | Vaststelling subsidieplafonds sanering verkeerslawaai | 2 | 1999-12-23 to 2004-12-23 |
+| `besluit-vergoedingen-commissie-grondrechten-in-het-digitale-tijdperk` | Besluit vergoedingen Commissie ’Grondrechten in het digitale tijdperk’ | 2 | 1999-03-25 to 2005-02-01 |
+| `vaststelling-rekenfactor-1998-buitengewone-pensioenen` | Vaststelling rekenfactor 1998 buitengewone pensioenen | 2 | 1999-04-11 to 2004-08-28 |
+| `regeling-tegemoetkoming-meerkosten-in-verband-met-herplaatsing-personeel-van-ziekenhuissch` | Regeling tegemoetkoming meerkosten in verband met herplaatsing personeel van ziekenhuisscholen per 1 augustus 1999 | 2 | 2004-07-30 to 2004-12-31 |
+| `regeling-tekeningsbevoegdheid-ministerie-van-financien-1999` | Regeling tekeningsbevoegdheid Ministerie van Financiën 1999 | 2 | 1999-07-24 to 2005-09-22 |
+| `regeling-communicatie-en-loodsaanvragen-zeevaart` | Regeling communicatie en loodsaanvragen zeevaart | 2 | 2012-03-01 to 2012-05-19 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-maart-1999` | Beschikking rendementen gesubsidieerde woningbouw maart 1999 | 2 | 1999-03-01 to 2004-12-23 |
+| `regeling-vaststelling-indieningsperiode-1999-aanvraag-oppervlakten` | Regeling vaststelling indieningsperiode 1999 aanvraag oppervlakten | 2 | 1999-03-28 to 2004-01-24 |
+| `subsidieregeling-internationale-samenwerking-milieubeheer-1999` | Subsidieregeling internationale samenwerking milieubeheer 1999 | 2 | 1999-04-03 to 2004-12-23 |
+| `nederlandse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-venezuela` | Nederlandse uitvoeringsvoorschriften belastingovereenkomst Nederland-Venezuela | 2 | 1999-04-09 to 2004-10-01 |
+| `benoeming-regionale-examencommissie-rijkswaterstaat-regio-binnen` | Benoeming regionale examencommissie Rijkswaterstaat regio binnen | 2 | 1999-06-01 to 2004-05-01 |
+| `vaststelling-lesgeld-cursusjaar-1999-2000` | Vaststelling lesgeld cursusjaar 1999-2000 | 2 | 1999-04-02 to 2004-12-31 |
+| `regeling-inzake-nevenvestigingen-aan-scholen-voor-praktijkonderwijs` | Regeling inzake nevenvestigingen aan scholen voor praktijkonderwijs | 2 | 1999-04-17 to 2004-12-31 |
+| `regeling-aanwijzing-representatieve-organisatie-van-natura-uitvaartverzekeraars` | Regeling aanwijzing representatieve organisatie van natura-uitvaartverzekeraars | 2 | 1999-04-14 to 2007-01-01 |
+| `regeling-aanwijzing-representatieve-organisatie-van-verzekeraars-1999` | Regeling aanwijzing representatieve organisatie van verzekeraars 1999 | 2 | 1999-04-14 to 2007-01-01 |
+| `stimuleringsregeling-regionale-expertisecentra-in-oprichting-1999` | Stimuleringsregeling Regionale Expertisecentra in oprichting 1999 | 2 | 1999-04-17 to 2004-12-31 |
+| `dekking-kosten-ziekenfondsraad-en-zijn-secretariaat-voor-1998` | Dekking kosten Ziekenfondsraad en zijn secretariaat voor 1998 | 2 | 1999-04-14 to 2004-08-28 |
+| `regeling-slibvangputten-en-vet-of-olie-afscheiders` | Regeling slibvangputten en vet- of olie-afscheiders | 2 | 1999-11-24 to 2008-01-01 |
+| `wijziging-subsidieplafond-bts-1998-iii-en-vaststelling-subsidieplafond-bts-1999-ii` | Wijziging subsidieplafond BTS 1998-III en vaststelling subsidieplafond BTS 1999-II | 2 | 1999-11-17 to 2004-01-01 |
+| `opheffingsbesluit-commissie-westerschelde` | Opheffingsbesluit Commissie Westerschelde | 2 | 1999-06-01 to 2004-05-01 |
+| `mandaat-staatssecretaris-landbouw-natuurbeheer-en-visserij` | Mandaat Staatssecretaris Landbouw, Natuurbeheer en Visserij | 2 | 1999-04-16 to 2004-04-26 |
+| `besluit-versterking-natuur-en-bosbeheer-bij-bos-en-landgoedeigenaren` | Besluit versterking natuur- en bosbeheer bij bos- en landgoedeigenaren | 2 | 2005-12-24 to 2007-04-01 |
+| `wijziging-mandaat-directeur-plantenziektenkundige-dienst` | Wijziging mandaat directeur Plantenziektenkundige Dienst | 2 | 1999-04-18 to 2004-04-26 |
+| `mandaatbeschikking-kernenergiewet-inzake-de-bescherming-van-de-arbeidsomstandigheden` | Mandaatbeschikking Kernenergiewet inzake de bescherming van de arbeidsomstandigheden | 2 | 1999-04-23 to 2003-07-04 |
+| `openstelling-investeringsregeling-markt-en-concurrentiekracht-onderdeel-verwerking-en-afze` | Openstelling investeringsregeling markt en concurrentiekracht onderdeel verwerking en afzet visserijproducten | 2 | 1999-04-17 to 2004-01-24 |
+| `vaststelling-subsidieplafond-1999-infrastructuurregeling-glastuinbouwgebieden` | Vaststelling subsidieplafond 1999 Infrastructuurregeling glastuinbouwgebieden | 2 | 1999-04-23 to 2004-01-24 |
+| `thema-beeldende-vakken-examen-vwo-2000` | Thema beeldende vakken examen vwo 2000 | 2 | 1999-05-29 to 2004-12-31 |
+| `openstellingsbesluit-investeringsregeling-markt-en-concurrentiekracht-onderdeel-verwerking` | Openstellingsbesluit Investeringsregeling markt en concurrentiekracht, onderdeel verwerking en afzet landbouwproducten | 2 | 1999-06-01 to 2004-01-24 |
+| `regeling-vaststelling-perioden-zoogkoeienpremie-1999` | Regeling vaststelling perioden zoogkoeienpremie 1999 | 2 | 1999-04-23 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-april-1999` | Beschikking rendementen gesubsidieerde woningbouw, april 1999 | 2 | 1999-04-01 to 2004-12-23 |
+| `subsidiebeleid-ontwikkelingssamenwerking` | Subsidiebeleid ontwikkelingssamenwerking | 2 | 1999-04-25 to 2006-01-01 |
+| `regeling-aanwijzing-instellingen-ex-artikel-32b-psw` | Regeling aanwijzing instellingen ex artikel 32b PSW | 2 | 2003-02-12 to 2007-01-01 |
+| `regeling-vrijgifte-ingevolge-artikel-3a-wog` | Regeling vrijgifte ingevolge artikel 3a WOG | 2 | 2005-09-01 to 2007-07-01 |
+| `experimentenregeling-eindgebruikerssubsidiering-vinex-locaties` | Experimentenregeling eindgebruikerssubsidiëring VINEX-locaties | 2 | 2002-01-01 to 2003-12-31 |
+| `programma-leidsche-rijn` | Programma Leidsche Rijn | 2 | 2002-06-19 to 2003-12-31 |
+| `wijziging-subsidieregeling-welzijnsbeleid-2` | Wijziging Subsidieregeling welzijnsbeleid | 2 | 2000-01-01 to 2007-01-01 |
+| `regeling-eenmalige-apparatuurbijdrage-aoc-1999` | Regeling eenmalige apparatuurbijdrage AOC 1999 | 2 | 1999-04-30 to 2004-01-24 |
+| `aanpassing-wettelijk-minimumloon-per-1-juli-1999` | Aanpassing wettelijk minimumloon per 1 juli 1999 | 2 | 1999-07-01 to 2004-09-22 |
+| `machtiging-directeur-dlg-inzake-infrastructuurregeling` | Machtiging directeur DLG inzake Infrastructuurregeling | 2 | 1999-05-06 to 2007-06-09 |
+| `instellingsbesluit-interdepartementale-commissie-openbaar-bestuur` | Instellingsbesluit interdepartementale commissie openbaar bestuur | 2 | 1999-05-06 to 2007-06-06 |
+| `vaststelling-huursubsidie-uitgavennorm-subsidiejaar-1999-2000` | Vaststelling huursubsidie-uitgavennorm subsidiejaar 1999/2000 | 2 | 1999-07-01 to 2003-07-01 |
+| `besluit-natuurbeheer-schaapskuddes` | Besluit natuurbeheer schaapskuddes | 2 | 2005-12-24 to 2007-01-01 |
+| `tijdelijke-vrijstellingsregeling-afmelding-opslagen-meststoffenwet` | Tijdelijke vrijstellingsregeling afmelding opslagen Meststoffenwet | 2 | 2001-03-15 to 2004-06-05 |
+| `verlening-mandaat-en-machtiging-aan-senter` | Verlening mandaat en machtiging aan Senter | 2 | 1999-05-14 to 2004-05-01 |
+| `subsidieregeling-ondersteuning-landelijke-geschillencommissie-samenwerkingsverbanden-wsns` | Subsidieregeling ondersteuning Landelijke geschillencommissie samenwerkingsverbanden WSNS en Landelijke geschillencommissie samenwerkingsverbanden VO | 2 | 1999-05-29 to 2010-01-01 |
+| `stimuleringsregeling-reintegratie-wachtgelders-primair-onderwijs` | Stimuleringsregeling reïntegratie wachtgelders primair onderwijs | 2 | 1999-05-29 to 2011-08-01 |
+| `regeling-incidentele-middelen-voor-achterstallig-onderhoud-van-scholen-voor-voortgezet-ond` | Regeling incidentele middelen voor achterstallig onderhoud van scholen voor voortgezet onderwijs (vo) | 2 | 2001-11-10 to 2004-12-31 |
+| `wijziging-normbedragen-voor-exploitatiebijdragen-van-standplaatsen-en-continuering-subsidi` | Wijziging normbedragen voor exploitatiebijdragen van standplaatsen en continuering subsidieafbraakpercentage voor woonwagens en standplaatsen voor 1999 | 2 | 1999-05-30 to 2004-12-23 |
+| `besluit-openstelling-aanvraagperiode-stimuleringsregeling-vernieuwing-landelijk-gebied` | Besluit openstelling aanvraagperiode Stimuleringsregeling vernieuwing landelijk gebied | 2 | 1999-05-21 to 2004-01-24 |
+| `wijziging-regeling-landbouwgrond-meststoffenwet-en-regeling-voorraden-meststoffenwet` | Wijziging Regeling landbouwgrond Meststoffenwet en Regeling voorraden Meststoffenwet | 2 | 1999-05-28 to 2004-01-24 |
+| `instellingsbesluit-deelorgaan-aftappen` | Instellingsbesluit deelorgaan aftappen | 2 | 1999-06-12 to 2012-06-06 |
+| `wijziging-subsidieregeling-voorlichting-en-doorlichting-schoner-produceren` | Wijziging Subsidieregeling voorlichting en doorlichting Schoner Produceren | 2 | 1999-11-19 to 2003-06-07 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-mei-1999` | Beschikking rendementen gesubsidieerde woningbouw mei 1999 | 2 | 1999-05-01 to 2004-12-23 |
+| `vaststelling-kosten-wet-toezicht-beleggingsinstellingen` | Vaststelling kosten Wet toezicht beleggingsinstellingen | 2 | 1999-05-30 to 2004-01-01 |
+| `wijziging-subsidieregeling-programma-technologie-en-samenleving` | Wijziging Subsidieregeling programma technologie en samenleving | 2 | 1999-06-02 to 2003-06-07 |
+| `uitvoeringsregeling-bse-1999-ii` | Uitvoeringsregeling BSE 1999-II | 2 | 1999-11-24 to 2005-06-11 |
+| `regeling-aanpassing-landelijk-gemiddelde-personeelslastbedragen-in-verband-met-de-zkoo-uit` | Regeling aanpassing landelijk gemiddelde personeelslastbedragen in verband met de ZKOO-uitkering en de CAO 1999 - 2000 | 2 | 1999-08-01 to 2004-12-31 |
+| `regeling-dioxine-in-vleeskuikenouderdieren-en-vleeskuikens` | Regeling dioxine in vleeskuikenouderdieren en vleeskuikens | 2 | 2003-01-01 to 2004-01-24 |
+| `wijziging-bedragen-zuiderzeesteunbesluit-1976` | Wijziging bedragen Zuiderzeesteunbesluit 1976 | 2 | 1999-08-01 to 2005-09-28 |
+| `privacyreglement-meldpunt-ongebruikelijke-transacties-1999` | privacyreglement Meldpunt Ongebruikelijke Transacties 1999 | 2 | 1999-06-18 to 2008-01-01 |
+| `regeling-vermelding-duale-opleidingen-hoger-onderwijs-1999-2000` | Regeling vermelding duale opleidingen hoger onderwijs 1999-2000 | 2 | 1999-06-19 to 2004-12-31 |
+| `vaststelling-bedrag-bedoeld-in-artikel-4-eerste-lid-regeling-kostenverhaal-wet-melding-zeg` | Vaststelling bedrag bedoeld in artikel 4, eerste lid, Regeling kostenverhaal Wet melding zeggenschap 1996 | 2 | 1999-06-15 to 2004-01-01 |
+| `warenwetregeling-vrijstelling-kampioenschappen-palingroken` | Warenwetregeling Vrijstelling kampioenschappen palingroken | 2 | 2002-07-10 to 2003-12-03 |
+| `regelingen-in-het-kader-van-de-huursubsidiewet` | Regelingen in het kader van de Huursubsidiewet | 2 | 1999-06-23 to 2004-12-23 |
+| `instellingsregeling-stuurgroep-evaluatie-web` | Instellingsregeling stuurgroep evaluatie WEB | 2 | 1999-06-24 to 2004-12-31 |
+| `benoeming-onbezoldigde-ambtenaren-invoercontroles-diervoeders` | Benoeming onbezoldigde ambtenaren invoercontroles diervoeders | 2 | 1999-06-19 to 2004-10-18 |
+| `aanwijzing-voordragende-organisaties-ovb-bestuur` | Aanwijzing voordragende organisaties OVB-bestuur | 2 | 2004-09-02 to 2007-01-01 |
+| `verlening-mandaat-en-machtiging-aan-de-nederlandse-onderneming-voor-energie-en-milieu-b-v-2` | Verlening mandaat en machtiging aan de Nederlandse Onderneming voor Energie en Milieu B.V. ter uitvoering van de Subsidieregeling stiller, schoner en zuiniger | 2 | 2002-02-16 to 2013-05-01 |
+| `regeling-indexering-akw-en-tog-bedragen-juli-1999` | Regeling indexering AKW- en TOG-bedragen juli 1999 | 2 | 1999-07-01 to 2004-09-22 |
+| `uitvoeringsregeling-besluit-afgifte-verklaringen-strategische-goederen` | Uitvoeringsregeling Besluit afgifte verklaringen strategische goederen | 2 | 1999-06-25 to 2008-08-01 |
+| `nederlandse-uitvoeringsvoorschriften-belastingverdrag-nederland-denemarken-1996` | Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland-Denemarken 1996 | 2 | 1999-07-10 to 2004-10-01 |
+| `vergoedingenregeling-leden-college-zorgverzekeringen-en-college-toezicht` | Vergoedingenregeling leden College zorgverzekeringen en College toezicht | 2 | 2004-07-22 to 2006-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juni-1999` | Beschikking rendementen gesubsidieerde woningbouw juni 1999 | 2 | 1999-06-01 to 2004-12-23 |
+| `thema-s-centraal-examen-en-staatsexamen-klassieke-taal-en-letterkunde-2001` | Thema's centraal examen en staatsexamen klassieke taal en letterkunde 2001 | 2 | 1999-07-10 to 2004-12-31 |
+| `beleidsregels-bedrijfseigen-varkensvervoer` | Beleidsregels bedrijfseigen varkensvervoer | 2 | 1999-06-26 to 2004-11-01 |
+| `regeling-raad-voor-de-transportveiligheid` | Regeling Raad voor de Transportveiligheid | 2 | 1999-07-01 to 2005-02-01 |
+| `informatiestatuut-raad-voor-de-transportveiligheid` | Informatiestatuut Raad voor de Transportveiligheid | 2 | 1999-07-01 to 2005-02-01 |
+| `regeling-certificaat-inburgering` | Regeling certificaat inburgering | 2 | 1999-07-16 to 2007-01-01 |
+| `regeling-onderwerpen-centraal-examen-ckv2` | Regeling onderwerpen centraal examen ckv2 | 2 | 1999-07-10 to 2007-08-01 |
+| `saneringsregeling-asbestwegen-twente` | Saneringsregeling asbestwegen Twente | 2 | 1999-07-10 to 2004-12-23 |
+| `regeling-bestelling-rijbewijzen` | Regeling bestelling rijbewijzen | 2 | 1999-07-15 to 2006-10-01 |
+| `regeling-stofomschrijving-nederland-en-indonesie-examen-geschiedenis` | Regeling stofomschrijving Nederland en Indonesië (examen geschiedenis) | 2 | 2000-03-18 to 2007-08-01 |
+| `uitvoeringsregeling-bsz-1999` | Uitvoeringsregeling BSZ 1999 | 2 | 1999-10-15 to 2005-06-11 |
+| `nadere-regeling-besteedbare-middelen-beheerskosten-awbz-1998-in-verband-met-kosten-van-het` | Nadere regeling besteedbare middelen beheerskosten AWBZ 1998 in verband met kosten van het Centraal Administratiekantoor BZ | 2 | 1999-07-10 to 2004-08-28 |
+| `vaststelling-tariefdragers-tarieven-transport-en-levering-elektriciteit` | Vaststelling tariefdragers tarieven transport en levering elektriciteit | 2 | 2009-01-01 to 2012-07-20 |
+| `regeling-frictiekosten-arbeidsintegratie` | Regeling frictiekosten Arbeidsintegratie | 2 | 1999-07-11 to 2004-08-01 |
+| `besluit-uitvoering-regeling-ziektekostenvoorziening-onderwijs-en-onderzoekpersoneel` | Besluit uitvoering Regeling ziektekostenvoorziening onderwijs- en onderzoekpersoneel | 2 | 2004-01-29 to 2006-01-01 |
+| `wijziging-diverse-regelingen-zeevisserij-3` | Wijziging diverse regelingen zeevisserij | 2 | 1999-07-22 to 2005-01-01 |
+| `besluit-ontwikkeling-van-landschappen` | Besluit ontwikkeling van landschappen | 2 | 2005-04-30 to 2007-04-01 |
+| `regeling-subsidiering-politieke-partijen` | Regeling subsidiëring politieke partijen | 2 | 1999-07-29 to 2013-05-01 |
+| `aanwijzing-instantie-t-b-v-raadpleging-donorregister` | Aanwijzing instantie t.b.v. raadpleging donorregister | 2 | 1999-10-01 to 2004-08-28 |
+| `aanwijzingsbesluit-huursubsidiewet` | Aanwijzingsbesluit Huursubsidiewet | 2 | 1999-07-30 to 2005-02-25 |
+| `aanwijzing-bewerker-verslagen-uitoefening-ontslagtaken` | Aanwijzing bewerker verslagen uitoefening ontslagtaken | 2 | 1999-01-01 to 2008-09-25 |
+| `regeling-eenmalige-aanvullende-vergoeding-millenniumbijdrage-1999` | Regeling eenmalige aanvullende vergoeding millenniumbijdrage 1999 | 2 | 1999-07-21 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juli-1999` | Beschikking rendementen gesubsidieerde woningbouw juli 1999 | 2 | 1999-07-01 to 2004-12-23 |
+| `subsidieplafonds-1999-onderhoud-monumenten-en-historische-buitenplaatsen` | Subsidieplafonds 1999 onderhoud monumenten en historische buitenplaatsen | 2 | 1999-07-29 to 2004-12-31 |
+| `vaststelling-formulieren-vrijstellingsregelingen-meststoffenwet` | Vaststelling formulieren vrijstellingsregelingen Meststoffenwet | 2 | 1999-08-01 to 2004-01-24 |
+| `bekendmaking-gesloten-periode-ijsselmeervisserij-1999` | Bekendmaking gesloten periode IJsselmeervisserij 1999 | 2 | 1999-08-04 to 2004-01-24 |
+| `wijziging-lijst-vernietigbare-archiefbescheiden-om-gerechtshoven-rechtbanken-en-kantongere` | Wijziging lijst vernietigbare archiefbescheiden OM, gerechtshoven, rechtbanken en kantongerechten | 2 | 2000-02-09 to 2004-12-31 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-subsidiering-o-g-v-subsidieregeling-buz-m` | Vaststelling subsidieplafond en beleidsvoornemen subsidiëring o.g.v. Subsidieregeling Buz (Matra) | 2 | 1999-08-26 to 2006-01-01 |
+| `vaststelling-iop-onderzoekprogramma-en-subsidieperioden-tender-iop-2000-i` | Vaststelling IOP-onderzoekprogramma en subsidieperioden tender IOP 2000-I | 2 | 1999-08-22 to 2005-11-16 |
+| `aanpassing-bedragen-grondslagen-en-percentages-wetten-oorlogsgetroffenen-per-1-juni-en-1-j` | Aanpassing bedragen, grondslagen en percentages wetten oorlogsgetroffenen per 1 juni en 1 juli 1999 | 2 | 1999-08-28 to 2004-08-28 |
+| `vaststelling-reiskostenvergoeding-commissie-grondrechten-in-het-digitale-tijdperk` | Vaststelling reiskostenvergoeding Commissie Grondrechten in het digitale tijdperk | 2 | 1999-09-09 to 2005-02-01 |
+| `regeling-criteria-representativiteit-wtg` | Regeling criteria representativiteit WTG | 2 | 2000-01-01 to 2006-10-01 |
+| `wijziging-regeling-optische-en-geluidssignalen` | Wijziging Regeling optische en geluidssignalen | 2 | 1999-09-01 to 2013-01-01 |
+| `onderwerpen-centraal-en-schriftelijk-examen-aardrijkskunde-2000-2001` | Onderwerpen centraal en schriftelijk examen aardrijkskunde 2000-2001 | 2 | 1999-09-11 to 2004-12-31 |
+| `vaststelling-coefficienten-voor-heffing-kanselarijrechten-verlening-visa` | Vaststelling coëfficiënten voor heffing kanselarijrechten verlening visa | 2 | 1999-09-01 to 2004-01-01 |
+| `wijziging-subsidieplafond-bts-1999-i-en-vaststelling-subsidieplafond-bts-1999-iii` | Wijziging subsidieplafond BTS 1999-I en vaststelling subsidieplafond BTS 1999-III | 2 | 1999-08-27 to 2004-01-01 |
+| `vaststelling-formulieren-alsmede-vaststelling-subsidieplafonds-eerste-tender-e-e-t-project` | Vaststelling formulieren alsmede vaststelling subsidieplafonds eerste tender E.E.T.-projecten 2000 | 2 | 1999-08-27 to 2004-01-01 |
+| `thema-s-en-domeinen-centraal-examen-maatschappijleer-2001-en-2002` | Thema's en domeinen centraal examen maatschappijleer 2001 en 2002 | 2 | 1999-09-11 to 2004-12-31 |
+| `regeling-vaststelling-eindtermen-beroepsonderwijs-en-vaststelling-overzicht-bekostigde-ber-2` | Regeling vaststelling eindtermen beroepsonderwijs en vaststelling overzicht bekostigde beroepsopleidingen 2000-2001 | 2 | 2000-08-01 to 2008-08-01 |
+| `uitvoeringsregeling-bse-1999-iii` | Uitvoeringsregeling BSE 1999-III | 2 | 1999-12-19 to 2005-06-11 |
+| `subsidieregeling-maatschappelijke-organisaties-en-milieu` | Subsidieregeling maatschappelijke organisaties en milieu | 2 | 2007-12-05 to 2008-06-21 |
+| `subsidieplafond-subsidieregeling-maatschappelijke-organisaties-en-milieu` | Subsidieplafond Subsidieregeling maatschappelijke organisaties en milieu | 2 | 2000-01-19 to 2004-12-23 |
+| `regeling-stimulering-innovaties-politiekorpsen` | Regeling stimulering innovaties politiekorpsen | 2 | 1999-09-11 to 2005-05-26 |
+| `regeling-eindtermen-diploma-dierplaagbestrijding` | Regeling eindtermen diploma dierplaagbestrijding | 2 | 1999-10-01 to 2007-10-17 |
+| `vaststelling-subsidieplafond-welzijnsbeleid` | Vaststelling subsidieplafond welzijnsbeleid | 2 | 1999-09-12 to 2004-08-28 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-augustus-1999` | Beschikking rendementen gesubsidieerde woningbouw augustus 1999 | 2 | 1999-08-01 to 2004-12-23 |
+| `tijdelijke-bijdrageregeling-awbz-gemeenten-1999` | Tijdelijke bijdrageregeling AWBZ-gemeenten 1999 | 2 | 1999-09-11 to 2004-09-22 |
+| `regeling-melding-overdracht-premierechten-ooien-1999` | Regeling melding overdracht premierechten ooien 1999 | 2 | 1999-09-09 to 2004-01-24 |
+| `besluit-aanwijzing-ambtenaren-toezicht-nationaliteitstoets-en-registratie-zeeschepen` | Besluit aanwijzing ambtenaren toezicht nationaliteitstoets en registratie zeeschepen | 2 | 2004-11-26 to 2006-07-19 |
+| `regeling-rijksbijdrage-sluitende-aanpak-ww-1999` | Regeling rijksbijdrage sluitende aanpak WW 1999 | 2 | 1999-09-15 to 2004-09-22 |
+| `regeling-taakstelling-sluitende-aanpak-ww-1999` | Regeling taakstelling sluitende aanpak WW 1999 | 2 | 1999-09-15 to 2004-09-22 |
+| `regeling-aanwijzing-jaa-landen` | Regeling aanwijzing JAA-landen | 2 | 2002-12-14 to 2003-05-30 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1998-en-voor-1999` | Regeling vaststelling mede te financieren bedrag MOOZ voor 1998 en voor 1999 | 2 | 2000-10-28 to 2004-08-28 |
+| `instellingsbesluit-adviescollege-besteding-nederlandse-bijdrage-aan-het-nazi-persecutee-re` | Instellingsbesluit Adviescollege besteding Nederlandse bijdrage aan het Nazi Persecutee Relief Fund | 2 | 1999-09-29 to 2009-02-06 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-september-1999` | Beschikking rendementen gesubsidieerde woningbouw september 1999 | 2 | 1999-09-01 to 2004-12-23 |
+| `regeling-geldsom-visakten-2000` | Regeling geldsom visakten 2000 | 2 | 2000-01-01 to 2004-01-24 |
+| `aanwijzing-raad-rechtsbijstand-den-bosch-i-v-m-beheer-en-verdeling-van-de-in-het-kader-van` | Aanwijzing raad rechtsbijstand Den Bosch i.v.m. beheer en verdeling van de in het kader van schuldsanering te verstrekken subsidies | 2 | 1998-12-01 to 2010-07-01 |
+| `regeling-chauffeurspas-taxivervoer` | Regeling chauffeurspas taxivervoer | 2 | 2001-01-01 to 2005-08-01 |
+| `subsidieplafonds-2000-subsidieregeling-welzijnsbeleid-2` | Subsidieplafonds 2000 Subsidieregeling welzijnsbeleid (2) | 2 | 2000-01-01 to 2004-08-28 |
+| `prognose-statusverlening` | Prognose statusverlening | 2 | 1999-12-01 to 2005-01-02 |
+| `wijziging-regeling-uitvoering-en-financiering-wet-inschakeling-werkzoekenden-i-v-m-vastste` | Wijziging Regeling uitvoering en financiering Wet inschakeling werkzoekenden i.v.m. vaststelling subsidiebedragen 2000 | 2 | 2000-01-01 to 2004-01-01 |
+| `vaststelling-bedragen-en-wijziging-programma-s-van-eisen-v-so-en-svo-voor-het-jaar-2000` | Vaststelling bedragen en wijziging programma's van eisen (v)so en svo voor het jaar 2000 | 2 | 2000-01-01 to 2004-12-31 |
+| `vaststelling-programma-s-van-eisen-basisonderwijs-met-ingang-van-het-jaar-2000` | Vaststelling programma's van eisen basisonderwijs met ingang van het jaar 2000 | 2 | 2000-01-01 to 2004-12-31 |
+| `machtigingsbesluit-bureau-heffingen-1999` | Machtigingsbesluit Bureau Heffingen 1999 | 2 | 1999-10-01 to 2004-04-26 |
+| `wijzigingen-arbeidsvoorwaarden-sector-politie` | Wijzigingen arbeidsvoorwaarden sector politie | 2 | 1999-10-13 to 2006-09-21 |
+| `aanwijzing-rechercheurs-belastingdienst-economische-controledienst-als-ambtenaren-belast-m` | Aanwijzing rechercheurs Belastingdienst/Economische Controledienst als ambtenaren belast met toezicht naleving Wet voorkoming misbruik chemicaliën | 2 | 1999-10-20 to 2006-02-22 |
+| `regeling-oude-eindexamens-vwo-en-havo-voor-eerder-afgewezen-kandidaten` | Regeling oude eindexamens vwo en havo voor eerder afgewezen kandidaten | 2 | 1999-10-16 to 2004-12-31 |
+| `aanpassing-van-het-wettelijk-minimumloon-per-1-januari-2000` | Aanpassing van het wettelijk minimumloon per 1 januari 2000 | 2 | 2000-01-01 to 2004-09-22 |
+| `vaststelling-aanvraagperiode-in-het-kader-van-de-stimuleringsregeling-innovatie-markt-en-c` | Vaststelling aanvraagperiode in het kader van de Stimuleringsregeling innovatie markt en concurrentiekracht | 2 | 1999-10-10 to 2004-01-24 |
+| `wijziging-diverse-regelingen-i-v-m-intrekken-betaalorgaanstatus-produktschap-margarine-vet` | Wijziging diverse regelingen i.v.m. intrekken betaalorgaanstatus Produktschap Margarine, Vetten en Oliën | 2 | 1999-10-16 to 2004-01-24 |
+| `regeling-aanwijzing-land-en-tuinbouwfolie` | Regeling aanwijzing land- en tuinbouwfolie | 2 | 2002-05-08 to 2003-10-01 |
+| `uitvoeringsregeling-bse-1999-iv` | Uitvoeringsregeling BSE 1999-IV | 2 | 1999-10-20 to 2005-06-11 |
+| `subsidieplafonds-2000-subsidieregeling-welzijnsbeleid-1` | Subsidieplafonds 2000 Subsidieregeling welzijnsbeleid (1) | 2 | 1999-10-24 to 2004-08-28 |
+| `intrekking-betaalorgaanstatus-productschap-vis` | Intrekking betaalorgaanstatus Productschap Vis | 2 | 1999-10-20 to 2004-12-23 |
+| `instellingsbesluit-commissie-monitoring-notariaat` | Instellingsbesluit Commissie monitoring notariaat | 2 | 1999-10-27 to 2005-01-02 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-oktober-1999` | Beschikking rendementen gesubsidieerde woningbouw oktober 1999 | 2 | 1999-10-01 to 2004-12-23 |
+| `regeling-stimulering-ict-universitaire-lerarenopleidingen-1999-2001` | Regeling stimulering ict universitaire lerarenopleidingen 1999 - 2001 | 2 | 1999-11-06 to 2004-12-31 |
+| `vaststelling-collegegeld-studiejaar-2000-2001` | Vaststelling collegegeld studiejaar 2000-2001 | 2 | 1999-10-28 to 2004-12-31 |
+| `nadere-aanvraagperiode-en-subsidieplafond-1999-besluit-behoud-historische-buitenplaatsen` | Nadere aanvraagperiode en subsidieplafond 1999 Besluit behoud historische buitenplaatsen | 2 | 1999-10-27 to 2004-01-24 |
+| `vaststellingsregeling-subsidieplafond-2000-besluit-behoud-historische-buitenplaatsen` | Vaststellingsregeling subsidieplafond 2000 Besluit behoud historische buitenplaatsen | 2 | 1999-10-27 to 2004-01-24 |
+| `uitvoeringsregeling-toekennen-subsidie-scholingsinstituten-wet-rea` | Uitvoeringsregeling toekennen subsidie scholingsinstituten Wet REA | 2 | 2004-01-01 to 2004-07-01 |
+| `subsidieplafond-2000-besluit-instandhouding-landschapselementen` | Subsidieplafond 2000 Besluit instandhouding landschapselementen | 2 | 1999-10-28 to 2004-01-24 |
+| `aanwijzing-opleidingsinstituten-luchtvervoer-gevaarlijke-stoffen` | Aanwijzing opleidingsinstituten luchtvervoer gevaarlijke stoffen | 2 | 2002-07-18 to 2010-01-20 |
+| `subsidieplafond-2000-besluit-voorkoming-verbossing-rietlanden` | Subsidieplafond 2000 Besluit voorkoming verbossing rietlanden | 2 | 1999-10-30 to 2004-01-24 |
+| `vaststelling-subsidieplafond-besluit-landelijke-activiteiten-soortenbescherming-voor-het-j` | Vaststelling subsidieplafond Besluit landelijke activiteiten soortenbescherming voor het jaar 2000 | 2 | 1999-10-30 to 2004-01-24 |
+| `regeling-vaststelling-keuringsrapport` | Regeling vaststelling keuringsrapport | 2 | 2006-01-01 to 2009-05-01 |
+| `regeling-uitvoering-subsidieregeling-energievoorzieningen-in-de-non-profitsector-en-bijzon` | Regeling uitvoering Subsidieregeling energievoorzieningen in de non-profitsector en bijzondere sectoren | 2 | 2000-01-29 to 2003-06-07 |
+| `vrijstellingsregeling-artikel-2-diergeneesmiddelenwet-1999` | Vrijstellingsregeling artikel 2 Diergeneesmiddelenwet 1999 | 2 | 2005-01-30 to 2006-01-13 |
+| `regeling-loon-en-prijsbijstelling-exploitatiekostenvergoeding-1999-voor-scholen-voor-vwo-h` | Regeling loon- en prijsbijstelling exploitatiekostenvergoeding 1999 voor scholen voor vwo, havo, mavo, vbo, lwoo en praktijkonderwijs | 2 | 1999-11-06 to 2004-12-31 |
+| `mandaatbesluit-laser-regeling-groenprojecten` | Mandaatbesluit LASER Regeling groenprojecten | 2 | 1999-11-28 to 2007-07-20 |
+| `mandaatbesluit-novem-regeling-groenprojecten` | Mandaatbesluit NOVEM Regeling groenprojecten | 2 | 1999-11-28 to 2013-05-01 |
+| `vaststelling-formulieren-experiment-golden-harvest` | Vaststelling formulieren experiment ’Golden Harvest’ | 2 | 1999-11-04 to 2004-01-24 |
+| `handhavingsvoorschrift-ameland` | Handhavingsvoorschrift Ameland | 2 | 2004-05-06 to 2008-12-24 |
+| `regeling-vaststelling-vervangende-premie-werkloosheidswet-2000` | Regeling vaststelling vervangende premie Werkloosheidswet 2000 | 2 | 2000-01-01 to 2004-09-22 |
+| `regeling-goedkeuring-tariefstelling-destructiebedrijven` | Regeling goedkeuring tariefstelling destructiebedrijven | 2 | 1999-11-10 to 2004-01-24 |
+| `regeling-eenmalige-vergoeding-invoeringskosten-sluitende-aanpak` | Regeling eenmalige vergoeding invoeringskosten sluitende aanpak | 2 | 1999-11-12 to 2004-09-22 |
+| `nadere-regeling-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-1999` | Nadere regeling besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 1999 | 2 | 1999-11-19 to 2004-08-28 |
+| `regeling-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-2000` | Regeling besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 2000 | 2 | 1999-11-19 to 2004-08-28 |
+| `aanwijzing-macro-verstrekkingenbudget-ziekenfondsverzekering-2000` | Aanwijzing macro-verstrekkingenbudget ziekenfondsverzekering 2000 | 2 | 2000-06-07 to 2004-08-28 |
+| `subsidieregeling-leraren-in-opleiding-1999-2000` | Subsidieregeling leraren in opleiding 1999 - 2000 | 2 | 1999-11-20 to 2004-12-31 |
+| `regeling-vaststelling-aanvraagperioden-2000-eg-premies-ooien-stieren-en-ossen` | Regeling vaststelling aanvraagperioden 2000 EG-premies ooien, stieren en ossen | 2 | 1999-11-18 to 2004-01-24 |
+| `wijziging-regeling-geluidwerende-voorzieningen-1997` | Wijziging Regeling geluidwerende voorzieningen 1997 | 2 | 1999-11-20 to 2008-12-24 |
+| `regeling-uitvoering-artikel-38-derde-lid-wtz-voor-het-jaar-2000` | Regeling uitvoering artikel 38, derde lid, WTZ voor het jaar 2000 | 2 | 2000-01-01 to 2004-08-28 |
+| `uitvoeringsregeling-ex-artikel-38-wet-op-de-toegang-tot-ziektekostenverzekeringen-1998` | Uitvoeringsregeling ex artikel 38 Wet op de toegang tot ziektekostenverzekeringen 1998 | 2 | 2000-01-01 to 2006-01-01 |
+| `instellingsbeschikking-overleg-plan-van-scholen` | Instellingsbeschikking Overleg Plan van Scholen | 2 | 2010-01-01 to 2014-01-23 |
+| `uitvoeringsregeling-bse-1999-v` | Uitvoeringsregeling BSE 1999-V | 2 | 2000-03-30 to 2005-06-11 |
+| `regeling-formulieren-huurprijzenwet-woonruimte` | Regeling formulieren Huurprijzenwet woonruimte | 2 | 2003-07-01 to 2003-08-01 |
+| `vaststelling-hoofdsom-omroepbijdrage-a-en-b-2000` | Vaststelling hoofdsom omroepbijdrage A en B 2000 | 2 | 2000-01-01 to 2009-01-01 |
+| `vaststellingsregeling-subsidieplafond-2000-ex-artikel-50a-wet-op-de-ruimtelijke-ordening` | Vaststellingsregeling subsidieplafond 2000 ex artikel 50a Wet op de Ruimtelijke Ordening | 2 | 1999-12-31 to 2008-07-01 |
+| `wijziging-regeling-subsidies-en-uitkeringen-cultuuruitingen-en-intrekking-regeling-subsidi` | Wijziging Regeling subsidies en uitkeringen cultuuruitingen en intrekking Regeling subsidiëring museale instellingen | 2 | 1999-11-27 to 2004-12-31 |
+| `regeling-modellen-begroting-meerjarenraming-en-jaarrekening-regionale-politiekorpsen` | Regeling modellen begroting, meerjarenraming en jaarrekening regionale politiekorpsen | 2 | 2007-10-24 to 2013-01-01 |
+| `subsidieplafond-2000-subsidieregeling-kennisuitwisseling-beroepsonderwijs-bedrijfsleven` | Subsidieplafond 2000 Subsidieregeling Kennisuitwisseling Beroepsonderwijs Bedrijfsleven | 2 | 2000-01-01 to 2004-12-31 |
+| `regeling-medisch-specialistische-zorg-ziekenfondswet` | Regeling medisch-specialistische zorg Ziekenfondswet | 2 | 2005-01-01 to 2006-01-01 |
+| `handhavingsvoorschrift-texel` | Handhavingsvoorschrift Texel | 2 | 2002-09-11 to 2008-12-24 |
+| `handhavingsvoorschrift-seppe` | Handhavingsvoorschrift Seppe | 2 | 2003-07-26 to 2008-12-24 |
+| `handhavingsvoorschrift-budel` | Handhavingsvoorschrift Budel | 2 | 2002-09-11 to 2008-12-24 |
+| `handhavingsvoorschrift-teuge` | Handhavingsvoorschrift Teuge | 2 | 2003-10-04 to 2008-12-24 |
+| `handhavingsvoorschrift-terlet` | Handhavingsvoorschrift Terlet | 2 | 2002-09-11 to 2008-12-24 |
+| `handhavingsvoorschrift-hoogeveen` | Handhavingsvoorschrift Hoogeveen | 2 | 2002-09-11 to 2008-12-24 |
+| `handhavingsvoorschrift-lelystad` | Handhavingsvoorschrift Lelystad | 2 | 2004-05-16 to 2008-12-24 |
+| `regeling-wet-werk-en-inkomen-kunstenaars` | Regeling Wet werk en inkomen kunstenaars | 2 | 2005-01-01 to 2012-01-01 |
+| `subsidieregeling-kosten-invoering-euro-in-het-primair-en-speciaal-voortgezet-onderwijs` | Subsidieregeling kosten invoering euro in het primair en speciaal voortgezet onderwijs | 2 | 1999-12-11 to 2004-12-31 |
+| `subsidieplafond-2000-publieksvoorlichting-wetenschap-en-technologie` | Subsidieplafond 2000 publieksvoorlichting wetenschap en technologie | 2 | 2000-02-02 to 2004-12-31 |
+| `regeling-vaststelling-premiepercentages-en-premiebedragen-sociale-ziektekostenverzekeringe` | Regeling vaststelling premiepercentages en premiebedragen sociale ziektekostenverzekeringen 2000 | 2 | 2000-01-01 to 2004-08-28 |
+| `regeling-aanvullende-vergoeding-vernieuwingen-aocs-en-categoriaal-vbo-groen` | Regeling aanvullende vergoeding vernieuwingen AOC’s en categoriaal vbo-groen | 2 | 1999-12-05 to 2004-01-24 |
+| `regeling-omslag-werkwijze-eerste-en-tweedegraads-lerarenopleidingen-hbo-1999-2004` | Regeling omslag werkwijze eerste- en tweedegraads lerarenopleidingen hbo 1999 - 2004 | 2 | 2002-11-03 to 2008-08-01 |
+| `regeling-vaststelling-bedrag-nascholing-voortgezet-onderwijs-2000-2001` | Regeling vaststelling bedrag nascholing voortgezet onderwijs 2000-2001 | 2 | 2000-08-01 to 2004-12-31 |
+| `regeling-aanpassing-landelijk-gemiddelde-personeelslast-bedragen-landelijke-gpl-bedragen-i` | Regeling aanpassing landelijk gemiddelde personeelslast-bedragen (landelijke gpl-bedragen) in verband met de CAO 1999 - 2000 | 2 | 1999-12-18 to 2004-12-31 |
+| `uitvoeringsregeling-web` | Uitvoeringsregeling WEB | 2 | 2009-01-01 to 2010-01-01 |
+| `wijziging-kredietregeling-milieugerichte-productontwikkeling-1998-en-vaststelling-kredietp` | Wijziging Kredietregeling milieugerichte productontwikkeling 1998 en vaststelling kredietplafond MPO 2000 | 2 | 2000-01-01 to 2005-06-11 |
+| `vaststelling-subsidieplafond-2000-subsidieregeling-referentieprojecten-milieutechnologie-1` | Vaststelling subsidieplafond 2000 Subsidieregeling referentieprojecten milieutechnologie 1998 | 2 | 1999-12-12 to 2003-06-07 |
+| `vaststelling-aanvraagperiode-en-subsidieplafond-bts-2000-i` | Vaststelling aanvraagperiode en subsidieplafond BTS 2000-I | 2 | 2000-07-14 to 2004-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-november-1999` | Beschikking rendementen gesubsidieerde woningbouw november 1999 | 2 | 1999-11-01 to 2004-12-23 |
+| `subsidieregeling-bedrijfsgezondheidszorg-voor-het-primair-onderwijs-en-het-speciaal-voortg` | Subsidieregeling bedrijfsgezondheidszorg voor het primair onderwijs en het speciaal voortgezet onderwijs gedurende de periode januari 2000 tot en met december 2000 | 2 | 2000-01-01 to 2004-12-31 |
+| `regeling-tot-vaststelling-van-de-normbedragen-voor-voorschotverlening-op-grond-van-het-bes` | Regeling tot vaststelling van de normbedragen voor voorschotverlening op grond van het Besluit vergoedingen rechtsbijstand 2000 | 2 | 2000-01-01 to 2005-01-02 |
+| `subsidieplafond-2000-subsidieregeling-branchecentra-technologie` | Subsidieplafond 2000 subsidieregeling branchecentra technologie | 2 | 1999-12-22 to 2003-06-07 |
+| `subsidieplafond-2000-subsidieregeling-energie-efficiency-en-milieuadviezen` | Subsidieplafond 2000 subsidieregeling energie-efficiency- en milieuadviezen | 2 | 2000-09-13 to 2003-06-07 |
+| `subsidieplafond-2000-borgstelling-mkb-kredieten` | Subsidieplafond 2000 borgstelling MKB-kredieten | 2 | 1999-12-22 to 2005-06-11 |
+| `regeling-informatieverstrekking-win-1999` | Regeling informatieverstrekking WIN 1999 | 2 | 1999-12-18 to 2004-12-31 |
+| `regeling-vrijlating-immateriele-schadevergoeding-algemene-bijstandswet` | Regeling vrijlating immateriële schadevergoeding Algemene bijstandswet | 2 | 2000-07-16 to 2004-01-01 |
+| `vaststelling-subsidieplafond-2000-op-grond-van-subsidieregeling-actieve-zon-thermische-sys` | Vaststelling subsidieplafond 2000 op grond van Subsidieregeling actieve zon-thermische systemen 1998 | 2 | 1999-12-19 to 2003-06-07 |
+| `wijziging-regeling-financiele-tegemoetkoming-wet-herstructurering-varkenshouderij` | Wijziging Regeling financiële tegemoetkoming Wet herstructurering varkenshouderij | 2 | 1999-12-31 to 2004-01-24 |
+| `vaststelling-subsidieplafonds-en-thema-voor-2000-in-kader-versterking-recreatie` | Vaststelling subsidieplafonds en thema voor 2000 in kader versterking recreatie | 2 | 1999-12-17 to 2004-01-24 |
+| `subsidieplafonds-2000-regelingen-exportfinancieringsarrangementen` | Subsidieplafonds 2000 regelingen exportfinancieringsarrangementen | 2 | 1999-12-18 to 2005-06-11 |
+| `regeling-eenmalige-subsidies-hoogniveaurenovatie` | Regeling eenmalige subsidies hoogniveaurenovatie | 2 | 1999-12-22 to 2004-12-23 |
+| `regeling-modellen-vestigingsvergunning-bedrijven` | Regeling modellen vestigingsvergunning bedrijven | 2 | 1996-01-01 to 2007-07-18 |
+| `instelling-nationale-task-force-werkgroep` | Instelling nationale Task Force werkgroep | 2 | 2002-01-01 to 2009-02-06 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-subsidieregeling-ministerie-van-buitenlan` | Vaststelling subsidieplafond en beleidsvoornemen Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 1999-12-26 to 2006-01-01 |
+| `regeling-declaratie-uitgaven-wet-werkloosheidsvoorziening` | Regeling declaratie uitgaven Wet Werkloosheidsvoorziening | 2 | 2006-07-02 to 2008-08-01 |
+| `beleidsvoornemen-subsidieregeling-ministerie-van-buitenlandse-zaken` | Beleidsvoornemen Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 2000-02-01 to 2006-01-01 |
+| `vaststelling-bedrag-vrijstelling-uit-vermogen-ingevolge-wetten-oorlogsgetroffenen-per-1-ja` | Vaststelling bedrag vrijstelling uit vermogen ingevolge wetten oorlogsgetroffenen per 1 januari 2000 | 2 | 2000-01-01 to 2004-08-28 |
+| `regeling-erkenning-gelijkwaardige-radardiplomas-reglement-radarpatenten` | Regeling erkenning gelijkwaardige radardiploma’s Reglement radarpatenten | 2 | 2005-12-03 to 2008-04-01 |
+| `mandaatbesluit-met-betrekking-tot-besluit-reglement-radarpatenten` | Mandaatbesluit met betrekking tot Besluit Reglement radarpatenten | 2 | 2000-01-01 to 2005-07-01 |
+| `regeling-aanwijzing-bevoegde-autoriteiten-reglement-radarpatenten` | Regeling aanwijzing bevoegde autoriteiten Reglement radarpatenten | 2 | 2000-01-01 to 2006-01-01 |
+| `vaststelling-bedragen-2000-kostenregeling-wet-toezicht-beleggingsinstellingen` | Vaststelling bedragen 2000 kostenregeling Wet toezicht beleggingsinstellingen | 2 | 2000-01-02 to 2004-01-01 |
+| `wijziging-regeling-toelating-bestrijdingsmiddelen-1995` | Wijziging Regeling toelating bestrijdingsmiddelen 1995 | 2 | 1999-12-31 to 2004-12-23 |
+| `subsidieregeling-agrarisch-natuurbeheer` | Subsidieregeling agrarisch natuurbeheer | 2 | 2006-12-22 to 2007-01-01 |
+| `aansluiting-24-gemeenten-bij-nationale-ombudsman` | Aansluiting 24 gemeenten bij Nationale ombudsman | 2 | 2000-01-01 to 2013-07-01 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-subsidiering-op-grond-van-de-subsidierege` | Vaststelling subsidieplafond en beleidsvoornemen subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 2000-01-12 to 2006-01-01 |
+| `subsidieplafond-subsidieregeling-ministerie-van-buitenlandse-zaken` | Subsidieplafond Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 1999-12-24 to 2006-01-01 |
+| `regeling-houdende-het-als-loon-in-aanmerking-te-nemen-deel-van-de-vergoedingen-kosten-kind` | Regeling houdende het als loon in aanmerking te nemen deel van de vergoedingen kosten kinderopvang | 2 | 2000-01-01 to 2005-01-01 |
+| `programmabeheer-beleidsregels-natuur` | Programmabeheer beleidsregels natuur | 2 | 2000-01-01 to 2004-12-26 |
+| `aanvraagperioden-programmabeheer` | Aanvraagperioden programmabeheer | 2 | 2000-01-01 to 2004-01-24 |
+| `aanvraagperioden-programmabeheer-subsidieregeling-agrarisch-natuurbeheer` | Aanvraagperioden programmabeheer subsidieregeling agrarisch natuurbeheer | 2 | 2000-01-01 to 2004-01-24 |
+| `programmabeheer-beleidsregels-agrarisch-natuurbeheer` | Programmabeheer beleidsregels agrarisch natuurbeheer | 2 | 2000-01-01 to 2004-12-26 |
+| `regeling-rijksbijdrage-sluitende-aanpak-ww-2000` | Regeling rijksbijdrage sluitende aanpak WW 2000 | 2 | 2001-05-23 to 2004-09-22 |
+| `regeling-subsidiering-stichting-caop` | Regeling subsidiëring Stichting CAOP | 2 | 2002-01-01 to 2006-01-01 |
+| `regeling-taakstelling-sluitende-aanpak-ww-2000` | Regeling taakstelling sluitende aanpak WW 2000 | 2 | 2001-05-23 to 2004-09-22 |
+| `wijziging-regelen-verzekeringsovereenkomsten` | Wijziging Regelen verzekeringsovereenkomsten | 2 | 2001-01-01 to 2007-01-01 |
+| `beleidsvoornemens-en-subsidieplafonds-subsidieregeling-bz` | Beleidsvoornemens en subsidieplafonds subsidieregeling BZ | 2 | 2000-04-12 to 2006-01-01 |
+| `regeling-opnemen-vertrouwelijke-communicatie-klpd` | Regeling opnemen vertrouwelijke communicatie KLPD | 2 | 2000-02-01 to 2007-01-01 |
+| `regeling-ondersteuning-herstructurering-kunstonderwijs-hbo-2000-2004` | Regeling ondersteuning herstructurering kunstonderwijs hbo 2000-2004 | 2 | 2002-11-30 to 2008-08-01 |
+| `wijziging-tarieven-beschikking-beheersovereenkomsten-bbo-1983` | Wijziging tarieven Beschikking beheersovereenkomsten (Bbo) 1983 | 2 | 2000-01-01 to 2004-01-24 |
+| `wijziging-tarieven-regeling-beheersovereenkomsten-rbo-1993` | Wijziging tarieven Regeling beheersovereenkomsten (Rbo) 1993 | 2 | 2000-01-01 to 2004-01-24 |
+| `subsidieplafond-2000-besluit-instandhouding-schaapskuddes` | Subsidieplafond 2000 Besluit instandhouding schaapskuddes | 2 | 1999-12-31 to 2004-01-24 |
+| `subsidieplafond-2000-besluit-versterking-natuur-en-bosbeheer-bij-bos-en-landgoedeigenaren` | Subsidieplafond 2000 Besluit versterking natuur en bosbeheer bij bos- en landgoedeigenaren | 2 | 1999-12-31 to 2004-01-24 |
+| `vaststelling-aanvraagperiode-en-subsidieplafond-regeling-subsidiering-kwaliteit-groene-har` | Vaststelling aanvraagperiode en subsidieplafond Regeling subsidiëring kwaliteit Groene Hart | 2 | 1999-12-30 to 2005-01-30 |
+| `beleidsvoornemen-subsidiering-op-grond-van-de-subsidieregeling-ministerie-van-buitenlandse` | Beleidsvoornemen subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 2000-01-01 to 2006-01-01 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-subsidiering-op-grond-van-de-subsidierege-2` | Vaststelling subsidieplafond en beleidsvoornemen subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken; Matra Doelbijdragen Programma | 2 | 2000-01-01 to 2006-01-01 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-subsidiering-op-grond-van-de-subsidierege-3` | Vaststelling subsidieplafond en beleidsvoornemen subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken; Matra Opleidingen Programma (Midden- en Oost-Europa) | 2 | 2000-07-26 to 2006-01-01 |
+| `regeling-bevordering-vrijwillige-uittreding-medewerkers-cbs` | Regeling bevordering vrijwillige uittreding medewerkers CBS | 2 | 2000-01-06 to 2005-06-11 |
+| `regeling-verdeling-procentuele-ziekenfondspremie-2000` | Regeling verdeling procentuele ziekenfondspremie 2000 | 2 | 2000-01-01 to 2004-08-28 |
+| `vaststelling-aanvraagperiode-en-subsidieplafond-bts-2000-i-2` | Vaststelling aanvraagperiode en subsidieplafond BTS 2000-I | 2 | 2001-07-12 to 2004-01-01 |
+| `wijzigingsregeling-regeling-gewogen-gemiddelde-leeftijd-aanpassing-landelijke-gemiddelde-p` | Wijzigingsregeling Regeling gewogen gemiddelde leeftijd (aanpassing landelijke gemiddelde personeelslastbedragen i.v.m. ZKOO-uitkering en CAO 2000-2002) | 2 | 2000-09-16 to 2004-12-31 |
+| `instelling-werkgroep-notaris-in-loondienst` | Instelling werkgroep notaris-in-loondienst | 2 | 2000-03-01 to 2005-01-02 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-voor-subsidiering-op-grond-van-de-subsidi` | Vaststelling subsidieplafond en beleidsvoornemen voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 2000-10-19 to 2006-01-01 |
+| `regeling-bijdrage-nederlandse-rode-kruis-1999` | Regeling bijdrage Nederlandse Rode Kruis 1999 | 2 | 2002-01-01 to 2008-12-26 |
+| `vaststelling-bedragen-per-eenheid-voor-uitkering-uit-het-gemeentefonds` | Vaststelling bedragen per eenheid voor uitkering uit het gemeentefonds | 2 | 2000-01-30 to 2005-02-01 |
+| `instelling-commissie-tarieven-gerechtsdeurwaarder` | Instelling Commissie tarieven gerechtsdeurwaarder | 2 | 2000-03-01 to 2005-01-02 |
+| `regeling-risicoschatting-nieuwe-drugs` | Regeling risicoschatting nieuwe drugs | 2 | 2000-01-13 to 2003-01-01 |
+| `instellingsbesluit-begeleidingscommissie-audit-ek2000` | Instellingsbesluit Begeleidingscommissie audit EK2000 | 2 | 2000-01-19 to 2005-02-01 |
+| `mandaatbesluit-laser-wet-bescherming-antarctica` | Mandaatbesluit LASER Wet bescherming Antarctica | 2 | 2000-01-27 to 2007-06-06 |
+| `wijziging-warenwetregeling-algemene-chemische-produktveiligheid` | Wijziging Warenwetregeling algemene chemische produktveiligheid | 2 | 2001-09-30 to 2009-12-16 |
+| `instellingsbesluit-tijdelijke-evaluatiecommissies-bilaterale-samenwerking` | Instellingsbesluit Tijdelijke Evaluatiecommissies Bilaterale Samenwerking | 2 | 2000-02-02 to 2004-12-31 |
+| `regeling-vetten-in-diervoeders` | Regeling vetten in diervoeders | 2 | 2003-03-20 to 2004-10-18 |
+| `wijziging-subsidieregeling-energievoorzieningen-in-de-non-profit-en-bijzondere-sectoren-20` | Wijziging Subsidieregeling energievoorzieningen in de non-profit en bijzondere sectoren (2000) | 2 | 2000-01-29 to 2003-06-07 |
+| `aanwijzing-ex-artikel-13d-wet-politieregisters` | Aanwijzing ex artikel 13d Wet politieregisters | 2 | 2000-02-01 to 2008-01-01 |
+| `regeling-toestemmingsprocedures-wet-ziekenhuisvoorzieningen` | Regeling toestemmingsprocedures Wet ziekenhuisvoorzieningen | 2 | 2005-10-30 to 2006-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-januari-2000` | Beschikking rendementen gesubsidieerde woningbouw januari 2000 | 2 | 2000-01-01 to 2004-12-23 |
+| `vaststelling-peildatum-ledental-omroep-i-v-m-nieuw-concessiestelsel-landelijke-publieke-om` | Vaststelling peildatum ledental omroep i.v.m. nieuw concessiestelsel landelijke publieke omroep | 2 | 2000-04-06 to 2004-12-31 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-subsidiering-op-grond-van-de-subsidierege-4` | Vaststelling subsidieplafond en beleidsvoornemen subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken; Matra Politieke Partijen Programma | 2 | 2000-02-19 to 2006-01-01 |
+| `regeling-vaststelling-controleprotocol-en-verantwoording-inburgering-nieuwkomers-1999` | Regeling vaststelling controleprotocol en verantwoording inburgering nieuwkomers 1999 | 2 | 2000-02-19 to 2004-12-31 |
+| `vaststelling-subsidieplafond-2000-programmabeheer-subsidieregeling-agrarisch-natuurbeheer` | Vaststelling subsidieplafond 2000 programmabeheer Subsidieregeling agrarisch natuurbeheer | 2 | 2000-02-01 to 2004-01-24 |
+| `vaststelling-subsidieplafond-2000-programmabeheer-subsidieregeling-natuurbeheer-2000` | Vaststelling subsidieplafond 2000 programmabeheer Subsidieregeling natuurbeheer 2000 | 2 | 2000-02-01 to 2004-01-24 |
+| `aanpassing-per-1-januari-2000-van-wuv-uitkeringen-indonesie` | Aanpassing per 1 januari 2000 van Wuv-uitkeringen Indonesië | 2 | 2000-02-04 to 2004-08-28 |
+| `wijziging-regels-voor-toestellen-onder-druk` | Wijziging Regels voor toestellen onder druk | 2 | 2000-02-04 to 2008-09-25 |
+| `aanpassing-grondslagen-en-percentages-wetten-voor-oorlogsslachtoffers-per-1-december-1999` | Aanpassing grondslagen en percentages wetten voor oorlogsslachtoffers per 1 december 1999 en 1 januari 2000 | 2 | 2000-02-06 to 2004-08-28 |
+| `stimuleringsregeling-sociale-activering` | Stimuleringsregeling sociale activering | 2 | 2000-02-10 to 2004-09-22 |
+| `vaststelling-subsidieplafond-subsidieregeling-ministerie-van-buitenlandse-zaken` | Vaststelling subsidieplafond Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 2000-06-17 to 2006-01-01 |
+| `vaststelling-formulier-grondgebruiksverklaring` | Vaststelling formulier grondgebruiksverklaring | 2 | 2000-02-10 to 2006-01-01 |
+| `wijziging-subsidieregeling-innovatiegerichte-onderzoekprogrammas-en-vaststelling-subsidiep` | Wijziging Subsidieregeling innovatiegerichte onderzoekprogramma’s en vaststelling subsidieplafonds 2000 | 2 | 2000-02-19 to 2005-06-11 |
+| `subsidieplafond-subsidieregeling-maatschappelijke-organisaties-en-milieu-2` | Subsidieplafond Subsidieregeling maatschappelijke organisaties en milieu | 2 | 2000-12-24 to 2004-12-23 |
+| `instellingsbesluit-inspraakpunt-verkeer-en-waterstaat` | Instellingsbesluit Inspraakpunt Verkeer en Waterstaat | 2 | 2005-03-25 to 2010-08-21 |
+| `instellingsbeschikking-procesmanagement-primair-onderwijs` | Instellingsbeschikking Procesmanagement Primair Onderwijs | 2 | 2000-04-01 to 2004-12-31 |
+| `mandaatverlening-aan-senter-ter-uitvoering-van-het-programma-transportpreventie` | Mandaatverlening aan Senter ter uitvoering van het Programma Transportpreventie | 2 | 2000-02-24 to 2004-07-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-februari-2000` | Beschikking rendementen gesubsidieerde woningbouw februari 2000 | 2 | 2000-02-01 to 2004-12-23 |
+| `regeling-vaststelling-maximale-huurprijsgrenzen-woonruimten-2000-2001` | Regeling vaststelling maximale huurprijsgrenzen woonruimten 2000/2001 | 2 | 2000-07-01 to 2004-12-23 |
+| `regeling-kennisoverdracht-milieubeheer-2000` | Regeling Kennisoverdracht Milieubeheer 2000 | 2 | 2000-02-27 to 2004-12-23 |
+| `toepassing-wet-nationale-ombudsman-op-de-gemeente-nijkerk` | Toepassing Wet Nationale Ombudsman op de gemeente Nijkerk | 2 | 2000-03-01 to 2013-07-01 |
+| `besluit-ontheffing-exameneis-buitengewoon-opsporingsambtenaren-bfo` | Besluit ontheffing exameneis buitengewoon opsporingsambtenaren BFO | 2 | 2000-03-03 to 2005-01-01 |
+| `regeling-overgangsmaatregelen-vo-eindexamens-oude-stijl` | Regeling overgangsmaatregelen vo-eindexamens oude stijl | 2 | 2000-03-18 to 2004-12-31 |
+| `gelijkstelling-buitenlands-keurmerk-voor-attractietoestellen-aan-nederlands-keurmerk` | Gelijkstelling buitenlands keurmerk voor attractietoestellen aan Nederlands keurmerk | 2 | 2000-03-08 to 2005-03-05 |
+| `mandaatverlening-aan-senter-ter-uitvoering-van-de-subsidieregeling-zichtveldverbeterende-s` | Mandaatverlening aan Senter ter uitvoering van de Subsidieregeling zichtveldverbeterende systemen bedrijfsauto’s | 2 | 2004-09-10 to 2005-07-01 |
+| `mandaatbesluit-novem-subsidieregeling-milieugerichte-technologie-2000` | Mandaatbesluit NOVEM Subsidieregeling milieugerichte technologie 2000 | 2 | 2001-06-23 to 2005-05-20 |
+| `vaststelling-rekenfactor-1999-buitengewone-oorlogspensioenen` | Vaststelling rekenfactor 1999 buitengewone oorlogspensioenen | 2 | 2000-03-04 to 2004-08-28 |
+| `beleidsvoornemen-activiteiten-internationale-culturele-samenwerking` | Beleidsvoornemen activiteiten Internationale Culturele Samenwerking | 2 | 2000-03-05 to 2006-01-01 |
+| `regeling-meldingen-lozingenbesluit-open-teelt-en-veehouderij` | Regeling meldingen Lozingenbesluit open teelt en veehouderij | 2 | 2009-12-22 to 2013-01-01 |
+| `regeling-benoeming-en-vergoedingen-commissie-strafvorderlijke-gegevensvergaring-in-de-info` | Regeling benoeming en vergoedingen Commissie Strafvorderlijke gegevensvergaring in de informatiemaatschappij | 2 | 2000-03-19 to 2005-01-02 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer-1997-1998` | Besluit vaststelling wisselkoers en prijsindexcijfer 1997/1998 | 2 | 2000-03-22 to 2005-02-01 |
+| `vergoedingenregeling-adviescommissie-modernisering-gba` | Vergoedingenregeling Adviescommissie Modernisering GBA | 2 | 2000-03-17 to 2005-02-01 |
+| `vaststelling-subsidieplafonds-sanering-verkeerslawaai-3` | Vaststelling subsidieplafonds sanering verkeerslawaai | 2 | 2000-12-16 to 2004-12-23 |
+| `regeling-aanwijzing-doelgroepen-remigratiewet` | Regeling aanwijzing doelgroepen Remigratiewet | 2 | 2011-11-16 to 2014-07-01 |
+| `regeling-aanpassing-landelijk-gemiddelde-personeelslastbedragen-en-bekendmaking-opslagperc` | Regeling aanpassing landelijk gemiddelde personeelslastbedragen en bekendmaking opslagpercentages Vervangingsfonds en Participatiefonds, schooljaar 1999 - 2000 en 2000 - 2001 | 2 | 2000-08-01 to 2004-12-31 |
+| `mandaatbesluit-infomil-saneringsregeling-overige-asbestwegen` | Mandaatbesluit InfoMil Saneringsregeling overige asbestwegen | 2 | 2000-03-25 to 2004-12-23 |
+| `derde-wijziging-subsidieregeling-programma-technologie-en-samenleving` | Derde wijziging Subsidieregeling programma technologie en samenleving | 2 | 2000-03-11 to 2003-06-07 |
+| `regeling-aanwijzing-slachtinrichtingen-offerfeest-2000` | Regeling aanwijzing slachtinrichtingen offerfeest 2000 | 2 | 2000-03-16 to 2004-01-24 |
+| `regeling-vaststelling-bedragen-remigratiewet` | Regeling vaststelling bedragen Remigratiewet | 2 | 2014-06-21 to 2014-07-01 |
+| `tijdelijke-subsidieregeling-projecten-maatschappelijke-opvang-en-geestelijke-gezondheidszo` | Tijdelijke subsidieregeling projecten maatschappelijke opvang en geestelijke gezondheidszorg 2000 | 2 | 2000-03-16 to 2004-08-28 |
+| `besluit-instelling-directie-internationale-zaken` | Besluit instelling Directie Internationale Zaken | 2 | 2000-03-23 to 2010-08-21 |
+| `besluit-buitengewoon-opsporingsambtenaar-regionale-verkeershandhaving-2000` | Besluit buitengewoon opsporingsambtenaar regionale verkeershandhaving 2000 | 2 | 2001-02-08 to 2003-06-07 |
+| `reglement-beroepscommissie-besluit-vluchtige-organische-stoffen-wms-2000` | Reglement Beroepscommissie Besluit vluchtige organische stoffen Wms 2000 | 2 | 2000-04-13 to 2006-04-28 |
+| `regeling-erkenning-en-examinering-besluit-vluchtige-organische-stoffen-wms-2000` | Regeling erkenning en examinering Besluit vluchtige organische stoffen Wms 2000 | 2 | 2000-04-13 to 2006-04-28 |
+| `subsidieplafonds-voor-beeindingssubsidie-en-sloopsubsidie-veehouderijtakken` | Subsidieplafonds voor beëindingssubsidie en sloopsubsidie veehouderijtakken | 2 | 2002-01-01 to 2004-01-24 |
+| `regeling-aanwijzing-vreemdelingen-wegens-verblijf-voor-een-tijdelijk-doel` | Regeling aanwijzing vreemdelingen wegens verblijf voor een tijdelijk doel | 2 | 2013-06-01 to 2014-07-01 |
+| `afwijking-profielen-vwo-havo-voor-leerlingen-1998` | Afwijking profielen vwo/havo voor leerlingen 1998 | 2 | 2000-04-01 to 2004-12-31 |
+| `regeling-profielen-2000` | Regeling profielen 2000 | 2 | 2000-04-01 to 2007-08-01 |
+| `vrijstellingsregeling-gestarte-en-uitgebreide-bedrijven-meststoffenwet` | Vrijstellingsregeling gestarte en uitgebreide bedrijven Meststoffenwet | 2 | 2005-01-01 to 2006-01-01 |
+| `herziening-lesgeld-voor-het-cursusjaar-2000-2001` | Herziening lesgeld voor het cursusjaar 2000-2001 | 2 | 2000-03-25 to 2004-12-31 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-maart-2000` | Beschikking rendementen gesubsidieerde woningbouw maart 2000 | 2 | 2000-03-01 to 2004-12-23 |
+| `vaststelling-autorisatie-aanvraagformulieren` | Vaststelling autorisatie-aanvraagformulieren | 2 | 2001-02-01 to 2014-01-06 |
+| `aanwijzing-toezichthoudende-ambtenaren-naleving-woningwet` | Aanwijzing toezichthoudende ambtenaren naleving Woningwet | 2 | 2000-04-19 to 2005-02-25 |
+| `wijzigingsregeling-uitvoeringsregeling-web` | Wijzigingsregeling Uitvoeringsregeling WEB | 2 | 2000-04-08 to 2004-12-31 |
+| `regeling-derde-cultuurallocatie-nederland-suriname` | Regeling derde Cultuurallocatie Nederland-Suriname | 2 | 2000-04-13 to 2006-01-01 |
+| `regeling-vaststelling-indieningsperiode-2000-aanvraag-oppervlakten` | Regeling vaststelling indieningsperiode 2000 aanvraag oppervlakten | 2 | 2000-03-29 to 2004-01-24 |
+| `uitvoeringsregeling-bse-2000-i` | Uitvoeringsregeling BSE 2000-I | 2 | 2001-04-14 to 2005-06-11 |
+| `openstelling-en-subsidieplafond-2000-stimuleringsregeling-vernieuwing-landelijk-gebied` | Openstelling en subsidieplafond 2000 Stimuleringsregeling vernieuwing landelijk gebied | 2 | 2000-03-31 to 2004-01-24 |
+| `bekendmaking-aantal-naar-verwachting-te-huisvesten-verblijfsgerechtigden-en-vergunninghoud` | Bekendmaking aantal naar verwachting te huisvesten verblijfsgerechtigden en vergunninghouders 1 juli 2000 - 31 december 2000 | 2 | 2000-05-01 to 2005-01-02 |
+| `uitvoeringsregeling-bsz-2000` | Uitvoeringsregeling BSZ 2000 | 2 | 2000-10-29 to 2005-06-11 |
+| `vaststelling-subsidieplafond-2000-subsidieregeling-agrarisch-natuurbeheer` | Vaststelling subsidieplafond 2000 Subsidieregeling agrarisch natuurbeheer | 2 | 2000-04-01 to 2004-01-24 |
+| `vaststelling-subsidieplafonds-subsidieregeling-natuurbeheer-2000` | Vaststelling subsidieplafonds Subsidieregeling natuurbeheer 2000 | 2 | 2000-04-01 to 2004-01-24 |
+| `subsidieplafond-beleidsgerichte-technologische-samenwerking-bts-2000-ii` | Subsidieplafond beleidsgerichte technologische samenwerking (BTS) 2000-II | 2 | 2000-11-05 to 2004-01-01 |
+| `regeling-verantwoording-kosten-wvg-woonvoorzieningen` | Regeling verantwoording kosten Wvg-woonvoorzieningen | 2 | 2006-11-03 to 2007-01-01 |
+| `vaststelling-aanvraagperiode-in-het-kader-van-de-stimuleringsregeling-innovatie-markt-en-c-2` | Vaststelling aanvraagperiode in het kader van de Stimuleringsregeling innovatie markt en concurrentiekracht 2000 | 2 | 2000-04-05 to 2004-01-24 |
+| `subsidieplafonds-en-beleidsvoornemens-subsidieregeling-ministerie-buitenlandse-zaken-2` | Subsidieplafonds en beleidsvoornemens Subsidieregeling Ministerie Buitenlandse Zaken (2) | 2 | 2000-04-14 to 2006-01-01 |
+| `subsidieplafonds-en-beleidsvoornemens-subsidieregeling-ministerie-buitenlandse-zaken-1` | Subsidieplafonds en beleidsvoornemens Subsidieregeling Ministerie Buitenlandse Zaken (1) | 2 | 2000-04-14 to 2006-01-01 |
+| `vaststelling-subsidieplafond-2000-infrastructuurregeling-glastuinbouwgebieden` | Vaststelling subsidieplafond 2000 Infrastructuurregeling glastuinbouwgebieden | 2 | 2000-04-09 to 2004-01-24 |
+| `onderwerpen-filosofie-centraal-examen-havo-2001-en-vwo-2001-en-2002` | Onderwerpen filosofie centraal examen havo 2001 en vwo 2001 en 2002 | 2 | 2000-04-22 to 2004-12-31 |
+| `thema-beeldende-vakken-examen-vwo-2001` | Thema beeldende vakken examen vwo 2001 | 2 | 2000-04-22 to 2004-12-31 |
+| `wijziging-regeling-contingentering-zeevis-kabeljauw-en-wijting` | Wijziging Regeling contingentering zeevis (kabeljauw en wijting) | 2 | 2000-04-12 to 2004-01-24 |
+| `programma-ketenmobiliteit-2000` | Programma Ketenmobiliteit 2000 | 2 | 2000-04-15 to 2009-07-15 |
+| `regeling-verkeersregelaars` | Regeling verkeersregelaars | 2 | 2006-10-01 to 2009-03-01 |
+| `mandaatsbesluit-stichting-bloembollenkeuringsdienst` | Mandaatsbesluit Stichting Bloembollenkeuringsdienst | 2 | 2000-04-19 to 2013-03-01 |
+| `wijziging-regeling-waardering-loon-in-natura-2000` | Wijziging Regeling waardering loon in natura 2000 | 2 | 2000-04-21 to 2004-09-22 |
+| `vaststelling-huursubsidie-uitgavennorm-voor-het-subsidiejaar-2000-2001` | Vaststelling huursubsidie-uitgavennorm voor het subsidiejaar 2000/2001 | 2 | 2000-07-01 to 2003-07-01 |
+| `regeling-intrasectoraal-programma-handel-en-administratie-vmbo` | Regeling intrasectoraal programma handel en administratie vmbo | 2 | 2006-05-17 to 2007-08-01 |
+| `regeling-intrasectoraal-programma-metalektro-vmbo` | Regeling intrasectoraal programma metalektro vmbo | 2 | 2006-05-17 to 2007-08-01 |
+| `regeling-intrasectoraal-programma-zorg-en-welzijn-breed-vmbo` | Regeling intrasectoraal programma zorg-en-welzijn-breed vmbo | 2 | 2006-05-17 to 2007-08-01 |
+| `regeling-intrasectoraal-programma-instalektro-vmbo` | Regeling intrasectoraal programma instalektro vmbo | 2 | 2006-05-17 to 2007-08-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-april-2000` | Beschikking rendementen gesubsidieerde woningbouw, april 2000 | 2 | 2000-04-01 to 2004-12-23 |
+| `wijziging-regeling-ontvallen-betrouwbaarheid` | Wijziging Regeling ontvallen betrouwbaarheid | 2 | 2000-05-05 to 2009-05-01 |
+| `vaststelling-subsidieplafonds-tweede-tender-e-e-t-projecten-2000` | Vaststelling subsidieplafonds tweede tender E.E.T.-projecten 2000 | 2 | 2000-05-04 to 2004-01-01 |
+| `vaststelling-dekking-kosten-college-zorgverzekeringen-1999` | Vaststelling dekking kosten College zorgverzekeringen 1999 | 2 | 2000-05-04 to 2004-08-28 |
+| `besluit-buitengewoon-opsporingsambtenaar-klpd-2000` | Besluit buitengewoon opsporingsambtenaar KLPD 2000 | 2 | 2000-05-27 to 2004-09-01 |
+| `uitvoeringsregeling-bse-2000-ii` | Uitvoeringsregeling BSE 2000-II | 2 | 2000-12-16 to 2005-06-11 |
+| `thema-s-centraal-examen-klassieke-taal-en-letterkunde-2002` | Thema's centraal examen klassieke taal en letterkunde 2002 | 2 | 2000-05-27 to 2004-12-31 |
+| `vaststelling-subsidieplafond-tender-2000` | Vaststelling subsidieplafond tender 2000 | 2 | 2000-05-13 to 2003-06-07 |
+| `regeling-aanwijzing-bevoegde-autoriteiten-rijnvaartpolitiereglement-1995` | Regeling aanwijzing bevoegde autoriteiten Rijnvaartpolitiereglement 1995 | 2 | 2005-04-20 to 2006-01-01 |
+| `uitvoeringsregeling-cvo` | Uitvoeringsregeling CVO | 2 | 2009-11-28 to 2010-01-01 |
+| `regeling-samenvoeging-van-scholen-in-het-basisonderwijs-het-voortgezet-speciaal-onderwijs-2` | Regeling samenvoeging van scholen in het basisonderwijs, het (voortgezet) speciaal onderwijs en het speciaal voortgezet onderwijs | 2 | 2000-08-01 to 2004-12-31 |
+| `tijdelijke-beschikking-erkenning-bepaalde-belgische-en-duitse-hulp-verleningsdiensten-en-v` | Tijdelijke beschikking erkenning bepaalde Belgische en Duitse hulp verleningsdiensten en vrijstelling van de Regeling optische en geluidssignalen | 2 | 2000-07-01 to 2009-03-01 |
+| `vrijstellingsregeling-lokaalspoorwegen` | Vrijstellingsregeling lokaalspoorwegen | 2 | 2000-06-09 to 2007-04-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-mei-2000` | Beschikking rendementen gesubsidieerde woningbouw mei 2000 | 2 | 2000-05-01 to 2004-12-23 |
+| `faciliteringsregeling-regionale-expertisecentra-in-oprichting-2000` | Faciliteringsregeling Regionale Expertisecentra in oprichting 2000 | 2 | 2000-06-03 to 2004-12-31 |
+| `regeling-herziening-rijksbijdrage-inburgering-nieuwkomers-2000` | Regeling herziening rijksbijdrage inburgering nieuwkomers 2000 | 2 | 2000-06-17 to 2004-12-31 |
+| `vaststelling-bedrag-bedoeld-in-artikel-7-kostenregeling-wet-toezicht-beleggingsinstellinge` | Vaststelling bedrag bedoeld in artikel 7 Kostenregeling Wet toezicht beleggingsinstellingen | 2 | 2000-06-01 to 2004-01-01 |
+| `regeling-indexering-akw-en-tog-bedragen-juli-2000` | Regeling indexering AKW- en TOG-bedragen juli 2000 | 2 | 2000-07-01 to 2004-09-22 |
+| `subsidieregeling-stichting-beroepenpromotie-nederland` | Subsidieregeling Stichting Beroepenpromotie Nederland | 2 | 2000-07-01 to 2005-01-01 |
+| `regeling-herziening-bedragen-invoeringswet-stelselherziening-sociale-zekerheid` | Regeling herziening bedragen Invoeringswet stelselherziening sociale zekerheid | 2 | 2000-07-01 to 2004-09-22 |
+| `handhavingsvoorschrift-maastricht` | Handhavingsvoorschrift Maastricht | 2 | 2005-11-26 to 2008-12-24 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer-1998-1999` | Besluit vaststelling wisselkoers en prijsindexcijfer 1998/1999 | 2 | 2000-06-22 to 2005-02-01 |
+| `regeling-tot-wijziging-van-de-normbedragen-voor-exploitatiebijdragen-van-standplaatsen-en` | Regeling tot wijziging van de normbedragen voor exploitatiebijdragen van standplaatsen en ter continuering van de toepassing van het subsidieafbraakpercentage voor woonwagens en standplaatsen zoals dit geldt voor 2000 | 2 | 2000-07-01 to 2004-12-23 |
+| `instellingsbesluit-commissie-deskundigen-vliegtuiggeluid` | Instellingsbesluit Commissie deskundigen vliegtuiggeluid | 2 | 2000-06-22 to 2006-07-01 |
+| `regeling-vaststelling-telformulier-voor-groeiformatie-van-basisscholen-bij-toename-van-het` | Regeling vaststelling telformulier voor groeiformatie van basisscholen bij toename van het aantal leerlingen | 2 | 2000-08-01 to 2004-12-31 |
+| `regeling-begroting-en-verantwoording-beheerskosten-uitvoeringsorganen-volksgezondheid` | Regeling begroting en verantwoording beheerskosten uitvoeringsorganen volksgezondheid | 2 | 2001-07-22 to 2006-10-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juni-2000` | Beschikking rendementen gesubsidieerde woningbouw, juni 2000 | 2 | 2000-06-01 to 2004-12-23 |
+| `regeling-vergoeding-invoering-integraal-personeelsbeleid-voortgezet-onderwijs-2000` | Regeling vergoeding invoering integraal personeelsbeleid voortgezet onderwijs 2000 | 2 | 2000-07-01 to 2004-12-31 |
+| `uitvoeringsregeling-bse-2000-iii` | Uitvoeringsregeling BSE 2000-III | 2 | 2001-10-14 to 2005-06-11 |
+| `regeling-huursubsidiegrenzen-2000` | Regeling huursubsidiegrenzen 2000 | 2 | 2000-07-01 to 2004-12-23 |
+| `vaststelling-formulieren-vrijstellingsregelingen-1999` | Vaststelling formulieren vrijstellingsregelingen 1999 | 2 | 2000-06-25 to 2004-01-24 |
+| `regeling-programma-van-werkzaamheden-vrijgestelde-onderlinge-waarborgmaatschappijen` | Regeling programma van werkzaamheden vrijgestelde onderlinge waarborgmaatschappijen | 2 | 2001-01-17 to 2007-01-01 |
+| `programma-meerhoven` | Programma Meerhoven | 2 | 2002-06-19 to 2003-06-01 |
+| `instellingsbesluit-begeleidingscommissie-evaluatie-ek2000` | Instellingsbesluit Begeleidingscommissie evaluatie EK2000 | 2 | 2000-07-21 to 2005-02-01 |
+| `wijziging-regeling-voorloperbedrijven-varkenshouderij` | Wijziging regeling voorloperbedrijven varkenshouderij | 2 | 2000-07-01 to 2004-06-05 |
+| `vaststelling-bedragen-per-eenheid-provinciefonds-1999` | Vaststelling bedragen per eenheid provinciefonds 1999 | 2 | 2000-07-14 to 2005-02-01 |
+| `regeling-vaststelling-perioden-zoogkoeienpremie-2000` | Regeling vaststelling perioden zoogkoeienpremie 2000 | 2 | 2000-07-01 to 2004-01-24 |
+| `sanctieregeling-birma-2000` | Sanctieregeling Birma 2000 | 2 | 2000-10-30 to 2004-09-22 |
+| `aanpassing-grondslagen-en-percentages-wetten-oorlogsgetroffenen-per-1-juli-2000` | Aanpassing grondslagen en percentages wetten oorlogsgetroffenen per 1 juli 2000 | 2 | 2000-07-08 to 2004-08-28 |
+| `gesloten-periode-ijsselmeervisserij-2000` | Gesloten periode IJsselmeervisserij 2000 | 2 | 2000-07-09 to 2004-01-24 |
+| `regeling-aanvullende-vergoeding-i-v-m-arbeidsmarktknelpunten-in-het-beroepsonderwijs-en-de` | Regeling aanvullende vergoeding i.v.m. arbeidsmarktknelpunten in het beroepsonderwijs en de educatie | 2 | 2002-01-01 to 2003-07-01 |
+| `uitvoeringsregeling-bse-2000-ia` | Uitvoeringsregeling BSE 2000-IA | 2 | 2000-12-16 to 2005-06-11 |
+| `openstelling-en-subsidieplafond-stimuleringsregeling-inrichting-duurzame-glastuinbouwgebie` | Openstelling en subsidieplafond Stimuleringsregeling inrichting duurzame glastuinbouwgebieden | 2 | 2000-07-13 to 2004-01-24 |
+| `subsidieregeling-modernisering-onderwijsleermethoden-primair-onderwijs` | Subsidieregeling modernisering onderwijsleermethoden primair onderwijs | 2 | 2000-10-14 to 2004-12-31 |
+| `wijziging-subsidieplafond-bts-2000-i-en-vaststelling-tender-bts-2000-iii` | Wijziging subsidieplafond BTS 2000-I en vaststelling tender BTS 2000-III | 2 | 2000-07-14 to 2004-01-01 |
+| `uitvoeringsregeling-bse-2000-iiia` | Uitvoeringsregeling BSE 2000-IIIA | 2 | 2001-06-30 to 2005-06-11 |
+| `uitvoeringsregeling-bse-2000-iia` | Uitvoeringsregeling BSE 2000-IIA | 2 | 2000-12-16 to 2005-06-11 |
+| `instellingsbesluit-icn-2000` | Instellingsbesluit ICN 2000 | 2 | 2000-07-21 to 2004-01-01 |
+| `wijziging-voorschriften-in-vergunningen-wzv` | Wijziging voorschriften in vergunningen WZV | 2 | 2000-07-26 to 2006-01-01 |
+| `tijdelijke-uitvoeringsregeling-interimwet-zij-instroom-leraren-primair-en-voortgezet-onder` | Tijdelijke uitvoeringsregeling Interimwet zij-instroom leraren primair en voortgezet onderwijs | 2 | 2000-07-29 to 2004-12-31 |
+| `vergoedingenregeling-adviescommissie-arbeidsongeschiktheid` | Vergoedingenregeling Adviescommissie Arbeidsongeschiktheid | 2 | 2000-07-21 to 2008-09-25 |
+| `subsidieregeling-leraren-in-opleiding-2000-2001-voor-de-sector-po` | Subsidieregeling leraren in opleiding 2000 - 2001 voor de sector po | 2 | 2000-07-29 to 2004-12-31 |
+| `regeling-vernieuwing-lerarenopleidingen-basisonderwijs-2000-en-2001` | Regeling vernieuwing lerarenopleidingen basisonderwijs 2000 en 2001 | 2 | 2000-07-29 to 2004-12-31 |
+| `regeling-vaststelling-bedrag-voorbereiding-ontwikkeling-en-invoering-van-integraal-persone` | Regeling vaststelling bedrag voorbereiding, ontwikkeling en invoering van Integraal personeelsbeleid bve 2000 | 2 | 2000-07-29 to 2004-12-31 |
+| `instelling-interdepartementaal-ict-beraad` | Instelling interdepartementaal ICT-beraad | 2 | 2000-10-05 to 2004-01-01 |
+| `vaststellingsregeling-2000-bedragen-ex-artikel-4-eerste-lid-regeling-kostenverhaal-wet-mel` | Vaststellingsregeling 2000 bedragen ex artikel 4, eerste lid, Regeling kostenverhaal Wet melding zeggenschap 1996 | 2 | 2000-08-15 to 2004-01-01 |
+| `vaststellingsregeling-bedragen-regeling-toezichtskosten-wet-toezicht-effectenverkeer-1995` | Vaststellingsregeling bedragen Regeling toezichtskosten Wet toezicht effectenverkeer 1995 voor 2000 | 2 | 2000-08-15 to 2004-01-01 |
+| `warenwetregeling-uitstel-handelsverbod-cosmetische-producten-die-op-dieren-zijn-beproefd` | Warenwetregeling uitstel handelsverbod cosmetische producten die op dieren zijn beproefd | 2 | 2000-07-22 to 2004-12-24 |
+| `instellingsbesluit-technische-commissie-haalbaarheidsonderzoek-indische-tegoeden` | Instellingsbesluit Technische Commissie Haalbaarheidsonderzoek Indische Tegoeden | 2 | 2002-02-07 to 2004-08-28 |
+| `tijdelijke-regeling-eenmalige-subsidies-baggerplannen-bebouwd-gebied` | Tijdelijke regeling eenmalige subsidies baggerplannen bebouwd gebied | 2 | 2003-01-01 to 2005-01-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-dcmr-milieudienst-rijnmond-2000` | Besluit buitengewoon opsporingsambtenaar DCMR Milieudienst Rijnmond 2000 | 2 | 2002-03-30 to 2005-08-03 |
+| `vaststelling-subsidieplafond-matra-projecten-programma` | Vaststelling subsidieplafond Matra Projecten Programma | 2 | 2000-07-26 to 2006-01-01 |
+| `vaststelling-beleidsvoornemen-subsidiering-programma-ondersteuning-buitenlands-beleid` | Vaststelling beleidsvoornemen subsidiëring Programma Ondersteuning Buitenlands Beleid | 2 | 2000-08-03 to 2006-01-01 |
+| `aanvraagperiode-en-subsidieplafond-tijdelijke-regeling-capaciteitsvermindering-ijsselmeerv` | Aanvraagperiode en subsidieplafond Tijdelijke regeling capaciteitsvermindering IJsselmeervisserij 2000 | 2 | 2000-07-30 to 2004-01-24 |
+| `regeling-vervoersverbod-varkens-uit-verenigd-koninkrijk-2000` | Regeling vervoersverbod varkens uit Verenigd Koninkrijk 2000 | 2 | 2000-08-17 to 2004-01-24 |
+| `uitvoeringsregeling-bsri-2000` | Uitvoeringsregeling BSRI 2000 | 2 | 2002-03-24 to 2007-07-26 |
+| `regeling-impuls-beroeponderwijs-voor-landelijke-organen-2000` | Regeling impuls beroeponderwijs voor landelijke organen 2000 | 2 | 2000-09-09 to 2004-12-31 |
+| `examenreglement-commandeur-1998` | Examenreglement commandeur 1998 | 2 | 2000-08-23 to 2010-10-01 |
+| `regeling-informatieverstrekking-centraal-orgaan-opvang-asielzoekers-2000` | Regeling informatieverstrekking Centraal Orgaan opvang asielzoekers 2000 | 2 | 2000-08-23 to 2006-06-09 |
+| `besluit-controleprotocol-centraal-orgaan-opvang-asielzoekers` | Besluit Controleprotocol Centraal Orgaan opvang asielzoekers | 2 | 2000-09-15 to 2005-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juli-2000` | Beschikking rendementen gesubsidieerde woningbouw, juli 2000 | 2 | 2000-07-01 to 2004-12-23 |
+| `regeling-voertuigen-met-speciaal-gebruiksdoel` | Regeling voertuigen met speciaal gebruiksdoel | 2 | 2007-03-14 to 2009-05-01 |
+| `regeling-impuls-beroeponderwijs-voor-instellingen-2000` | Regeling impuls beroeponderwijs voor instellingen 2000 | 2 | 2000-09-09 to 2004-12-31 |
+| `regeling-houtvaartcode` | Regeling Houtvaartcode | 2 | 2000-11-01 to 2005-01-01 |
+| `regeling-imo-nummer` | Regeling IMO-nummer | 2 | 2000-11-01 to 2005-01-01 |
+| `regeling-veiligheidsplan` | Regeling veiligheidsplan | 2 | 2000-11-01 to 2005-01-01 |
+| `regeling-berekening-trapbreedte-passagiersschepen` | Regeling berekening trapbreedte passagiersschepen | 2 | 2000-11-01 to 2005-01-01 |
+| `regeling-zeegaande-passagiersschepen-in-nationale-vaart` | Regeling zeegaande passagiersschepen in nationale vaart | 2 | 2004-10-01 to 2005-01-01 |
+| `richtlijn-jaarverslaggeving-hoger-onderwijs-en-wetenschappelijk-onderzoek` | Richtlijn jaarverslaggeving hoger onderwijs en wetenschappelijk onderzoek | 2 | 2005-10-30 to 2008-01-01 |
+| `regeling-examenprogramma-s-landbouw-en-landbouw-breed-vmbo` | Regeling examenprogramma's landbouw en landbouw-breed vmbo | 2 | 2001-08-01 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-augustus-2000` | Beschikking rendementen gesubsidieerde woningbouw, augustus 2000 | 2 | 2000-08-01 to 2004-12-23 |
+| `instructie-legalisatie-en-verificatieprocedure-nederlandse-vertegenwoordigingen-in-ghana-n` | Instructie legalisatie- en verificatieprocedure Nederlandse vertegenwoordigingen in Ghana, Nigeria, India, Pakistan en de Dominicaanse Republiek | 2 | 2002-01-01 to 2004-09-08 |
+| `regeling-stofomschrijving-sovjet-unie-examen-geschiedenis` | Regeling stofomschrijving Sovjet Unie (examen geschiedenis) | 2 | 2000-09-09 to 2004-12-31 |
+| `vrijstellingsregeling-examen-nieuw-vwo-havo-naar-oud` | Vrijstellingsregeling examen nieuw vwo/havo naar oud | 2 | 2000-09-09 to 2004-12-31 |
+| `vaststelling-subsidieplafond-ex-artikel-38-subsidieregeling-welzijnsbeleid` | Vaststelling subsidieplafond ex artikel 38 Subsidieregeling welzijnsbeleid | 2 | 2000-09-01 to 2004-08-28 |
+| `regeling-verlenging-bewijzen-van-luchtwaardigheid` | Regeling verlenging bewijzen van luchtwaardigheid | 2 | 2007-06-14 to 2011-10-01 |
+| `regeling-vaststelling-telformulieren-primair-onderwijs-2000` | Regeling vaststelling telformulieren primair onderwijs 2000 | 2 | 2000-09-16 to 2008-08-01 |
+| `regeling-kwaliteits-en-veiligheidszorg-lvnl` | Regeling kwaliteits- en veiligheidszorg LVNL | 2 | 2001-11-21 to 2008-05-28 |
+| `instelling-nationaal-comite-europees-jaar-van-de-talen-2001` | Instelling Nationaal Comité Europees Jaar van de talen 2001 | 2 | 2000-09-14 to 2004-12-31 |
+| `regeling-periodieke-audit-gba` | Regeling periodieke audit GBA | 2 | 2008-05-07 to 2014-01-06 |
+| `regeling-uitvoering-subsidieregeling-programma-technologie-en-samenleving` | Regeling uitvoering Subsidieregeling programma technologie en samenleving | 2 | 2000-09-08 to 2003-06-07 |
+| `besluit-hulpofficieren-van-justitie-belastingdienst-ecd-2000` | Besluit hulpofficieren van justitie Belastingdienst/ECD 2000 | 2 | 2000-11-11 to 2003-10-29 |
+| `regeling-commissie-van-toezicht-detentieplaatsen-district-koninklijke-marechaussee-schipho` | Regeling commissie van toezicht detentieplaatsen district Koninklijke marechaussee Schiphol | 2 | 2000-09-21 to 2005-11-13 |
+| `mandaatverlening-voor-uitvoering-subsidieregeling-zaaiprojecten-life-sciences` | Mandaatverlening voor uitvoering Subsidieregeling zaaiprojecten life sciences | 2 | 2000-09-13 to 2013-12-18 |
+| `regeling-geldsom-visakten-2001` | Regeling geldsom visakten 2001 | 2 | 2001-01-01 to 2004-01-24 |
+| `regeling-aanwijzing-toezichthouders-wet-hygiene-en-veiligheid-badinrichtingen-en-zwemgeleg` | Regeling aanwijzing toezichthouders Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden | 2 | 2000-12-01 to 2005-02-25 |
+| `regeling-uitbreiding-kinderopvang-en-buitenschoolse-opvang` | Regeling uitbreiding kinderopvang en buitenschoolse opvang | 2 | 2003-11-23 to 2004-01-01 |
+| `sluiting-ijsselmeervisserij` | Sluiting IJsselmeervisserij | 2 | 2000-09-17 to 2004-01-24 |
+| `naselecties-nvvs` | Naselecties NVVS | 2 | 2000-09-28 to 2004-01-24 |
+| `regeling-bepalingsmethode-cadmiumgehalte-van-producten-milieubeheer` | Regeling bepalingsmethode cadmiumgehalte van producten milieubeheer | 2 | 2008-06-01 to 2009-06-01 |
+| `derde-faciliteringsregeling-regionale-expertisecentra-in-oprichting-2000-2001` | Derde Faciliteringsregeling Regionale Expertisecentra in oprichting 2000/2001 | 2 | 2000-09-30 to 2004-12-31 |
+| `openstelling-gewijzigde-regeling-stimulering-biologische-productiemethode` | Openstelling gewijzigde Regeling stimulering biologische productiemethode | 2 | 2000-09-22 to 2004-11-21 |
+| `regeling-instelling-commissie-kuipers` | Regeling instelling commissie Kuipers | 2 | 2000-09-22 to 2003-09-22 |
+| `regeling-doven-luchtvaartuiglichten-militaire-jachtvliegtuigen` | Regeling doven luchtvaartuiglichten militaire jachtvliegtuigen | 2 | 2000-09-24 to 2004-12-08 |
+| `vaststelling-periode-overdracht-premierechten-ooien-en-wijziging-regeling-dierlijke-eg-pre` | Vaststelling periode overdracht premierechten ooien en wijziging Regeling dierlijke EG-premies | 2 | 2000-09-24 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-september-2000` | Beschikking rendementen gesubsidieerde woningbouw september 2000 | 2 | 2000-09-01 to 2004-12-23 |
+| `vaststelling-subsidieplafonds-basisbedrag-en-bedrag-per-lid-landelijke-jeugdorganisaties-2` | Vaststelling subsidieplafonds, basisbedrag en bedrag per lid landelijke jeugdorganisaties 2001 | 2 | 2000-09-23 to 2004-08-28 |
+| `wijziging-subsidieregeling-innovatiegerichte-onderzoekprogramma-s` | Wijziging Subsidieregeling innovatiegerichte onderzoekprogramma's | 2 | 2000-09-27 to 2009-01-02 |
+| `planningsbesluit-radiotherapie-2000` | Planningsbesluit radiotherapie 2000 | 2 | 2000-09-28 to 2009-11-11 |
+| `indexering-specifieke-uitkeringen-gemeentelijk-onderwijsachterstandenbeleid-goa-en-onderwi` | Indexering specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid (goa) en onderwijs in allochtone levende talen (oalt) 1999-2000 en 2000-2001 | 2 | 2001-07-28 to 2004-12-31 |
+| `aanwijzingsbesluit-regeling-ziektekostenvoorziening-onderwijs-en-onderzoekpersoneel` | Aanwijzingsbesluit Regeling ziektekostenvoorziening onderwijs- en onderzoekpersoneel | 2 | 2004-01-29 to 2006-01-01 |
+| `regeling-vacatiegelden-voorzitters-en-rechtsgeleerde-leden-tuchtcolleges` | Regeling vacatiegelden voorzitters en rechtsgeleerde leden tuchtcolleges | 2 | 2002-01-01 to 2009-11-08 |
+| `mandaatbesluit-personele-bevoegdheden-dgczk-2000` | Mandaatbesluit personele bevoegdheden DGCZK 2000 | 2 | 2000-10-06 to 2013-07-01 |
+| `vaststelling-beleidsvoornemen-voor-subsidiering-op-grond-van-de-subsidieregeling-ministeri` | Vaststelling beleidsvoornemen voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 2000-12-03 to 2006-01-01 |
+| `regeling-voor-en-vroegschoolse-educatie-vve` | Regeling voor- en vroegschoolse educatie (VVE) | 2 | 2000-10-12 to 2004-12-31 |
+| `eenmalige-intensiveringsbijdrage-jeugd-en-veiligheid` | Eenmalige intensiveringsbijdrage jeugd en veiligheid | 2 | 2000-10-12 to 2004-01-01 |
+| `subsidieplafond-en-aanvraagperiode-regeling-subsidiering-kwaliteit-groene-hart` | Subsidieplafond en aanvraagperiode Regeling subsidiëring kwaliteit Groene Hart | 2 | 2000-10-07 to 2005-01-30 |
+| `subsidieplafond-2001-en-normbedrag-instellingssubsidies-vorming-training-en-advies` | Subsidieplafond 2001 en normbedrag instellingssubsidies vorming, training en advies | 2 | 2000-10-11 to 2004-08-28 |
+| `regeling-eisen-verwerking-cfk-en-hcfk-houdende-koel-en-vriesapparatuur-2000` | Regeling eisen verwerking CFK- en HCFK-houdende koel- en vriesapparatuur 2000 | 2 | 2000-10-27 to 2004-08-13 |
+| `besluit-boa-nv-pwn-waterleidingbedrijf-noord-holland-2000` | Besluit BOA NV PWN Waterleidingbedrijf Noord-Holland 2000 | 2 | 2004-01-21 to 2005-10-17 |
+| `instellingsbesluit-evaluatiecommissie-stad-en-milieu` | Instellingsbesluit Evaluatiecommissie Stad en Milieu | 2 | 2000-10-22 to 2004-04-01 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer-1999-2000` | Besluit vaststelling wisselkoers en prijsindexcijfer 1999/2000 | 2 | 2000-10-26 to 2005-02-01 |
+| `vaststellingsregeling-subsidieplafond-2001-subsidieregeling-kennisuitwisseling-beroepsonde` | Vaststellingsregeling subsidieplafond 2001 Subsidieregeling Kennisuitwisseling Beroepsonderwijs Bedrijfsleven | 2 | 2001-01-01 to 2004-12-31 |
+| `besluit-tot-vaststelling-van-de-x-factor-bedoeld-in-artikel-58-elektriciteitswet-1998` | Besluit tot vaststelling van de X-factor, bedoeld in artikel 58 Elektriciteitswet 1998 | 2 | 2002-01-05 to 2004-07-01 |
+| `subsidieplafonds-2001-natuurprojecten` | Subsidieplafonds 2001 natuurprojecten | 2 | 2000-10-18 to 2004-01-24 |
+| `regeling-subsidiering-landinrichting` | Regeling subsidiëring landinrichting | 2 | 2006-06-25 to 2007-01-01 |
+| `erkenning-militaire-vaarbewijzen-i-en-ii-voor-de-niet-bedrijfsmatige-vaart-op-de-binnenwat` | Erkenning militaire vaarbewijzen I en II voor de niet-bedrijfsmatige vaart op de binnenwateren (klein vaarbewijs I respectievelijk II) | 2 | 2000-11-01 to 2004-01-01 |
+| `vaststelling-collegegeld-studiejaar-2001-2002` | Vaststelling collegegeld studiejaar 2001-2002 | 2 | 2000-11-11 to 2004-12-31 |
+| `subsidieplafonds-2000-subsidieregeling-agrarisch-natuurbeheer` | Subsidieplafonds 2000 Subsidieregeling agrarisch natuurbeheer | 2 | 2000-11-25 to 2004-12-23 |
+| `vaststellingsregeling-subsidieplafonds-subsidieregeling-agrarisch-natuurbeheer` | Vaststellingsregeling subsidieplafonds Subsidieregeling agrarisch natuurbeheer | 2 | 2000-11-25 to 2004-01-24 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-1999-en-voor-2000` | Regeling vaststelling mede te financieren bedrag MOOZ 1999 en voor 2000 | 2 | 2001-09-07 to 2004-08-28 |
+| `vaststelling-subsidieplafond-2001-subsidieregeling-publieksvoorlichting-wetenschap-en-tech` | Vaststelling subsidieplafond 2001 Subsidieregeling publieksvoorlichting wetenschap en technologie | 2 | 2000-12-08 to 2004-12-31 |
+| `regeling-vaststelling-quota-suiker-en-isoglucose-voor-het-verkoopseizoen-2000-2001` | Regeling vaststelling quota suiker en isoglucose voor het verkoopseizoen 2000/2001 | 2 | 2000-11-01 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-oktober-2000` | Beschikking rendementen gesubsidieerde woningbouw, oktober 2000 | 2 | 2000-10-01 to 2004-12-23 |
+| `besluit-boa-dienst-ondersteunende-taken-van-het-gvb-amsterdam-2000` | Besluit BOA Dienst Ondersteunende Taken van het GVB Amsterdam 2000 | 2 | 2000-11-22 to 2004-03-01 |
+| `besluit-boa-dienst-water-en-milieu-van-de-provincie-utrecht-2000` | Besluit BOA Dienst Water en Milieu van de provincie Utrecht 2000 | 2 | 2000-11-22 to 2005-11-22 |
+| `vaststelling-formulier-voor-aanvragen-vergunning-op-grond-van-de-wet-bescherming-antarctic` | Vaststelling formulier voor aanvragen vergunning op grond van de Wet bescherming Antarctica | 2 | 2000-12-08 to 2014-05-01 |
+| `thema-beeldende-vakken-examen-vwo-2002` | Thema beeldende vakken examen vwo 2002 | 2 | 2000-11-25 to 2004-12-31 |
+| `regeling-onderwerpen-centraal-examen-geschiedenis-v-w-o-h-a-v-o-oude-stijl-examenjaar-2003` | Regeling onderwerpen centraal examen geschiedenis v.w.o./h.a.v.o. (oude stijl) examenjaar 2003 en stofomschrijving politiek systeem en politieke cultuur in Nederland v.w.o./h.a.v.o. (oude en nieuwe stijl) | 2 | 2000-11-25 to 2004-12-31 |
+| `subsidieregeling-aanpak-plaatsingsproblematiek-wsns` | Subsidieregeling aanpak plaatsingsproblematiek WSNS | 2 | 2000-11-18 to 2004-12-31 |
+| `onderwerpen-centraal-en-schriftelijk-examen-aardrijkskunde-oude-stijl-examenjaren-2002-200` | Onderwerpen centraal en schriftelijk examen aardrijkskunde (oude stijl) examenjaren 2002, 2003 (vwo/havo) en 2004 (vwo) | 2 | 2000-11-25 to 2004-12-31 |
+| `regeling-stimulering-internationale-mobiliteit-volledige-hoger-onderwijsopleidingen-2000` | Regeling stimulering internationale mobiliteit volledige hoger onderwijsopleidingen 2000 | 2 | 2001-01-20 to 2014-01-23 |
+| `mandaatverlening-aan-senter-ter-uitvoering-van-de-subsidieregeling-zichtveldverbeterende-s-2` | Mandaatverlening aan Senter ter uitvoering van de Subsidieregeling zichtveldverbeterende systemen bedrijfsauto's 2000 II | 2 | 2004-09-10 to 2005-07-01 |
+| `subsidieregeling-verbetering-kwaliteit-schoolgebouwen-voor-het-basis-en-voortgezet-speciaa` | Subsidieregeling verbetering kwaliteit schoolgebouwen voor het basis- en (voortgezet) speciaal onderwijs | 2 | 2000-12-16 to 2004-12-31 |
+| `besluit-buitengewoon-opsporingsambtenaar-aid-2000` | Besluit buitengewoon opsporingsambtenaar AID 2000 | 2 | 2004-11-07 to 2005-11-16 |
+| `besluit-instelling-ombudsfunctie-ez` | Besluit instelling ombudsfunctie EZ | 2 | 2000-11-16 to 2013-03-09 |
+| `regeling-leonardo-da-vinci-ii` | Regeling Leonardo da Vinci-II | 2 | 2003-12-20 to 2010-01-01 |
+| `sanctieregeling-sierra-leone-2000` | Sanctieregeling Sierra Leone 2000 | 2 | 2009-03-05 to 2011-02-23 |
+| `regeling-aanwijzing-groepen-van-personen-uitgezonderd-van-de-ziekenfondsverzekering` | Regeling aanwijzing groepen van personen uitgezonderd van de ziekenfondsverzekering | 2 | 2001-02-07 to 2006-01-01 |
+| `regeling-aanwijzing-categorieen-van-personen-die-indien-zij-daartoe-de-wens-te-kennen-geve` | Regeling aanwijzing categorieën van personen die indien zij daartoe de wens te kennen geven niet verzekerd zijn ingevolge de Ziekenfondswet 2000 | 2 | 2001-01-01 to 2006-01-01 |
+| `regeling-vaststelling-premiepercentages-en-premiebedragen-sociale-ziektekostenverzekeringe-2` | Regeling vaststelling premiepercentages en premiebedragen sociale ziektekostenverzekeringen 2001 | 2 | 2001-01-01 to 2004-08-28 |
+| `nadere-regeling-besteedbare-middelen-beheerskosten-awbz-1999-in-verband-met-kosten-van-het` | Nadere regeling besteedbare middelen beheerskosten AWBZ 1999 in verband met kosten van het Centraal Administratiekantoor Bijzondere Ziektekosten | 2 | 2000-11-26 to 2004-08-28 |
+| `nadere-regeling-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-2000` | Nadere regeling besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 2000 | 2 | 2000-11-26 to 2004-08-28 |
+| `regeling-beschikbare-middelen-beheerskosten-zfw-2001` | Regeling beschikbare middelen beheerskosten Zfw 2001 | 2 | 2001-07-22 to 2004-08-28 |
+| `subsidieregeling-zij-instromers-2000-2001` | Subsidieregeling zij-instromers 2000-2001 | 2 | 2000-12-02 to 2004-12-31 |
+| `regeling-ophalen-hoog-of-gespecificeerd-hoog-risico-materiaal-op-gezette-tijden` | Regeling ophalen hoog- of gespecificeerd hoog-risico-materiaal op gezette tijden | 2 | 2002-04-14 to 2003-09-07 |
+| `subsidieplafond-subsidieregeling-energievoorzieningen-in-de-non-profit-en-bijzondere-secto` | Subsidieplafond Subsidieregeling energievoorzieningen in de non-profit- en bijzondere sectoren | 2 | 2001-09-21 to 2003-06-07 |
+| `vaststellingsregeling-subsidieplafond-besluit-subsidies-regionale-investeringsprojecten-20` | Vaststellingsregeling Subsidieplafond Besluit subsidies regionale investeringsprojecten 2000 | 2 | 2000-11-25 to 2005-06-11 |
+| `regels-voor-toepassing-wet-brutering-overhevelingstoeslag-lonen` | Regels voor toepassing Wet brutering overhevelingstoeslag lonen | 2 | 2001-01-01 to 2005-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-november-2000` | Beschikking rendementen gesubsidieerde woningbouw, november 2000 | 2 | 2000-11-01 to 2004-12-23 |
+| `vaststelling-subsidieplafond-2001-subsidieregeling-referentieprojecten-milieutechnologie-1` | Vaststelling subsidieplafond 2001 Subsidieregeling referentieprojecten milieutechnologie 1998 | 2 | 2000-11-29 to 2003-06-07 |
+| `subsidieplafond-2001-subsidieregeling-energie-efficiency-en-milieuadviezen-schoner-produce` | Subsidieplafond 2001 Subsidieregeling energie-efficiency- en milieuadviezen Schoner Produceren | 2 | 2000-11-30 to 2003-06-07 |
+| `maatregelen-in-verband-met-bse-frankrijk` | Maatregelen in verband met BSE Frankrijk | 2 | 2000-12-23 to 2004-12-08 |
+| `subsidieplafonds-subsidieregeling-natuurbeheer-2000` | Subsidieplafonds Subsidieregeling natuurbeheer 2000 | 2 | 2000-11-25 to 2004-01-24 |
+| `regeling-uitwerking-examenprocedure-radarpatent` | Regeling uitwerking examenprocedure radarpatent | 2 | 2008-04-01 to 2011-10-12 |
+| `regeling-vaststelling-premiepercentages-werknemersverzekeringen-en-volksverzekeringen-2001` | Regeling vaststelling premiepercentages werknemersverzekeringen en volksverzekeringen 2001 | 2 | 2001-01-01 to 2004-09-22 |
+| `vrijstellingsregeling-examen-oud-vwo-havo-naar-nieuw` | Vrijstellingsregeling examen oud vwo/havo naar nieuw | 2 | 2000-12-16 to 2007-08-01 |
+| `regeling-aanvullende-vergoeding-vernieuwing-inventaris-en-interne-verbouwing-vmbo-groen-20` | Regeling aanvullende vergoeding vernieuwing inventaris en interne verbouwing vmbo-groen 2000 | 2 | 2000-12-01 to 2004-01-24 |
+| `regeling-aanvullende-vergoeding-in-verband-met-arbeidsmarktknelpunten-in-het-agrarisch-ber` | Regeling aanvullende vergoeding in verband met arbeidsmarktknelpunten in het agrarisch beroepsonderwijs | 2 | 2002-01-01 to 2003-07-01 |
+| `vaststelling-aanvraagperiode-en-subsidieplafond-subsidieregeling-voorlichting-en-doorlicht` | Vaststelling aanvraagperiode en subsidieplafond Subsidieregeling voorlichting en doorlichting Schoner Produceren | 2 | 2000-12-03 to 2003-06-07 |
+| `vaststelling-subsidieplafond-mpo-2001` | Vaststelling subsidieplafond MPO 2001 | 2 | 2000-12-03 to 2005-06-11 |
+| `regeling-onschadelijk-maken-gespecificeerd-hoog-risico-materiaal` | Regeling onschadelijk maken gespecificeerd hoog-risico-materiaal | 2 | 2002-04-14 to 2003-09-07 |
+| `hgis-cultuurprogramma-2000-2002` | HGIS-Cultuurprogramma 2000-2002 | 2 | 2000-12-06 to 2006-01-01 |
+| `instellingsbesluit-grote-financien-prijs` | Instellingsbesluit Grote Financiën Prijs | 2 | 2002-01-01 to 2007-10-05 |
+| `vaststelling-en-verdeling-subsidieplafond-2001-subsidieregeling-branchecentra-voor-technol` | Vaststelling en verdeling subsidieplafond 2001 Subsidieregeling branchecentra voor technologie 1998 | 2 | 2000-12-06 to 2003-06-07 |
+| `regeling-aanvullende-vergoeding-vmbo-groen-scholing-leerwegondersteunend-onderwijs-2000` | Regeling aanvullende vergoeding vmbo-groen scholing leerwegondersteunend onderwijs 2000 | 2 | 2000-12-03 to 2004-12-23 |
+| `subsidieplafond-2001-besluit-borgstelling-mkb-kredieten-1997` | Subsidieplafond 2001 Besluit borgstelling MKB-kredieten 1997 | 2 | 2000-12-09 to 2005-06-11 |
+| `tweede-subsidieregeling-modernisering-onderwijsleermethoden-en-extra-ict-vergoeding-primai` | Tweede subsidieregeling modernisering onderwijsleermethoden en extra ict-vergoeding primair onderwijs | 2 | 2000-12-16 to 2004-12-31 |
+| `subsidieplafond-2001-demonstratie-en-technologie-ontwikkelingsprojecten-jsf` | Subsidieplafond 2001 demonstratie- en technologie-ontwikkelingsprojecten JSF | 2 | 2000-12-09 to 2003-06-07 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-voor-subsidiering-op-grond-van-de-subsidi-2` | Vaststelling subsidieplafond en beleidsvoornemen voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken (2) | 2 | 2000-12-10 to 2006-01-01 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-voor-subsidiering-van-het-universitaire-b` | Vaststelling subsidieplafond en beleidsvoornemen voor subsidiëring van het Universitaire Beurzenprogramma op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken (1) | 2 | 2000-12-10 to 2006-01-01 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-voor-subsidiering-op-grond-van-de-subsidi-3` | Vaststelling subsidieplafond en beleidsvoornemen voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken; Beurzenprogramma Internationaal Onderwijsinstituten (BIO) | 2 | 2000-12-10 to 2006-01-01 |
+| `subsidieregeling-bedrijfsgezondheidszorg-voor-het-primair-onderwijs-en-het-speciaal-voortg-2` | Subsidieregeling bedrijfsgezondheidszorg voor het primair onderwijs en het speciaal voortgezet onderwijs gedurende de periode januari 2001 tot en met december 2001 | 2 | 2001-01-01 to 2004-12-31 |
+| `vaststelling-perioden-en-subsidieplafonds-eet-2001-i` | Vaststelling perioden en subsidieplafonds EET 2001-I | 2 | 2000-12-15 to 2004-01-01 |
+| `tariefsregeling-gebruiksvergoeding-2001` | Tariefsregeling gebruiksvergoeding 2001 | 2 | 2001-01-04 to 2005-01-01 |
+| `regeling-procedure-inzake-het-omgaan-met-een-vermoeden-van-een-misstand` | Regeling procedure inzake het omgaan met een vermoeden van een misstand | 2 | 2003-01-02 to 2006-03-10 |
+| `tijdelijke-regeling-verbod-dierlijke-eiwitten-in-alle-diervoeders-landbouwhuisdieren` | Tijdelijke regeling verbod dierlijke eiwitten in alle diervoeders landbouwhuisdieren | 2 | 2003-09-07 to 2004-10-18 |
+| `besluit-instelling-commissie-structuurversterking-veenkolonien` | Besluit instelling Commissie Structuurversterking Veenkoloniën | 2 | 2000-12-12 to 2004-06-11 |
+| `besluit-buitengewoon-opsporingsambtenaar-dienst-stadsbeheer-van-de-gemeente-den-haag-2000` | Besluit buitengewoon opsporingsambtenaar Dienst Stadsbeheer van de gemeente Den Haag 2000 | 2 | 2000-12-21 to 2005-12-21 |
+| `uitvoeringsregeling-bse-2001-i` | Uitvoeringsregeling BSE 2001-I | 2 | 2000-12-16 to 2005-06-11 |
+| `vaststelling-subsidieplafond-2001-op-grond-van-subsidieregeling-actieve-zon-thermische-sys` | Vaststelling subsidieplafond 2001 op grond van Subsidieregeling actieve zon-thermische systemen 1998 | 2 | 2001-04-11 to 2003-06-07 |
+| `regeling-indexering-akw-en-tog-bedragen-januari-2001` | Regeling indexering AKW- en TOG-bedragen januari 2001 | 2 | 2001-01-01 to 2004-09-22 |
+| `regeling-terugbetaling-en-ontheffing-betalingsverplichting-nationale-vervoerbewijzen` | Regeling terugbetaling en ontheffing betalingsverplichting nationale vervoerbewijzen | 2 | 2002-01-01 to 2011-11-03 |
+| `aanpassing-bedragen-vergoedingenbesluit-wet-nationale-ombudsman` | Aanpassing bedragen Vergoedingenbesluit Wet Nationale ombudsman | 2 | 2000-12-29 to 2005-02-01 |
+| `toepassing-wet-nationale-ombudsman-2` | Toepassing Wet Nationale ombudsman | 2 | 2001-01-01 to 2013-07-01 |
+| `regeling-octrooigemachtigden-examen-2001` | Regeling Octrooigemachtigden-examen 2001 | 2 | 2001-03-01 to 2004-09-01 |
+| `regeling-houdende-instemming-met-de-tarieven-destructiewet-voor-het-jaar-2000` | Regeling houdende instemming met de tarieven Destructiewet voor het jaar 2000 | 2 | 2000-12-16 to 2004-01-24 |
+| `vaststelling-subsidieplafonds-2001-op-grond-van-enkele-regelingen-exportfinancieringsarran` | Vaststelling subsidieplafonds 2001 op grond van enkele regelingen exportfinancieringsarrangement | 2 | 2001-06-13 to 2005-06-11 |
+| `mandaatbesluit-centrum-maatwerk-administraties-bv` | Mandaatbesluit Centrum Maatwerk Administraties BV | 2 | 2001-01-01 to 2004-05-04 |
+| `besluit-instelling-commissie-milieuhygiene-luchtvaartterrein-eelde` | Besluit instelling Commissie milieuhygiëne luchtvaartterrein Eelde | 2 | 2001-11-02 to 2008-12-24 |
+| `besluit-buitengewoon-opsporingsambtenaar-gemeentelijk-havenbedrijf-rotterdam-2000` | Besluit buitengewoon opsporingsambtenaar Gemeentelijk Havenbedrijf Rotterdam 2000 | 2 | 2000-12-26 to 2004-01-01 |
+| `regeling-bijzondere-bijstandseenheden` | Regeling Bijzondere Bijstandseenheden | 2 | 2007-01-01 to 2009-09-17 |
+| `besluit-buitengewoon-opsporingsambtenaar-van-de-dienst-voor-reiniging-ontsmetting-transpor` | Besluit buitengewoon opsporingsambtenaar van de dienst voor reiniging, ontsmetting, transport en bedrijfswerkplaatsen van de gemeente Rotterdam 2000 | 2 | 2000-12-26 to 2003-07-04 |
+| `besluit-instelling-commissie-milieuhygiene-luchtvaartterrein-maastricht` | Besluit instelling Commissie milieuhygiëne luchtvaartterrein Maastricht | 2 | 2001-11-02 to 2008-12-24 |
+| `regeling-verdeling-procentuele-ziekenfondspremie-2001` | Regeling verdeling procentuele ziekenfondspremie 2001 | 2 | 2001-01-01 to 2004-08-28 |
+| `besluit-aanwijzing-toezichthouders-kaderwet-lnv-subsidies` | Besluit aanwijzing toezichthouders Kaderwet LNV-subsidies | 2 | 2005-01-01 to 2007-04-01 |
+| `vaststelling-landenlijst-rhi-2001` | Vaststelling Landenlijst Rhi 2001 | 2 | 2001-01-01 to 2010-01-01 |
+| `regeling-bevordering-eigenwoningbezit` | Regeling bevordering eigenwoningbezit | 2 | 2006-01-01 to 2007-01-01 |
+| `regeling-vaststelling-vervangende-premie-werkloosheidswet-2001` | Regeling vaststelling vervangende premie Werkloosheidswet 2001 | 2 | 2001-01-01 to 2004-09-22 |
+| `regels-inzake-beoordeling-vergoeding-werknemers-tot-bestrijding-extraterritoriale-kosten-t` | Regels inzake beoordeling vergoeding werknemers tot bestrijding extraterritoriale kosten ter behoorlijke vervulling dienstbetrekking | 2 | 2004-01-01 to 2005-01-01 |
+| `aanwijzingsbesluit-voor-experiment-breed-waterspoor` | Aanwijzingsbesluit voor experiment breed waterspoor | 2 | 2001-01-01 to 2006-01-01 |
+| `instellingsbesluit-directie-communicatie-verkeer-en-waterstaat` | Instellingsbesluit Directie Communicatie Verkeer en Waterstaat | 2 | 2006-12-16 to 2010-08-21 |
+| `wijziging-premieregeling-geneeskundige-verzorging-politie-2000` | Wijziging Premieregeling geneeskundige verzorging politie 2000 | 2 | 2001-01-01 to 2006-01-01 |
+| `wijziging-regeling-maandgeld-en-salaris-adspirant` | Wijziging Regeling maandgeld en salaris adspirant | 2 | 2001-01-01 to 2005-02-01 |
+| `instellingsbesluit-agentschap-evd` | Instellingsbesluit Agentschap EVD | 2 | 2001-01-01 to 2010-01-01 |
+| `instellingsbesluit-ito-raad` | Instellingsbesluit ITO-Raad | 2 | 2000-12-29 to 2005-02-01 |
+| `bepalingen-betreffende-de-verplichte-meldingssystemen-voor-schepen-de-noordoost-en-zuidoos` | Bepalingen betreffende de verplichte meldingssystemen voor schepen `De noordoost en zuidoost kust van de Verenigde Staten' en `Straat Dover/Pas-de-Calais' | 2 | 2001-01-04 to 2005-01-01 |
+| `mandaatverlening-aan-senter-ter-uitvoering-van-de-tweede-tender-van-het-programma-transpor` | Mandaatverlening aan Senter ter uitvoering van de tweede tender van het Programma Transportpreventie | 2 | 2004-09-10 to 2010-01-01 |
+| `regeling-besteedbare-middelen-beheerskosten-awbz-2001` | Regeling besteedbare middelen beheerskosten AWBZ 2001 | 2 | 2000-12-21 to 2004-08-28 |
+| `gedeeltelijke-opschorting-besluit-grondbankstelsel-voor-2001` | Gedeeltelijke opschorting Besluit grondbankstelsel voor 2001 | 2 | 2001-01-01 to 2004-01-24 |
+| `vaststelling-bedragen-die-op-grond-van-artikel-90-tweede-lid-onderdeel-a-onder-1-van-de-we` | Vaststelling bedragen die op grond van artikel 90, tweede lid, onderdeel a, onder 1°, van de Wet overheidspersoneel onder de werknemersverzekeringen ten goede komen van de wachtgeldfondsen en het Algemeen Werkloosheidsfonds | 2 | 2000-12-23 to 2004-09-22 |
+| `regeling-aanwijzing-slachtinrichtingen-2001` | Regeling aanwijzing slachtinrichtingen 2001 | 2 | 2001-01-01 to 2004-01-24 |
+| `besluit-buitengewoon-opsporingsambtenaar-scheepvaartinspectie-2001` | Besluit buitengewoon opsporingsambtenaar Scheepvaartinspectie 2001 | 2 | 2001-01-07 to 2004-11-01 |
+| `regeling-vaststelling-perioden-dierlijke-eg-premies-2001` | Regeling vaststelling perioden dierlijke EG-premies 2001 | 2 | 2000-12-23 to 2004-01-24 |
+| `vaststelling-gewijzigde-subsidieplafonds-2000-subsidieregeling-natuurbeheer-2000` | Vaststelling gewijzigde subsidieplafonds 2000 Subsidieregeling natuurbeheer 2000 | 2 | 2000-12-23 to 2004-01-24 |
+| `vaststelling-gewijzigde-subsidieplafonds-2000-subsidieregeling-agrarisch-natuurbeheer` | Vaststelling gewijzigde subsidieplafonds 2000 Subsidieregeling agrarisch natuurbeheer | 2 | 2000-12-24 to 2004-01-24 |
+| `regeling-model-geschiktheidsverklaring-interimwet-zij-instroom-leraren-primair-en-voortgez` | Regeling model geschiktheidsverklaring Interimwet zij-instroom leraren primair en voortgezet onderwijs | 2 | 2001-01-20 to 2006-08-01 |
+| `mandaatbesluit-novem-subsidieregeling-milieugerichte-technologie-2001` | Mandaatbesluit NOVEM Subsidieregeling milieugerichte technologie 2001 | 2 | 2001-11-01 to 2005-05-20 |
+| `besluit-buitengewoon-opsporingsambtenaar-reinigingsagenten-dienst-stadstoezicht-amsterdam` | Besluit buitengewoon opsporingsambtenaar Reinigingsagenten Dienst Stadstoezicht Amsterdam 2000 | 2 | 2004-04-15 to 2005-12-31 |
+| `besluit-buitengewoon-opsporingsambtenaar-parkeercontroleurs-dienst-stadstoezicht-amsterdam` | Besluit buitengewoon opsporingsambtenaar Parkeercontroleurs Dienst Stadstoezicht Amsterdam 2000 | 2 | 2004-04-15 to 2005-12-31 |
+| `vaststelling-subsidieplafond-2001-en-een-beleidsvoornemen-voor-subsidiering-op-grond-van-d` | Vaststelling subsidieplafond 2001 en een beleidsvoornemen voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 2000-12-31 to 2006-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-december-2000` | Beschikking rendementen gesubsidieerde woningbouw december 2000 | 2 | 2000-12-01 to 2004-12-23 |
+| `uitvoeringsregeling-energie-investeringsaftrek-2001` | Uitvoeringsregeling energie-investeringsaftrek 2001 | 1 | 2026-01-01 to 2026-01-01 |
+| `regeling-sloop-tuinbouwkassen-met-asbestbevattende-voegkit` | Regeling sloop tuinbouwkassen met asbestbevattende voegkit | 2 | 2000-12-29 to 2006-03-01 |
+| `meldingsregeling-milieu-investeringsaftrek-2001` | Meldingsregeling milieu-investeringsaftrek 2001 | 1 | 2025-01-01 to 2025-01-01 |
+| `uitvoeringsregeling-willekeurige-afschrijving-en-investeringsaftrek-nederlandse-antillen-e` | Uitvoeringsregeling willekeurige afschrijving en investeringsaftrek Nederlandse Antillen en Aruba 2001 | 2 | 2010-10-01 to 2010-10-10 |
+| `uitvoeringsregeling-loonbelasting-2001` | Uitvoeringsregeling loonbelasting 2001 | 2 | 2010-08-01 to 2010-10-10 |
+| `regeling-uitzondering-eindheffingsbestanddelen-loonbelasting-voor-de-premieheffing-werknem` | Regeling uitzondering eindheffingsbestanddelen loonbelasting voor de premieheffing werknemersverzekeringen 2001 | 2 | 2004-01-01 to 2005-01-01 |
+| `vaststelling-bedragen-2001-kostenregeling-wet-toezicht-beleggingsinstellingen` | Vaststelling bedragen 2001 Kostenregeling Wet toezicht beleggingsinstellingen | 2 | 2000-12-29 to 2004-01-01 |
+| `vaststelling-subsidieplafond-2001-infrastructuurregeling-glastuinbouwgebieden` | Vaststelling subsidieplafond 2001 Infrastructuurregeling glastuinbouwgebieden | 2 | 2000-12-29 to 2004-01-24 |
+| `vaststelling-subsidieplafond-en-aanvraagperiode-2001-regeling-subsidiering-kwaliteit-groen` | Vaststelling subsidieplafond en aanvraagperiode 2001 Regeling subsidiëring kwaliteit Groene Hart | 2 | 2000-12-29 to 2004-12-23 |
+| `regeling-ontheffing-gemeentelijke-kredietbanken-en-nazorgfondsen` | Regeling ontheffing gemeentelijke kredietbanken en nazorgfondsen | 2 | 2001-01-01 to 2013-12-15 |
+| `tijdelijke-regeling-handel-runderen-en-rundvlees-in-verband-met-bse` | Tijdelijke regeling handel runderen en rundvlees in verband met BSE | 2 | 2000-12-23 to 2009-01-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-medewerkers-centrale-opvang-regiopolitie-zaanstre` | Besluit buitengewoon opsporingsambtenaar medewerkers centrale opvang regiopolitie Zaanstreek-Waterland 2000 | 2 | 2001-04-04 to 2003-08-27 |
+| `besluit-buitengewoon-opsporingsambtenaar-dienst-stadsbeheer-afdeling-parkeren-van-de-gemee` | Besluit buitengewoon opsporingsambtenaar Dienst Stadsbeheer, afdeling Parkeren, van de gemeente Den Haag 2000 | 2 | 2001-01-12 to 2005-12-27 |
+| `vaststelling-subsidieplafond-matra-projecten-programma-2001-i` | Vaststelling subsidieplafond Matra Projecten Programma 2001-I | 2 | 2001-02-08 to 2006-01-01 |
+| `aanwijzing-instantie-raadpleging-donorregister` | Aanwijzing instantie raadpleging donorregister | 2 | 2001-03-01 to 2004-08-28 |
+| `beleidsvoornemen-en-subsidieplafond-matra-doelbijdragen-programma` | Beleidsvoornemen en subsidieplafond Matra Doelbijdragen Programma | 2 | 2001-01-07 to 2006-01-01 |
+| `beleidsvoornemen-en-subsidieplafond-matra-opleidingen-programma` | Beleidsvoornemen en subsidieplafond Matra Opleidingen Programma | 2 | 2001-08-09 to 2006-01-01 |
+| `beleidsvoornemen-matra-projecten-programma` | Beleidsvoornemen Matra Projecten Programma | 2 | 2001-01-07 to 2006-01-01 |
+| `tijdelijke-regeling-uitkering-experimenten-uitvoering-basistakenpakket-jgz` | Tijdelijke regeling uitkering experimenten uitvoering basistakenpakket JGZ | 2 | 2002-01-01 to 2005-01-01 |
+| `instelling-voorselectiecommissie-topmanagementgroep-abd` | Instelling Voorselectiecommissie Topmanagementgroep ABD | 2 | 2006-09-03 to 2013-06-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-parkeerbedrijf-2000` | Besluit buitengewoon opsporingsambtenaar Parkeerbedrijf 2000 | 2 | 2001-01-11 to 2003-07-04 |
+| `regeling-tarieven-examens-groot-vaarbewijs-2003` | Regeling tarieven examens groot vaarbewijs 2003 | 2 | 2003-01-23 to 2004-01-31 |
+| `regeling-accountantswerkzaamheden-meststoffenwet-2000` | Regeling accountantswerkzaamheden Meststoffenwet 2000 | 2 | 2001-01-01 to 2004-01-24 |
+| `vaststelling-beleidsvoornemen-subsidiering-op-grond-van-de-subsidieregeling-ministerie-van` | Vaststelling beleidsvoornemen subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken | 2 | 2001-01-25 to 2006-01-01 |
+| `vaststelling-beleidsvoornemens-voor-subsidiering-op-grond-van-de-subsidieregeling-minister` | Vaststelling beleidsvoornemens voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken (programma Onderzoek) | 2 | 2001-01-18 to 2006-01-01 |
+| `vaststelling-beleidsvoornemens-voor-subsidiering-op-grond-van-de-subsidieregeling-minister-2` | Vaststelling beleidsvoornemens voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken (programma Communicatie) | 2 | 2001-01-18 to 2006-01-01 |
+| `warenwetregeling-toelating-decontaminatiemiddel-bij-bereiding-van-maatjesharing-mossel-en` | Warenwetregeling toelating decontaminatiemiddel bij bereiding van maatjesharing, mossel- en kokkelconserven en verse vis | 2 | 2001-01-19 to 2006-05-12 |
+| `vaststelling-beleidsvoornemen-voor-subsidiering-op-grond-van-subsidieregeling-ministerie-v` | Vaststelling beleidsvoornemen voor subsidiëring op grond van Subsidieregeling Ministerie van Buitenlandse Zaken (Samenwerking met Internationale Instituten) | 2 | 2001-01-14 to 2006-01-01 |
+| `subsidieplafond-2001-besluit-instandhouding-schaapskuddes` | Subsidieplafond 2001 Besluit instandhouding schaapskuddes | 2 | 2001-01-17 to 2004-01-24 |
+| `regeling-vaststelling-premiepercentage-uitvoeringsfonds-voor-de-overheid-2001` | Regeling vaststelling premiepercentage Uitvoeringsfonds voor de overheid 2001 | 2 | 2001-01-19 to 2004-09-22 |
+| `instelling-coordinatiegroep-orgaandonatie` | Instelling Coördinatiegroep Orgaandonatie | 2 | 2003-05-10 to 2009-02-06 |
+| `uitvoeringsregeling-tipp-2000` | Uitvoeringsregeling Tipp 2000 | 2 | 2002-01-01 to 2004-12-15 |
+| `besluit-buitengewoon-opsporingsambtenaar-medewerkers-centrale-opvang-regiopolitie-haagland` | Besluit buitengewoon opsporingsambtenaar medewerkers centrale opvang regiopolitie Haaglanden 2001 | 2 | 2001-02-15 to 2005-12-25 |
+| `regeling-nadere-regels-kca-logo` | Regeling nadere regels kca-logo | 2 | 2005-08-13 to 2007-01-09 |
+| `vaststellingsregeling-subsidieplafond-2001-ex-artikel-50a-wet-op-de-ruimtelijke-ordening` | Vaststellingsregeling subsidieplafond 2001 ex artikel 50a Wet op de Ruimtelijke Ordening | 2 | 2001-01-20 to 2004-12-23 |
+| `regeling-rijksbijdrage-sluitende-aanpak-ww-2001` | Regeling rijksbijdrage sluitende aanpak WW 2001 | 2 | 2001-01-24 to 2004-09-22 |
+| `regeling-taakstelling-sluitende-aanpak-ww-2001` | Regeling taakstelling sluitende aanpak WW 2001 | 2 | 2001-01-24 to 2004-09-22 |
+| `regeling-vaststelling-telformulier-voor-aanpassing-van-de-vergoeding-materiele-instandhoud` | Regeling vaststelling telformulier voor aanpassing van de vergoeding materiële instandhouding voor basisscholen als gevolg van groei | 2 | 2000-08-01 to 2004-12-31 |
+| `beleidsvoornemen-en-subsidieplafond-op-grond-van-subsidieregeling-ministerie-van-buitenlan` | Beleidsvoornemen en subsidieplafond op grond van Subsidieregeling Ministerie van Buitenlandse Zaken (S&L Office Onderzoek) | 2 | 2001-01-28 to 2006-01-01 |
+| `besluit-gemandateerd-beheerder-klpd` | Besluit gemandateerd beheerder KLPD | 2 | 2001-02-03 to 2008-03-16 |
+| `regeling-stimulans-innovatieve-leeromgevingen-bve-2001-2004` | Regeling Stimulans innovatieve leeromgevingen BVE 2001-2004 | 2 | 2004-04-03 to 2004-12-31 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-i-v-m-activiteiten-ter-bevordering-van-de` | Vaststelling subsidieplafond en beleidsvoornemen i.v.m. activiteiten ter bevordering van de betrekkingen met Azië | 2 | 2001-02-01 to 2005-08-11 |
+| `regeling-vaststelling-programma-ketenmobiliteit-2001` | Regeling vaststelling programma Ketenmobiliteit 2001 | 2 | 2001-02-02 to 2009-07-15 |
+| `besluit-mandaat-en-machtiging-senternovem-ter-uitvoering-van-de-programma-s-ketenmobilitei` | Besluit mandaat en machtiging SenterNovem ter uitvoering van de programma's Ketenmobiliteit 1999, 2000, 2001 en 2002 | 2 | 2008-07-01 to 2009-07-15 |
+| `regeling-vaststelling-maximale-huurprijsgrenzen-woonruimten-2001-2002` | Regeling vaststelling maximale huurprijsgrenzen woonruimten 2001/2002 | 2 | 2001-07-01 to 2004-12-23 |
+| `regeling-vacatiegelden-examens-2000` | Regeling vacatiegelden examens 2000 | 2 | 2001-06-28 to 2014-01-23 |
+| `subsidieregeling-beurzenprogramma-delta` | Subsidieregeling beurzenprogramma DELTA | 2 | 2004-12-10 to 2005-12-31 |
+| `wijziging-regeling-eisen-pasfoto-s` | Wijziging Regeling eisen pasfoto's | 2 | 2002-06-01 to 2004-03-04 |
+| `besluit-vaststelling-systeembeschrijving-gba` | Besluit vaststelling systeembeschrijving GBA | 2 | 2007-11-26 to 2009-11-01 |
+| `wijziging-regeling-subsidies-en-uitkeringen-cultuuruitingen-2` | Wijziging Regeling subsidies en uitkeringen cultuuruitingen | 2 | 2001-02-08 to 2004-12-31 |
+| `regeling-getuigschrift-bekwaamheidsonderzoek-interimwet-zij-instroom-leraren-primair-en-vo` | Regeling getuigschrift bekwaamheidsonderzoek Interimwet zij-instroom leraren primair en voortgezet onderwijs | 2 | 2001-04-07 to 2006-08-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-januari-2001` | Beschikking rendementen gesubsidieerde woningbouw, januari 2001 | 2 | 2001-01-01 to 2004-12-23 |
+| `vaststelling-bedragen-per-eenheid-voor-de-uitkering-uit-het-gemeentefonds-1999` | Vaststelling bedragen per eenheid voor de uitkering uit het gemeentefonds 1999 | 2 | 2001-03-02 to 2005-02-01 |
+| `vaststelling-rekenfactor-wet-buitengewoon-pensioen-1940-1945-en-wet-buitengewoon-pensioen` | Vaststelling rekenfactor Wet buitengewoon pensioen 1940-1945 en Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers | 2 | 2001-02-07 to 2004-08-28 |
+| `erkenningsregeling-productie-en-opslag-dierlijke-eiwitten-2001` | Erkenningsregeling productie en opslag dierlijke eiwitten 2001 | 2 | 2001-02-06 to 2004-10-18 |
+| `regeling-leerplanontwikkeling-op-verzoek-van-organisaties-en-instellingen` | Regeling leerplanontwikkeling op verzoek van organisaties en instellingen | 2 | 2001-02-24 to 2008-01-01 |
+| `subsidieplafonds-2001-regeling-versterking-recreatie` | Subsidieplafonds 2001 Regeling versterking recreatie | 2 | 2001-02-09 to 2004-01-24 |
+| `besluit-instelling-tijdelijke-commissie-biotechnologie-en-voedsel` | Besluit instelling tijdelijke commissie biotechnologie en voedsel | 2 | 2001-02-10 to 2004-06-11 |
+| `wijziging-subsidieplafond-2000-subsidieregeling-agrarisch-natuurbeheer` | Wijziging subsidieplafond 2000 Subsidieregeling agrarisch natuurbeheer | 2 | 2001-02-11 to 2004-01-24 |
+| `vaststelling-subsidieplafond-2001-subsidieregeling-natuurbeheer-2000` | Vaststelling subsidieplafond 2001 Subsidieregeling natuurbeheer 2000 | 2 | 2001-10-14 to 2004-01-24 |
+| `vaststelling-subsidieplafond-2001-subsidieregeling-agrarisch-natuurbeheer` | Vaststelling subsidieplafond 2001 Subsidieregeling agrarisch natuurbeheer | 2 | 2001-10-14 to 2004-01-24 |
+| `uitvoeringsregeling-bse-2001-ii` | Uitvoeringsregeling BSE 2001-II | 2 | 2001-09-13 to 2005-06-11 |
+| `beheersreglement-documentaire-informatie-verzorging-ocenw` | Beheersreglement Documentaire Informatie Verzorging OCenW | 2 | 2001-02-01 to 2009-03-12 |
+| `aanpassing-grondslagen-en-percentages-wetten-voor-oorlogsgetroffenen-per-1-januari-2001` | Aanpassing grondslagen en percentages wetten voor oorlogsgetroffenen per 1 januari 2001 | 2 | 2001-02-18 to 2004-08-28 |
+| `erkenning-diploma-s-stuurman-schipper-en-kapitein-als-bewijs-van-vaarbekwaamheid-voor-de-b` | Erkenning diploma's stuurman/schipper en kapitein als bewijs van vaarbekwaamheid voor de binnenvaart en als gelijkwaardig examenbewijs | 2 | 2008-04-01 to 2009-07-01 |
+| `besluit-mandaat-afgifte-vaarbewijzen-binnenvaart` | Besluit mandaat afgifte vaarbewijzen binnenvaart | 2 | 2001-03-01 to 2005-07-01 |
+| `regeling-vaststelling-model-groot-vaarbewijs-2001` | Regeling vaststelling model groot vaarbewijs 2001 | 2 | 2001-03-01 to 2009-07-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-medewerkers-centrale-opvang-regiopolitie-utrecht` | Besluit buitengewoon opsporingsambtenaar medewerkers centrale opvang regiopolitie Utrecht 2001 | 2 | 2001-03-15 to 2003-05-03 |
+| `regeling-verbod-verwerkte-dierlijke-eiwitten-als-meststof` | Regeling verbod verwerkte dierlijke eiwitten als meststof | 2 | 2001-02-15 to 2004-01-29 |
+| `regeling-vaststelling-model-financiele-verantwoording-en-controleprotocol-educatie-2000` | Regeling vaststelling model financiële verantwoording en controleprotocol educatie 2000 | 2 | 2001-03-17 to 2008-08-01 |
+| `regeling-vaststelling-model-financiele-verantwoording-en-controleprotocol-inburgering-nieu` | Regeling vaststelling model financiële verantwoording en controleprotocol inburgering nieuwkomers 2000 | 2 | 2001-03-17 to 2007-01-01 |
+| `subsidieplafond-subsidieregeling-maatschappelijke-organisaties-en-milieu-3` | Subsidieplafond Subsidieregeling maatschappelijke organisaties en milieu | 2 | 2001-12-30 to 2004-12-23 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-februari-2001` | Beschikking rendementen gesubsidieerde woningbouw, februari 2001 | 2 | 2001-02-01 to 2004-12-23 |
+| `wijziging-regeling-geluidwerende-voorzieningen-1997-2` | Wijziging Regeling geluidwerende voorzieningen 1997 | 2 | 2001-03-04 to 2008-12-24 |
+| `vaststelling-subsidieplafond-2001-besluit-versterking-natuur-en-bosbeheer-bij-bos-en-landg` | Vaststelling subsidieplafond 2001 Besluit versterking natuur en bosbeheer bij bos- en landgoedeigenaren | 2 | 2001-03-02 to 2004-01-24 |
+| `vaststelling-subsidieplafond-2001-regeling-effectgerichte-maatregelen-in-bossen-en-natuurt` | Vaststelling subsidieplafond 2001 Regeling effectgerichte maatregelen in bossen en natuurterreinen | 2 | 2001-03-02 to 2004-01-24 |
+| `regeling-testmethoden-driftarme-doppen-lozingenbesluit-open-teelt-en-veehouderij` | Regeling testmethoden driftarme doppen Lozingenbesluit open teelt en veehouderij | 2 | 2001-03-02 to 2013-01-01 |
+| `wijzigingsbesluit-bij-het-mandaatbesluit-dienstonderdelen-openbaar-ministerie-2` | Wijzigingsbesluit bij het Mandaatbesluit dienstonderdelen openbaar ministerie | 2 | 2001-03-01 to 2012-08-14 |
+| `regeling-watergehalte-pluimveevlees` | Regeling watergehalte pluimveevlees | 2 | 2001-03-10 to 2010-01-01 |
+| `delegatie-bevoegdheid-subsidieverlening-regeling-tegemoetkoming-sfm-premielasten` | Delegatie bevoegdheid subsidieverlening Regeling tegemoetkoming SFM-premielasten | 2 | 2001-03-04 to 2010-11-01 |
+| `regeling-aanwijzing-slachtinrichtingen-offerfeest-2001` | Regeling aanwijzing slachtinrichtingen offerfeest 2001 | 2 | 2001-03-04 to 2004-01-24 |
+| `vaststelling-aanvraagperiode-en-subsidieplafond-regeling-tegemoetkoming-sfm-premielasten` | Vaststelling aanvraagperiode en subsidieplafond Regeling tegemoetkoming SFM-premielasten | 2 | 2001-03-04 to 2010-11-01 |
+| `instellingsbesluit-adviescommissie-ontheffingen-afleggen-toetsen-kwaliteitstraject-tolken` | Instellingsbesluit Adviescommissie Ontheffingen (afleggen toetsen kwaliteitstraject tolken en vertalers) | 2 | 2001-07-01 to 2005-01-02 |
+| `subsidieplafond-en-beleidsvoornemen-matra-politieke-partijen-programma` | Subsidieplafond en beleidsvoornemen Matra Politieke Partijen Programma | 2 | 2001-03-14 to 2006-01-01 |
+| `import-en-exportrestricties-mond-en-klauwzeer-2001` | Import- en exportrestricties mond- en klauwzeer 2001 | 2 | 2001-09-09 to 2004-01-24 |
+| `aanwijzing-kompasstellers` | Aanwijzing kompasstellers | 2 | 2001-03-22 to 2003-06-29 |
+| `vaststelling-subsidieplafonds-2001-subsidieregeling-innovatiegerichte-onderzoekprogramma-s` | Vaststelling subsidieplafonds 2001 Subsidieregeling innovatiegerichte onderzoekprogramma's | 2 | 2001-03-14 to 2005-06-11 |
+| `regeling-uitvoering-subsidieregeling-programma-technologie-en-samenleving-1` | Regeling uitvoering Subsidieregeling programma technologie en samenleving (1) | 2 | 2001-03-16 to 2003-06-07 |
+| `regeling-modellen-diploma-s-v-w-o-h-a-v-o-profiel` | Regeling modellen diploma's v.w.o.- h.a.v.o. profiel | 2 | 2001-08-01 to 2008-08-01 |
+| `regeling-technische-eigenschappen-uitzendingen-publieke-omroep` | Regeling technische eigenschappen uitzendingen publieke omroep | 2 | 2011-03-23 to 2013-03-15 |
+| `regeling-normrente-en-normbedrag-spaarpremie-tweede-kwartaal-2001` | Regeling normrente en normbedrag spaarpremie tweede kwartaal 2001 | 2 | 2001-04-01 to 2004-12-23 |
+| `besluit-beheersoverdracht-privacyreglementen` | Besluit beheersoverdracht privacyreglementen | 2 | 2001-05-01 to 2003-08-24 |
+| `openstelling-spieringvisserij-op-ijsselmeer-2001` | Openstelling spieringvisserij op IJsselmeer 2001 | 2 | 2001-03-16 to 2004-01-24 |
+| `richtlijn-kostenvergoeding-geslachtsnaamswijzing-en-geslachtsnaamsvaststelling` | Richtlijn kostenvergoeding geslachtsnaamswijzing en geslachtsnaamsvaststelling | 2 | 2002-01-01 to 2007-01-03 |
+| `regeling-hardheidsclausule` | Regeling hardheidsclausule | 2 | 2001-03-29 to 2005-01-01 |
+| `mandaat-algemene-inspectiedienst` | Mandaat Algemene Inspectiedienst | 2 | 2001-03-21 to 2005-11-12 |
+| `besluit-buitengewoon-opsporingsambtenaar-gemeentelijk-havenbedrijf-amsterdam-2001` | Besluit buitengewoon opsporingsambtenaar Gemeentelijk Havenbedrijf Amsterdam 2001 | 2 | 2001-04-05 to 2006-03-25 |
+| `regeling-aanpassing-gpl-bedragen-en-bekendmaking-opslagpercentages-vf-en-pf-schooljaar-200` | Regeling aanpassing gpl-bedragen en bekendmaking opslagpercentages VF en PF, schooljaar 2000-2001 en 2001-2002 | 2 | 2001-08-01 to 2008-08-01 |
+| `onderwerpen-filosofie-centraal-examen-havo-2002-en-vwo-2003` | Onderwerpen filosofie centraal examen havo 2002 en vwo 2003 | 2 | 2001-04-07 to 2004-12-31 |
+| `vaststelling-indicatorenlijst-voor-ongebruikelijke-transacties` | Vaststelling indicatorenlijst voor ongebruikelijke transacties | 2 | 2002-01-30 to 2005-11-01 |
+| `regeling-inzet-studenten-bij-mond-en-klauwzeerbestrijding-2001` | Regeling inzet studenten bij mond- en klauwzeerbestrijding 2001 | 2 | 2001-03-21 to 2004-01-24 |
+| `aanwijzing-toezichthoudende-ambtenaren-als-bedoeld-in-de-wet-voorraadvorming-aardolieprodu` | Aanwijzing toezichthoudende ambtenaren als bedoeld in de Wet voorraadvorming aardolieproducten 2001 | 2 | 2001-04-01 to 2013-04-01 |
+| `tijdelijke-regeling-uitkering-kwaliteitsverbetering-indicatiestelling` | Tijdelijke regeling uitkering kwaliteitsverbetering indicatiestelling | 2 | 2003-07-09 to 2004-07-01 |
+| `besluit-instelling-commissie-milieuhygiene-luchtvaartterrein-midden-zeeland` | Besluit instelling Commissie milieuhygiëne luchtvaartterrein Midden-Zeeland | 2 | 2001-11-02 to 2008-12-24 |
+| `wijziging-subsidieregeling-energievoorzieningen-in-de-non-profit-en-bijzondere-sectoren-20-2` | Wijziging Subsidieregeling energievoorzieningen in de non-profit en bijzondere sectoren (2001) | 2 | 2001-04-01 to 2003-06-07 |
+| `herziening-cursusgeldtarieven-cursusjaar-2001-2002` | Herziening cursusgeldtarieven cursusjaar 2001-2002 | 2 | 2001-03-29 to 2004-12-31 |
+| `herziening-lesgeld-cursusjaar-2001-2002` | Herziening lesgeld cursusjaar 2001-2002 | 2 | 2001-03-29 to 2004-12-31 |
+| `regeling-vaststelling-indieningsperiode-2001-aanvraag-oppervlakten` | Regeling vaststelling indieningsperiode 2001 aanvraag oppervlakten | 2 | 2001-03-29 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-maart-2001` | Beschikking rendementen gesubsidieerde woningbouw, maart 2001 | 2 | 2001-03-01 to 2004-12-23 |
+| `tijdelijke-regeling-overgangsrecht-inburgering-nieuwkomers-in-verband-met-de-inwerkingtred` | Tijdelijke regeling overgangsrecht inburgering nieuwkomers in verband met de inwerkingtreding van de Vreemdelingenwet 2000 | 2 | 2001-04-01 to 2007-01-01 |
+| `vaststellingsregeling-2001-bedragen-ex-artikel-4-eerste-lid-regeling-kostenverhaal-wet-mel` | Vaststellingsregeling 2001 bedragen ex artikel 4, eerste lid, Regeling kostenverhaal Wet melding zeggenschap 1996 | 2 | 2002-01-01 to 2004-01-01 |
+| `vaststellingregeling-bedragen-regeling-toezichtskosten-wet-toezicht-effectenverkeer-1995-v` | Vaststellingregeling bedragen Regeling toezichtskosten Wet toezicht effectenverkeer 1995 voor 2001 | 2 | 2002-01-01 to 2004-01-01 |
+| `aanpassing-besluit-uitvoering-regeling-ziektekostenvoorziening-onderwijs-en-onderzoekperso` | Aanpassing Besluit uitvoering Regeling ziektekostenvoorziening onderwijs- en onderzoekpersoneel i.v.m. vervallen overhevelingstoeslag | 2 | 2001-04-20 to 2004-12-31 |
+| `vaststelling-subsidieplafond-2001-regeling-organisatiekosten-samenwerkingsverbanden` | Vaststelling subsidieplafond 2001 Regeling organisatiekosten samenwerkingsverbanden | 2 | 2001-12-14 to 2004-12-08 |
+| `besluit-adviescommissie-bezwaarschriften-consulaire-zaken` | Besluit Adviescommissie bezwaarschriften consulaire zaken | 2 | 2001-04-12 to 2004-12-01 |
+| `openstellingsbesluit-regeling-stimulering-biologische-productiemethode` | Openstellingsbesluit Regeling stimulering biologische productiemethode | 2 | 2001-04-07 to 2004-01-24 |
+| `wijziging-bedragen-krachtens-bijdragebesluit-zorg` | Wijziging bedragen krachtens Bijdragebesluit zorg | 2 | 2002-01-01 to 2004-08-28 |
+| `vaststellingsregeling-guldensbedragen-ex-artikel-7-bijdragebesluit-zorg` | Vaststellingsregeling guldensbedragen ex artikel 7 Bijdragebesluit zorg | 2 | 2001-07-01 to 2004-08-28 |
+| `volmacht-departementaal-crisis-centrum-mkz` | Volmacht Departementaal Crisis Centrum MKZ | 2 | 2001-04-08 to 2004-04-26 |
+| `machtiging-directeur-expertisecentrum` | Machtiging directeur Expertisecentrum | 2 | 2001-04-11 to 2005-03-02 |
+| `besluit-stuurgroep-weesgeneesmiddelen-2` | Besluit Stuurgroep Weesgeneesmiddelen | 2 | 2002-01-01 to 2009-02-06 |
+| `mandaat-directeur-vvm` | Mandaat directeur VVM | 2 | 2001-04-20 to 2004-04-26 |
+| `wijziging-regeling-compartimentering-nederland-mkz-2001` | Wijziging regeling compartimentering Nederland MKZ 2001 | 2 | 2001-04-11 to 2004-01-24 |
+| `regeling-bijstand-krijgsmacht-mond-en-klauwzeer-ii` | Regeling bijstand krijgsmacht mond- en klauwzeer II | 2 | 2001-04-13 to 2005-02-01 |
+| `goedkeuring-tarieven-destructiewet-eerste-kwartaal-2001` | Goedkeuring tarieven Destructiewet eerste kwartaal 2001 | 2 | 2001-04-25 to 2004-01-24 |
+| `uitvoeringsregeling-voorraadvorming-aardolieproducten-2001` | Uitvoeringsregeling voorraadvorming aardolieproducten 2001 | 2 | 2001-04-27 to 2013-04-01 |
+| `regeling-aanwijzing-bevoegde-ambtenaren-collectieve-watervoorzieningen-en-collectieve-leid` | Regeling aanwijzing bevoegde ambtenaren collectieve watervoorzieningen en collectieve leidingnetten | 2 | 2003-08-20 to 2005-02-25 |
+| `vaststelling-huursubsidie-uitgavennorm-voor-het-subsidiejaar-2001-2002` | Vaststelling huursubsidie-uitgavennorm voor het subsidiejaar 2001/2002 | 2 | 2001-07-01 to 2003-07-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-april-2001` | Beschikking rendementen gesubsidieerde woningbouw, april 2001 | 2 | 2001-04-01 to 2004-12-23 |
+| `uitvoeringsregeling-top` | Uitvoeringsregeling TOP | 2 | 2002-01-01 to 2004-01-01 |
+| `aansluiting-gemeenten-kampen-steenwijk-en-venlo-bij-nationale-ombudsman` | Aansluiting gemeenten Kampen, Steenwijk en Venlo bij Nationale ombudsman | 2 | 2001-05-06 to 2013-07-01 |
+| `regeling-bevordering-eigenwoningbezit-2001` | Regeling bevordering eigenwoningbezit 2001 | 2 | 2002-01-01 to 2004-12-23 |
+| `subsidieplafond-regeling-herstelmaatregelen-kabeljauwbestand` | Subsidieplafond Regeling herstelmaatregelen kabeljauwbestand | 2 | 2001-05-03 to 2004-01-24 |
+| `programma-bilaterale-samenwerking-indonesie-2001` | Programma Bilaterale Samenwerking Indonesië 2001 | 2 | 2001-06-04 to 2006-01-01 |
+| `mandaat-bureau-heffingen` | Mandaat Bureau Heffingen | 2 | 2001-05-10 to 2004-04-26 |
+| `vaststelling-bedragen-per-eenheid-provinciefonds-2000` | Vaststelling bedragen per eenheid provinciefonds 2000 | 2 | 2001-05-20 to 2005-02-01 |
+| `subsidieregeling-aansluitingen-kennisnet-onderwijsomgeving` | Subsidieregeling aansluitingen kennisnet onderwijsomgeving | 2 | 2003-12-13 to 2008-08-01 |
+| `mandaat-directeur-groene-ruimte-en-recreatie` | Mandaat directeur Groene Ruimte en Recreatie | 2 | 2001-05-13 to 2009-05-06 |
+| `mandaat-directeur-voorlichting` | Mandaat directeur Voorlichting | 2 | 2001-05-13 to 2011-05-01 |
+| `mandaat-directeur-kabinet` | Mandaat directeur Kabinet | 2 | 2001-05-13 to 2004-03-01 |
+| `mandaat-directeur-industrie-en-handel` | Mandaat directeur Industrie en Handel | 2 | 2001-05-13 to 2007-08-22 |
+| `vierde-faciliteringsregeling-regionale-expertisecentra-in-oprichting-2001-2002` | vierde Faciliteringsregeling Regionale Expertisecentra in oprichting 2001/2002 | 2 | 2001-05-26 to 2004-12-31 |
+| `wijziging-regeling-geldelijke-steun-voor-woonwagens-en-standplaatsen-2001` | Wijziging regeling geldelijke steun voor woonwagens en standplaatsen 2001 | 2 | 2001-05-25 to 2004-12-23 |
+| `uitvoeringsregeling-ondernemerschap-en-onderwijs-2001` | Uitvoeringsregeling ondernemerschap en onderwijs 2001 | 2 | 2001-05-23 to 2005-06-11 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-mei-2001` | Beschikking rendementen gesubsidieerde woningbouw, mei 2001 | 2 | 2001-05-01 to 2004-12-23 |
+| `subsidieregeling-ocw-esf-2000` | Subsidieregeling OCW-ESF 2000 | 2 | 2001-06-09 to 2004-12-31 |
+| `regeling-spreiding-zomervakanties-2003-2005` | Regeling spreiding zomervakanties 2003-2005 | 2 | 2002-09-01 to 2008-08-01 |
+| `subsidieregeling-week-van-het-leren` | Subsidieregeling Week van het leren | 2 | 2001-06-09 to 2004-12-31 |
+| `instellingsregeling-commissie-stimulering-lokaal-vrijwilligersbeleid` | Instellingsregeling commissie stimulering lokaal vrijwilligersbeleid | 2 | 2004-09-16 to 2005-01-01 |
+| `vaststelling-bedrag-bedoeld-in-artikel-7-eerste-lid-onderdeel-b-kostenregeling-wet-toezich` | Vaststelling bedrag bedoeld in artikel 7, eerste lid, onderdeel b, Kostenregeling Wet toezicht beleggingsinstellingen | 2 | 2002-01-01 to 2004-01-01 |
+| `mandaat-directeur-juridische-zaken` | Mandaat directeur Juridische Zaken | 2 | 2001-06-02 to 2004-04-26 |
+| `mandaat-rvv` | Mandaat RVV | 2 | 2001-06-02 to 2004-04-26 |
+| `meet-en-rekenvoorschrift-industrielawaai` | Meet- en rekenvoorschrift industrielawaai | 2 | 2001-06-23 to 2012-07-01 |
+| `regeling-opleiding-taalcoordinator` | Regeling opleiding taalcoördinator | 2 | 2001-06-23 to 2014-01-23 |
+| `regeling-eg-verklaring-kapiteins-stuurlieden-werktuigkundigen-en-maritiem-officieren` | Regeling EG-verklaring kapiteins, stuurlieden, werktuigkundigen en maritiem officieren | 2 | 2007-10-20 to 2007-12-21 |
+| `regeling-bestedingsmogelijkheden-ambtenaren-voor-fiscaal-gefacilieerde-doelen` | Regeling bestedingsmogelijkheden ambtenaren voor fiscaal gefacilieerde doelen | 2 | 2002-01-01 to 2004-01-01 |
+| `gesloten-periode-ijsselmeer-2001` | Gesloten periode IJsselmeer 2001 | 2 | 2001-06-13 to 2004-01-24 |
+| `regeling-verzamelen-van-runderen` | Regeling Verzamelen van runderen | 2 | 2001-11-01 to 2005-06-26 |
+| `terbeschikkingstelling-ambtenaren-telecom-t-b-v-toezicht-op-naleving-wet-scheepsuitrusting` | Terbeschikkingstelling ambtenaren Telecom t.b.v. toezicht op naleving Wet scheepsuitrusting | 2 | 2001-07-01 to 2004-11-01 |
+| `instellingsbesluit-directoraat-generaal-luchtvaart` | Instellingsbesluit Directoraat-Generaal Luchtvaart | 2 | 2001-07-01 to 2005-04-01 |
+| `instellingsbesluit-inspectie-verkeer-en-waterstaat` | Instellingsbesluit Inspectie Verkeer en Waterstaat | 2 | 2010-12-16 to 2012-01-01 |
+| `tijdelijke-vrijstellingsregeling-varkensheffing` | Tijdelijke vrijstellingsregeling varkensheffing | 2 | 2005-01-01 to 2010-01-01 |
+| `uitvoeringsregeling-bse-demos` | Uitvoeringsregeling BSE-Demos | 2 | 2001-07-05 to 2005-06-11 |
+| `regeling-indexering-akw-en-tog-bedragen-juli-2001` | Regeling indexering AKW- en TOG-bedragen juli 2001 | 2 | 2001-07-01 to 2004-09-22 |
+| `besluit-buitengewoon-opsporingsambtenaar-belastingdienst-fiod-ecd-2001` | Besluit buitengewoon opsporingsambtenaar Belastingdienst/FIOD-ECD 2001 | 2 | 2005-07-20 to 2006-06-23 |
+| `vaststelling-subsidieplafonds-sanering-verkeerslawaai-2001` | Vaststelling subsidieplafonds sanering verkeerslawaai 2001 | 2 | 2001-12-20 to 2004-12-23 |
+| `besluit-betreffende-financiele-verantwoording-omroepverenigingen` | Besluit betreffende financiële verantwoording omroepverenigingen | 2 | 2001-07-01 to 2005-01-01 |
+| `vaststelling-periode-voor-overdracht-premierechten-voor-ooien` | Vaststelling periode voor overdracht premierechten voor ooien | 2 | 2001-06-17 to 2004-01-24 |
+| `vaststelling-dekking-beheerskosten-college-zorgverzekeringen-uit-algemene-kas-en-algemeen` | Vaststelling dekking beheerskosten College zorgverzekeringen uit Algemene Kas en Algemeen Fonds Bijzondere Ziektekosten | 2 | 2001-06-22 to 2004-08-28 |
+| `regeling-normrente-en-normbedrag-spaarpremie-derde-kwartaal-2001` | Regeling normrente en normbedrag spaarpremie derde kwartaal 2001 | 2 | 2001-07-01 to 2004-12-23 |
+| `beleidsregel-opschorting-betaling-rijksbijdrage-vergoeding-bij-niet-inzenden-van-bekostigi` | Beleidsregel opschorting betaling rijksbijdrage/vergoeding bij niet inzenden van bekostigingsgegevens | 2 | 2003-09-27 to 2004-12-31 |
+| `besluit-mandaat-machtiging-en-volmacht-senter-voor-de-uitvoering-van-cerupt` | Besluit mandaat, machtiging en volmacht Senter voor de uitvoering van CERupt | 2 | 2001-06-27 to 2013-05-01 |
+| `regeling-herstelmaatregelen-heek-2001` | Regeling herstelmaatregelen heek 2001 | 2 | 2009-01-01 to 2009-07-01 |
+| `mandaatbesluit-verklaringen-van-geen-bezwaar-effectenbeurzen` | Mandaatbesluit verklaringen van geen bezwaar effectenbeurzen | 2 | 2002-03-01 to 2008-04-01 |
+| `rechtspositie-en-bezoldiging-commissariaat-voor-de-media-en-bedrijfsfonds-voor-de-pers` | Rechtspositie en bezoldiging Commissariaat voor de Media en Bedrijfsfonds voor de Pers | 2 | 2001-06-27 to 2009-01-01 |
+| `instellingsbesluit-monitorcomite-esf3` | Instellingsbesluit Monitorcomité ESF3 | 2 | 2002-03-08 to 2008-09-25 |
+| `vaststellingsregeling-bedragen-stelselherziening-sociale-zekerheid` | Vaststellingsregeling bedragen stelselherziening sociale zekerheid | 2 | 2001-07-01 to 2004-09-22 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juni-2001` | Beschikking rendementen gesubsidieerde woningbouw, juni 2001 | 2 | 2001-06-01 to 2004-12-23 |
+| `regeling-stagebegeleidingsvergoeding-voor-scholen-voor-basis-en-voortgezet-onderwijs-en-in` | Regeling stagebegeleidingsvergoeding voor scholen voor basis- en voortgezet onderwijs en instellingen voor beroepsonderwijs en volwasseneneducatie | 2 | 2001-07-28 to 2004-01-01 |
+| `instelling-projectdirectie-uitvoering-hsl-zuid` | Instelling Projectdirectie Uitvoering HSL-Zuid | 2 | 2003-08-02 to 2009-12-22 |
+| `uitvoeringsregeling-bse-necst` | Uitvoeringsregeling BSE-NECST | 2 | 2001-07-01 to 2005-06-11 |
+| `uitvoeringsregeling-bse-duurzame-energie` | Uitvoeringsregeling BSE-duurzame energie | 2 | 2001-12-15 to 2005-06-11 |
+| `besluit-buitengewoon-opsporingsambtenaar-teleservicemedewerkers-regiopolitie-amsterdam-ams` | Besluit buitengewoon opsporingsambtenaar Teleservicemedewerkers regiopolitie Amsterdam-Amstelland 2001 | 2 | 2001-07-21 to 2006-02-01 |
+| `mandaatbesluit-regeling-ziektekostenvoorziening-onderwijs-en-onderzoekspersoneel` | Mandaatbesluit Regeling ziektekostenvoorziening onderwijs- en onderzoekspersoneel | 2 | 2001-08-01 to 2006-01-01 |
+| `regeling-mestafzetovereenkomsten-meststoffenwet` | Regeling mestafzetovereenkomsten Meststoffenwet | 2 | 2001-07-11 to 2005-01-01 |
+| `indexering-specifieke-uitkeringen-gemeentelijk-onderwijsachterstandenbeleid-goa-en-onderwi-2` | Indexering specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid (goa) en onderwijs in allochtone levende talen (oalt) 2001-2002 | 2 | 2001-07-28 to 2004-12-31 |
+| `regeling-herziening-rijksbijdrage-inburgering-nieuwkomers-2001` | Regeling herziening rijksbijdrage inburgering nieuwkomers 2001 | 2 | 2001-07-28 to 2004-12-31 |
+| `vergoedingenregeling-adviesraad-programmaonderzoek-ondernemerschap-en-mkb` | Vergoedingenregeling Adviesraad programmaonderzoek ondernemerschap en MKB | 2 | 2002-01-01 to 2006-01-01 |
+| `regeling-kosten-ondernemingsplan-gerechtsdeurwaarder` | Regeling kosten ondernemingsplan gerechtsdeurwaarder | 2 | 2001-07-15 to 2004-11-15 |
+| `meetregeling-luchtkwaliteit` | Meetregeling luchtkwaliteit | 2 | 2001-07-19 to 2005-08-05 |
+| `wijziging-regeling-subsidies-en-uitkeringen-cultuuruitingen-3` | Wijziging Regeling subsidies en uitkeringen cultuuruitingen | 2 | 2001-07-29 to 2004-12-31 |
+| `openstelling-en-subsidieplafond-subsidieregeling-demonstratie-en-kennisoverdrachtprojecten` | Openstelling en subsidieplafond Subsidieregeling demonstratie- en kennisoverdrachtprojecten duurzame landbouw | 2 | 2001-07-12 to 2004-01-24 |
+| `vaststelling-subsidieplafond-en-aanvulling-beleidsvoornemen-matra` | Vaststelling subsidieplafond en aanvulling beleidsvoornemen Matra | 2 | 2001-07-15 to 2006-01-01 |
+| `regeling-thema-s-onderwerpen-centraal-examen-geschiedenis-v-w-o-h-a-v-o-2004-oude-en-nieuw` | Regeling thema's/onderwerpen centraal examen geschiedenis v.w.o./h.a.v.o. 2004 (oude en nieuwe stijl) | 2 | 2001-07-28 to 2007-08-01 |
+| `regeling-tegemoetkoming-beheerkosten-biesheuvelgroepen` | Regeling tegemoetkoming beheerkosten Biesheuvelgroepen | 2 | 2001-07-15 to 2004-01-24 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juli-2001` | Beschikking rendementen gesubsidieerde woningbouw, juli 2001 | 2 | 2001-07-01 to 2004-12-23 |
+| `instellingsbesluit-hoofddirectie-financieel-economische-zaken-verkeer-en-waterstaat` | Instellingsbesluit Hoofddirectie Financieel Economische Zaken Verkeer en Waterstaat | 2 | 2001-08-02 to 2006-01-01 |
+| `thema-s-en-domeinen-centraal-examen-maatschappijleer-havo-en-vwo-2003-en-2004` | Thema's en domeinen centraal examen maatschappijleer havo en vwo 2003 en 2004 | 2 | 2001-07-28 to 2007-08-01 |
+| `verlenging-beleidsregels-vaststelling-subsidie-wet-sociale-werkvoorziening-voor-het-jaar-2` | Verlenging Beleidsregels vaststelling subsidie Wet sociale werkvoorziening voor het jaar 2000 | 2 | 2001-07-15 to 2008-09-25 |
+| `instellingsbesluit-agentschap-inspectie-verkeer-en-waterstaat-divisie-telecom` | Instellingsbesluit agentschap Inspectie Verkeer en Waterstaat/Divisie Telecom | 2 | 2001-07-29 to 2005-07-22 |
+| `regeling-vaststelling-specifieke-formatie-instellingen-voor-speciaal-en-voortgezet-speciaa` | Regeling vaststelling specifieke formatie instellingen voor speciaal en voortgezet speciaal onderwijs aan visueel gehandicapte kinderen | 2 | 2001-07-28 to 2008-08-01 |
+| `instellingsbesluit-bestuursraad-koninklijke-marechaussee` | Instellingsbesluit Bestuursraad Koninklijke Marechaussee | 2 | 2001-07-16 to 2009-03-15 |
+| `vaststellingsbesluit-beleidsregels-vergunningverlening-dvb-t` | Vaststellingsbesluit beleidsregels vergunningverlening dvb-t | 2 | 2001-09-01 to 2007-02-11 |
+| `subsidieplafond-2001-verspreidingsregeling-vernieuwing-landelijk-gebied-voor-noord-nederla` | Subsidieplafond 2001 Verspreidingsregeling vernieuwing landelijk gebied voor Noord-Nederland | 2 | 2001-07-22 to 2004-01-24 |
+| `subsidieplafonds-en-thema-s-projecten-2001-regeling-draagvlak-natuur` | Subsidieplafonds en thema's projecten 2001 Regeling draagvlak natuur | 2 | 2001-07-22 to 2004-01-24 |
+| `regeling-vaststelling-bedrag-voorbereiding-ontwikkeling-en-invoering-van-integraal-persone-2` | Regeling vaststelling bedrag voorbereiding, ontwikkeling en invoering van Integraal personeelsbeleid BVE 2001 | 2 | 2001-09-08 to 2004-12-31 |
+| `besluit-buitengewoon-opsporingsambtenaar-reinigingsagenten-dienst-binnenstad-amsterdam-200` | Besluit buitengewoon opsporingsambtenaar Reinigingsagenten Dienst Binnenstad Amsterdam 2001 | 2 | 2001-10-01 to 2003-06-05 |
+| `regeling-aanduiding-ner` | Regeling aanduiding NeR | 2 | 2001-08-11 to 2013-01-01 |
+| `regeling-restauratie-eenheden-monumenten` | Regeling restauratie-eenheden monumenten | 2 | 2001-08-17 to 2006-02-01 |
+| `vaststelling-vergoedingen-leden-commissie-van-toezicht-vakbekwaamheidsexamens-wet-assurant` | Vaststelling vergoedingen leden Commissie van Toezicht Vakbekwaamheidsexamens Wet assurantiebemiddelingsbedrijf | 2 | 2001-08-12 to 2006-01-01 |
+| `regeling-vaststelling-percentages-regeling-toezichtskosten-wet-toezicht-effectenverkeer-19` | Regeling vaststelling percentages Regeling toezichtskosten Wet toezicht effectenverkeer 1995 voor 2001 | 2 | 2001-08-16 to 2004-01-01 |
+| `regeling-houdende-instemming-met-tarieven-destructiewet-tweede-kwartaal-2001` | Regeling houdende instemming met tarieven Destructiewet tweede kwartaal 2001 | 2 | 2001-08-16 to 2004-01-24 |
+| `regeling-subsidieplafonds-sanering-verkeerslawaai-2001` | Regeling subsidieplafonds sanering verkeerslawaai 2001 | 2 | 2001-12-20 to 2007-01-01 |
+| `regeling-model-huisregels-justitiele-jeugdinrichtingen-2` | Regeling model huisregels justitiële jeugdinrichtingen | 2 | 2001-09-01 to 2011-07-17 |
+| `vaststellingsregeling-bedragen-per-eenheid-gemeentefonds-2000` | Vaststellingsregeling bedragen per eenheid gemeentefonds 2000 | 2 | 2001-09-07 to 2005-02-01 |
+| `regeling-uitvoering-subsidieregeling-programma-technologie-en-samenleving-2` | Regeling uitvoering Subsidieregeling programma technologie en samenleving (2) | 2 | 2001-08-19 to 2003-06-07 |
+| `uitvoeringsregeling-bsz-2001` | Uitvoeringsregeling BSZ 2001 | 2 | 2002-01-01 to 2005-06-11 |
+| `saneringsregeling-asbestwegen-haaksbergen` | Saneringsregeling asbestwegen Haaksbergen | 2 | 2001-08-29 to 2004-12-23 |
+| `regeling-voorschotten-in-verband-met-uitbreiding-van-de-doelgroep-voor-inburgering-nieuwko` | Regeling voorschotten in verband met uitbreiding van de doelgroep voor inburgering nieuwkomers | 2 | 2001-09-08 to 2004-12-31 |
+| `mandaatregeling-directeur-biotechnologie` | Mandaatregeling directeur Biotechnologie | 2 | 2001-08-19 to 2004-04-26 |
+| `mandaatregeling-hoofd-regiebureau-pop` | Mandaatregeling hoofd regiebureau POP | 2 | 2010-06-30 to 2012-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-augustus-2001` | Beschikking rendementen gesubsidieerde woningbouw, augustus 2001 | 2 | 2001-08-01 to 2004-12-23 |
+| `tijdelijke-referendumregeling-modellen` | Tijdelijke referendumregeling modellen | 2 | 2002-01-10 to 2005-01-01 |
+| `subsidieplafond-2001-besluit-subsidies-civiele-vliegtuigontwikkeling` | Subsidieplafond 2001 Besluit subsidies civiele vliegtuigontwikkeling | 2 | 2001-08-24 to 2005-06-11 |
+| `vaststelling-legitimatiebewijs-voor-de-buitengewoon-opsporingsambtenaar` | Vaststelling legitimatiebewijs voor de buitengewoon opsporingsambtenaar | 2 | 2001-09-07 to 2013-01-23 |
+| `regeling-tarieven-examens-klein-vaarbewijs-2001` | Regeling tarieven examens klein vaarbewijs 2001 | 2 | 2002-01-01 to 2006-01-01 |
+| `regeling-vaststelling-model-klein-vaarbewijs-2001` | Regeling vaststelling model klein vaarbewijs 2001 | 2 | 2001-09-01 to 2009-07-01 |
+| `regeling-melding-geweldaanwending` | Regeling melding geweldaanwending | 2 | 2001-08-31 to 2013-01-01 |
+| `instellingsbesluit-landelijk-expertisecentrum-diversiteit` | Instellingsbesluit Landelijk Expertisecentrum Diversiteit | 2 | 2004-08-01 to 2006-01-01 |
+| `regeling-senior-examinatoren-voor-luchtvarenden` | Regeling senior-examinatoren voor luchtvarenden | 2 | 2002-01-01 to 2004-10-01 |
+| `regeling-tegemoetkoming-duale-opleidingstrajecten-onderwijsfuncties-bve-sector-2001` | Regeling tegemoetkoming duale opleidingstrajecten onderwijsfuncties BVE-sector 2001 | 2 | 2001-09-22 to 2004-12-31 |
+| `regeling-geldsom-visakten-2002` | Regeling geldsom visakten 2002 | 2 | 2002-01-01 to 2004-01-24 |
+| `regeling-voorschriften-en-modellen-gegevensverstrekking-rijksbijdrage-openbaar-vervoer` | Regeling voorschriften en modellen gegevensverstrekking rijksbijdrage openbaar vervoer | 2 | 2001-09-01 to 2005-03-16 |
+| `regeling-subsidie-voor-het-verzorgen-van-onderwijs-aan-een-hbo-lerarenopleiding-behorende` | Regeling subsidie voor het verzorgen van onderwijs aan een hbo-lerarenopleiding behorende bij een instelling waar de student reeds een getuigschrift heeft behaald | 2 | 2005-11-06 to 2008-01-01 |
+| `vrijstellingsregeling-dierenwelzijn` | Vrijstellingsregeling dierenwelzijn | 2 | 2013-07-01 to 2014-07-01 |
+| `uitvoeringsregeling-tipp-2001` | Uitvoeringsregeling Tipp 2001 | 2 | 2001-09-05 to 2004-12-15 |
+| `subsidieplafond-2002-besluit-ontwikkeling-van-landschappen` | Subsidieplafond 2002 Besluit ontwikkeling van landschappen | 2 | 2001-09-05 to 2004-01-24 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-2000-en-voor-2001` | Regeling vaststelling mede te financieren bedrag MOOZ voor 2000 en voor 2001 | 2 | 2002-08-17 to 2004-08-28 |
+| `regeling-bouw-en-inrichting-archiefruimten-en-archiefbewaarplaatsen` | Regeling bouw en inrichting archiefruimten en archiefbewaarplaatsen | 2 | 2001-09-20 to 2010-04-01 |
+| `regeling-duurzaamheid-archiefbescheiden` | Regeling duurzaamheid archiefbescheiden | 2 | 2001-09-20 to 2010-04-01 |
+| `vaststelling-aanvraagperiode-in-het-kader-van-de-regeling-stimulering-biologische-producti` | Vaststelling aanvraagperiode in het kader van de Regeling stimulering biologische productiemethode | 2 | 2001-09-09 to 2004-01-24 |
+| `vaststelling-perioden-en-subsidieplafonds-eet-2001-2002` | Vaststelling perioden en subsidieplafonds EET 2001/2002 | 2 | 2002-07-13 to 2004-01-01 |
+| `subsidieregeling-vernieuwing-onderwijsleermethoden-inclusief-ict-en-verbetering-kwaliteit` | Subsidieregeling vernieuwing onderwijsleermethoden inclusief ICT en verbetering kwaliteit schoolgebouwen voor het basis- en het (voortgezet) speciaal onderwijs | 2 | 2001-11-17 to 2004-12-31 |
+| `regeling-vaststelling-programma-ruimtelijke-ordening-en-vervoer` | Regeling vaststelling programma Ruimtelijke Ordening en Vervoer | 2 | 2001-11-04 to 2009-01-01 |
+| `regeling-gezondheidstoets-politie` | Regeling gezondheidstoets politie | 2 | 2001-09-15 to 2016-02-01 |
+| `regeling-normrente-en-normbedrag-spaarpremie-vierde-kwartaal-2001` | Regeling normrente en normbedrag spaarpremie vierde kwartaal 2001 | 2 | 2001-10-01 to 2004-12-23 |
+| `regeling-schoolbudget-2001-2002` | Regeling schoolbudget 2001-2002 | 2 | 2002-11-23 to 2004-12-31 |
+| `regeling-aanpassing-landelijke-bedragen-gemiddelde-personeelslast-gpl-bedragen-in-verband` | Regeling aanpassing landelijke bedragen gemiddelde personeelslast (gpl-bedragen) in verband met de CAO 2000 - 2002 en maatregelen in relatie tot de werkgroep Van Rijn | 2 | 2001-09-29 to 2004-12-31 |
+| `besluit-mandaat-en-machtiging-ideeencommissie-verkeer-en-waterstaat` | Besluit mandaat en machtiging Ideeëncommissie Verkeer en Waterstaat | 2 | 2001-09-26 to 2010-08-21 |
+| `regeling-toezichtskosten-commerciele-omroep` | Regeling toezichtskosten commerciële omroep | 2 | 2002-01-01 to 2009-01-01 |
+| `uitvoeringsregeling-ondernemerschap-en-onderwijs-2001-ii` | Uitvoeringsregeling ondernemerschap en onderwijs 2001-II | 2 | 2001-09-29 to 2005-06-11 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-september-2001` | Beschikking rendementen gesubsidieerde woningbouw, september 2001 | 2 | 2001-12-01 to 2004-12-23 |
+| `regeling-toekenningen-leraren-in-opleiding-en-stagiairs-2001-2002` | Regeling toekenningen leraren in opleiding en stagiairs 2001-2002 | 2 | 2001-10-13 to 2004-12-31 |
+| `wijziging-subsidieregeling-innovatiegerichte-onderzoeksprogramma-s` | Wijziging Subsidieregeling innovatiegerichte onderzoeksprogramma's | 2 | 2002-03-01 to 2005-06-11 |
+| `instelling-raad-voor-vastgoed-rijksoverheid` | Instelling Raad voor Vastgoed Rijksoverheid | 2 | 2001-09-30 to 2005-06-25 |
+| `regeling-proeftuinen-agrarisch-natuurbeheer` | Regeling proeftuinen agrarisch natuurbeheer | 2 | 2001-09-27 to 2004-01-24 |
+| `subsidieplafond-functieverandering-subsidieregeling-natuurbeheer-2000` | Subsidieplafond functieverandering Subsidieregeling natuurbeheer 2000 | 2 | 2001-10-14 to 2004-01-24 |
+| `indexering-beheersbijdragen-subsidieregeling-natuurbeheer-2000` | Indexering beheersbijdragen Subsidieregeling natuurbeheer 2000 | 2 | 2001-09-27 to 2004-01-24 |
+| `regeling-vaststelling-quota-suiker-isoglucose-en-inulinestroop-voor-de-verkoopseizoenen-20-2` | Regeling vaststelling quota suiker, isoglucose en inulinestroop voor de verkoopseizoenen 2001/2002 tot en met 2005/2006 | 2 | 2005-10-29 to 2006-07-01 |
+| `mandaatbesluit-artikelen-82-83-90b-en-90c-wet-toezicht-kredietwezen-1992` | Mandaatbesluit artikelen 82, 83, 90b en 90c Wet toezicht kredietwezen 1992 | 2 | 2001-10-14 to 2004-09-15 |
+| `instelling-college-voor-de-archeologische-kwaliteit` | Instelling College voor de archeologische kwaliteit | 2 | 2005-12-22 to 2009-04-22 |
+| `subsidieregeling-co2-reductie-verkeer-en-vervoer` | Subsidieregeling CO2-reductie verkeer en vervoer | 2 | 2007-12-19 to 2009-01-01 |
+| `regeling-vaststelling-aanvraagformulier-programma-ruimtelijke-ordening-en-vervoer` | Regeling vaststelling aanvraagformulier programma Ruimtelijke Ordening en Vervoer | 2 | 2001-11-04 to 2009-01-01 |
+| `vaststelling-subsidieprogramma-het-nieuwe-rijden-2001-2002` | Vaststelling subsidieprogramma Het Nieuwe Rijden 2001/2002 | 2 | 2001-11-04 to 2009-01-01 |
+| `regeling-vaststelling-aanvraagformulier-het-nieuwe-rijden-2001-2002` | Regeling vaststelling aanvraagformulier Het Nieuwe Rijden 2001/2002 | 2 | 2001-11-04 to 2009-01-01 |
+| `besluit-openstelling-regeling-beeindiging-veehouderijtakken-en-vaststelling-subsidiebedrag` | Besluit openstelling Regeling beëindiging veehouderijtakken en vaststelling subsidiebedragen | 2 | 2002-07-26 to 2004-01-24 |
+| `regeling-verlaging-stikstof-productienormen-voor-2002` | Regeling verlaging stikstof productienormen voor 2002 | 2 | 2002-10-04 to 2004-01-24 |
+| `regeling-suppletie-fpu-primair-en-voortgezet-onderwijs-en-beroeps-en-volwasseneneducatie` | Regeling suppletie FPU primair- en voortgezet onderwijs en beroeps- en volwasseneneducatie | 2 | 2001-11-10 to 2006-01-01 |
+| `regeling-meetmethoden-massa-s-en-afmetingen-van-bedrijfsauto-s-en-aanhangwagens` | Regeling meetmethoden massa's en afmetingen van bedrijfsauto's en aanhangwagens | 2 | 2009-01-01 to 2009-05-01 |
+| `uitvoeringsregeling-bse-gebouwde-omgeving-en-ruimtelijke-aspecten` | Uitvoeringsregeling BSE-gebouwde omgeving en ruimtelijke aspecten | 2 | 2001-10-06 to 2005-06-11 |
+| `regeling-luchtwaardigheidseisen` | Regeling luchtwaardigheidseisen | 2 | 2001-10-15 to 2008-06-04 |
+| `regeling-type-certificatie-luchtwaardigheid` | Regeling type-certificatie luchtwaardigheid | 2 | 2005-05-01 to 2009-03-05 |
+| `regeling-standaard-bvl` | Regeling standaard-BvL | 2 | 2007-06-14 to 2011-10-01 |
+| `regeling-erkenningen-luchtwaardigheid` | Regeling erkenningen luchtwaardigheid | 2 | 2007-06-14 to 2008-11-12 |
+| `beleidsregel-luchtwaardigheidseisen` | Beleidsregel luchtwaardigheidseisen | 2 | 2001-10-15 to 2008-06-04 |
+| `vaststelling-subsidieplafond-2002-voor-subsidieregeling-weten-2001-2004` | Vaststelling subsidieplafond 2002 voor Subsidieregeling WeTeN 2001-2004 | 2 | 2001-10-21 to 2004-12-31 |
+| `regeling-scholingskosten-voorbereiding-indicatiestelling-lgf` | Regeling scholingskosten voorbereiding indicatiestelling LGF | 2 | 2001-11-10 to 2004-12-31 |
+| `vaststelling-subsidieplafond-normbedrag-en-beleidsprioriteiten-voor-subsidies-op-grond-van` | Vaststelling subsidieplafond, normbedrag en beleidsprioriteiten voor subsidies op grond van Subsidieregeling welzijnsbeleid | 2 | 2002-01-01 to 2004-08-28 |
+| `vrijstellingsregeling-vloeren-varkensbesluit` | Vrijstellingsregeling vloeren Varkensbesluit | 2 | 2001-10-17 to 2004-01-24 |
+| `mandaatbesluit-garantstellingsregeling-faillissementscuratoren-dbz-2001` | Mandaatbesluit Garantstellingsregeling Faillissementscuratoren DBZ 2001 | 2 | 2001-11-01 to 2007-08-15 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-oktober-2001` | Beschikking rendementen gesubsidieerde woningbouw, oktober 2001 | 2 | 2001-10-01 to 2004-12-23 |
+| `regeling-haemopoietische-stamceltransplantatie` | Regeling haemopoietische stamceltransplantatie | 2 | 2002-07-19 to 2006-02-19 |
+| `centraal-examen-filosofie-havo-2003-2004-2005-en-2006` | Centraal examen filosofie havo 2003, 2004, 2005 en 2006 | 2 | 2001-11-17 to 2007-08-01 |
+| `subsidieplafond-2002-besluit-behoud-historische-buitenplaatsen` | Subsidieplafond 2002 Besluit behoud historische buitenplaatsen | 2 | 2001-10-26 to 2004-01-24 |
+| `wijziging-besluit-aanmelding-collectieve-arbeidsovereenkomsten-en-het-aanvragen-van-algeme` | Wijziging Besluit aanmelding collectieve arbeidsovereenkomsten en het aanvragen van algemeenverbindendverklaring | 2 | 2003-01-01 to 2008-09-25 |
+| `vaststellingsregeling-subsidieplafond-2002-subsidieregeling-welzijnsbeleid` | Vaststellingsregeling subsidieplafond 2002 Subsidieregeling welzijnsbeleid | 2 | 2001-11-01 to 2004-08-28 |
+| `pilot-examen-agrarische-bedrijfseconomie` | Pilot-examen agrarische bedrijfseconomie | 2 | 2001-10-27 to 2004-01-24 |
+| `regeling-jar-147-erkende-opleidingsinstellingen` | Regeling JAR-147 erkende opleidingsinstellingen | 2 | 2003-11-08 to 2008-11-12 |
+| `examenreglement-voor-luchtvarenden-2001` | Examenreglement voor luchtvarenden 2001 | 2 | 2001-11-01 to 2004-10-01 |
+| `regeling-opleiding-en-examen-bevoegdverklaringen-aml-en-jar-66-aml` | Regeling opleiding en examen bevoegdverklaringen AML en JAR-66 AML | 2 | 2006-01-28 to 2008-10-26 |
+| `subsidieplafond-2002-voor-de-subsidieregeling-agrarisch-natuurbeheer` | Subsidieplafond 2002 voor de Subsidieregeling agrarisch natuurbeheer | 2 | 2002-01-27 to 2004-01-24 |
+| `subsidieplafond-2002-voor-de-subsidieregeling-natuurbeheer-2000` | Subsidieplafond 2002 voor de Subsidieregeling natuurbeheer 2000 | 2 | 2002-08-02 to 2004-01-24 |
+| `subsidieplafond-2002-regeling-organisatiekosten-samenwerkingsverbanden` | Subsidieplafond 2002 Regeling Organisatiekosten Samenwerkingsverbanden | 2 | 2002-01-01 to 2004-12-08 |
+| `regeling-communautaire-verplichtingen-diervoeders` | Regeling communautaire verplichtingen diervoeders | 2 | 2004-04-17 to 2004-10-18 |
+| `vaststelling-collegegeld-studiejaar-2002-2003` | Vaststelling collegegeld studiejaar 2002-2003 | 2 | 2001-11-24 to 2004-12-31 |
+| `vaststellingsregeling-subsidieplafond-2001-infrastructuurregeling-glastuinbouwgebieden` | Vaststellingsregeling subsidieplafond 2001 Infrastructuurregeling glastuinbouwgebieden | 2 | 2001-11-04 to 2004-01-24 |
+| `regeling-ziekenfondsverzekering-alimentatiegenietenden` | Regeling ziekenfondsverzekering alimentatiegenietenden | 2 | 2002-01-01 to 2006-01-01 |
+| `vaststellingsregeling-subsidieplafond-2002-besluit-voorkoming-verbossing-rietlanden` | Vaststellingsregeling subsidieplafond 2002 Besluit voorkoming verbossing rietlanden | 2 | 2001-11-04 to 2004-01-24 |
+| `regeling-gemeentelijk-verslag-inburgeringsactiviteiten` | Regeling gemeentelijk verslag inburgeringsactiviteiten | 2 | 2001-11-09 to 2007-01-01 |
+| `mandaatbesluit-veiligheidsonderzoeken-korps-landelijke-politiediensten` | Mandaatbesluit veiligheidsonderzoeken Korps landelijke politiediensten | 2 | 2007-07-22 to 2013-01-01 |
+| `mandaatbesluit-veiligheidsonderzoeken-regionale-politiekorpsen` | Mandaatbesluit veiligheidsonderzoeken regionale politiekorpsen | 2 | 2007-07-22 to 2013-01-01 |
+| `regeling-vergroting-implementatiecapaciteit-examens-groen-beroepsonderwijs` | Regeling vergroting implementatiecapaciteit examens groen beroepsonderwijs | 2 | 2002-01-01 to 2004-01-24 |
+| `regeling-vernieuwing-examenpraktijk-groen-beroepsonderwijs` | Regeling vernieuwing examenpraktijk groen beroepsonderwijs | 2 | 2002-01-01 to 2004-01-24 |
+| `besluit-instelling-commissie-milieuhygiene-luchtvaartterrein-rotterdam` | Besluit instelling Commissie milieuhygiëne luchtvaartterrein Rotterdam | 2 | 2001-11-22 to 2008-12-24 |
+| `bordenregeling` | Bordenregeling | 2 | 2001-11-28 to 2010-01-20 |
+| `nadere-regeling-beschikbare-middelen-beheerskosten-zfw-2001` | Nadere regeling beschikbare middelen beheerskosten Zfw 2001 | 2 | 2001-11-22 to 2004-08-28 |
+| `regeling-elektromagnetische-compatibiliteit` | Regeling elektromagnetische compatibiliteit | 2 | 2003-06-12 to 2007-07-20 |
+| `regeling-instelling-commissie-informatie-onderwijs` | Regeling instelling commissie informatie onderwijs | 2 | 2001-11-14 to 2004-12-31 |
+| `instellingsbesluit-beheerorganisatie-het-nieuwe-rijksmuseum` | Instellingsbesluit Beheerorganisatie Het Nieuwe Rijksmuseum | 2 | 2001-12-21 to 2006-07-07 |
+| `regeling-vernieuwingsmiddelen-aoc-s-2001-2003` | Regeling vernieuwingsmiddelen AOC's 2001-2003 | 2 | 2002-01-01 to 2004-12-23 |
+| `nadere-regeling-besteedbare-middelen-beheerskosten-awbz-2001` | Nadere regeling besteedbare middelen beheerskosten AWBZ 2001 | 2 | 2001-11-22 to 2004-08-28 |
+| `machtigingsregeling-directeur-personeel-en-organisatie` | Machtigingsregeling directeur Personeel en Organisatie | 2 | 2001-11-30 to 2006-11-24 |
+| `regeling-vergoeding-studie-en-beroepskeuzebegeleiding-svo-en-pro-schooljaar-2001-2002` | Regeling vergoeding studie- en beroepskeuzebegeleiding svo en pro, schooljaar 2001-2002 | 2 | 2001-12-01 to 2004-12-31 |
+| `warenwetregeling-toevoeging-stoffen-aan-producten-voor-bijzondere-voeding` | Warenwetregeling Toevoeging stoffen aan producten voor bijzondere voeding | 2 | 2006-05-03 to 2010-01-01 |
+| `vaststellingsregeling-subsidieplafond-2002-regeling-versterking-recreatie` | Vaststellingsregeling subsidieplafond 2002 Regeling versterking recreatie | 2 | 2001-11-25 to 2004-01-24 |
+| `regeling-vaststelling-premiepercentages-en-premiebedragen-sociale-ziektekostenverzekeringe-3` | Regeling vaststelling premiepercentages en premiebedragen sociale ziektekostenverzekeringen 2002 | 2 | 2002-01-01 to 2004-08-28 |
+| `investeringsregeling-biologische-varkenshouderij` | Investeringsregeling biologische varkenshouderij | 2 | 2005-01-01 to 2007-04-01 |
+| `regeling-aanvullende-bijdrage-inburgering-oudkomers-54-gemeenten` | Regeling aanvullende bijdrage inburgering oudkomers 54 gemeenten | 2 | 2003-11-12 to 2008-12-13 |
+| `regeling-vaststelling-premiepercentages-werknemersverzekeringen-en-volksverzekeringen-2002` | Regeling vaststelling premiepercentages werknemersverzekeringen en volksverzekeringen 2002 | 2 | 2002-01-01 to 2004-09-22 |
+| `subsidieregeling-onderwijsassistenten-primair-onderwijs-2002` | Subsidieregeling onderwijsassistenten primair onderwijs 2002 | 2 | 2001-12-08 to 2004-12-31 |
+| `subsidieregeling-beurzenprogramma-delta-subsidieplafond-2002` | Subsidieregeling beurzenprogramma DELTA: subsidieplafond 2002 | 2 | 2002-01-01 to 2004-12-31 |
+| `mandaatregeling-directeur-landbouw` | Mandaatregeling directeur Landbouw | 2 | 2001-12-02 to 2006-03-31 |
+| `regeling-indexering-akw-en-tog-bedragen-januari-2002` | Regeling indexering AKW- en TOG-bedragen januari 2002 | 2 | 2002-01-01 to 2004-09-22 |
+| `instellingsregeling-commissie-integraal-waterbeheer` | Instellingsregeling Commissie Integraal Waterbeheer | 2 | 2001-12-12 to 2004-02-10 |
+| `taakbeschikking-nederlands-forensisch-instituut` | Taakbeschikking Nederlands Forensisch Instituut | 2 | 2001-12-05 to 2012-05-19 |
+| `regeling-ict-subsidie-aoc-s-2001` | Regeling ICT-subsidie AOC's 2001 | 2 | 2001-12-05 to 2004-01-24 |
+| `wijzigingsregeling-regelen-verzekeringsovereenkomsten-pensioen-en-spaarfondsenwet-2001` | Wijzigingsregeling Regelen verzekeringsovereenkomsten Pensioen en spaarfondsenwet 2001 | 2 | 2002-01-01 to 2007-01-01 |
+| `subsidieregeling-vereniging-3vo` | Subsidieregeling vereniging 3VO | 2 | 2003-01-26 to 2006-01-01 |
+| `gewijzigde-subsidieregeling-zij-instromers-2001-2002-voor-primair-onderwijs-en-voortgezet` | Gewijzigde subsidieregeling zij-instromers 2001-2002 voor primair onderwijs en voortgezet onderwijs met declaratiebekostiging | 2 | 2002-01-01 to 2004-12-31 |
+| `tariefsregeling-gebruiksvergoeding-2002` | Tariefsregeling gebruiksvergoeding 2002 | 2 | 2002-01-01 to 2005-01-01 |
+| `regeling-kredietwaardigheid-beroepsvervoer-2002` | Regeling kredietwaardigheid beroepsvervoer 2002 | 2 | 2002-01-01 to 2009-05-01 |
+| `regeling-instemming-met-de-tarieven-destructiewet-derde-en-vierde-kwartaal-2001` | Regeling Instemming met de tarieven Destructiewet derde en vierde kwartaal 2001 | 2 | 2001-12-09 to 2004-01-24 |
+| `beleidsvoornemen-beurzenprogramma-voor-io-instituten` | Beleidsvoornemen Beurzenprogramma voor IO-instituten | 2 | 2001-12-13 to 2006-01-01 |
+| `vaststelling-aanvraagperiode-in-het-kader-van-de-investeringsregeling-biologische-varkensh` | Vaststelling aanvraagperiode in het kader van de Investeringsregeling biologische varkenshouderij | 2 | 2002-03-29 to 2004-01-24 |
+| `subsidieplafonds-2002-subsidieregeling-energievoorzieningen-in-de-non-profit-en-bijzondere` | Subsidieplafonds 2002 Subsidieregeling energievoorzieningen in de non-profit en bijzondere sectoren | 2 | 2002-11-24 to 2003-06-07 |
+| `subsidieplafond-2002-subsidieregeling-zaaiprojecten-life-sciences` | Subsidieplafond 2002 Subsidieregeling zaaiprojecten life sciences | 2 | 2001-12-13 to 2005-06-11 |
+| `vaststelling-subsidieplafond-2002-subsidieregeling-actieve-zonthermische-systemen-1998` | Vaststelling subsidieplafond 2002 Subsidieregeling actieve zonthermische systemen 1998 | 2 | 2001-12-13 to 2003-06-07 |
+| `vaststelling-subsidieplafond-2002-subsidieregeling-branchecentra-voor-technologie-1998` | Vaststelling subsidieplafond 2002 Subsidieregeling branchecentra voor technologie 1998 | 2 | 2001-12-13 to 2003-06-07 |
+| `vaststellingsregeling-subsidieplafond-2002-subsidieregeling-actieve-zonthermische-systemen` | Vaststellingsregeling subsidieplafond 2002 Subsidieregeling actieve zonthermische systemen 1998 | 2 | 2001-12-13 to 2003-06-07 |
+| `regeling-bepalingen-statistieken-goederenverkeer-2002` | Regeling bepalingen statistieken goederenverkeer 2002 | 2 | 2002-01-01 to 2005-01-01 |
+| `vaststelling-subsidieplafond-2002-subsidieregeling-demonstratie-en-technologie-ontwikkelin` | Vaststelling subsidieplafond 2002 Subsidieregeling demonstratie- en technologie-ontwikkelings projecten JSF | 2 | 2001-12-13 to 2003-06-07 |
+| `vaststelling-voorziening-wtz-1998-voor-het-jaar-2003` | Vaststelling voorziening Wtz 1998 voor het jaar 2003 | 2 | 2003-01-01 to 2004-01-01 |
+| `vaststelling-bedrag-vrijstelling-vermogensinkomsten` | Vaststelling bedrag vrijstelling vermogensinkomsten | 2 | 2002-01-01 to 2004-08-28 |
+| `tweede-nadere-regeling-besteedbare-middelen-beheerskosten-ziekenfondsverzekering-en-awbz-2` | Tweede nadere regeling besteedbare middelen beheerskosten ziekenfondsverzekering en AWBZ 2000 | 2 | 2001-12-14 to 2004-08-28 |
+| `regeling-mandaatverlening-directeur-novem-ter-uitvoering-van-programma-transactie-1998-en` | Regeling mandaatverlening directeur Novem ter uitvoering van programma Transactie 1998 en programma's Transactie/Modal Shift | 2 | 2004-10-31 to 2005-07-01 |
+| `subsidieplafond-2002-besluit-subsidies-civiele-vliegtuigontwikkeling` | Subsidieplafond 2002 Besluit subsidies civiele vliegtuigontwikkeling | 2 | 2002-12-04 to 2005-06-11 |
+| `vaststelling-subsidieplafond-top-2002` | Vaststelling subsidieplafond TOP 2002 | 2 | 2002-10-25 to 2004-01-01 |
+| `subsidieplafonds-2002-exportfinanciering` | Subsidieplafonds 2002 exportfinanciering | 2 | 2002-07-17 to 2005-06-11 |
+| `regeling-normrente-en-normbedrag-spaarpremie-eerste-kwartaal-2002` | Regeling normrente en normbedrag spaarpremie eerste kwartaal 2002 | 2 | 2002-01-01 to 2004-12-23 |
+| `beleidsvoornemen-europafonds` | Beleidsvoornemen Europafonds | 2 | 2003-10-16 to 2006-01-01 |
+| `beleidsvoornemen-programma-communicatie` | Beleidsvoornemen programma Communicatie | 2 | 2002-01-01 to 2006-01-01 |
+| `subsidieplafond-subsidieregeling-referentieprojecten-milieutechnologie-1998` | Subsidieplafond Subsidieregeling referentieprojecten milieutechnologie 1998 | 2 | 2001-12-15 to 2003-06-07 |
+| `vaststelling-subsidieplafond-2002-subsidieregeling-kennisoverdracht-brancheorganisaties-mk` | Vaststelling subsidieplafond 2002 Subsidieregeling kennisoverdracht brancheorganisaties MKB | 2 | 2002-11-24 to 2005-06-11 |
+| `subsidieplafonds-2002-subsidieregeling-kennisoverdracht-ondernemers-mkb` | Subsidieplafonds 2002 Subsidieregeling kennisoverdracht ondernemers MKB | 2 | 2002-11-24 to 2005-06-11 |
+| `beleidsvoornemen-programma-onderzoek` | Beleidsvoornemen programma Onderzoek | 2 | 2002-01-01 to 2006-01-01 |
+| `subsidieplafond-2002-besluit-borgstelling-mkb-kredieten-1997` | Subsidieplafond 2002 Besluit borgstelling MKB-kredieten 1997 | 2 | 2001-12-16 to 2005-06-11 |
+| `aanpassing-grondslagen-en-percentages-wetten-oorlogsgetroffenen-per-1-januari-2002` | Aanpassing grondslagen en percentages wetten oorlogsgetroffenen per 1 januari 2002 | 2 | 2002-01-01 to 2004-08-28 |
+| `subsidieplafond-2002-subsidieregeling-duurzame-bedrijventerreinen` | Subsidieplafond 2002 Subsidieregeling duurzame bedrijventerreinen | 2 | 2003-01-01 to 2004-12-25 |
+| `subsidieplafond-2002-besluit-subsidies-regionale-investeringsprojecten-2000` | Subsidieplafond 2002 Besluit subsidies regionale investeringsprojecten 2000 | 2 | 2001-12-20 to 2005-06-11 |
+| `aanwijzing-ambtenaren-op-basis-van-artikel-95g-eerste-lid-van-de-elektriciteitswet-1998` | Aanwijzing ambtenaren op basis van artikel 95g, eerste lid, van de Elektriciteitswet 1998 | 2 | 2005-06-18 to 2006-12-13 |
+| `regeling-rekenmethodiek-rijksgebouwendienst` | Regeling Rekenmethodiek Rijksgebouwendienst | 2 | 2002-01-01 to 2003-07-01 |
+| `toepassing-wet-nationale-ombudsman-3` | Toepassing Wet Nationale ombudsman | 2 | 2002-02-21 to 2013-07-01 |
+| `mandaat-en-volmachtbesluit-diensthoofden-bzk` | Mandaat- en volmachtbesluit diensthoofden BZK | 2 | 2003-04-06 to 2003-09-01 |
+| `mandaat-en-volmachtbesluit-secretaris-generaal-bzk` | Mandaat- en volmachtbesluit secretaris-generaal BZK | 2 | 2003-04-06 to 2003-09-01 |
+| `mandaat-en-volmachtbesluit-directeuren-bzk` | Mandaat- en volmachtbesluit directeuren BZK | 2 | 2003-04-06 to 2003-09-02 |
+| `regeling-indexering-registratievergoedingen` | Regeling indexering registratievergoedingen | 2 | 2003-01-01 to 2005-03-03 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-december-2001` | Beschikking rendementen gesubsidieerde woningbouw, december 2001 | 2 | 2002-02-01 to 2004-12-23 |
+| `subsidieregeling-bedrijfsgezondheidszorg-voor-het-primair-onderwijs-en-het-speciaal-voortg-3` | Subsidieregeling bedrijfsgezondheidszorg voor het primair onderwijs en het speciaal voortgezet onderwijs gedurende de periode januari 2002 tot 1 augustus 2002 | 2 | 2002-01-26 to 2004-12-31 |
+| `regeling-verdeling-procentuele-ziekenfondspremie-2002` | Regeling verdeling procentuele ziekenfondspremie 2002 | 2 | 2002-01-01 to 2004-08-28 |
+| `subsidieplafond-2002-subsidieregeling-energie-efficiency-en-milieuadviezen-schoner-produce` | Subsidieplafond 2002 Subsidieregeling energie-efficiency- en milieuadviezen Schoner Produceren | 2 | 2001-12-21 to 2003-06-07 |
+| `organisatiebesluit-inspectoraat-generaal-vrom` | Organisatiebesluit Inspectoraat-Generaal VROM | 2 | 2002-02-01 to 2005-01-01 |
+| `besluit-aanwijzing-toezichtambtenaren-vrom-regelgeving` | Besluit aanwijzing toezichtambtenaren VROM-regelgeving | 2 | 2004-08-13 to 2005-02-25 |
+| `regeling-taken-en-bevoegdheden-vrom-2002` | Regeling taken en bevoegdheden VROM 2002 | 2 | 2004-03-24 to 2004-07-01 |
+| `regeling-toetsing-geweldsbeheersing-politie` | Regeling toetsing geweldsbeheersing politie | 1 | 2019-08-01 to 2019-08-01 |
+| `landenlijst-2002-regeling-herverzekering-investeringen` | Landenlijst 2002 Regeling herverzekering investeringen | 2 | 2002-01-01 to 2010-01-01 |
+| `subsidieplafond-regeling-subsidiering-gebiedsgericht-beleid-en-reconstructie-concentratieg` | Subsidieplafond Regeling subsidiëring gebiedsgericht beleid en reconstructie concentratiegebieden | 2 | 2001-12-30 to 2004-01-24 |
+| `vaststelling-subsidieplafonds-basisbedrag-en-bedrag-per-lid-landelijke-jeugdorganisaties-v` | Vaststelling subsidieplafonds, basisbedrag en bedrag per lid landelijke jeugdorganisaties voor het jaar 2002 | 2 | 2001-12-30 to 2004-08-28 |
+| `uitvoeringsregeling-bse-2002-programma-energiebesparing-door-innovatie` | Uitvoeringsregeling BSE-2002 programma energiebesparing door innovatie | 2 | 2002-12-06 to 2005-06-11 |
+| `vaststelling-bedragen-2002-kostenregeling-wet-toezicht-beleggingsinstellingen` | Vaststelling bedragen 2002 Kostenregeling Wet toezicht beleggingsinstellingen | 2 | 2001-12-23 to 2004-01-01 |
+| `regeling-helikopterrondvluchten` | Regeling helikopterrondvluchten | 2 | 2002-01-05 to 2008-07-19 |
+| `regeling-aanwijzing-bijzondere-categorieen-vreemdelingen-ten-behoeve-van-inburgering` | Regeling aanwijzing bijzondere categorieën vreemdelingen ten behoeve van inburgering | 2 | 2002-01-01 to 2007-01-01 |
+| `aanwijzing-ambtenaren-van-politie-en-functionarissen-t-b-v-uitreiking-en-betekening-van-ge` | Aanwijzing ambtenaren van politie en functionarissen t.b.v. uitreiking en betekening van gerechtelijke stukken | 2 | 2002-01-01 to 2004-05-15 |
+| `instellingsregeling-commissie-van-toezicht-college-voor-de-toelating-van-bestrijdingsmidde` | Instellingsregeling Commissie van Toezicht College voor de toelating van bestrijdingsmiddelen | 2 | 2001-12-23 to 2007-10-17 |
+| `regeling-vergoeding-gemengde-kosten-en-waardering-loon-in-natura-vergoedingen-en-verstrekk` | Regeling vergoeding gemengde kosten en waardering loon in natura, vergoedingen en verstrekkingen 2002 | 2 | 2004-01-01 to 2005-01-01 |
+| `subsidieregeling-integraal-regionaal-technostartersbeleid` | Subsidieregeling integraal regionaal technostartersbeleid | 2 | 2002-11-16 to 2007-01-01 |
+| `aanwijzing-centrale-autoriteit-kinderontvoering` | Aanwijzing Centrale autoriteit kinderontvoering | 2 | 2001-12-29 to 2004-09-01 |
+| `regeling-onkostenvergoeding-artiest-en-beroepssporter` | Regeling onkostenvergoeding artiest en beroepssporter | 2 | 2002-01-01 to 2005-01-01 |
+| `wijzigingsregeling-sociale-verzekeringen-2002` | Wijzigingsregeling sociale verzekeringen 2002 | 2 | 2002-01-01 to 2008-09-25 |
+| `vaststelling-indicatorenlijst-ongebruikelijke-transacties` | Vaststelling indicatorenlijst ongebruikelijke transacties | 2 | 2002-01-01 to 2008-08-01 |
+| `vergoeding-kosten-kinderopvang-2002` | Vergoeding kosten kinderopvang 2002 | 2 | 2004-01-01 to 2005-01-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-siod-2002` | Besluit buitengewoon opsporingsambtenaar SIOD 2002 | 2 | 2003-01-01 to 2007-01-01 |
+| `instellingsbesluit-hoofddirectie-juridische-zaken-verkeer-en-waterstaat` | Instellingsbesluit Hoofddirectie Juridische Zaken Verkeer en Waterstaat | 2 | 2006-05-24 to 2010-08-21 |
+| `rechtspositieregeling-lid-raad-van-bestuur-cwi` | Rechtspositieregeling lid Raad van bestuur CWI | 2 | 2005-07-20 to 2009-01-01 |
+| `regeling-onderbroken-en-opeenvolgende-dienstverbanden` | Regeling onderbroken en opeenvolgende dienstverbanden | 2 | 2005-07-03 to 2006-01-01 |
+| `tijdelijke-regeling-medisch-geindiceerde-reintegratietrainingen-wet-rea` | Tijdelijke regeling medisch geïndiceerde reïntegratietrainingen Wet REA | 2 | 2002-01-01 to 2005-01-01 |
+| `instellingsbesluit-tijdelijke-baten-lastendienst-inspectie-werk-en-inkomen` | Instellingsbesluit tijdelijke baten-lastendienst Inspectie Werk en Inkomen | 2 | 2002-01-01 to 2005-01-01 |
+| `wijziging-van-de-uitvoeringsregeling-belastingen-op-milieugrondslag` | Wijziging van de Uitvoeringsregeling belastingen op milieugrondslag | 2 | 2002-01-01 to 2012-01-01 |
+| `rechtspositieregeling-voorzitter-raad-van-bestuur-cwi` | Rechtspositieregeling voorzitter Raad van bestuur CWI | 2 | 2005-07-20 to 2009-01-01 |
+| `regeling-vaststelling-perioden-eg-premies-stieren-ossen-en-zoogkoeien-2001` | Regeling vaststelling perioden EG-premies stieren, ossen en zoogkoeien 2001 | 2 | 2001-12-30 to 2004-01-24 |
+| `regeling-invoering-inlichtingenbureau-door-gemeenten` | Regeling invoering Inlichtingenbureau door gemeenten | 2 | 2002-01-01 to 2004-09-22 |
+| `mandaatbesluit-raad-voor-werk-en-inkomen` | Mandaatbesluit Raad voor werk en inkomen | 2 | 2002-01-05 to 2005-03-04 |
+| `subsidieplafond-2002-stimuleringsregeling-vacaturevervulling-door-werklozen-en-met-werkloo` | Subsidieplafond 2002 Stimuleringsregeling vacaturevervulling door werklozen en met werkloosheid bedreigde werknemers | 2 | 2002-05-17 to 2004-09-22 |
+| `subsidieplafond-2002-besluit-instandhouding-schaapskuddes` | Subsidieplafond 2002 Besluit instandhouding schaapskuddes | 2 | 2001-12-29 to 2004-01-24 |
+| `vaststelling-subsidieplafond-2002-regeling-subsidiering-kwaliteit-groene-hart` | Vaststelling subsidieplafond 2002 Regeling subsidiëring kwaliteit Groene Hart | 2 | 2001-12-29 to 2004-12-23 |
+| `subsidieplafond-2002-besluit-versterking-natuur-en-bosbeheer-bij-bos-en-landgoedeigenaren` | Subsidieplafond 2002 Besluit versterking natuur- en bosbeheer bij bos- en landgoedeigenaren | 2 | 2001-12-29 to 2004-01-24 |
+| `vaststelling-subsidieplafond-2002-regeling-effectgerichte-maatregelen-in-bossen-en-natuurt` | Vaststelling subsidieplafond 2002 Regeling effectgerichte maatregelen in bossen en natuurterreinen | 2 | 2002-08-23 to 2004-01-24 |
+| `beleidsvoornemen-subsidiering-matra-projecten-programma` | Beleidsvoornemen subsidiëring Matra Projecten Programma | 2 | 2001-12-30 to 2006-01-01 |
+| `subsidieplafond-matra-projecten-programma` | Subsidieplafond Matra Projecten Programma | 2 | 2002-12-30 to 2006-01-01 |
+| `subsidieplafond-en-beleidsvoornemen-subsidiering-matra-opleidingen-programma` | Subsidieplafond en beleidsvoornemen subsidiëring Matra Opleidingen Programma | 2 | 2002-09-13 to 2006-01-01 |
+| `vaststelling-subsidieplafond-en-beleidsvoornemen-subsidiering-matra-doelbijdragen-programm` | Vaststelling subsidieplafond en beleidsvoornemen subsidiëring Matra Doelbijdragen Programma | 2 | 2001-12-30 to 2006-01-01 |
+| `vaststelling-kvem-bedragen-en-cao-tarieven-regeling-beheersovereenkomsten-1993-en-regeling` | Vaststelling kVEM-bedragen en CAO-tarieven Regeling beheersovereenkomsten 1993 en Regeling beheersovereenkomsten en natuurontwikkeling begrotingsjaar 2002 | 2 | 2001-12-30 to 2004-01-24 |
+| `aanwijzing-gesloten-inrichtingen` | Aanwijzing gesloten inrichtingen | 2 | 2002-01-01 to 2003-12-01 |
+| `mandaat-in-kader-tijdelijke-referendumwet` | Mandaat in kader Tijdelijke referendumwet | 2 | 2002-01-06 to 2005-01-01 |
+| `regeling-vergoeding-uitvoeringskosten-reintegratie-niet-uitkeringsgerechtigden-en-anw-ers` | Regeling vergoeding uitvoeringskosten reïntegratie niet-uitkeringsgerechtigden en Anw'ers | 2 | 2002-01-06 to 2004-09-22 |
+| `regeling-kinderopvang-en-buitenschoolse-opvang-alleenstaande-ouders` | Regeling kinderopvang en buitenschoolse opvang alleenstaande ouders | 2 | 2004-02-12 to 2005-01-01 |
+| `regeling-bekostiging-hoger-onderwijs-2002` | Regeling bekostiging hoger onderwijs 2002 | 2 | 2003-12-31 to 2004-01-01 |
+| `mandaatbesluit-novem-subsidieregeling-milieugerichte-technologie-2002` | Mandaatbesluit Novem Subsidieregeling milieugerichte technologie 2002 | 2 | 2002-05-24 to 2005-05-20 |
+| `tijdelijke-regeling-nachtdienstontheffing-politie` | Tijdelijke regeling nachtdienstontheffing politie | 2 | 2011-12-03 to 2013-01-01 |
+| `vaststellingsregeling-subsidieplafond-2002-ex-artikel-50a-wet-op-de-ruimtelijke-ordening` | Vaststellingsregeling subsidieplafond 2002 ex artikel 50a Wet op de Ruimtelijke Ordening | 2 | 2001-12-30 to 2004-12-23 |
+| `organisatiebesluit-bzk` | Organisatiebesluit BZK | 2 | 2003-06-28 to 2003-09-01 |
+| `uitvoeringsregeling-in-en-doorstroombanen` | Uitvoeringsregeling in- en doorstroombanen | 2 | 2003-01-01 to 2004-01-01 |
+| `regeling-vaststelling-perioden-eg-premies-ooien-2002` | Regeling vaststelling perioden EG-premies ooien 2002 | 2 | 2002-04-06 to 2004-01-24 |
+| `organisatie-mandaat-en-volmachtbesluit-wbja-2002` | Organisatie-, mandaat- en volmachtbesluit WBJA 2002 | 2 | 2002-01-17 to 2004-01-01 |
+| `regeling-informatieverstrekking-win-2001` | Regeling informatieverstrekking WIN 2001 | 2 | 2002-01-26 to 2004-12-31 |
+| `besluit-vaststelling-wisselkoers-en-prijsindexcijfer-2000-2001` | Besluit vaststelling wisselkoers en prijsindexcijfer 2000/2001 | 2 | 2002-01-19 to 2005-02-01 |
+| `organisatiebesluit-hoofdstructuur-directoraat-generaal-wonen` | Organisatiebesluit hoofdstructuur Directoraat-Generaal Wonen | 2 | 2002-02-16 to 2005-01-01 |
+| `vergoeding-leden-adviescommissie-restitutieverzoeken-cultuurgoederen-en-tweede-wereldoorlo` | Vergoeding leden adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog | 2 | 2002-01-25 to 2007-11-21 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-januari-2002` | Beschikking rendementen gesubsidieerde woningbouw, januari 2002 | 2 | 2002-04-01 to 2004-12-23 |
+| `regeling-stageduur-en-stagevervangende-medische-trainingen-zeevarenden` | Regeling stageduur en stagevervangende medische trainingen zeevarenden | 2 | 2010-12-31 to 2014-05-03 |
+| `subsidieplafond-oret-miliev-programma` | Subsidieplafond Oret/Miliev-programma | 2 | 2002-01-30 to 2006-01-01 |
+| `regeling-monsterrol-en-monsterboekje-zeevaart` | Regeling monsterrol en monsterboekje zeevaart | 2 | 2013-08-20 to 2014-05-03 |
+| `besluit-mandaat-en-machtiging-tijdelijke-referendumwet-justitie` | Besluit mandaat en machtiging Tijdelijke referendumwet Justitie | 2 | 2002-01-01 to 2005-01-01 |
+| `regeling-vergoeding-nascholing-voortgezet-onderwijs-2002-2003` | Regeling vergoeding nascholing voortgezet onderwijs 2002-2003 | 2 | 2002-08-01 to 2003-08-01 |
+| `regeling-aanvullende-formatie-v-so-rechtstreekse-instromers-2002-2003` | Regeling aanvullende formatie (v)so rechtstreekse instromers 2002 - 2003 | 2 | 2002-02-09 to 2003-08-01 |
+| `instellingsbesluit-directoraat-generaal-water` | Instellingsbesluit directoraat-generaal Water | 2 | 2006-06-01 to 2010-08-21 |
+| `vaststelling-programma-transportbesparing-3e-aanvraagperiode` | Vaststelling Programma Transportbesparing (3e aanvraagperiode) | 2 | 2002-02-01 to 2011-07-01 |
+| `subsidieregeling-bans-klimaatconvenant` | Subsidieregeling BANS klimaatconvenant | 2 | 2003-08-01 to 2007-01-02 |
+| `regeling-onderzoeken-ro-ro-veerboten-en-hogesnelheidspassagiersvaartuigen` | Regeling onderzoeken ro-ro-veerboten en hogesnelheidspassagiersvaartuigen | 2 | 2004-10-01 to 2005-01-01 |
+| `vaststelling-bedragen-als-bedoeld-in-artikel-147k-wet-toezicht-verzekeringsbedrijf-1993` | Vaststelling bedragen als bedoeld in artikel 147k Wet toezicht verzekeringsbedrijf 1993 | 2 | 2003-02-14 to 2004-03-25 |
+| `dekking-beheerskosten-college-voor-zorgverzekeringen` | Dekking beheerskosten College voor zorgverzekeringen | 2 | 2002-02-07 to 2006-01-01 |
+| `subsidieplafond-2002-besluit-natuurbeheer-midden-en-oost-europa-2001` | Subsidieplafond 2002 Besluit natuurbeheer Midden- en Oost-Europa 2001 | 2 | 2002-07-28 to 2004-01-24 |
+| `uitvoeringsregeling-bse-2002-crust` | Uitvoeringsregeling BSE 2002-CRUST | 2 | 2002-02-09 to 2005-06-11 |
+| `vaststelling-onderzoekprogramma-en-subsidieplafonds-subsidieregeling-innovatiegerichte-ond` | Vaststelling onderzoekprogramma en subsidieplafonds Subsidieregeling innovatiegerichte onderzoekprogramma's | 2 | 2002-02-10 to 2005-11-16 |
+| `toepassing-wet-nationale-ombudsman-4` | Toepassing Wet Nationale ombudsman | 2 | 2002-02-21 to 2013-07-01 |
+| `regeling-faciliteiten-onderwijsnummer-vo` | Regeling faciliteiten onderwijsnummer VO | 2 | 2002-03-02 to 2004-01-24 |
+| `vaststelling-kvem-bedragen-en-cao-tarieven-beschikking-beheersovereenkomsten-1983-begrotin` | Vaststelling kVEM-bedragen en CAO-tarieven Beschikking beheersovereenkomsten 1983 begrotingsjaar 2002 | 2 | 2002-02-16 to 2004-01-24 |
+| `keuringsreglement-voor-de-zeevaart-2002` | Keuringsreglement voor de Zeevaart 2002 | 2 | 2004-11-26 to 2005-01-01 |
+| `vaststelling-bse-formulieren` | Vaststelling BSE-formulieren | 2 | 2003-11-23 to 2010-01-01 |
+| `regeling-vaststelling-model-financiele-verantwoording-en-controleprotocol-inburgering-nieu-2` | Regeling vaststelling model financiële verantwoording en controleprotocol inburgering nieuwkomers 2001 | 2 | 2002-03-02 to 2007-01-01 |
+| `regeling-vaststelling-model-financiele-verantwoording-en-controleprotocol-educatie-2001` | Regeling vaststelling model financiële verantwoording en controleprotocol educatie 2001 | 2 | 2002-03-02 to 2008-08-01 |
+| `regeling-aanwijzing-slachtinrichtingen-offerfeest-2002` | Regeling aanwijzing slachtinrichtingen offerfeest 2002 | 2 | 2002-02-21 to 2004-01-24 |
+| `vaststelling-subsidieplafonds-sanering-verkeerslawaai-2002` | Vaststelling subsidieplafonds sanering verkeerslawaai 2002 | 2 | 2002-02-28 to 2004-12-23 |
+| `regeling-beperking-meldingsplicht-bbsh` | Regeling beperking meldingsplicht BBSH | 2 | 2003-01-01 to 2011-11-01 |
+| `aanpassing-wuv-uitkeringen-indonesie` | Aanpassing Wuv-uitkeringen Indonesië | 2 | 2002-02-24 to 2004-08-28 |
+| `subsidieregeling-nederlands-kanker-instituut` | Subsidieregeling Nederlands Kanker Instituut | 2 | 2008-08-07 to 2011-12-22 |
+| `regeling-vaststelling-beheersbijdragen-2002-subsidieregeling-agrarisch-natuurbeheer` | Regeling vaststelling beheersbijdragen 2002 Subsidieregeling agrarisch natuurbeheer | 2 | 2003-02-16 to 2004-01-24 |
+| `regeling-nadere-eisen-aan-vuurwerk` | Regeling nadere eisen aan vuurwerk | 2 | 2002-03-01 to 2004-02-25 |
+| `wijziging-subsidieregeling-scholingsimpuls-en-vaststelling-tenderperiodes-en-subsidieplafo` | Wijziging Subsidieregeling scholingsimpuls en vaststelling tenderperiodes en subsidieplafonds als bedoeld in die regeling | 2 | 2002-03-01 to 2005-06-11 |
+| `regeling-ziekenfondspremie-bij-samenloop-zelfstandige-en-militair` | Regeling ziekenfondspremie bij samenloop zelfstandige en militair | 2 | 2002-03-10 to 2006-01-01 |
+| `vaststelling-aanvraagperiode-subsidieregeling-zeldzame-landbouwhuisdierrassen` | Vaststelling aanvraagperiode Subsidieregeling zeldzame landbouwhuisdierrassen | 2 | 2002-06-20 to 2004-01-24 |
+| `vaststelling-rekenfactor-buitengewone-pensioenen` | Vaststelling rekenfactor buitengewone pensioenen | 2 | 2002-03-07 to 2004-08-28 |
+| `organisatie-mandaat-en-volmachtbesluit-aam-2002` | Organisatie-, mandaat- en volmachtbesluit AAM 2002 | 2 | 2002-03-15 to 2004-01-01 |
+| `openstelling-spieringvisserij` | Openstelling spieringvisserij | 2 | 2002-03-30 to 2004-01-24 |
+| `instellingsbesluit-tijdelijk-agentschap-studiecentrum-rechtspleging` | Instellingsbesluit Tijdelijk Agentschap Studiecentrum Rechtspleging | 2 | 2002-03-16 to 2004-01-01 |
+| `subsidieplafond-intensivering-bilaterale-betrekkingen-west-europa` | Subsidieplafond Intensivering Bilaterale Betrekkingen West-Europa | 2 | 2002-03-20 to 2006-01-01 |
+| `centraal-examen-aardrijkskunde-vwo-en-havo-2002-tot-en-met-2007-2008` | Centraal examen aardrijkskunde vwo en havo 2002 tot en met 2007/2008 | 2 | 2002-04-13 to 2007-08-01 |
+| `aanwijzing-ambtenaren-toezicht-kaderwet-ez-subsidies` | Aanwijzing ambtenaren toezicht Kaderwet EZ-subsidies | 2 | 2002-03-15 to 2005-06-19 |
+| `regeling-aanvullende-bekostiging-bestuurlijke-krachtenbundeling-vo` | Regeling aanvullende bekostiging bestuurlijke krachtenbundeling vo | 2 | 2002-03-21 to 2004-08-01 |
+| `regeling-vaststelling-programma-ketenmobiliteit-2002` | Regeling vaststelling programma Ketenmobiliteit 2002 | 2 | 2002-03-24 to 2009-07-15 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-maart-2002` | Beschikking rendementen gesubsidieerde woningbouw, maart 2002 | 2 | 2002-06-01 to 2004-12-23 |
+| `mandaat-en-machtiging-novem-b-v-ter-uitvoering-van-de-subsidieregeling-ssz-2002` | Mandaat en machtiging Novem B.V. ter uitvoering van de Subsidieregeling SSZ 2002 | 2 | 2004-10-31 to 2010-01-01 |
+| `regeling-geharmoniseerde-normen-pleziervaartuigen` | Regeling geharmoniseerde normen pleziervaartuigen | 2 | 2002-04-04 to 2013-07-01 |
+| `uitvoeringsregeling-ondernemerschap-en-onderwijs-2002` | Uitvoeringsregeling ondernemerschap en onderwijs 2002 | 2 | 2002-03-31 to 2005-06-11 |
+| `regeling-normrente-en-normbedrag-spaarpremie-tweede-kwartaal-2002` | Regeling normrente en normbedrag spaarpremie tweede kwartaal 2002 | 2 | 2002-04-01 to 2004-12-23 |
+| `warenwetregeling-invoer-grondnoten-uit-china` | Warenwetregeling Invoer grondnoten uit China | 2 | 2002-11-02 to 2006-10-01 |
+| `warenwetregeling-invoer-vijgen-hazel-en-pistachenoten-uit-turkije` | Warenwetregeling Invoer vijgen, hazel- en pistachenoten uit Turkije | 2 | 2002-11-02 to 2006-10-01 |
+| `regeling-samenvoeging-van-scholen-voor-voortgezet-onderwijs-op-1-augustus-2002-en-aanvulle` | Regeling samenvoeging van scholen voor voortgezet onderwijs op 1 augustus 2002 en aanvullende bekostiging bij nevenvestigingen met spreidingsnoodzaak in het voortgezet onderwijs | 2 | 2002-08-01 to 2003-08-01 |
+| `wijziging-uitvoeringsregeling-bts-2001-en-vaststelling-aanvraagperiode-en-subsidieplafonds` | Wijziging Uitvoeringsregeling BTS-2001 en vaststelling aanvraagperiode en subsidieplafonds BTS 2002-II | 2 | 2002-10-25 to 2004-01-01 |
+| `vaststellingsregeling-bedragen-regeling-toezichtskosten-wte-1995-voor-2002` | Vaststellingsregeling bedragen Regeling toezichtskosten Wte 1995 voor 2002 | 2 | 2002-03-24 to 2004-01-01 |
+| `vaststelling-huursubsidie-uitgavennorm-subsidiejaar-2002-2003` | Vaststelling huursubsidie-uitgavennorm subsidiejaar 2002/2003 | 2 | 2002-07-01 to 2003-07-01 |
+| `oret-milievregeling-2002` | Oret/Milievregeling 2002 | 2 | 2003-12-05 to 2005-02-05 |
+| `regeling-vaststelling-indieningsperiode-2002-aanvraag-oppervlakten` | Regeling vaststelling indieningsperiode 2002 aanvraag oppervlakten | 2 | 2002-03-28 to 2004-01-24 |
+| `regeling-jaarverslag-scholen-voor-voortgezet-onderwijs-met-ingang-van-het-verslagjaar-2002` | Regeling Jaarverslag scholen voor voortgezet onderwijs met ingang van het verslagjaar 2002 | 2 | 2007-11-01 to 2008-01-01 |
+| `subsidieplafond-2002-regeling-natuurbraaksubsidie` | Subsidieplafond 2002 Regeling natuurbraaksubsidie | 2 | 2002-03-30 to 2004-01-24 |
+| `aanwijzing-betrokkenen-overlegorganen-verkeer-en-waterstaat-2002` | Aanwijzing betrokkenen overlegorganen verkeer en waterstaat 2002 | 2 | 2002-06-01 to 2005-03-01 |
+| `aanvulling-overgangsregeling-bekostiging-rechtspositie-en-samenvoeging-leerwegondersteunen` | Aanvulling overgangsregeling bekostiging, rechtspositie en samenvoeging leerwegondersteunend onderwijs en praktijkonderwijs | 2 | 2002-04-13 to 2004-12-31 |
+| `regeling-afgewerkte-olie` | Regeling afgewerkte olie | 2 | 2002-05-08 to 2004-05-01 |
+| `herziening-cursusgeld-voor-het-cursusjaar-2002-2003` | Herziening cursusgeld voor het cursusjaar 2002 - 2003 | 2 | 2002-03-30 to 2004-12-31 |
+| `reken-en-meetvoorschrift-wegverkeerslawaai-2002` | Reken- en meetvoorschrift wegverkeerslawaai 2002 | 2 | 2005-08-20 to 2012-07-01 |
+| `regeling-landbouwtelling-fruit-2002` | Regeling landbouwtelling fruit 2002 | 2 | 2002-03-30 to 2004-01-24 |
+| `regeling-vaststelling-formulier-gecombineerde-opgave-2002` | Regeling vaststelling formulier gecombineerde opgave 2002 | 2 | 2002-03-30 to 2004-01-24 |
+| `aanpassing-bedragen-landelijke-gemiddelde-personeelslast-gpl-en-bekendmaking-van-de-opslag` | Aanpassing bedragen landelijke gemiddelde personeelslast (gpl) en bekendmaking van de opslagpercentages Vervangingsfonds ( VF) en Participatiefonds (PF) schooljaar 2001- 2003 | 2 | 2002-04-13 to 2004-12-31 |
+| `regeling-aanvullende-vergoeding-arbeidsmarktknelpunten-voortgezet-onderwijs-2002-2003` | Regeling aanvullende vergoeding arbeidsmarktknelpunten voortgezet onderwijs 2002 - 2003 | 2 | 2002-04-20 to 2003-12-31 |
+| `instelling-beleidsondersteunend-team-milieu-incidenten` | Instelling Beleidsondersteunend team milieu-incidenten | 2 | 2002-06-01 to 2005-12-17 |
+| `uitvoeringsregeling-bse-2002-duurzame-energie` | Uitvoeringsregeling BSE-2002 duurzame energie | 2 | 2002-12-19 to 2005-06-11 |
+| `regeling-erkenning-getuigschrift-beroepsvervoer` | Regeling erkenning getuigschrift beroepsvervoer | 2 | 2002-10-01 to 2009-05-01 |
+| `goedkeuring-tarieven-destructiewet-eerste-kwartaal-2002` | Goedkeuring tarieven Destructiewet eerste kwartaal 2002 | 2 | 2002-04-07 to 2004-01-24 |
+| `regeling-radionucliden-bevattende-aanwijsinstrumenten` | Regeling radionucliden bevattende aanwijsinstrumenten | 2 | 2002-07-05 to 2014-01-01 |
+| `programma-bilaterale-samenwerking-indonesie-pbsi` | Programma Bilaterale Samenwerking Indonesië; PBSI | 2 | 2002-05-14 to 2006-01-01 |
+| `regeling-gebruiksartikelen-stralingsbescherming` | Regeling gebruiksartikelen stralingsbescherming | 2 | 2004-09-23 to 2014-01-01 |
+| `toelating-centraal-examen-vwo-en-havo` | Toelating centraal examen vwo en havo | 2 | 2002-04-20 to 2007-08-01 |
+| `uitvoeringsregeling-bse-nieuw-energieonderzoek` | Uitvoeringsregeling BSE-nieuw energieonderzoek | 2 | 2003-03-29 to 2010-01-01 |
+| `instellingsbesluit-taakveldberaad-koninklijke-marechaussee-handhaving-vreemdelingenwetgevi` | Instellingsbesluit Taakveldberaad Koninklijke Marechaussee Handhaving Vreemdelingenwetgeving | 2 | 2002-04-21 to 2009-03-15 |
+| `instellingsbesluit-taakveldberaad-koninklijke-marechaussee-militaire-politietaak` | Instellingsbesluit Taakveldberaad Koninklijke Marechaussee Militaire Politietaak | 2 | 2002-04-21 to 2009-03-15 |
+| `instellingsbesluit-taakveldberaad-koninklijke-marechaussee-rechtshandhaving` | Instellingsbesluit Taakveldberaad Koninklijke Marechaussee Rechtshandhaving | 2 | 2002-04-21 to 2009-03-15 |
+| `regeling-voor-projectsubsidie-nascholingscursus-rekencoordinator` | Regeling voor projectsubsidie nascholingscursus rekencoördinator | 2 | 2002-04-27 to 2008-08-01 |
+| `regeling-aanvullende-personele-bekostiging-culturele-minderheidsgroepen-en-anderstalige-le` | Regeling aanvullende personele bekostiging culturele minderheidsgroepen en anderstalige leerlingen WVO 2002 | 2 | 2005-04-06 to 2006-08-01 |
+| `openstelling-regeling-structuurverbetering-glastuinbouw-2002` | Openstelling Regeling Structuurverbetering Glastuinbouw 2002 | 2 | 2002-04-18 to 2004-01-24 |
+| `regeling-begroting-uitvoeringsorgaan-wtz-1998` | Regeling begroting uitvoeringsorgaan Wtz 1998 | 2 | 2002-04-20 to 2006-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-april-2002` | Beschikking rendementen gesubsidieerde woningbouw, april 2002 | 2 | 2002-07-01 to 2004-12-23 |
+| `warenwetregeling-geleiproducten-met-e-425-konjac` | Warenwetregeling Geleiproducten met E 425 konjac | 2 | 2003-04-18 to 2003-08-10 |
+| `regeling-verzilvering-formatierekeneenheden-schooljaar-2002-2003` | Regeling verzilvering formatierekeneenheden schooljaar 2002-2003 | 2 | 2002-08-01 to 2003-08-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-arrestantenbewakers-verzorgers-koninklijke-marech-2` | Besluit buitengewoon opsporingsambtenaar arrestantenbewakers/-verzorgers Koninklijke marechaussee 2002 | 2 | 2002-04-23 to 2007-04-23 |
+| `vrijstellingsregeling-administratieve-verplichtingen-meststoffenwet-in-verband-met-mond-en` | Vrijstellingsregeling administratieve verplichtingen Meststoffenwet in verband met mond- en klauwzeer | 2 | 2002-04-19 to 2004-01-24 |
+| `instellingsregeling-commissie-innovatie-openbaar-bestuur` | Instellingsregeling Commissie Innovatie Openbaar Bestuur | 2 | 2006-07-22 to 2013-07-01 |
+| `subsidieplafond-en-beleidsvoornemen-gmv-2002-hma-sarajevo` | Subsidieplafond en beleidsvoornemen GMV 2002, HMA Sarajevo | 2 | 2002-04-24 to 2006-01-01 |
+| `organisatie-mandaat-en-volmachtbesluit-directie-algemene-zaken-2002` | Organisatie-, mandaat- en volmachtbesluit directie Algemene Zaken 2002 | 2 | 2002-05-09 to 2004-01-01 |
+| `regeling-modellen-diploma-s-vmbo` | Regeling modellen diploma's vmbo | 2 | 2002-08-01 to 2008-08-01 |
+| `onderzoekingsregulatief-2002` | Onderzoekingsregulatief 2002 | 2 | 2005-11-25 to 2006-01-01 |
+| `ophoging-subsidieplafond-subsidieregeling-demonstratie-en-bewustmakingsprojecten` | Ophoging subsidieplafond Subsidieregeling demonstratie- en bewustmakingsprojecten | 2 | 2002-05-03 to 2004-01-24 |
+| `mandaatbesluit-nederlands-bureau-brandweerexamens` | Mandaatbesluit Nederlands bureau brandweerexamens | 2 | 2002-05-15 to 2008-07-16 |
+| `vaststelling-drempelpercentage-besluit-financien-regionale-politiekorpsen` | Vaststelling drempelpercentage Besluit financiën regionale politiekorpsen | 2 | 2002-05-15 to 2013-01-01 |
+| `verdeling-subsidie-sanering-verkeerslawaai-2002` | Verdeling subsidie sanering verkeerslawaai 2002 | 2 | 2002-04-28 to 2004-12-23 |
+| `instellingsbesluit-beraad-urgentiegeneeskunde` | Instellingsbesluit Beraad Urgentiegeneeskunde | 2 | 2002-05-09 to 2005-01-01 |
+| `vaststelling-nominaal-bedrag-eindejaarsuitkering-2002` | Vaststelling nominaal bedrag eindejaarsuitkering 2002 | 2 | 2002-05-14 to 2006-01-01 |
+| `vaststelling-maximale-huurprijsgrenzen-woonruimten-2002` | Vaststelling maximale huurprijsgrenzen woonruimten 2002 | 2 | 2003-07-01 to 2003-08-01 |
+| `overgangsregeling-eindexamens-m-a-v-o-en-v-b-o-oude-stijl` | Overgangsregeling eindexamens m.a.v.o. en v.b.o. oude stijl | 2 | 2004-08-01 to 2014-08-01 |
+| `regeling-tarieven-in-burgerlijke-zaken` | Regeling tarieven in burgerlijke zaken | 2 | 2009-10-01 to 2010-11-01 |
+| `regeling-aanwijzing-bijzondere-gevallen-bij-werkloosheid-als-gevolg-van-werkstaking-of-uit` | Regeling aanwijzing bijzondere gevallen bij werkloosheid als gevolg van werkstaking of uitsluiting | 2 | 2004-11-17 to 2006-01-01 |
+| `voorwaarden-tijdelijke-bevoegdheid-oalt-en-taalondersteuning` | Voorwaarden tijdelijke bevoegdheid oalt en taalondersteuning | 2 | 2002-08-01 to 2006-08-01 |
+| `regels-inzake-aanwijzing-ambtenaren-toezicht-gaswet` | Regels inzake aanwijzing ambtenaren toezicht Gaswet | 2 | 2005-06-18 to 2006-11-02 |
+| `verlening-vertegenwoordigingsbevoegdheden-aan-de-directeur-uitvoering-werk-en-inkomen` | Verlening vertegenwoordigingsbevoegdheden aan de directeur Uitvoering Werk en Inkomen | 2 | 2002-05-15 to 2004-01-01 |
+| `vaststelling-subsidieprogramma-co2-reductie-goederenvervoer` | Vaststelling Subsidieprogramma CO2-reductie goederenvervoer | 2 | 2002-05-16 to 2009-01-01 |
+| `regeling-wijziging-normbedragen-voor-exploitatiebijdragen-van-standplaatsen-en-ter-continu` | Regeling wijziging normbedragen voor exploitatiebijdragen van standplaatsen en ter continuering van de toepassing van het subsidieafbraakpercentage voor woonwagens en standplaatsen zoals dit geldt voor 2002 | 2 | 2002-05-25 to 2004-12-23 |
+| `besluit-aanwijzing-toezichthouders-landbouwkwaliteitswet` | Besluit aanwijzing toezichthouders Landbouwkwaliteitswet | 2 | 2002-05-17 to 2007-09-28 |
+| `regeling-huursubsidiegrenzen-2002` | Regeling huursubsidiegrenzen 2002 | 2 | 2002-07-01 to 2004-12-23 |
+| `regeling-bevordering-eigenwoningbezit-2002` | Regeling bevordering eigenwoningbezit 2002 | 2 | 2002-07-01 to 2004-12-23 |
+| `uitvoering-saneringsregelingen-vuurwerkbedrijven-mandatering-agentschap-nl` | Uitvoering saneringsregelingen vuurwerkbedrijven; mandatering Agentschap NL | 2 | 2010-01-01 to 2013-05-01 |
+| `aanvraagperiode-en-subsidieplafond-subsidieregeling-natuurbeheer-2000-t-b-v-inrichtingssub` | Aanvraagperiode en subsidieplafond Subsidieregeling natuurbeheer 2000 t.b.v. Inrichtingssubsidie m.b.t. het natuuroffensief | 2 | 2002-08-23 to 2004-01-24 |
+| `uitvoeringsregeling-tipp-2002` | Uitvoeringsregeling Tipp 2002 | 2 | 2002-05-23 to 2004-12-15 |
+| `instellingsregeling-vertrekmoratorium-voor-asielzoekers-afkomstig-uit-centraal-irak` | Instellingsregeling vertrekmoratorium voor asielzoekers afkomstig uit Centraal-Irak | 2 | 2002-05-24 to 2003-05-23 |
+| `mandaatbesluit-directie-financieel-economische-zaken` | Mandaatbesluit directie Financieel-Economische Zaken | 2 | 2002-05-24 to 2008-06-18 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-mei-2002` | Beschikking rendementen gesubsidieerde woningbouw, mei 2002 | 2 | 2002-08-01 to 2004-12-23 |
+| `vaststelling-subsidieplafond-2002-infrastructuurregeling-glastuinbouwgebieden` | Vaststelling subsidieplafond 2002 Infrastructuurregeling glastuinbouwgebieden | 2 | 2002-05-30 to 2004-01-24 |
+| `besluit-buitengewoon-opsporingsambtenaar-regiopolitie-gelderland-midden-2002` | Besluit buitengewoon opsporingsambtenaar regiopolitie Gelderland-Midden 2002 | 2 | 2002-06-01 to 2007-06-01 |
+| `subsidieregeling-nationaal-ict-instituut-in-de-zorg` | Subsidieregeling Nationaal ICT Instituut in de Zorg | 2 | 2005-04-08 to 2007-01-01 |
+| `vaststelling-bedrag-bedoeld-in-artikel-7-eerste-lid-onderdeel-b-kostenregeling-wet-toezich-2` | Vaststelling bedrag bedoeld in artikel 7, eerste lid, onderdeel b, Kostenregeling Wet toezicht beleggingsinstellingen | 2 | 2002-06-02 to 2004-01-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-regiopolitie-amsterdam-amstelland-2002` | Besluit buitengewoon opsporingsambtenaar regiopolitie Amsterdam-Amstelland 2002 | 2 | 2002-06-06 to 2007-06-06 |
+| `besluit-buitengewoon-opsporingsambtenaar-regiopolitie-flevoland-2002` | Besluit buitengewoon opsporingsambtenaar regiopolitie Flevoland 2002 | 2 | 2002-06-06 to 2007-06-06 |
+| `uitvoeringregeling-ex-artikel-2-en-6-subsidieregeling-programma-technologie-en-samenleving` | Uitvoeringregeling ex artikel 2 en 6 Subsidieregeling programma technologie en samenleving | 2 | 2002-06-06 to 2003-06-07 |
+| `vaststelling-subsidieplafond-subsidieregeling-maatschappelijke-organisaties-en-milieu` | Vaststelling subsidieplafond Subsidieregeling maatschappelijke organisaties en milieu | 2 | 2002-12-26 to 2004-12-23 |
+| `subsidieplafond-2002-regeling-subsidiering-gebiedsgericht-beleid-en-reconstructie-concentr` | Subsidieplafond 2002 Regeling subsidiëring gebiedsgericht beleid en reconstructie concentratiegebieden | 2 | 2002-06-09 to 2004-01-24 |
+| `besluit-buitengewoon-opsporingsambtenaar-regiopolitie-midden-en-west-brabant-2002` | Besluit buitengewoon opsporingsambtenaar regiopolitie Midden en West Brabant 2002 | 2 | 2006-02-17 to 2007-06-12 |
+| `openstelling-en-subsidieplafond-stimuleringsregeling-inrichting-duurzame-glastuinbouwgebie-2` | Openstelling en subsidieplafond Stimuleringsregeling inrichting duurzame glastuinbouwgebieden | 2 | 2002-08-02 to 2004-01-24 |
+| `wijziging-subsidieregeling-voorlichting-en-doorlichting-schoner-produceren-2` | Wijziging Subsidieregeling voorlichting en doorlichting Schoner Produceren | 2 | 2002-07-12 to 2003-06-07 |
+| `regeling-hygienecontroles-voor-de-opvang-en-het-bewaren-van-bloed-van-slachtdieren-bestemd` | Regeling hygiënecontroles voor de opvang en het bewaren van bloed van slachtdieren bestemd voor menselijke consumptie | 2 | 2002-07-01 to 2006-01-01 |
+| `besluit-hulpofficieren-van-justitie-vrom-iod-2002` | Besluit hulpofficieren van justitie VROM-IOD 2002 | 2 | 2007-02-11 to 2007-12-20 |
+| `besluit-vaststelling-aanvraagformulieren-subsidie-programma-co2-reductie-goederenvervoer` | Besluit vaststelling aanvraagformulieren Subsidie-programma CO2-reductie goederenvervoer | 2 | 2002-09-06 to 2009-01-01 |
+| `regeling-normrente-en-normbedrag-spaarpremie-derde-kwartaal-2002` | Regeling normrente en normbedrag spaarpremie derde kwartaal 2002 | 2 | 2002-07-01 to 2004-12-23 |
+| `gesloten-periode-visserij-ijsselmeer-2002` | Gesloten periode visserij IJsselmeer 2002 | 2 | 2002-06-19 to 2004-01-24 |
+| `aanpassing-voorschriften-ingevolge-besluit-betaling-emolumenten-burgerlijk-rijkspersoneel` | Aanpassing voorschriften ingevolge Besluit betaling emolumenten burgerlijk rijkspersoneel | 2 | 2002-07-01 to 2003-07-01 |
+| `besluit-vaststelling-aanvraagperiode-in-het-kader-van-de-regeling-stimulering-biologische` | Besluit vaststelling aanvraagperiode in het kader van de Regeling stimulering biologische productiemethode | 2 | 2002-06-20 to 2004-01-24 |
+| `vaststelling-nationaal-frequentieplan-2002` | Vaststelling Nationaal Frequentieplan 2002 | 2 | 2002-06-22 to 2005-02-13 |
+| `besluit-vaststelling-aanvraagformulieren-subsidieprogramma-co2-reductie-personenvervoer` | Besluit vaststelling aanvraagformulieren Subsidieprogramma CO2-reductie personenvervoer | 2 | 2002-06-22 to 2009-01-01 |
+| `subsidieprogramma-co2-reductie-personenvervoer` | Subsidieprogramma CO2-reductie personenvervoer | 2 | 2002-06-22 to 2008-01-01 |
+| `mandaatverlening-senter-subsidieprogramma-co2-reductie-personenvervoer` | Mandaatverlening Senter Subsidieprogramma CO2-reductie personenvervoer | 2 | 2008-07-01 to 2009-01-01 |
+| `regeling-indexering-akw-en-tog-bedragen-juli-2002` | Regeling indexering AKW-en TOG-bedragen juli 2002 | 2 | 2002-07-01 to 2004-09-22 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juni-2002` | Beschikking rendementen gesubsidieerde woningbouw, juni 2002 | 2 | 2002-10-01 to 2004-12-23 |
+| `vaststelling-aanvraagformulieren-besluit-erkenning-tussenpersonen-mestverwerkers-en-export` | Vaststelling aanvraagformulieren Besluit erkenning tussenpersonen, mestverwerkers en exporteurs Meststoffenwet | 2 | 2002-06-28 to 2006-01-01 |
+| `besluit-aanwijzing-toezichthouders-en-opsporingsambtenaren-divisie-vervoer-inspectie-verke` | Besluit aanwijzing toezichthouders en opsporingsambtenaren divisie Vervoer Inspectie Verkeer en Waterstaat 2002 | 2 | 2005-04-17 to 2006-07-19 |
+| `beoordelingskader-stimuleringsregeling-inrichting-duurzame-glastuinbouw` | Beoordelingskader Stimuleringsregeling inrichting duurzame glastuinbouw | 2 | 2002-07-03 to 2007-01-01 |
+| `wijziging-subsidieplafond-bts-2002-i-en-vaststelling-aanvraagperiode-en-subsidieplafonds-b` | Wijziging subsidieplafond BTS 2002-I en vaststelling aanvraagperiode en subsidieplafonds BTS 2002-III | 2 | 2002-07-05 to 2004-01-01 |
+| `besluit-taak-dg-rvd-ministerie-van-algemene-zaken` | Besluit taak DG RVD Ministerie van Algemene Zaken | 2 | 2010-02-27 to 2011-04-01 |
+| `besluit-organisatiestructuur-ministerie-van-algemene-zaken-2` | Besluit Organisatiestructuur Ministerie van Algemene Zaken | 2 | 2002-07-01 to 2009-04-29 |
+| `regeling-opslagpercentages-vervangingsfonds-vf-en-participatiefonds-pf-voor-het-schooljaar` | Regeling opslagpercentages Vervangingsfonds (VF) en Participatiefonds (PF) voor het schooljaar 2002-2003 | 2 | 2002-08-03 to 2003-08-01 |
+| `tijdelijke-subsidieregeling-minderhedenbladen-en-journalistieke-internet-informatieproduct` | Tijdelijke subsidieregeling minderhedenbladen en journalistieke internet-informatieproducten | 2 | 2005-07-12 to 2006-07-12 |
+| `instellingsbesluit-adviescommissie-exportkredietverzekering-opkomende-markten` | Instellingsbesluit Adviescommissie exportkredietverzekering opkomende markten | 2 | 2002-07-14 to 2005-07-01 |
+| `regeling-acceptatie-geconditioneerde-gevaarlijke-afvalstoffen-op-stortplaatsen` | Regeling acceptatie geconditioneerde gevaarlijke afvalstoffen op stortplaatsen | 2 | 2002-07-18 to 2009-07-21 |
+| `organisatiebesluit-vws` | Organisatiebesluit VWS | 2 | 2002-07-10 to 2006-10-01 |
+| `regeling-vergoeding-studie-en-beroepskeuzebegeleiding-vso-sovso-pro-1-augustus-2002-1-janu` | Regeling vergoeding studie- en beroepskeuzebegeleiding vso-sovso-pro 1 augustus 2002 - 1 januari 2003 | 2 | 2002-08-01 to 2004-12-31 |
+| `regeling-aanwijzing-filminvesteringen-2002` | Regeling aanwijzing filminvesteringen 2002 | 2 | 2002-07-16 to 2005-01-01 |
+| `doorverlening-vertegenwoordigingsbevoegdheden-d-g-arbeidsmarktbeleid-en-bijstand-aan-proje` | Doorverlening vertegenwoordigingsbevoegdheden d-g Arbeidsmarktbeleid en Bijstand aan projectleider Structurering en Integratie Gemeentelijke Informatiestromen SZW | 2 | 2002-07-19 to 2004-01-01 |
+| `vrijstellingsregeling-geldtransactiekantoren` | Vrijstellingsregeling geldtransactiekantoren | 2 | 2012-01-01 to 2012-07-01 |
+| `regeling-herziening-rijksbijdrage-inburgering-nieuwkomers-2002` | Regeling herziening rijksbijdrage inburgering nieuwkomers 2002 | 2 | 2002-08-02 to 2004-12-31 |
+| `regeling-aanvullende-bekostiging-netwerken-vmbo-augustus-2002-december-2003` | Regeling aanvullende bekostiging netwerken vmbo augustus 2002 - december 2003 | 2 | 2002-08-03 to 2004-01-01 |
+| `beschikking-rendementen-gesubsidieerde-woningbouw-juli-2002` | Beschikking rendementen gesubsidieerde woningbouw, juli 2002 | 2 | 2002-10-01 to 2004-12-23 |
+| `vaststelling-subsidieplafond-matra-projecten-programma-2` | Vaststelling subsidieplafond Matra Projecten Programma | 2 | 2002-07-27 to 2006-01-01 |
+| `subsidieplafond-2002-besluit-ontwikkeling-van-landschappen-2` | Subsidieplafond 2002 Besluit ontwikkeling van landschappen | 2 | 2002-07-27 to 2004-01-24 |
+| `regeling-geldsom-visakten-2003` | Regeling geldsom visakten 2003 | 2 | 2003-01-01 to 2004-01-24 |
+| `regeling-vaststelling-afromingspercentages-visserijdocumenten-derde-kwartaal-2002` | Regeling vaststelling afromingspercentages visserijdocumenten derde kwartaal 2002 | 2 | 2002-07-30 to 2004-01-24 |
+| `vaststelling-subsidieplafond-en-thema-s-2002-regeling-draagvlak-natuur` | Vaststelling subsidieplafond en thema's 2002 Regeling draagvlak natuur | 2 | 2002-07-28 to 2004-01-24 |
+| `subsidieplafond-thematische-medefinanciering` | Subsidieplafond Thematische Medefinanciering | 2 | 2002-11-27 to 2006-01-01 |
+| `regeling-vaststelling-eindtermen-beroepsonderwijs-op-het-gebied-van-de-landbouw-en-natuurl` | Regeling vaststelling eindtermen beroepsonderwijs op het gebied van de landbouw en natuurlijke omgeving 2002 | 2 | 2002-08-01 to 2003-09-01 |
+| `beleidsvoornemen-en-subsidieplafond-vredesfonds-2002` | Beleidsvoornemen en subsidieplafond Vredesfonds 2002 | 2 | 2002-08-08 to 2006-01-01 |
+| `regeling-kennisontwikkeling-en-regionale-samenwerking-culturele-diversiteit` | Regeling kennisontwikkeling en regionale samenwerking culturele diversiteit | 2 | 2003-12-20 to 2007-04-01 |
+| `subsidieplafond-subsidieregeling-maatschappelijke-organisaties-en-milieu-4` | Subsidieplafond Subsidieregeling maatschappelijke organisaties en milieu | 2 | 2002-08-21 to 2004-12-23 |
+| `vaststellingsregeling-percentages-regeling-toezichtskosten-wet-toezicht-effectenverkeer-19` | Vaststellingsregeling percentages Regeling toezichtskosten Wet toezicht effectenverkeer 1995 voor 2002 | 2 | 2002-08-16 to 2004-01-01 |
+| `instellingsbesluit-toetsingscommissie-buitengewoon-opsporingsambtenaar-belastingdienst-200` | Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2002 | 2 | 2002-08-22 to 2006-06-23 |
+| `vaststelling-collegegeld-studiejaar-2003-2004` | Vaststelling collegegeld studiejaar 2003 - 2004 | 2 | 2002-09-07 to 2006-09-09 |
+| `regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-2001-en-2002` | Regeling vaststelling mede te financieren bedrag MOOZ voor 2001 en 2002 | 2 | 2003-10-08 to 2004-08-28 |
+| `regeling-vaststelling-aanvraagperioden-plattelandsontwikkelingsprogramma-provincies-2002-2` | Regeling vaststelling aanvraagperioden plattelandsontwikkelingsprogramma provincies 2002/2003 | 2 | 2003-10-10 to 2004-01-24 |
+| `wijziging-verevening-kanselarijrechten-in-suriname-van-us-dollars-in-euro` | Wijziging verevening kanselarijrechten in Suriname van US dollars in euro | 2 | 2002-10-01 to 2004-01-01 |
+| `verhoging-subsidieplafond-regeling-effectgerichte-maatregelen-in-bossen-en-natuurterreinen` | Verhoging subsidieplafond Regeling effectgerichte maatregelen in bossen en natuurterreinen | 2 | 2002-08-23 to 2004-01-24 |
+| `goedkeuring-tarieven-destructiewet-tweede-kwartaal-2002` | Goedkeuring tarieven Destructiewet tweede kwartaal 2002 | 2 | 2002-08-21 to 2004-01-24 |
+| `regeling-verdeling-premiekorting-wao` | Regeling verdeling premiekorting WAO | 2 | 2002-08-22 to 2006-01-01 |
+| `regeling-vaststelling-uitvoeringsvoorschriften-alsmede-wijziging-van-diverse-regelingen-in` | Regeling vaststelling uitvoeringsvoorschriften alsmede wijziging van diverse regelingen in verband met de afzonderlijke registratie van aanhangwagens | 2 | 2002-09-01 to 2014-01-01 |
+| `mandaatbesluit-loyalis` | Mandaatbesluit Loyalis | 2 | 2002-08-28 to 2014-01-01 |
+| `besluit-buitengewoon-opsporingsambtenaar-regiopolitie-kennemerland-2002` | Besluit buitengewoon opsporingsambtenaar regiopolitie Kennemerland 2002 | 2 | 2002-08-28 to 2007-08-28 |
+| `besluit-buitengewoon-opsporingsambtenaar-regiopolitie-twente-2002` | Besluit buitengewoon opsporingsambtenaar regiopolitie Twente 2002 | 2 | 2002-08-28 to 2007-08-28 |
+| `besluit-aanwijzing-bevoegde-autoriteiten-scheldereglement` | Besluit aanwijzing bevoegde autoriteiten Scheldereglement | 2 | 2006-12-01 to 2008-10-01 |
+| `besluit-loodsgelden-en-loodsvergoedingen-scheldereglement` | Besluit loodsgelden en loodsvergoedingen Scheldereglement | 2 | 2008-01-01 to 2009-01-01 |
+| `besluit-organisatorische-inrichting-algemene-inlichtingen-en-veiligheidsdienst-organisatie` | Besluit organisatorische inrichting Algemene Inlichtingen- en Veiligheidsdienst (Organisatiebesluit AIVD) | 2 | 2002-05-29 to 2009-06-15 |
+| `besluit-buitengewoon-opsporingsambtenaar-regiopolitie-brabant-zuid-oost-2002` | Besluit buitengewoon opsporingsambtenaar regiopolitie Brabant Zuid-Oost 2002 | 2 | 2004-10-06 to 2007-08-28 |
 | `buitengewoon-besluit-arbeidsverhoudingen-1945` | Buitengewoon Besluit Arbeidsverhoudingen 1945 | 1 | 2020-01-01 to 2020-01-01 |
 | `besluit-buitengewoon-strafrecht` | Besluit Buitengewoon Strafrecht | 1 | 2024-07-01 to 2024-07-01 |
 | `toeslagregeling-pensioenen-suriname-en-nederlandse-antillen` | Toeslagregeling pensioenen Suriname en Nederlandse Antillen | 1 | 2006-01-01 to 2006-01-01 |
@@ -23604,19 +26299,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `inkomensbesluit-ioaw` | Inkomensbesluit IOAW | 2 | 2010-07-01 to 2011-01-01 |
 | `besluit-beperking-kring-verzekerden-ziekenfondswet` | Besluit beperking kring verzekerden Ziekenfondswet | 2 | 2004-09-29 to 2006-01-01 |
 
-The build made 34919 commits:
+The build made 39789 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 23412 | first version of an act |
-| 10049 | one law on its in-force day |
-| 1458 | changes no amendment note explains, credited to the publisher |
+| 26093 | first version of an act |
+| 10372 | one law on its in-force day |
+| 3324 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 209 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 6141 laws in the record.
-- 45713 tags.
+- 6299 laws in the record.
+- 51230 tags.
 
 ## Dates
 
@@ -23628,7 +26323,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f2b9eafba6f5370203cce3185b61c59cdf6a93a1753ee44145c53a60dfed586e` (409681608 bytes).
+- Corpus: sha256 `8349b5c810c3d6bfc3716d8d5555736ccb1bc34fd141a569b8d6f169c221c434` (425984931 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -24001,6 +26696,34 @@ No second build of this corpus has been compared yet.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 401 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 370 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 385 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 388 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 390 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 385 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 362 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 - Current text only (breadth first, Alan 2026-11-02): 468 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
@@ -24100,6 +26823,13 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

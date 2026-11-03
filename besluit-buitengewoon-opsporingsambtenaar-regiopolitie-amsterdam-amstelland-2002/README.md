@@ -1,0 +1,6 @@
+# Besluit buitengewoon opsporingsambtenaar regiopolitie Amsterdam-Amstelland 2002
+
+Besluit buitengewoon opsporingsambtenaar regiopolitie Amsterdam-Amstelland 2002 · 2 versions, from 2002-06-06 (latest in force: 2007-06-06) · <https://wetten.overheid.nl/BWBR0013722>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
