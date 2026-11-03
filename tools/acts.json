@@ -16755,5 +16755,357 @@
   "part": "bwb-now-wet-010",
   "current_label": "2019-01-01_0",
   "as_of": "2026-11-03"
+ },
+ "comptabiliteitswet-2016": {
+  "bwb": "BWBR0039429",
+  "short": "Comptabiliteitswet 2016",
+  "title": "Comptabiliteitswet 2016",
+  "part": "bwb-now-wet-011",
+  "current_label": "2026-06-04_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-wet-bestuurlijke-maatregelen-terrorismebestrijding": {
+  "bwb": "BWBR0039210",
+  "short": "Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding",
+  "title": "Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding",
+  "part": "bwb-now-wet-011",
+  "current_label": "2022-02-26_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-telecommunicatiewet-enz-uitvoering-eu-verordening-elektronische-identiteiten": {
+  "bwb": "BWBR0039151",
+  "short": "Wijzigingswet Telecommunicatiewet, enz. (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)",
+  "title": "Wijzigingswet Telecommunicatiewet, enz. (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-03-10_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-minimumloon-en-minimumvakantiebijslag-enz-verlaging-leeftijd-volwassenmi": {
+  "bwb": "BWBR0039163",
+  "short": "Wijzigingswet Wet minimumloon en minimumvakantiebijslag, enz. (verlaging leeftijd volwassenminimumloon, i.v.m. stukloon en meerwerk, enz.)",
+  "title": "Wijzigingswet Wet minimumloon en minimumvakantiebijslag, enz. (verlaging leeftijd volwassenminimumloon, i.v.m. stukloon en meerwerk, enz.)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-richtlijn-privaatrechtelijke-handhaving-mededingingsrecht": {
+  "bwb": "BWBR0039172",
+  "short": "Implementatiewet richtlijn privaatrechtelijke handhaving mededingingsrecht",
+  "title": "Implementatiewet richtlijn privaatrechtelijke handhaving mededingingsrecht",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-09-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-verduidelijking-voorschriften-woonboten": {
+  "bwb": "BWBR0039181",
+  "short": "Wet verduidelijking voorschriften woonboten",
+  "title": "Wet verduidelijking voorschriften woonboten",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-aanscherping-eisen-examencommissies-mid": {
+  "bwb": "BWBR0039194",
+  "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (aanscherping eisen examencommissies middelbaar beroepsonderwijs en technische aanpassing)",
+  "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (aanscherping eisen examencommissies middelbaar beroepsonderwijs en technische aanpassing)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-milieubeheer-en-crisis-en-herstelwet-implementatie-herziening-mer-richtl": {
+  "bwb": "BWBR0039196",
+  "short": "Wijzigingswet Wet milieubeheer en Crisis- en herstelwet (implementatie herziening mer-richtlijn)",
+  "title": "Wijzigingswet Wet milieubeheer en Crisis- en herstelwet (implementatie herziening mer-richtlijn)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-05-16_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-tracewet-enz-verruiming-mogelijkheid-om-fouten-in-het-geluidregister-te-hers": {
+  "bwb": "BWBR0039217",
+  "short": "Wijzigingswet Tracéwet, enz. (verruiming mogelijkheid om fouten in het geluidregister te herstellen)",
+  "title": "Wijzigingswet Tracéwet, enz. (verruiming mogelijkheid om fouten in het geluidregister te herstellen)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-het-primair-onderwijs-enz-invoering-vaststellen-handelingsdeel-ontwik": {
+  "bwb": "BWBR0039259",
+  "short": "Wijzigingswet Wet op het primair onderwijs, enz. (invoering vaststellen handelingsdeel ontwikkelingsperspectief na overeenstemming ouders)",
+  "title": "Wijzigingswet Wet op het primair onderwijs, enz. (invoering vaststellen handelingsdeel ontwikkelingsperspectief na overeenstemming ouders)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanpak-woonoverlast": {
+  "bwb": "BWBR0039275",
+  "short": "Wet aanpak woonoverlast",
+  "title": "Wet aanpak woonoverlast",
+  "part": "bwb-now-wet-011",
+  "current_label": "2025-02-12_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-herziening-tenuitvoerlegging-strafrechtelijke-beslissingen": {
+  "bwb": "BWBR0039301",
+  "short": "Wet USB",
+  "title": "Wet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+  "part": "bwb-now-wet-011",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-het-primair-onderwijs-enz-invoering-lerarenregister-en-registervoorpo": {
+  "bwb": "BWBR0039318",
+  "short": "Wijzigingswet Wet op het primair onderwijs, enz. (invoering lerarenregister en registervoorportaal)",
+  "title": "Wijzigingswet Wet op het primair onderwijs, enz. (invoering lerarenregister en registervoorportaal)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2022-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-richtlijn-minimumnormen-voor-rechten-ondersteuning-en-bescherming-slacht": {
+  "bwb": "BWBR0039339",
+  "short": "Wet implementatie richtlijn minimumnormen voor rechten, ondersteuning en bescherming slachtoffers strafbare feiten enz.",
+  "title": "Wet implementatie richtlijn minimumnormen voor rechten, ondersteuning en bescherming slachtoffers strafbare feiten enz.",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-kieswet-vereenvoudiging-procedure-kiezersregistratie-niet-ingezetenen": {
+  "bwb": "BWBR0039351",
+  "short": "Wijzigingswet Kieswet (vereenvoudiging procedure kiezersregistratie niet-ingezetenen)",
+  "title": "Wijzigingswet Kieswet (vereenvoudiging procedure kiezersregistratie niet-ingezetenen)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-herindeling-gemeenten-franekeradeel-het-bildt-leeuwarden-leeuwarderadeel-littenseradie": {
+  "bwb": "BWBR0039362",
+  "short": "Wet herindeling gemeenten Franekeradeel, het Bildt, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel en Súdwest-Fryslân",
+  "title": "Wet herindeling gemeenten Franekeradeel, het Bildt, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel en Súdwest-Fryslân",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-06-10_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-hoogezand-sappemeer-menterwolde-en-slochteren": {
+  "bwb": "BWBR0039365",
+  "short": "Wet samenvoeging gemeenten Hoogezand-Sappemeer, Menterwolde en Slochteren",
+  "title": "Wet samenvoeging gemeenten Hoogezand-Sappemeer, Menterwolde en Slochteren",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-06-10_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-rijnwaarden-en-zevenaar": {
+  "bwb": "BWBR0039369",
+  "short": "Wet samenvoeging gemeenten Rijnwaarden en Zevenaar",
+  "title": "Wet samenvoeging gemeenten Rijnwaarden en Zevenaar",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-06-10_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-bellingwedde-en-vlagtwedde": {
+  "bwb": "BWBR0039372",
+  "short": "Wet samenvoeging gemeenten Bellingwedde en Vlagtwedde",
+  "title": "Wet samenvoeging gemeenten Bellingwedde en Vlagtwedde",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-06-10_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-vereenvoudiging-beslagvrije-voet": {
+  "bwb": "BWBR0039377",
+  "short": "Wet vereenvoudiging beslagvrije voet",
+  "title": "Wet vereenvoudiging beslagvrije voet",
+  "part": "bwb-now-wet-011",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-uitfasering-pensioen-in-eigen-beheer-en-overige-fiscale-pensioenmaatregelen": {
+  "bwb": "BWBR0039380",
+  "short": "Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen",
+  "title": "Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-normalisering-rechtspositie-ambtenaren": {
+  "bwb": "BWBR0039393",
+  "short": "Wnra",
+  "title": "Wet normalisering rechtspositie ambtenaren",
+  "part": "bwb-now-wet-011",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-versterking-positie-curator": {
+  "bwb": "BWBR0039403",
+  "short": "Wet versterking positie curator",
+  "title": "Wet versterking positie curator",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-zvw-2016": {
+  "bwb": "BWBR0039440",
+  "short": "Verzamelwet Zvw 2016",
+  "title": "Verzamelwet Zvw 2016",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "evaluatiewet-wnt": {
+  "bwb": "BWBR0039454",
+  "short": "Evaluatiewet WNT",
+  "title": "Evaluatiewet WNT",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-04-12_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-gemeentewet-enz-beperken-heffingsbevoegdheid-precariobelasting-voor-enige-op": {
+  "bwb": "BWBR0039455",
+  "short": "Wijzigingswet Gemeentewet, enz. (beperken heffingsbevoegdheid precariobelasting voor enige openbare werken van algemeen nut)",
+  "title": "Wijzigingswet Gemeentewet, enz. (beperken heffingsbevoegdheid precariobelasting voor enige openbare werken van algemeen nut)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "goedkeuringswet-verdrag-van-straatsburg-van-2012-inzake-de-beperking-van-aansprakelijkheid": {
+  "bwb": "BWBR0039463",
+  "short": "Goedkeuringswet Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012)",
+  "title": "Goedkeuringswet Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-boek-8-burgerlijk-wetboek-in-verband-met-uitvoering-verdrag-van-straatsburg": {
+  "bwb": "BWBR0039465",
+  "short": "Wijzigingswet Boek 8 Burgerlijk Wetboek in verband met uitvoering Verdrag van Straatsburg 2012 inzake beperking aansprakelijkheid binnenvaart",
+  "title": "Wijzigingswet Boek 8 Burgerlijk Wetboek in verband met uitvoering Verdrag van Straatsburg 2012 inzake beperking aansprakelijkheid binnenvaart",
+  "part": "bwb-now-wet-011",
+  "current_label": "2019-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-burgerlijk-wetboek-boek-6-tegengaan-onredelijk-lange-betaaltermijnen": {
+  "bwb": "BWBR0039501",
+  "short": "Wijzigingswet Burgerlijk Wetboek Boek 6 (tegengaan onredelijk lange betaaltermijnen)",
+  "title": "Wijzigingswet Burgerlijk Wetboek Boek 6 (tegengaan onredelijk lange betaaltermijnen)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-boek-1-burgerlijk-wetboek-enz-beperking-omvang-wettelijke-gemeenschap-van-go": {
+  "bwb": "BWBR0039550",
+  "short": "Wijzigingswet Boek 1 Burgerlijk Wetboek, enz. (beperking omvang wettelijke gemeenschap van goederen)",
+  "title": "Wijzigingswet Boek 1 Burgerlijk Wetboek, enz. (beperking omvang wettelijke gemeenschap van goederen)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-maatregelen-huurwoningmarkt-caribisch-nederland": {
+  "bwb": "BWBR0039553",
+  "short": "Wet maatregelen huurwoningmarkt Caribisch Nederland",
+  "title": "Wet maatregelen huurwoningmarkt Caribisch Nederland",
+  "part": "bwb-now-wet-011",
+  "current_label": "2025-02-12_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-rijkswet-goedkeuring-en-bekendmaking-verdragen-informeren-staten-generaal-ov": {
+  "bwb": "BWBR0039575",
+  "short": "Wijzigingswet Rijkswet goedkeuring en bekendmaking verdragen (informeren Staten-Generaal over een ieder verbindende bepalingen van verdragen)",
+  "title": "Wijzigingswet Rijkswet goedkeuring en bekendmaking verdragen (informeren Staten-Generaal over een ieder verbindende bepalingen van verdragen)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanvullende-regels-uitwisseling-landenrapporten": {
+  "bwb": "BWBR0039603",
+  "short": "Wet aanvullende regels uitwisseling landenrapporten",
+  "title": "Wet aanvullende regels uitwisseling landenrapporten",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-06-05_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-grondgebonden-groei-melkveehouderij": {
+  "bwb": "BWBR0039611",
+  "short": "Wet grondgebonden groei melkveehouderij",
+  "title": "Wet grondgebonden groei melkveehouderij",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafvordering-implementatie-richtlijn-europees-onderzoeksbevel": {
+  "bwb": "BWBR0039615",
+  "short": "Wijzigingswet Wetboek van Strafvordering (implementatie richtlijn Europees onderzoeksbevel)",
+  "title": "Wijzigingswet Wetboek van Strafvordering (implementatie richtlijn Europees onderzoeksbevel)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-06-17_0",
+  "as_of": "2026-11-03"
+ },
+ "herstelwet-financiele-markten-2017": {
+  "bwb": "BWBR0039621",
+  "short": "Herstelwet financiële markten 2017",
+  "title": "Herstelwet financiële markten 2017",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-06-27_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-verbetering-functioneren-verenigingen-van-eigenaars": {
+  "bwb": "BWBR0039626",
+  "short": "Wet verbetering functioneren verenigingen van eigenaars",
+  "title": "Wet verbetering functioneren verenigingen van eigenaars",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-wapens-en-munitie-flora-en-faunawet-en-wet-natuurbescherming-versterking": {
+  "bwb": "BWBR0039633",
+  "short": "Wijzigingswet Wet wapens en munitie, Flora- en faunawet en Wet natuurbescherming (versterking beheersing legaal wapenbezit)",
+  "title": "Wijzigingswet Wet wapens en munitie, Flora- en faunawet en Wet natuurbescherming (versterking beheersing legaal wapenbezit)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2019-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-burgerlijk-wetboek-boek-1-clausuleren-recht-op-contact-of-omgang-na-partnerd": {
+  "bwb": "BWBR0039645",
+  "short": "Wijzigingswet Burgerlijk Wetboek Boek 1 (clausuleren recht op contact of omgang na partnerdoding)",
+  "title": "Wijzigingswet Burgerlijk Wetboek Boek 1 (clausuleren recht op contact of omgang na partnerdoding)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-harmonisatie-kinderopvang-en-peuterspeelzaalwerk": {
+  "bwb": "BWBR0039656",
+  "short": "Wet harmonisatie kinderopvang en peuterspeelzaalwerk",
+  "title": "Wet harmonisatie kinderopvang en peuterspeelzaalwerk",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-02-28_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafvordering-enz-herziening-regeling-internationale-samenwerki": {
+  "bwb": "BWBR0039657",
+  "short": "Wijzigingswet Wetboek van Strafvordering enz. (herziening regeling internationale samenwerking in strafzaken)",
+  "title": "Wijzigingswet Wetboek van Strafvordering enz. (herziening regeling internationale samenwerking in strafzaken)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-09-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-verordening-essentiele-informatiedocumenten": {
+  "bwb": "BWBR0039660",
+  "short": "Wet implementatie verordening essentiële-informatiedocumenten",
+  "title": "Wet implementatie verordening essentiële-informatiedocumenten",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-inburgering-enz-toevoegen-onderdeel-participatieverklaring-aan-inburgeri": {
+  "bwb": "BWBR0039709",
+  "short": "Wijzigingswet Wet inburgering, enz. (toevoegen onderdeel participatieverklaring aan inburgeringsexamen en wettelijke vastlegging maatschappelijke begeleiding)",
+  "title": "Wijzigingswet Wet inburgering, enz. (toevoegen onderdeel participatieverklaring aan inburgeringsexamen en wettelijke vastlegging maatschappelijke begeleiding)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2017-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-minimumloon-en-minimumvakantiebijslag-toepassing-verklaren-van-die-wet-o": {
+  "bwb": "BWBR0039720",
+  "short": "Wijzigingswet Wet minimumloon en minimumvakantiebijslag (toepassing verklaren van die wet op nader bepaalde overeenkomsten van opdracht)",
+  "title": "Wijzigingswet Wet minimumloon en minimumvakantiebijslag (toepassing verklaren van die wet op nader bepaalde overeenkomsten van opdracht)",
+  "part": "bwb-now-wet-011",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
  }
 }
