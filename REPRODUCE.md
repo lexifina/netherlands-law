@@ -80,6 +80,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2255,12 +2257,56 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wet-bewijsvermoeden-gaswinning-groningen` | Wet bewijsvermoeden gaswinning Groningen | 1 | 2016-12-31 to 2016-12-31 |
 | `wijzigingswet-mijnbouwwet-enz-veiligheid-offshore-olie-en-gasactiviteiten` | Wijzigingswet Mijnbouwwet, enz. (veiligheid offshore olie- en gasactiviteiten) | 1 | 2019-01-01 to 2019-01-01 |
 | `wijzigingswet-mijnbouwwet-versterking-veiligheidsbelang-mijnbouw-en-regie-opsporings-winni` | Wijzigingswet Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen) | 1 | 2019-01-01 to 2019-01-01 |
+| `comptabiliteitswet-2016` | Comptabiliteitswet 2016 | 1 | 2026-06-04 to 2026-06-04 |
+| `tijdelijke-wet-bestuurlijke-maatregelen-terrorismebestrijding` | Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding | 1 | 2022-02-26 to 2022-02-26 |
+| `wijzigingswet-telecommunicatiewet-enz-uitvoering-eu-verordening-elektronische-identiteiten` | Wijzigingswet Telecommunicatiewet, enz. (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten) | 1 | 2017-03-10 to 2017-03-10 |
+| `wijzigingswet-wet-minimumloon-en-minimumvakantiebijslag-enz-verlaging-leeftijd-volwassenmi` | Wijzigingswet Wet minimumloon en minimumvakantiebijslag, enz. (verlaging leeftijd volwassenminimumloon, i.v.m. stukloon en meerwerk, enz.) | 1 | 2020-01-01 to 2020-01-01 |
+| `implementatiewet-richtlijn-privaatrechtelijke-handhaving-mededingingsrecht` | Implementatiewet richtlijn privaatrechtelijke handhaving mededingingsrecht | 1 | 2018-09-19 to 2018-09-19 |
+| `wet-verduidelijking-voorschriften-woonboten` | Wet verduidelijking voorschriften woonboten | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-aanscherping-eisen-examencommissies-mid` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (aanscherping eisen examencommissies middelbaar beroepsonderwijs en technische aanpassing) | 1 | 2017-08-01 to 2017-08-01 |
+| `wijzigingswet-wet-milieubeheer-en-crisis-en-herstelwet-implementatie-herziening-mer-richtl` | Wijzigingswet Wet milieubeheer en Crisis- en herstelwet (implementatie herziening mer-richtlijn) | 1 | 2017-05-16 to 2017-05-16 |
+| `wijzigingswet-tracewet-enz-verruiming-mogelijkheid-om-fouten-in-het-geluidregister-te-hers` | Wijzigingswet Tracéwet, enz. (verruiming mogelijkheid om fouten in het geluidregister te herstellen) | 1 | 2017-05-01 to 2017-05-01 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-invoering-vaststellen-handelingsdeel-ontwik` | Wijzigingswet Wet op het primair onderwijs, enz. (invoering vaststellen handelingsdeel ontwikkelingsperspectief na overeenstemming ouders) | 1 | 2017-08-01 to 2017-08-01 |
+| `wet-aanpak-woonoverlast` | Wet aanpak woonoverlast | 1 | 2025-02-12 to 2025-02-12 |
+| `wet-herziening-tenuitvoerlegging-strafrechtelijke-beslissingen` | Wet herziening tenuitvoerlegging strafrechtelijke beslissingen | 1 | 2025-07-01 to 2025-07-01 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-invoering-lerarenregister-en-registervoorpo` | Wijzigingswet Wet op het primair onderwijs, enz. (invoering lerarenregister en registervoorportaal) | 1 | 2022-08-01 to 2022-08-01 |
+| `wet-implementatie-richtlijn-minimumnormen-voor-rechten-ondersteuning-en-bescherming-slacht` | Wet implementatie richtlijn minimumnormen voor rechten, ondersteuning en bescherming slachtoffers strafbare feiten enz. | 1 | 2017-04-01 to 2017-04-01 |
+| `wijzigingswet-kieswet-vereenvoudiging-procedure-kiezersregistratie-niet-ingezetenen` | Wijzigingswet Kieswet (vereenvoudiging procedure kiezersregistratie niet-ingezetenen) | 1 | 2017-04-01 to 2017-04-01 |
+| `wet-herindeling-gemeenten-franekeradeel-het-bildt-leeuwarden-leeuwarderadeel-littenseradie` | Wet herindeling gemeenten Franekeradeel, het Bildt, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel en Súdwest-Fryslân | 1 | 2017-06-10 to 2017-06-10 |
+| `wet-samenvoeging-gemeenten-hoogezand-sappemeer-menterwolde-en-slochteren` | Wet samenvoeging gemeenten Hoogezand-Sappemeer, Menterwolde en Slochteren | 1 | 2017-06-10 to 2017-06-10 |
+| `wet-samenvoeging-gemeenten-rijnwaarden-en-zevenaar` | Wet samenvoeging gemeenten Rijnwaarden en Zevenaar | 1 | 2017-06-10 to 2017-06-10 |
+| `wet-samenvoeging-gemeenten-bellingwedde-en-vlagtwedde` | Wet samenvoeging gemeenten Bellingwedde en Vlagtwedde | 1 | 2017-06-10 to 2017-06-10 |
+| `wet-vereenvoudiging-beslagvrije-voet` | Wet vereenvoudiging beslagvrije voet | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-uitfasering-pensioen-in-eigen-beheer-en-overige-fiscale-pensioenmaatregelen` | Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen | 1 | 2017-04-01 to 2017-04-01 |
+| `wet-normalisering-rechtspositie-ambtenaren` | Wet normalisering rechtspositie ambtenaren | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-versterking-positie-curator` | Wet versterking positie curator | 1 | 2017-07-01 to 2017-07-01 |
+| `verzamelwet-zvw-2016` | Verzamelwet Zvw 2016 | 1 | 2017-07-01 to 2017-07-01 |
+| `evaluatiewet-wnt` | Evaluatiewet WNT | 1 | 2017-04-12 to 2017-04-12 |
+| `wijzigingswet-gemeentewet-enz-beperken-heffingsbevoegdheid-precariobelasting-voor-enige-op` | Wijzigingswet Gemeentewet, enz. (beperken heffingsbevoegdheid precariobelasting voor enige openbare werken van algemeen nut) | 1 | 2017-07-01 to 2017-07-01 |
+| `goedkeuringswet-verdrag-van-straatsburg-van-2012-inzake-de-beperking-van-aansprakelijkheid` | Goedkeuringswet Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012) | 1 | 2017-07-01 to 2017-07-01 |
+| `wijzigingswet-boek-8-burgerlijk-wetboek-in-verband-met-uitvoering-verdrag-van-straatsburg` | Wijzigingswet Boek 8 Burgerlijk Wetboek in verband met uitvoering Verdrag van Straatsburg 2012 inzake beperking aansprakelijkheid binnenvaart | 1 | 2019-07-01 to 2019-07-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-6-tegengaan-onredelijk-lange-betaaltermijnen` | Wijzigingswet Burgerlijk Wetboek Boek 6 (tegengaan onredelijk lange betaaltermijnen) | 1 | 2017-07-01 to 2017-07-01 |
+| `wijzigingswet-boek-1-burgerlijk-wetboek-enz-beperking-omvang-wettelijke-gemeenschap-van-go` | Wijzigingswet Boek 1 Burgerlijk Wetboek, enz. (beperking omvang wettelijke gemeenschap van goederen) | 1 | 2023-07-01 to 2023-07-01 |
+| `wet-maatregelen-huurwoningmarkt-caribisch-nederland` | Wet maatregelen huurwoningmarkt Caribisch Nederland | 1 | 2025-02-12 to 2025-02-12 |
+| `wijzigingswet-rijkswet-goedkeuring-en-bekendmaking-verdragen-informeren-staten-generaal-ov` | Wijzigingswet Rijkswet goedkeuring en bekendmaking verdragen (informeren Staten-Generaal over een ieder verbindende bepalingen van verdragen) | 1 | 2017-07-01 to 2017-07-01 |
+| `wet-aanvullende-regels-uitwisseling-landenrapporten` | Wet aanvullende regels uitwisseling landenrapporten | 1 | 2017-06-05 to 2017-06-05 |
+| `wet-grondgebonden-groei-melkveehouderij` | Wet grondgebonden groei melkveehouderij | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-wetboek-van-strafvordering-implementatie-richtlijn-europees-onderzoeksbevel` | Wijzigingswet Wetboek van Strafvordering (implementatie richtlijn Europees onderzoeksbevel) | 1 | 2017-06-17 to 2017-06-17 |
+| `herstelwet-financiele-markten-2017` | Herstelwet financiële markten 2017 | 1 | 2017-06-27 to 2017-06-27 |
+| `wet-verbetering-functioneren-verenigingen-van-eigenaars` | Wet verbetering functioneren verenigingen van eigenaars | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-wet-wapens-en-munitie-flora-en-faunawet-en-wet-natuurbescherming-versterking` | Wijzigingswet Wet wapens en munitie, Flora- en faunawet en Wet natuurbescherming (versterking beheersing legaal wapenbezit) | 1 | 2019-10-01 to 2019-10-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-1-clausuleren-recht-op-contact-of-omgang-na-partnerd` | Wijzigingswet Burgerlijk Wetboek Boek 1 (clausuleren recht op contact of omgang na partnerdoding) | 1 | 2018-01-01 to 2018-01-01 |
+| `wet-harmonisatie-kinderopvang-en-peuterspeelzaalwerk` | Wet harmonisatie kinderopvang en peuterspeelzaalwerk | 1 | 2018-02-28 to 2018-02-28 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-herziening-regeling-internationale-samenwerki` | Wijzigingswet Wetboek van Strafvordering enz. (herziening regeling internationale samenwerking in strafzaken) | 1 | 2018-09-19 to 2018-09-19 |
+| `wet-implementatie-verordening-essentiele-informatiedocumenten` | Wet implementatie verordening essentiële-informatiedocumenten | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-wet-inburgering-enz-toevoegen-onderdeel-participatieverklaring-aan-inburgeri` | Wijzigingswet Wet inburgering, enz. (toevoegen onderdeel participatieverklaring aan inburgeringsexamen en wettelijke vastlegging maatschappelijke begeleiding) | 1 | 2017-10-01 to 2017-10-01 |
+| `wijzigingswet-wet-minimumloon-en-minimumvakantiebijslag-toepassing-verklaren-van-die-wet-o` | Wijzigingswet Wet minimumloon en minimumvakantiebijslag (toepassing verklaren van die wet op nader bepaalde overeenkomsten van opdracht) | 1 | 2018-01-01 to 2018-01-01 |
 
-The build made 8638 commits:
+The build made 8682 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2168 | first version of an act |
+| 2212 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -2268,7 +2314,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 13959 tags.
+- 14003 tags.
 
 ## Dates
 
@@ -2280,7 +2326,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f2a17132ce7c9a41c318a97ac4b5ec0ecf41c629945ba43ab41beab26e03bc7b` (183217339 bytes).
+- Corpus: sha256 `bf19ff324b5f4ecc440592c217e3cf009c24071e9fdc295db2d74191896edf9a` (183552052 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2556,6 +2602,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 26 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 44 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2567,6 +2616,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
