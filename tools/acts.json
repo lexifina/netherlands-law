@@ -15531,5 +15531,741 @@
   "part": "bwb-now-wet-005",
   "current_label": "2015-01-01_0",
   "as_of": "2026-11-03"
+ },
+ "wet-taaleis-participatiewet": {
+  "bwb": "BWBR0036496",
+  "short": "Wet taaleis Participatiewet",
+  "title": "Wet taaleis Participatiewet",
+  "part": "bwb-now-wet-006",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "instellingswet-raad-voor-strafrechtstoepassing-en-jeugdbescherming-2015": {
+  "bwb": "BWBR0036510",
+  "short": "Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015",
+  "title": "Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015",
+  "part": "bwb-now-wet-006",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-op-de-bedrijveninvesteringszones": {
+  "bwb": "BWBR0035933",
+  "short": "WBIZ",
+  "title": "Wet op de bedrijveninvesteringszones",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-pensioenen-2014": {
+  "bwb": "BWBR0035978",
+  "short": "Verzamelwet pensioenen 2014",
+  "title": "Verzamelwet pensioenen 2014",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-bekostiging-financieel-toezicht-afschaffing-overheidsbijdrage-invoering": {
+  "bwb": "BWBR0035983",
+  "short": "Wijzigingswet Wet bekostiging financieel toezicht (afschaffing overheidsbijdrage, invoering Europees bankentoezicht en de bestemming van door de Autoriteit Financiële Markten en de Nederlandsche Bank opgelegde dwangsommen en boetes)",
+  "title": "Wijzigingswet Wet bekostiging financieel toezicht (afschaffing overheidsbijdrage, invoering Europees bankentoezicht en de bestemming van door de Autoriteit Financiële Markten en de Nederlandsche Bank opgelegde dwangsommen en boetes)",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-modernisering-regelingen-voor-verlof-en-arbeidstijden": {
+  "bwb": "BWBR0036012",
+  "short": "Wet modernisering regelingen voor verlof en arbeidstijden",
+  "title": "Wet modernisering regelingen voor verlof en arbeidstijden",
+  "part": "bwb-now-wet-006",
+  "current_label": "2016-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-szw-2015": {
+  "bwb": "BWBR0036013",
+  "short": "Verzamelwet SZW 2015",
+  "title": "Verzamelwet SZW 2015",
+  "part": "bwb-now-wet-006",
+  "current_label": "2017-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "belastingplan-2015": {
+  "bwb": "BWBR0036024",
+  "short": "Belastingplan 2015",
+  "title": "Belastingplan 2015",
+  "part": "bwb-now-wet-006",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-veiligheid-en-justitie-2013": {
+  "bwb": "BWBR0036029",
+  "short": "Verzamelwet Veiligheid en Justitie 2013",
+  "title": "Verzamelwet Veiligheid en Justitie 2013",
+  "part": "bwb-now-wet-006",
+  "current_label": "2018-09-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-afschaffing-plusregios": {
+  "bwb": "BWBR0036043",
+  "short": "Wet afschaffing plusregio’s",
+  "title": "Wet afschaffing plusregio’s",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-verlaging-bezoldigingsmaximum-wnt": {
+  "bwb": "BWBR0036047",
+  "short": "Wet verlaging bezoldigingsmaximum WNT",
+  "title": "Wet verlaging bezoldigingsmaximum WNT",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-uitvoering-wetten-voor-verzetsdeelnemers-en-oorlogsgetroffenen-opnemen-g": {
+  "bwb": "BWBR0036079",
+  "short": "Wijzigingswet Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen (opnemen grondslag voor uitvoering door Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank)",
+  "title": "Wijzigingswet Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen (opnemen grondslag voor uitvoering door Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank)",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-opheffing-bedrijfslichamen": {
+  "bwb": "BWBR0036083",
+  "short": "Wet opheffing bedrijfslichamen",
+  "title": "Wet opheffing bedrijfslichamen",
+  "part": "bwb-now-wet-006",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanpassing-financieel-toetsingskader": {
+  "bwb": "BWBR0036084",
+  "short": "Wet aanpassing financieel toetsingskader",
+  "title": "Wet aanpassing financieel toetsingskader",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "reparatiewet-infrastructuur-en-milieu-2014": {
+  "bwb": "BWBR0036117",
+  "short": "Reparatiewet infrastructuur en milieu 2014",
+  "title": "Reparatiewet infrastructuur en milieu 2014",
+  "part": "bwb-now-wet-006",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-spoorwegwet-enz-tweede-tranche-uitvoeringsmaatregelen-kabinetsstandpunt-spoo": {
+  "bwb": "BWBR0036166",
+  "short": "Wijzigingswet Spoorwegwet, enz. (tweede tranche uitvoeringsmaatregelen kabinetsstandpunt «Spoor in beweging», enz.)",
+  "title": "Wijzigingswet Spoorwegwet, enz. (tweede tranche uitvoeringsmaatregelen kabinetsstandpunt «Spoor in beweging», enz.)",
+  "part": "bwb-now-wet-006",
+  "current_label": "2016-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-enz-invoering-rijbewijsplicht-landbouw-en-bosbouwtrekk": {
+  "bwb": "BWBR0036167",
+  "short": "Wijzigingswet Wegenverkeerswet 1994, enz. (invoering rijbewijsplicht landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs))",
+  "title": "Wijzigingswet Wegenverkeerswet 1994, enz. (invoering rijbewijsplicht landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs))",
+  "part": "bwb-now-wet-006",
+  "current_label": "2022-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafvordering-implementatie-richtlijn-2011-99-eu-betreffende-he": {
+  "bwb": "BWBR0036227",
+  "short": "Wijzigingswet Wetboek van Strafvordering (implementatie richtlijn 2011/99/EU betreffende het Europees beschermingsbevel)",
+  "title": "Wijzigingswet Wetboek van Strafvordering (implementatie richtlijn 2011/99/EU betreffende het Europees beschermingsbevel)",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-beloningsbeleid-financiele-ondernemingen": {
+  "bwb": "BWBR0036246",
+  "short": "Wet beloningsbeleid financiële ondernemingen",
+  "title": "Wet beloningsbeleid financiële ondernemingen",
+  "part": "bwb-now-wet-006",
+  "current_label": "2016-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-studievoorschot-hoger-onderwijs": {
+  "bwb": "BWBR0036261",
+  "short": "Wet studievoorschot hoger onderwijs",
+  "title": "Wet studievoorschot hoger onderwijs",
+  "part": "bwb-now-wet-006",
+  "current_label": "2017-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-justitie-subsidies-enz-samenvoeging-van-de-halt-bureaus-en-departemental": {
+  "bwb": "BWBR0036380",
+  "short": "Wijzigingswet Wet Justitie-subsidies, enz. (samenvoeging van de Halt-bureaus en departementale herindeling)",
+  "title": "Wijzigingswet Wet Justitie-subsidies, enz. (samenvoeging van de Halt-bureaus en departementale herindeling)",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-verordening-wederzijdse-erkenning-van-beschermingsmaatregelen-in-burgerlijk": {
+  "bwb": "BWBR0036390",
+  "short": "Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken",
+  "title": "Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken",
+  "part": "bwb-now-wet-006",
+  "current_label": "2015-03-12_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-windenergie-op-zee": {
+  "bwb": "BWBR0036752",
+  "short": "Wet windenergie op zee",
+  "title": "Wet windenergie op zee",
+  "part": "bwb-now-wet-007",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-hergebruik-van-overheidsinformatie": {
+  "bwb": "BWBR0036795",
+  "short": "Who",
+  "title": "Wet hergebruik van overheidsinformatie",
+  "part": "bwb-now-wet-007",
+  "current_label": "2025-11-21_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-buitengerechtelijke-geschillenbeslechting-consumenten": {
+  "bwb": "BWBR0036550",
+  "short": "Implementatiewet buitengerechtelijke geschillenbeslechting consumenten",
+  "title": "Implementatiewet buitengerechtelijke geschillenbeslechting consumenten",
+  "part": "bwb-now-wet-007",
+  "current_label": "2018-09-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanpak-schijnconstructies": {
+  "bwb": "BWBR0036706",
+  "short": "Wet aanpak schijnconstructies",
+  "title": "Wet aanpak schijnconstructies",
+  "part": "bwb-now-wet-007",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-basisregistratie-ondergrond": {
+  "bwb": "BWBR0037095",
+  "short": "Wet basisregistratie ondergrond",
+  "title": "Wet basisregistratie ondergrond",
+  "part": "bwb-now-wet-007",
+  "current_label": "2026-06-04_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-werken-na-de-aow-gerechtigde-leeftijd": {
+  "bwb": "BWBR0037099",
+  "short": "Wet werken na de AOW-gerechtigde leeftijd",
+  "title": "Wet werken na de AOW-gerechtigde leeftijd",
+  "part": "bwb-now-wet-007",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-compartimenteringsreserve": {
+  "bwb": "BWBR0036549",
+  "short": "Wet compartimenteringsreserve",
+  "title": "Wet compartimenteringsreserve",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-banenafspraak-en-quotum-arbeidsbeperkten": {
+  "bwb": "BWBR0036551",
+  "short": "Wet banenafspraak en quotum arbeidsbeperkten",
+  "title": "Wet banenafspraak en quotum arbeidsbeperkten",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-overgang-wettelijke-taken-van-kenniscen": {
+  "bwb": "BWBR0036592",
+  "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (overgang wettelijke taken van kenniscentra beroepsonderwijs bedrijfsleven naar Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven)",
+  "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (overgang wettelijke taken van kenniscentra beroepsonderwijs bedrijfsleven naar Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven)",
+  "part": "bwb-now-wet-007",
+  "current_label": "2022-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-versterking-positie-ouders-kinderopvang-en-peuterspeelzalen": {
+  "bwb": "BWBR0036623",
+  "short": "Wet versterking positie ouders kinderopvang en peuterspeelzalen",
+  "title": "Wet versterking positie ouders kinderopvang en peuterspeelzalen",
+  "part": "bwb-now-wet-007",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-edam-volendam-en-zeevang": {
+  "bwb": "BWBR0036624",
+  "short": "Wet samenvoeging gemeenten Edam-Volendam en Zeevang",
+  "title": "Wet samenvoeging gemeenten Edam-Volendam en Zeevang",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-05-21_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-pensioencommunicatie": {
+  "bwb": "BWBR0036645",
+  "short": "Wet pensioencommunicatie",
+  "title": "Wet pensioencommunicatie",
+  "part": "bwb-now-wet-007",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-verordening-bankentoezicht": {
+  "bwb": "BWBR0036649",
+  "short": "Uitvoeringswet verordening bankentoezicht",
+  "title": "Uitvoeringswet verordening bankentoezicht",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-06-12_0",
+  "as_of": "2026-11-03"
+ },
+ "goedkeuringswet-verdrag-tussen-nederland-en-duitsland-vermijden-dubbele-belasting-enz-trb": {
+  "bwb": "BWBR0036666",
+  "short": "Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123)",
+  "title": "Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123)",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-06-05_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-modernisering-vpb-plicht-overheidsondernemingen": {
+  "bwb": "BWBR0036672",
+  "short": "Wet modernisering Vpb-plicht overheidsondernemingen",
+  "title": "Wet modernisering Vpb-plicht overheidsondernemingen",
+  "part": "bwb-now-wet-007",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-postwet-2009-modernisering-upd": {
+  "bwb": "BWBR0036678",
+  "short": "Wijzigingswet Postwet 2009 (modernisering UPD)",
+  "title": "Wijzigingswet Postwet 2009 (modernisering UPD)",
+  "part": "bwb-now-wet-007",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-bussum-muiden-en-naarden-en-grenswijziging-met-gemeente-weesp": {
+  "bwb": "BWBR0036681",
+  "short": "Wet samenvoeging gemeenten Bussum, Muiden en Naarden en grenswijziging met gemeente Weesp",
+  "title": "Wet samenvoeging gemeenten Bussum, Muiden en Naarden en grenswijziging met gemeente Weesp",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-06-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-bescherming-persoonsgegevens-enz-meldplicht-datalekken-en-uitbreiding-be": {
+  "bwb": "BWBR0036695",
+  "short": "Wijzigingswet Wet bescherming persoonsgegevens, enz. (meldplicht datalekken en uitbreiding bestuurlijke boetebevoegdheid Cbp)",
+  "title": "Wijzigingswet Wet bescherming persoonsgegevens, enz. (meldplicht datalekken en uitbreiding bestuurlijke boetebevoegdheid Cbp)",
+  "part": "bwb-now-wet-007",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-auteurscontractenrecht": {
+  "bwb": "BWBR0036745",
+  "short": "Wet auteurscontractenrecht",
+  "title": "Wet auteurscontractenrecht",
+  "part": "bwb-now-wet-007",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "goedkeuringswet-besluit-heffing-bestrijding-dierziekten": {
+  "bwb": "BWBR0036799",
+  "short": "Goedkeuringswet Besluit heffing bestrijding dierziekten",
+  "title": "Goedkeuringswet Besluit heffing bestrijding dierziekten",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-07-08_0",
+  "as_of": "2026-11-03"
+ },
+ "goedkeuringswet-verdrag-tussen-nederland-en-noorwegen-inzake-het-gebruik-van-een-penitenti": {
+  "bwb": "BWBR0036825",
+  "short": "Goedkeuringswet Verdrag tussen Nederland en Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen (Trb. 2015, 37)",
+  "title": "Goedkeuringswet Verdrag tussen Nederland en Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen (Trb. 2015, 37)",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-07-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-omnibus-ii-richtlijn": {
+  "bwb": "BWBR0036826",
+  "short": "Wet implementatie Omnibus II-richtlijn",
+  "title": "Wet implementatie Omnibus II-richtlijn",
+  "part": "bwb-now-wet-007",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-vreemdelingenwet-2000-gemeenschappelijke-procedures-voor-de-toekenning-en-in": {
+  "bwb": "BWBR0036857",
+  "short": "Wijzigingswet Vreemdelingenwet 2000 (gemeenschappelijke procedures voor de toekenning en intrekking van de internationale bescherming (PbEU 2013, L 180) en vaststelling normen voor opvang verzoekers om internationale bescherming (PbEU 2013, L 180))",
+  "title": "Wijzigingswet Vreemdelingenwet 2000 (gemeenschappelijke procedures voor de toekenning en intrekking van de internationale bescherming (PbEU 2013, L 180) en vaststelling normen voor opvang verzoekers om internationale bescherming (PbEU 2013, L 180))",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-07-20_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-toezicht-kredietunies": {
+  "bwb": "BWBR0036869",
+  "short": "Wet toezicht kredietunies",
+  "title": "Wet toezicht kredietunies",
+  "part": "bwb-now-wet-007",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-verkorting-duur-voortgezette-uitkering-appa": {
+  "bwb": "BWBR0036870",
+  "short": "Wet verkorting duur voortgezette uitkering Appa",
+  "title": "Wet verkorting duur voortgezette uitkering Appa",
+  "part": "bwb-now-wet-007",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "goedkeuringswet-toetreding-verdrag-nopens-de-voorrechten-en-immuniteiten-van-de-verenigde": {
+  "bwb": "BWBR0036933",
+  "short": "Goedkeuringswet toetreding Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties",
+  "title": "Goedkeuringswet toetreding Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties",
+  "part": "bwb-now-wet-007",
+  "current_label": "1948-01-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-metrologiewet-en-waarborgwet-1986-aanpassingen-toezicht": {
+  "bwb": "BWBR0037060",
+  "short": "Wijzigingswet Metrologiewet en Waarborgwet 1986 (aanpassingen toezicht)",
+  "title": "Wijzigingswet Metrologiewet en Waarborgwet 1986 (aanpassingen toezicht)",
+  "part": "bwb-now-wet-007",
+  "current_label": "2016-04-20_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-personenvervoer-2000-invoering-delegatiebepalingen-regulering-systeem-va": {
+  "bwb": "BWBR0037070",
+  "short": "Wijzigingswet Wet personenvervoer 2000 (invoering delegatiebepalingen regulering systeem van vervoersbewijzen, betaalwijzen en betaaldienstverlening openbaar vervoer)",
+  "title": "Wijzigingswet Wet personenvervoer 2000 (invoering delegatiebepalingen regulering systeem van vervoersbewijzen, betaalwijzen en betaaldienstverlening openbaar vervoer)",
+  "part": "bwb-now-wet-007",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-taken-meteorologie-en-seismologie": {
+  "bwb": "BWBR0037074",
+  "short": "Wet taken meteorologie en seismologie",
+  "title": "Wet taken meteorologie en seismologie",
+  "part": "bwb-now-wet-007",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "belastingregeling-nederland-curacao": {
+  "bwb": "BWBR0037077",
+  "short": "Belastingregeling Nederland Curaçao",
+  "title": "Belastingregeling Nederland Curaçao",
+  "part": "bwb-now-wet-007",
+  "current_label": "2024-07-13_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-richtlijn-jaarrekening": {
+  "bwb": "BWBR0037079",
+  "short": "Uitvoeringswet richtlijn jaarrekening",
+  "title": "Uitvoeringswet richtlijn jaarrekening",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-tegengaan-huwelijksdwang": {
+  "bwb": "BWBR0037085",
+  "short": "Wet tegengaan huwelijksdwang",
+  "title": "Wet tegengaan huwelijksdwang",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-12-05_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-spoorwegwet-enz-implementatie-richtlijn-2012-34-eu-tot-instelling-van-een-eu": {
+  "bwb": "BWBR0037089",
+  "short": "Wijzigingswet Spoorwegwet, enz. (implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte)",
+  "title": "Wijzigingswet Spoorwegwet, enz. (implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte)",
+  "part": "bwb-now-wet-007",
+  "current_label": "2015-12-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-elektronisch-berichtenverkeer-belastingdienst": {
+  "bwb": "BWBR0037120",
+  "short": "Wet elektronisch berichtenverkeer Belastingdienst",
+  "title": "Wet elektronisch berichtenverkeer Belastingdienst",
+  "part": "bwb-now-wet-007",
+  "current_label": "2024-06-08_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-kwaliteit-klachten-en-geschillen-zorg": {
+  "bwb": "BWBR0037173",
+  "short": "Wkkgz",
+  "title": "Wet kwaliteit, klachten en geschillen zorg",
+  "part": "bwb-now-wet-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "erfgoedwet": {
+  "bwb": "BWBR0037521",
+  "short": "Erfgoedwet",
+  "title": "Erfgoedwet",
+  "part": "bwb-now-wet-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-bestrijding-maritieme-ongevallen": {
+  "bwb": "BWBR0037162",
+  "short": "WBMO",
+  "title": "Wet bestrijding maritieme ongevallen",
+  "part": "bwb-now-wet-008",
+  "current_label": "2026-06-04_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-tijdelijke-tolheffing-blankenburgverbinding-en-via15": {
+  "bwb": "BWBR0037517",
+  "short": "Wet tijdelijke tolheffing Blankenburgverbinding en ViA15",
+  "title": "Wet tijdelijke tolheffing Blankenburgverbinding en ViA15",
+  "part": "bwb-now-wet-008",
+  "current_label": "2025-05-16_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-nagoya-protocol": {
+  "bwb": "BWBR0037150",
+  "short": "Wet implementatie Nagoya Protocol",
+  "title": "Wet implementatie Nagoya Protocol",
+  "part": "bwb-now-wet-008",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-szw-2016": {
+  "bwb": "BWBR0037319",
+  "short": "Verzamelwet SZW 2016",
+  "title": "Verzamelwet SZW 2016",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-pleziervaartuigen-2016": {
+  "bwb": "BWBR0037546",
+  "short": "Wet pleziervaartuigen 2016",
+  "title": "Wet pleziervaartuigen 2016",
+  "part": "bwb-now-wet-008",
+  "current_label": "2023-04-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-op-de-jeugdverblijven": {
+  "bwb": "BWBR0037645",
+  "short": "Wet op de jeugdverblijven",
+  "title": "Wet op de jeugdverblijven",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-regelen-keuzedelen-waarop-beroepsopleid": {
+  "bwb": "BWBR0037151",
+  "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (regelen keuzedelen waarop beroepsopleidingen mede worden gebaseerd)",
+  "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (regelen keuzedelen waarop beroepsopleidingen mede worden gebaseerd)",
+  "part": "bwb-now-wet-008",
+  "current_label": "2018-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-verbeteren-werking-inschrijving-koop": {
+  "bwb": "BWBR0037161",
+  "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (verbeteren werking inschrijving koop van registergoed in de openbare registers)",
+  "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (verbeteren werking inschrijving koop van registergoed in de openbare registers)",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-europees-kader-voor-herstel-en-afwikkeling-van-banken-en-beleggingsondern": {
+  "bwb": "BWBR0037228",
+  "short": "Implementatiewet Europees kader voor herstel en afwikkeling van banken en beleggingsondernemingen",
+  "title": "Implementatiewet Europees kader voor herstel en afwikkeling van banken en beleggingsondernemingen",
+  "part": "bwb-now-wet-008",
+  "current_label": "2015-11-26_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-financiele-markten-2016": {
+  "bwb": "BWBR0037229",
+  "short": "Wijzigingswet financiële markten 2016",
+  "title": "Wijzigingswet financiële markten 2016",
+  "part": "bwb-now-wet-008",
+  "current_label": "2019-07-10_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-uitvoering-verordening-centrale-effectenbewaarinstellingen": {
+  "bwb": "BWBR0037238",
+  "short": "Wet uitvoering verordening centrale effectenbewaarinstellingen",
+  "title": "Wet uitvoering verordening centrale effectenbewaarinstellingen",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "fiscale-verzamelwet-2015": {
+  "bwb": "BWBR0037254",
+  "short": "Fiscale verzamelwet 2015",
+  "title": "Fiscale verzamelwet 2015",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-vrijlating-lijfrenteopbouw-en-inkomsten-uit-arbeid-en-bevordering-vrijwillige-voortzet": {
+  "bwb": "BWBR0037322",
+  "short": "Wet vrijlating lijfrenteopbouw en inkomsten uit arbeid en bevordering vrijwillige voortzetting pensioenopbouw",
+  "title": "Wet vrijlating lijfrenteopbouw en inkomsten uit arbeid en bevordering vrijwillige voortzetting pensioenopbouw",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-kinderbijslagvoorziening-bes": {
+  "bwb": "BWBR0037347",
+  "short": "Wet kinderbijslagvoorziening BES",
+  "title": "Wet kinderbijslagvoorziening BES",
+  "part": "bwb-now-wet-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-restmechanismen-straftribunalen": {
+  "bwb": "BWBR0037361",
+  "short": "Uitvoeringswet restmechanismen straftribunalen",
+  "title": "Uitvoeringswet restmechanismen straftribunalen",
+  "part": "bwb-now-wet-008",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafrecht-enz-langdurig-toezicht-gedragsbeinvloeding-en-vrijhei": {
+  "bwb": "BWBR0037362",
+  "short": "Wijzigingswet Wetboek van Strafrecht, enz. (langdurig toezicht, gedragsbeïnvloeding en vrijheidsbeperking)",
+  "title": "Wijzigingswet Wetboek van Strafrecht, enz. (langdurig toezicht, gedragsbeïnvloeding en vrijheidsbeperking)",
+  "part": "bwb-now-wet-008",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-zorgverzekeringswet-enz-verbetering-wanbetalersmaatregelen": {
+  "bwb": "BWBR0037377",
+  "short": "Wijzigingswet Zorgverzekeringswet, enz. (verbetering wanbetalersmaatregelen)",
+  "title": "Wijzigingswet Zorgverzekeringswet, enz. (verbetering wanbetalersmaatregelen)",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-wijzigingen-moeder-dochterrichtlijn-2015": {
+  "bwb": "BWBR0037428",
+  "short": "Wet implementatie wijzigingen Moeder-dochterrichtlijn 2015",
+  "title": "Wet implementatie wijzigingen Moeder-dochterrichtlijn 2015",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-uitvoering-common-reporting-standard": {
+  "bwb": "BWBR0037433",
+  "short": "Wet uitvoering Common Reporting Standard",
+  "title": "Wet uitvoering Common Reporting Standard",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "belastingplan-2016": {
+  "bwb": "BWBR0037444",
+  "short": "Belastingplan 2016",
+  "title": "Belastingplan 2016",
+  "part": "bwb-now-wet-008",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-algemeen-pensioenfonds": {
+  "bwb": "BWBR0037452",
+  "short": "Wet algemeen pensioenfonds",
+  "title": "Wet algemeen pensioenfonds",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "overige-fiscale-maatregelen-2016": {
+  "bwb": "BWBR0037456",
+  "short": "Overige fiscale maatregelen 2016",
+  "title": "Overige fiscale maatregelen 2016",
+  "part": "bwb-now-wet-008",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-algemene-wet-erkenning-eu-beroepskwalificaties-implementatie-richtlijn-2013": {
+  "bwb": "BWBR0037509",
+  "short": "Wijzigingswet Algemene wet erkenning EU-beroepskwalificaties (implementatie Richtlijn 2013/55/EU administratieve samenwerking via Informatiesysteem interne markt («de IMI-verordening»))",
+  "title": "Wijzigingswet Algemene wet erkenning EU-beroepskwalificaties (implementatie Richtlijn 2013/55/EU administratieve samenwerking via Informatiesysteem interne markt («de IMI-verordening»))",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-01-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-algemene-bepalingen-omgevingsrecht-enz-verbetering-vergunningverlening-t": {
+  "bwb": "BWBR0037518",
+  "short": "Wijzigingswet Wet algemene bepalingen omgevingsrecht, enz. (verbetering vergunningverlening, toezicht en handhaving)",
+  "title": "Wijzigingswet Wet algemene bepalingen omgevingsrecht, enz. (verbetering vergunningverlening, toezicht en handhaving)",
+  "part": "bwb-now-wet-008",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-herziening-opleiding-rechters": {
+  "bwb": "BWBR0037519",
+  "short": "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (herziening opleiding rechters en officieren van justitie)",
+  "title": "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (herziening opleiding rechters en officieren van justitie)",
+  "part": "bwb-now-wet-008",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-tegemoetkomingen-loondomein": {
+  "bwb": "BWBR0037522",
+  "short": "Wtl",
+  "title": "Wet tegemoetkomingen loondomein",
+  "part": "bwb-now-wet-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-vrijstelling-uitkeringen-artikel-2-fonds": {
+  "bwb": "BWBR0037524",
+  "short": "Wet vrijstelling uitkeringen Artikel 2-Fonds",
+  "title": "Wet vrijstelling uitkeringen Artikel 2-Fonds",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-03-24_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-elektriciteitswet-1998-enz-verhoging-van-voor-de-autoriteit-consument-en-mar": {
+  "bwb": "BWBR0037541",
+  "short": "Wijzigingswet Elektriciteitswet 1998, enz. (verhoging van voor de Autoriteit Consument en Markt geldende boetemaxima)",
+  "title": "Wijzigingswet Elektriciteitswet 1998, enz. (verhoging van voor de Autoriteit Consument en Markt geldende boetemaxima)",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "belastingregeling-nederland-sint-maarten": {
+  "bwb": "BWBR0037547",
+  "short": "Belastingregeling Nederland Sint Maarten",
+  "title": "Belastingregeling Nederland Sint Maarten",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-wijziging-richtlijn-transparantie": {
+  "bwb": "BWBR0037550",
+  "short": "Implementatiewet wijziging richtlijn transparantie",
+  "title": "Implementatiewet wijziging richtlijn transparantie",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-01-29_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-deregulering-beoordeling-arbeidsrelaties": {
+  "bwb": "BWBR0037602",
+  "short": "Wet deregulering beoordeling arbeidsrelaties",
+  "title": "Wet deregulering beoordeling arbeidsrelaties",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-digitale-processtukken-strafvordering": {
+  "bwb": "BWBR0037681",
+  "short": "Wet digitale processtukken Strafvordering",
+  "title": "Wet digitale processtukken Strafvordering",
+  "part": "bwb-now-wet-008",
+  "current_label": "2016-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-wijziging-richtlijn-icbes": {
+  "bwb": "BWBR0037685",
+  "short": "Implementatiewet wijziging richtlijn icbe’s",
+  "title": "Implementatiewet wijziging richtlijn icbe’s",
+  "part": "bwb-now-wet-008",
+  "current_label": "2017-06-27_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-gerechtsdeurwaarderswet-evaluatie-functioneren-koninklijke-beroepsorganisati": {
+  "bwb": "BWBR0037705",
+  "short": "Wijzigingswet Gerechtsdeurwaarderswet (evaluatie functioneren Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders, alsmede regeling enkele andere onderwerpen)",
+  "title": "Wijzigingswet Gerechtsdeurwaarderswet (evaluatie functioneren Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders, alsmede regeling enkele andere onderwerpen)",
+  "part": "bwb-now-wet-008",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
  }
 }

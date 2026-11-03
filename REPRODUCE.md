@@ -70,6 +70,12 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2092,20 +2098,112 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wijzigingswet-financiele-markten-2015` | Wijzigingswet financiële markten 2015 | 1 | 2019-07-21 to 2019-07-21 |
 | `wet-stelsel-openbare-bibliotheekvoorzieningen` | Wet stelsel openbare bibliotheekvoorzieningen | 1 | 2022-07-01 to 2022-07-01 |
 | `fiscale-verzamelwet-2014` | Fiscale verzamelwet 2014 | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-taaleis-participatiewet` | Wet taaleis Participatiewet | 1 | 2016-01-01 to 2016-01-01 |
+| `instellingswet-raad-voor-strafrechtstoepassing-en-jeugdbescherming-2015` | Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015 | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-op-de-bedrijveninvesteringszones` | Wet op de bedrijveninvesteringszones | 1 | 2015-01-01 to 2015-01-01 |
+| `verzamelwet-pensioenen-2014` | Verzamelwet pensioenen 2014 | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-bekostiging-financieel-toezicht-afschaffing-overheidsbijdrage-invoering` | Wijzigingswet Wet bekostiging financieel toezicht (afschaffing overheidsbijdrage, invoering Europees bankentoezicht en de bestemming van door de Autoriteit Financiële Markten en de Nederlandsche Bank opgelegde dwangsommen en boetes) | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-modernisering-regelingen-voor-verlof-en-arbeidstijden` | Wet modernisering regelingen voor verlof en arbeidstijden | 1 | 2016-04-01 to 2016-04-01 |
+| `verzamelwet-szw-2015` | Verzamelwet SZW 2015 | 1 | 2017-04-01 to 2017-04-01 |
+| `belastingplan-2015` | Belastingplan 2015 | 1 | 2018-01-01 to 2018-01-01 |
+| `verzamelwet-veiligheid-en-justitie-2013` | Verzamelwet Veiligheid en Justitie 2013 | 1 | 2018-09-19 to 2018-09-19 |
+| `wet-afschaffing-plusregios` | Wet afschaffing plusregio’s | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-verlaging-bezoldigingsmaximum-wnt` | Wet verlaging bezoldigingsmaximum WNT | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-uitvoering-wetten-voor-verzetsdeelnemers-en-oorlogsgetroffenen-opnemen-g` | Wijzigingswet Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen (opnemen grondslag voor uitvoering door Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank) | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-opheffing-bedrijfslichamen` | Wet opheffing bedrijfslichamen | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-aanpassing-financieel-toetsingskader` | Wet aanpassing financieel toetsingskader | 1 | 2015-01-01 to 2015-01-01 |
+| `reparatiewet-infrastructuur-en-milieu-2014` | Reparatiewet infrastructuur en milieu 2014 | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-spoorwegwet-enz-tweede-tranche-uitvoeringsmaatregelen-kabinetsstandpunt-spoo` | Wijzigingswet Spoorwegwet, enz. (tweede tranche uitvoeringsmaatregelen kabinetsstandpunt «Spoor in beweging», enz.) | 1 | 2016-10-01 to 2016-10-01 |
+| `wijzigingswet-wegenverkeerswet-1994-enz-invoering-rijbewijsplicht-landbouw-en-bosbouwtrekk` | Wijzigingswet Wegenverkeerswet 1994, enz. (invoering rijbewijsplicht landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs)) | 1 | 2022-08-01 to 2022-08-01 |
+| `wijzigingswet-wetboek-van-strafvordering-implementatie-richtlijn-2011-99-eu-betreffende-he` | Wijzigingswet Wetboek van Strafvordering (implementatie richtlijn 2011/99/EU betreffende het Europees beschermingsbevel) | 1 | 2015-03-01 to 2015-03-01 |
+| `wet-beloningsbeleid-financiele-ondernemingen` | Wet beloningsbeleid financiële ondernemingen | 1 | 2016-04-01 to 2016-04-01 |
+| `wet-studievoorschot-hoger-onderwijs` | Wet studievoorschot hoger onderwijs | 1 | 2017-09-01 to 2017-09-01 |
+| `wijzigingswet-wet-justitie-subsidies-enz-samenvoeging-van-de-halt-bureaus-en-departemental` | Wijzigingswet Wet Justitie-subsidies, enz. (samenvoeging van de Halt-bureaus en departementale herindeling) | 1 | 2015-07-01 to 2015-07-01 |
+| `uitvoeringswet-verordening-wederzijdse-erkenning-van-beschermingsmaatregelen-in-burgerlijk` | Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken | 1 | 2015-03-12 to 2015-03-12 |
+| `wet-windenergie-op-zee` | Wet windenergie op zee | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-hergebruik-van-overheidsinformatie` | Wet hergebruik van overheidsinformatie | 1 | 2025-11-21 to 2025-11-21 |
+| `implementatiewet-buitengerechtelijke-geschillenbeslechting-consumenten` | Implementatiewet buitengerechtelijke geschillenbeslechting consumenten | 1 | 2018-09-19 to 2018-09-19 |
+| `wet-aanpak-schijnconstructies` | Wet aanpak schijnconstructies | 1 | 2017-07-01 to 2017-07-01 |
+| `wet-basisregistratie-ondergrond` | Wet basisregistratie ondergrond | 1 | 2026-06-04 to 2026-06-04 |
+| `wet-werken-na-de-aow-gerechtigde-leeftijd` | Wet werken na de AOW-gerechtigde leeftijd | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-compartimenteringsreserve` | Wet compartimenteringsreserve | 1 | 2015-05-01 to 2015-05-01 |
+| `wet-banenafspraak-en-quotum-arbeidsbeperkten` | Wet banenafspraak en quotum arbeidsbeperkten | 1 | 2015-05-01 to 2015-05-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-overgang-wettelijke-taken-van-kenniscen` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (overgang wettelijke taken van kenniscentra beroepsonderwijs bedrijfsleven naar Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven) | 1 | 2022-08-01 to 2022-08-01 |
+| `wet-versterking-positie-ouders-kinderopvang-en-peuterspeelzalen` | Wet versterking positie ouders kinderopvang en peuterspeelzalen | 1 | 2016-01-01 to 2016-01-01 |
+| `wet-samenvoeging-gemeenten-edam-volendam-en-zeevang` | Wet samenvoeging gemeenten Edam-Volendam en Zeevang | 1 | 2015-05-21 to 2015-05-21 |
+| `wet-pensioencommunicatie` | Wet pensioencommunicatie | 1 | 2017-01-01 to 2017-01-01 |
+| `uitvoeringswet-verordening-bankentoezicht` | Uitvoeringswet verordening bankentoezicht | 1 | 2015-06-12 to 2015-06-12 |
+| `goedkeuringswet-verdrag-tussen-nederland-en-duitsland-vermijden-dubbele-belasting-enz-trb` | Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123) | 1 | 2015-06-05 to 2015-06-05 |
+| `wet-modernisering-vpb-plicht-overheidsondernemingen` | Wet modernisering Vpb-plicht overheidsondernemingen | 1 | 2017-01-01 to 2017-01-01 |
+| `wijzigingswet-postwet-2009-modernisering-upd` | Wijzigingswet Postwet 2009 (modernisering UPD) | 1 | 2017-01-01 to 2017-01-01 |
+| `wet-samenvoeging-gemeenten-bussum-muiden-en-naarden-en-grenswijziging-met-gemeente-weesp` | Wet samenvoeging gemeenten Bussum, Muiden en Naarden en grenswijziging met gemeente Weesp | 1 | 2015-06-19 to 2015-06-19 |
+| `wijzigingswet-wet-bescherming-persoonsgegevens-enz-meldplicht-datalekken-en-uitbreiding-be` | Wijzigingswet Wet bescherming persoonsgegevens, enz. (meldplicht datalekken en uitbreiding bestuurlijke boetebevoegdheid Cbp) | 1 | 2016-01-01 to 2016-01-01 |
+| `wet-auteurscontractenrecht` | Wet auteurscontractenrecht | 1 | 2026-01-01 to 2026-01-01 |
+| `goedkeuringswet-besluit-heffing-bestrijding-dierziekten` | Goedkeuringswet Besluit heffing bestrijding dierziekten | 1 | 2015-07-08 to 2015-07-08 |
+| `goedkeuringswet-verdrag-tussen-nederland-en-noorwegen-inzake-het-gebruik-van-een-penitenti` | Goedkeuringswet Verdrag tussen Nederland en Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen (Trb. 2015, 37) | 1 | 2015-07-15 to 2015-07-15 |
+| `wet-implementatie-omnibus-ii-richtlijn` | Wet implementatie Omnibus II-richtlijn | 1 | 2016-01-01 to 2016-01-01 |
+| `wijzigingswet-vreemdelingenwet-2000-gemeenschappelijke-procedures-voor-de-toekenning-en-in` | Wijzigingswet Vreemdelingenwet 2000 (gemeenschappelijke procedures voor de toekenning en intrekking van de internationale bescherming (PbEU 2013, L 180) en vaststelling normen voor opvang verzoekers om internationale bescherming (PbEU 2013, L 180)) | 1 | 2015-07-20 to 2015-07-20 |
+| `wet-toezicht-kredietunies` | Wet toezicht kredietunies | 1 | 2016-01-01 to 2016-01-01 |
+| `wet-verkorting-duur-voortgezette-uitkering-appa` | Wet verkorting duur voortgezette uitkering Appa | 1 | 2016-01-01 to 2016-01-01 |
+| `goedkeuringswet-toetreding-verdrag-nopens-de-voorrechten-en-immuniteiten-van-de-verenigde` | Goedkeuringswet toetreding Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties | 1 | 1948-01-31 to 1948-01-31 |
+| `wijzigingswet-metrologiewet-en-waarborgwet-1986-aanpassingen-toezicht` | Wijzigingswet Metrologiewet en Waarborgwet 1986 (aanpassingen toezicht) | 1 | 2016-04-20 to 2016-04-20 |
+| `wijzigingswet-wet-personenvervoer-2000-invoering-delegatiebepalingen-regulering-systeem-va` | Wijzigingswet Wet personenvervoer 2000 (invoering delegatiebepalingen regulering systeem van vervoersbewijzen, betaalwijzen en betaaldienstverlening openbaar vervoer) | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-taken-meteorologie-en-seismologie` | Wet taken meteorologie en seismologie | 1 | 2016-01-01 to 2016-01-01 |
+| `belastingregeling-nederland-curacao` | Belastingregeling Nederland Curaçao | 1 | 2024-07-13 to 2024-07-13 |
+| `uitvoeringswet-richtlijn-jaarrekening` | Uitvoeringswet richtlijn jaarrekening | 1 | 2015-11-01 to 2015-11-01 |
+| `wet-tegengaan-huwelijksdwang` | Wet tegengaan huwelijksdwang | 1 | 2015-12-05 to 2015-12-05 |
+| `wijzigingswet-spoorwegwet-enz-implementatie-richtlijn-2012-34-eu-tot-instelling-van-een-eu` | Wijzigingswet Spoorwegwet, enz. (implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte) | 1 | 2015-12-15 to 2015-12-15 |
+| `wet-elektronisch-berichtenverkeer-belastingdienst` | Wet elektronisch berichtenverkeer Belastingdienst | 1 | 2024-06-08 to 2024-06-08 |
+| `wet-kwaliteit-klachten-en-geschillen-zorg` | Wet kwaliteit, klachten en geschillen zorg | 1 | 2026-01-01 to 2026-01-01 |
+| `erfgoedwet` | Erfgoedwet | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-bestrijding-maritieme-ongevallen` | Wet bestrijding maritieme ongevallen | 1 | 2026-06-04 to 2026-06-04 |
+| `wet-tijdelijke-tolheffing-blankenburgverbinding-en-via15` | Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 | 1 | 2025-05-16 to 2025-05-16 |
+| `wet-implementatie-nagoya-protocol` | Wet implementatie Nagoya Protocol | 1 | 2019-01-01 to 2019-01-01 |
+| `verzamelwet-szw-2016` | Verzamelwet SZW 2016 | 1 | 2016-07-01 to 2016-07-01 |
+| `wet-pleziervaartuigen-2016` | Wet pleziervaartuigen 2016 | 1 | 2023-04-19 to 2023-04-19 |
+| `wet-op-de-jeugdverblijven` | Wet op de jeugdverblijven | 1 | 2016-07-01 to 2016-07-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-regelen-keuzedelen-waarop-beroepsopleid` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (regelen keuzedelen waarop beroepsopleidingen mede worden gebaseerd) | 1 | 2018-08-01 to 2018-08-01 |
+| `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-verbeteren-werking-inschrijving-koop` | Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (verbeteren werking inschrijving koop van registergoed in de openbare registers) | 1 | 2016-01-01 to 2016-01-01 |
+| `implementatiewet-europees-kader-voor-herstel-en-afwikkeling-van-banken-en-beleggingsondern` | Implementatiewet Europees kader voor herstel en afwikkeling van banken en beleggingsondernemingen | 1 | 2015-11-26 to 2015-11-26 |
+| `wijzigingswet-financiele-markten-2016` | Wijzigingswet financiële markten 2016 | 1 | 2019-07-10 to 2019-07-10 |
+| `wet-uitvoering-verordening-centrale-effectenbewaarinstellingen` | Wet uitvoering verordening centrale effectenbewaarinstellingen | 1 | 2016-01-01 to 2016-01-01 |
+| `fiscale-verzamelwet-2015` | Fiscale verzamelwet 2015 | 1 | 2016-01-01 to 2016-01-01 |
+| `wet-vrijlating-lijfrenteopbouw-en-inkomsten-uit-arbeid-en-bevordering-vrijwillige-voortzet` | Wet vrijlating lijfrenteopbouw en inkomsten uit arbeid en bevordering vrijwillige voortzetting pensioenopbouw | 1 | 2016-04-01 to 2016-04-01 |
+| `wet-kinderbijslagvoorziening-bes` | Wet kinderbijslagvoorziening BES | 1 | 2026-01-01 to 2026-01-01 |
+| `uitvoeringswet-restmechanismen-straftribunalen` | Uitvoeringswet restmechanismen straftribunalen | 1 | 2025-07-01 to 2025-07-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-langdurig-toezicht-gedragsbeinvloeding-en-vrijhei` | Wijzigingswet Wetboek van Strafrecht, enz. (langdurig toezicht, gedragsbeïnvloeding en vrijheidsbeperking) | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-zorgverzekeringswet-enz-verbetering-wanbetalersmaatregelen` | Wijzigingswet Zorgverzekeringswet, enz. (verbetering wanbetalersmaatregelen) | 1 | 2016-07-01 to 2016-07-01 |
+| `wet-implementatie-wijzigingen-moeder-dochterrichtlijn-2015` | Wet implementatie wijzigingen Moeder-dochterrichtlijn 2015 | 1 | 2016-01-01 to 2016-01-01 |
+| `wet-uitvoering-common-reporting-standard` | Wet uitvoering Common Reporting Standard | 1 | 2016-01-01 to 2016-01-01 |
+| `belastingplan-2016` | Belastingplan 2016 | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-algemeen-pensioenfonds` | Wet algemeen pensioenfonds | 1 | 2016-01-01 to 2016-01-01 |
+| `overige-fiscale-maatregelen-2016` | Overige fiscale maatregelen 2016 | 1 | 2021-01-01 to 2021-01-01 |
+| `wijzigingswet-algemene-wet-erkenning-eu-beroepskwalificaties-implementatie-richtlijn-2013` | Wijzigingswet Algemene wet erkenning EU-beroepskwalificaties (implementatie Richtlijn 2013/55/EU administratieve samenwerking via Informatiesysteem interne markt («de IMI-verordening»)) | 1 | 2016-01-18 to 2016-01-18 |
+| `wijzigingswet-wet-algemene-bepalingen-omgevingsrecht-enz-verbetering-vergunningverlening-t` | Wijzigingswet Wet algemene bepalingen omgevingsrecht, enz. (verbetering vergunningverlening, toezicht en handhaving) | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-herziening-opleiding-rechters` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (herziening opleiding rechters en officieren van justitie) | 1 | 2017-01-01 to 2017-01-01 |
+| `wet-tegemoetkomingen-loondomein` | Wet tegemoetkomingen loondomein | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-vrijstelling-uitkeringen-artikel-2-fonds` | Wet vrijstelling uitkeringen Artikel 2-Fonds | 1 | 2016-03-24 to 2016-03-24 |
+| `wijzigingswet-elektriciteitswet-1998-enz-verhoging-van-voor-de-autoriteit-consument-en-mar` | Wijzigingswet Elektriciteitswet 1998, enz. (verhoging van voor de Autoriteit Consument en Markt geldende boetemaxima) | 1 | 2016-07-01 to 2016-07-01 |
+| `belastingregeling-nederland-sint-maarten` | Belastingregeling Nederland Sint Maarten | 1 | 2016-03-01 to 2016-03-01 |
+| `implementatiewet-wijziging-richtlijn-transparantie` | Implementatiewet wijziging richtlijn transparantie | 1 | 2016-01-29 to 2016-01-29 |
+| `wet-deregulering-beoordeling-arbeidsrelaties` | Wet deregulering beoordeling arbeidsrelaties | 1 | 2016-05-01 to 2016-05-01 |
+| `wet-digitale-processtukken-strafvordering` | Wet digitale processtukken Strafvordering | 1 | 2016-12-01 to 2016-12-01 |
+| `implementatiewet-wijziging-richtlijn-icbes` | Implementatiewet wijziging richtlijn icbe’s | 1 | 2017-06-27 to 2017-06-27 |
+| `wijzigingswet-gerechtsdeurwaarderswet-evaluatie-functioneren-koninklijke-beroepsorganisati` | Wijzigingswet Gerechtsdeurwaarderswet (evaluatie functioneren Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders, alsmede regeling enkele andere onderwerpen) | 1 | 2017-01-01 to 2017-01-01 |
 
-The build made 8485 commits:
+The build made 8577 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2015 | first version of an act |
+| 2107 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
-- 38 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 13806 tags.
+- 13898 tags.
 
 ## Dates
 
@@ -2117,8 +2215,8 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fe3ae07305117969e2f09072f012fddb463fab2f0134bfd8cb09e6f99b2842b5` (181683600 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `c9196d01260fc591e1e56e93ca48368208d31c4fbf5e62d27911683dedfc8d45` (182769096 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
@@ -2378,6 +2476,15 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 23 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 22 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 34 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 36 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2389,6 +2496,9 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

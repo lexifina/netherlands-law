@@ -2032,6 +2032,98 @@ The acts below have one version so far: the version in force on the day it was r
 | `wijzigingswet-financiele-markten-2015/` | [Wijzigingswet financiële markten 2015](https://wetten.overheid.nl/BWBR0035877) | BWBR0035877 | wet | 2019-07-21 |
 | `wet-stelsel-openbare-bibliotheekvoorzieningen/` | [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/BWBR0035878) | BWBR0035878 | wet | 2022-07-01 |
 | `fiscale-verzamelwet-2014/` | [Fiscale verzamelwet 2014](https://wetten.overheid.nl/BWBR0035898) | BWBR0035898 | wet | 2015-01-01 |
+| `wet-taaleis-participatiewet/` | [Wet taaleis Participatiewet](https://wetten.overheid.nl/BWBR0036496) | BWBR0036496 | wet | 2016-01-01 |
+| `instellingswet-raad-voor-strafrechtstoepassing-en-jeugdbescherming-2015/` | [Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/BWBR0036510) | BWBR0036510 | wet | 2020-01-01 |
+| `wet-op-de-bedrijveninvesteringszones/` | [Wet op de bedrijveninvesteringszones](https://wetten.overheid.nl/BWBR0035933) | BWBR0035933 | wet | 2015-01-01 |
+| `verzamelwet-pensioenen-2014/` | [Verzamelwet pensioenen 2014](https://wetten.overheid.nl/BWBR0035978) | BWBR0035978 | wet | 2015-01-01 |
+| `wijzigingswet-wet-bekostiging-financieel-toezicht-afschaffing-overheidsbijdrage-invoering/` | [Wijzigingswet Wet bekostiging financieel toezicht (afschaffing overheidsbijdrage, invoering Europees bankentoezicht en de bestemming van door de Autoriteit Financiële Markten en de Nederlandsche Bank opgelegde dwangsommen en boetes)](https://wetten.overheid.nl/BWBR0035983) | BWBR0035983 | wet | 2015-01-01 |
+| `wet-modernisering-regelingen-voor-verlof-en-arbeidstijden/` | [Wet modernisering regelingen voor verlof en arbeidstijden](https://wetten.overheid.nl/BWBR0036012) | BWBR0036012 | wet | 2016-04-01 |
+| `verzamelwet-szw-2015/` | [Verzamelwet SZW 2015](https://wetten.overheid.nl/BWBR0036013) | BWBR0036013 | wet | 2017-04-01 |
+| `belastingplan-2015/` | [Belastingplan 2015](https://wetten.overheid.nl/BWBR0036024) | BWBR0036024 | wet | 2018-01-01 |
+| `verzamelwet-veiligheid-en-justitie-2013/` | [Verzamelwet Veiligheid en Justitie 2013](https://wetten.overheid.nl/BWBR0036029) | BWBR0036029 | wet | 2018-09-19 |
+| `wet-afschaffing-plusregios/` | [Wet afschaffing plusregio’s](https://wetten.overheid.nl/BWBR0036043) | BWBR0036043 | wet | 2015-01-01 |
+| `wet-verlaging-bezoldigingsmaximum-wnt/` | [Wet verlaging bezoldigingsmaximum WNT](https://wetten.overheid.nl/BWBR0036047) | BWBR0036047 | wet | 2015-01-01 |
+| `wijzigingswet-wet-uitvoering-wetten-voor-verzetsdeelnemers-en-oorlogsgetroffenen-opnemen-g/` | [Wijzigingswet Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen (opnemen grondslag voor uitvoering door Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank)](https://wetten.overheid.nl/BWBR0036079) | BWBR0036079 | wet | 2015-01-01 |
+| `wet-opheffing-bedrijfslichamen/` | [Wet opheffing bedrijfslichamen](https://wetten.overheid.nl/BWBR0036083) | BWBR0036083 | wet | 2019-01-01 |
+| `wet-aanpassing-financieel-toetsingskader/` | [Wet aanpassing financieel toetsingskader](https://wetten.overheid.nl/BWBR0036084) | BWBR0036084 | wet | 2015-01-01 |
+| `reparatiewet-infrastructuur-en-milieu-2014/` | [Reparatiewet infrastructuur en milieu 2014](https://wetten.overheid.nl/BWBR0036117) | BWBR0036117 | wet | 2018-01-01 |
+| `wijzigingswet-spoorwegwet-enz-tweede-tranche-uitvoeringsmaatregelen-kabinetsstandpunt-spoo/` | [Wijzigingswet Spoorwegwet, enz. (tweede tranche uitvoeringsmaatregelen kabinetsstandpunt «Spoor in beweging», enz.)](https://wetten.overheid.nl/BWBR0036166) | BWBR0036166 | wet | 2016-10-01 |
+| `wijzigingswet-wegenverkeerswet-1994-enz-invoering-rijbewijsplicht-landbouw-en-bosbouwtrekk/` | [Wijzigingswet Wegenverkeerswet 1994, enz. (invoering rijbewijsplicht landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs))](https://wetten.overheid.nl/BWBR0036167) | BWBR0036167 | wet | 2022-08-01 |
+| `wijzigingswet-wetboek-van-strafvordering-implementatie-richtlijn-2011-99-eu-betreffende-he/` | [Wijzigingswet Wetboek van Strafvordering (implementatie richtlijn 2011/99/EU betreffende het Europees beschermingsbevel)](https://wetten.overheid.nl/BWBR0036227) | BWBR0036227 | wet | 2015-03-01 |
+| `wet-beloningsbeleid-financiele-ondernemingen/` | [Wet beloningsbeleid financiële ondernemingen](https://wetten.overheid.nl/BWBR0036246) | BWBR0036246 | wet | 2016-04-01 |
+| `wet-studievoorschot-hoger-onderwijs/` | [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/BWBR0036261) | BWBR0036261 | wet | 2017-09-01 |
+| `wijzigingswet-wet-justitie-subsidies-enz-samenvoeging-van-de-halt-bureaus-en-departemental/` | [Wijzigingswet Wet Justitie-subsidies, enz. (samenvoeging van de Halt-bureaus en departementale herindeling)](https://wetten.overheid.nl/BWBR0036380) | BWBR0036380 | wet | 2015-07-01 |
+| `uitvoeringswet-verordening-wederzijdse-erkenning-van-beschermingsmaatregelen-in-burgerlijk/` | [Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken](https://wetten.overheid.nl/BWBR0036390) | BWBR0036390 | wet | 2015-03-12 |
+| `wet-windenergie-op-zee/` | [Wet windenergie op zee](https://wetten.overheid.nl/BWBR0036752) | BWBR0036752 | wet | 2026-01-01 |
+| `wet-hergebruik-van-overheidsinformatie/` | [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/BWBR0036795) | BWBR0036795 | wet | 2025-11-21 |
+| `implementatiewet-buitengerechtelijke-geschillenbeslechting-consumenten/` | [Implementatiewet buitengerechtelijke geschillenbeslechting consumenten](https://wetten.overheid.nl/BWBR0036550) | BWBR0036550 | wet | 2018-09-19 |
+| `wet-aanpak-schijnconstructies/` | [Wet aanpak schijnconstructies](https://wetten.overheid.nl/BWBR0036706) | BWBR0036706 | wet | 2017-07-01 |
+| `wet-basisregistratie-ondergrond/` | [Wet basisregistratie ondergrond](https://wetten.overheid.nl/BWBR0037095) | BWBR0037095 | wet | 2026-06-04 |
+| `wet-werken-na-de-aow-gerechtigde-leeftijd/` | [Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/BWBR0037099) | BWBR0037099 | wet | 2023-01-01 |
+| `wet-compartimenteringsreserve/` | [Wet compartimenteringsreserve](https://wetten.overheid.nl/BWBR0036549) | BWBR0036549 | wet | 2015-05-01 |
+| `wet-banenafspraak-en-quotum-arbeidsbeperkten/` | [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/BWBR0036551) | BWBR0036551 | wet | 2015-05-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-overgang-wettelijke-taken-van-kenniscen/` | [Wijzigingswet Wet educatie en beroepsonderwijs, enz. (overgang wettelijke taken van kenniscentra beroepsonderwijs bedrijfsleven naar Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven)](https://wetten.overheid.nl/BWBR0036592) | BWBR0036592 | wet | 2022-08-01 |
+| `wet-versterking-positie-ouders-kinderopvang-en-peuterspeelzalen/` | [Wet versterking positie ouders kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/BWBR0036623) | BWBR0036623 | wet | 2016-01-01 |
+| `wet-samenvoeging-gemeenten-edam-volendam-en-zeevang/` | [Wet samenvoeging gemeenten Edam-Volendam en Zeevang](https://wetten.overheid.nl/BWBR0036624) | BWBR0036624 | wet | 2015-05-21 |
+| `wet-pensioencommunicatie/` | [Wet pensioencommunicatie](https://wetten.overheid.nl/BWBR0036645) | BWBR0036645 | wet | 2017-01-01 |
+| `uitvoeringswet-verordening-bankentoezicht/` | [Uitvoeringswet verordening bankentoezicht](https://wetten.overheid.nl/BWBR0036649) | BWBR0036649 | wet | 2015-06-12 |
+| `goedkeuringswet-verdrag-tussen-nederland-en-duitsland-vermijden-dubbele-belasting-enz-trb/` | [Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123)](https://wetten.overheid.nl/BWBR0036666) | BWBR0036666 | wet | 2015-06-05 |
+| `wet-modernisering-vpb-plicht-overheidsondernemingen/` | [Wet modernisering Vpb-plicht overheidsondernemingen](https://wetten.overheid.nl/BWBR0036672) | BWBR0036672 | wet | 2017-01-01 |
+| `wijzigingswet-postwet-2009-modernisering-upd/` | [Wijzigingswet Postwet 2009 (modernisering UPD)](https://wetten.overheid.nl/BWBR0036678) | BWBR0036678 | wet | 2017-01-01 |
+| `wet-samenvoeging-gemeenten-bussum-muiden-en-naarden-en-grenswijziging-met-gemeente-weesp/` | [Wet samenvoeging gemeenten Bussum, Muiden en Naarden en grenswijziging met gemeente Weesp](https://wetten.overheid.nl/BWBR0036681) | BWBR0036681 | wet | 2015-06-19 |
+| `wijzigingswet-wet-bescherming-persoonsgegevens-enz-meldplicht-datalekken-en-uitbreiding-be/` | [Wijzigingswet Wet bescherming persoonsgegevens, enz. (meldplicht datalekken en uitbreiding bestuurlijke boetebevoegdheid Cbp)](https://wetten.overheid.nl/BWBR0036695) | BWBR0036695 | wet | 2016-01-01 |
+| `wet-auteurscontractenrecht/` | [Wet auteurscontractenrecht](https://wetten.overheid.nl/BWBR0036745) | BWBR0036745 | wet | 2026-01-01 |
+| `goedkeuringswet-besluit-heffing-bestrijding-dierziekten/` | [Goedkeuringswet Besluit heffing bestrijding dierziekten](https://wetten.overheid.nl/BWBR0036799) | BWBR0036799 | wet | 2015-07-08 |
+| `goedkeuringswet-verdrag-tussen-nederland-en-noorwegen-inzake-het-gebruik-van-een-penitenti/` | [Goedkeuringswet Verdrag tussen Nederland en Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen (Trb. 2015, 37)](https://wetten.overheid.nl/BWBR0036825) | BWBR0036825 | wet | 2015-07-15 |
+| `wet-implementatie-omnibus-ii-richtlijn/` | [Wet implementatie Omnibus II-richtlijn](https://wetten.overheid.nl/BWBR0036826) | BWBR0036826 | wet | 2016-01-01 |
+| `wijzigingswet-vreemdelingenwet-2000-gemeenschappelijke-procedures-voor-de-toekenning-en-in/` | [Wijzigingswet Vreemdelingenwet 2000 (gemeenschappelijke procedures voor de toekenning en intrekking van de internationale bescherming (PbEU 2013, L 180) en vaststelling normen voor opvang verzoekers om internationale bescherming (PbEU 2013, L 180))](https://wetten.overheid.nl/BWBR0036857) | BWBR0036857 | wet | 2015-07-20 |
+| `wet-toezicht-kredietunies/` | [Wet toezicht kredietunies](https://wetten.overheid.nl/BWBR0036869) | BWBR0036869 | wet | 2016-01-01 |
+| `wet-verkorting-duur-voortgezette-uitkering-appa/` | [Wet verkorting duur voortgezette uitkering Appa](https://wetten.overheid.nl/BWBR0036870) | BWBR0036870 | wet | 2016-01-01 |
+| `goedkeuringswet-toetreding-verdrag-nopens-de-voorrechten-en-immuniteiten-van-de-verenigde/` | [Goedkeuringswet toetreding Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties](https://wetten.overheid.nl/BWBR0036933) | BWBR0036933 | wet | 1948-01-31 |
+| `wijzigingswet-metrologiewet-en-waarborgwet-1986-aanpassingen-toezicht/` | [Wijzigingswet Metrologiewet en Waarborgwet 1986 (aanpassingen toezicht)](https://wetten.overheid.nl/BWBR0037060) | BWBR0037060 | wet | 2016-04-20 |
+| `wijzigingswet-wet-personenvervoer-2000-invoering-delegatiebepalingen-regulering-systeem-va/` | [Wijzigingswet Wet personenvervoer 2000 (invoering delegatiebepalingen regulering systeem van vervoersbewijzen, betaalwijzen en betaaldienstverlening openbaar vervoer)](https://wetten.overheid.nl/BWBR0037070) | BWBR0037070 | wet | 2019-01-01 |
+| `wet-taken-meteorologie-en-seismologie/` | [Wet taken meteorologie en seismologie](https://wetten.overheid.nl/BWBR0037074) | BWBR0037074 | wet | 2016-01-01 |
+| `belastingregeling-nederland-curacao/` | [Belastingregeling Nederland Curaçao](https://wetten.overheid.nl/BWBR0037077) | BWBR0037077 | rijkswet | 2024-07-13 |
+| `uitvoeringswet-richtlijn-jaarrekening/` | [Uitvoeringswet richtlijn jaarrekening](https://wetten.overheid.nl/BWBR0037079) | BWBR0037079 | wet | 2015-11-01 |
+| `wet-tegengaan-huwelijksdwang/` | [Wet tegengaan huwelijksdwang](https://wetten.overheid.nl/BWBR0037085) | BWBR0037085 | wet | 2015-12-05 |
+| `wijzigingswet-spoorwegwet-enz-implementatie-richtlijn-2012-34-eu-tot-instelling-van-een-eu/` | [Wijzigingswet Spoorwegwet, enz. (implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte)](https://wetten.overheid.nl/BWBR0037089) | BWBR0037089 | wet | 2015-12-15 |
+| `wet-elektronisch-berichtenverkeer-belastingdienst/` | [Wet elektronisch berichtenverkeer Belastingdienst](https://wetten.overheid.nl/BWBR0037120) | BWBR0037120 | wet | 2024-06-08 |
+| `wet-kwaliteit-klachten-en-geschillen-zorg/` | [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/BWBR0037173) | BWBR0037173 | wet | 2026-01-01 |
+| `erfgoedwet/` | [Erfgoedwet](https://wetten.overheid.nl/BWBR0037521) | BWBR0037521 | wet | 2026-01-01 |
+| `wet-bestrijding-maritieme-ongevallen/` | [Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/BWBR0037162) | BWBR0037162 | wet | 2026-06-04 |
+| `wet-tijdelijke-tolheffing-blankenburgverbinding-en-via15/` | [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/BWBR0037517) | BWBR0037517 | wet | 2025-05-16 |
+| `wet-implementatie-nagoya-protocol/` | [Wet implementatie Nagoya Protocol](https://wetten.overheid.nl/BWBR0037150) | BWBR0037150 | wet | 2019-01-01 |
+| `verzamelwet-szw-2016/` | [Verzamelwet SZW 2016](https://wetten.overheid.nl/BWBR0037319) | BWBR0037319 | wet | 2016-07-01 |
+| `wet-pleziervaartuigen-2016/` | [Wet pleziervaartuigen 2016](https://wetten.overheid.nl/BWBR0037546) | BWBR0037546 | wet | 2023-04-19 |
+| `wet-op-de-jeugdverblijven/` | [Wet op de jeugdverblijven](https://wetten.overheid.nl/BWBR0037645) | BWBR0037645 | wet | 2016-07-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-regelen-keuzedelen-waarop-beroepsopleid/` | [Wijzigingswet Wet educatie en beroepsonderwijs, enz. (regelen keuzedelen waarop beroepsopleidingen mede worden gebaseerd)](https://wetten.overheid.nl/BWBR0037151) | BWBR0037151 | wet | 2018-08-01 |
+| `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-verbeteren-werking-inschrijving-koop/` | [Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (verbeteren werking inschrijving koop van registergoed in de openbare registers)](https://wetten.overheid.nl/BWBR0037161) | BWBR0037161 | wet | 2016-01-01 |
+| `implementatiewet-europees-kader-voor-herstel-en-afwikkeling-van-banken-en-beleggingsondern/` | [Implementatiewet Europees kader voor herstel en afwikkeling van banken en beleggingsondernemingen](https://wetten.overheid.nl/BWBR0037228) | BWBR0037228 | wet | 2015-11-26 |
+| `wijzigingswet-financiele-markten-2016/` | [Wijzigingswet financiële markten 2016](https://wetten.overheid.nl/BWBR0037229) | BWBR0037229 | wet | 2019-07-10 |
+| `wet-uitvoering-verordening-centrale-effectenbewaarinstellingen/` | [Wet uitvoering verordening centrale effectenbewaarinstellingen](https://wetten.overheid.nl/BWBR0037238) | BWBR0037238 | wet | 2016-01-01 |
+| `fiscale-verzamelwet-2015/` | [Fiscale verzamelwet 2015](https://wetten.overheid.nl/BWBR0037254) | BWBR0037254 | wet | 2016-01-01 |
+| `wet-vrijlating-lijfrenteopbouw-en-inkomsten-uit-arbeid-en-bevordering-vrijwillige-voortzet/` | [Wet vrijlating lijfrenteopbouw en inkomsten uit arbeid en bevordering vrijwillige voortzetting pensioenopbouw](https://wetten.overheid.nl/BWBR0037322) | BWBR0037322 | wet | 2016-04-01 |
+| `wet-kinderbijslagvoorziening-bes/` | [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/BWBR0037347) | BWBR0037347 | wet-BES | 2026-01-01 |
+| `uitvoeringswet-restmechanismen-straftribunalen/` | [Uitvoeringswet restmechanismen straftribunalen](https://wetten.overheid.nl/BWBR0037361) | BWBR0037361 | wet | 2025-07-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-langdurig-toezicht-gedragsbeinvloeding-en-vrijhei/` | [Wijzigingswet Wetboek van Strafrecht, enz. (langdurig toezicht, gedragsbeïnvloeding en vrijheidsbeperking)](https://wetten.overheid.nl/BWBR0037362) | BWBR0037362 | wet | 2018-01-01 |
+| `wijzigingswet-zorgverzekeringswet-enz-verbetering-wanbetalersmaatregelen/` | [Wijzigingswet Zorgverzekeringswet, enz. (verbetering wanbetalersmaatregelen)](https://wetten.overheid.nl/BWBR0037377) | BWBR0037377 | wet | 2016-07-01 |
+| `wet-implementatie-wijzigingen-moeder-dochterrichtlijn-2015/` | [Wet implementatie wijzigingen Moeder-dochterrichtlijn 2015](https://wetten.overheid.nl/BWBR0037428) | BWBR0037428 | wet | 2016-01-01 |
+| `wet-uitvoering-common-reporting-standard/` | [Wet uitvoering Common Reporting Standard](https://wetten.overheid.nl/BWBR0037433) | BWBR0037433 | wet | 2016-01-01 |
+| `belastingplan-2016/` | [Belastingplan 2016](https://wetten.overheid.nl/BWBR0037444) | BWBR0037444 | wet | 2019-01-01 |
+| `wet-algemeen-pensioenfonds/` | [Wet algemeen pensioenfonds](https://wetten.overheid.nl/BWBR0037452) | BWBR0037452 | wet | 2016-01-01 |
+| `overige-fiscale-maatregelen-2016/` | [Overige fiscale maatregelen 2016](https://wetten.overheid.nl/BWBR0037456) | BWBR0037456 | wet | 2021-01-01 |
+| `wijzigingswet-algemene-wet-erkenning-eu-beroepskwalificaties-implementatie-richtlijn-2013/` | [Wijzigingswet Algemene wet erkenning EU-beroepskwalificaties (implementatie Richtlijn 2013/55/EU administratieve samenwerking via Informatiesysteem interne markt («de IMI-verordening»))](https://wetten.overheid.nl/BWBR0037509) | BWBR0037509 | wet | 2016-01-18 |
+| `wijzigingswet-wet-algemene-bepalingen-omgevingsrecht-enz-verbetering-vergunningverlening-t/` | [Wijzigingswet Wet algemene bepalingen omgevingsrecht, enz. (verbetering vergunningverlening, toezicht en handhaving)](https://wetten.overheid.nl/BWBR0037518) | BWBR0037518 | wet | 2018-01-01 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-herziening-opleiding-rechters/` | [Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (herziening opleiding rechters en officieren van justitie)](https://wetten.overheid.nl/BWBR0037519) | BWBR0037519 | wet | 2017-01-01 |
+| `wet-tegemoetkomingen-loondomein/` | [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/BWBR0037522) | BWBR0037522 | wet | 2026-01-01 |
+| `wet-vrijstelling-uitkeringen-artikel-2-fonds/` | [Wet vrijstelling uitkeringen Artikel 2-Fonds](https://wetten.overheid.nl/BWBR0037524) | BWBR0037524 | wet | 2016-03-24 |
+| `wijzigingswet-elektriciteitswet-1998-enz-verhoging-van-voor-de-autoriteit-consument-en-mar/` | [Wijzigingswet Elektriciteitswet 1998, enz. (verhoging van voor de Autoriteit Consument en Markt geldende boetemaxima)](https://wetten.overheid.nl/BWBR0037541) | BWBR0037541 | wet | 2016-07-01 |
+| `belastingregeling-nederland-sint-maarten/` | [Belastingregeling Nederland Sint Maarten](https://wetten.overheid.nl/BWBR0037547) | BWBR0037547 | rijkswet | 2016-03-01 |
+| `implementatiewet-wijziging-richtlijn-transparantie/` | [Implementatiewet wijziging richtlijn transparantie](https://wetten.overheid.nl/BWBR0037550) | BWBR0037550 | wet | 2016-01-29 |
+| `wet-deregulering-beoordeling-arbeidsrelaties/` | [Wet deregulering beoordeling arbeidsrelaties](https://wetten.overheid.nl/BWBR0037602) | BWBR0037602 | wet | 2016-05-01 |
+| `wet-digitale-processtukken-strafvordering/` | [Wet digitale processtukken Strafvordering](https://wetten.overheid.nl/BWBR0037681) | BWBR0037681 | wet | 2016-12-01 |
+| `implementatiewet-wijziging-richtlijn-icbes/` | [Implementatiewet wijziging richtlijn icbe’s](https://wetten.overheid.nl/BWBR0037685) | BWBR0037685 | wet | 2017-06-27 |
+| `wijzigingswet-gerechtsdeurwaarderswet-evaluatie-functioneren-koninklijke-beroepsorganisati/` | [Wijzigingswet Gerechtsdeurwaarderswet (evaluatie functioneren Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders, alsmede regeling enkele andere onderwerpen)](https://wetten.overheid.nl/BWBR0037705) | BWBR0037705 | wet | 2017-01-01 |
 
 ## A lawyer's questions as git commands
 
