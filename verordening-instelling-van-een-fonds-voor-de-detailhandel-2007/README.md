@@ -1,0 +1,6 @@
+# Verordening instelling van een fonds voor de detailhandel 2007
+
+Verordening instelling van een fonds voor de detailhandel 2007 · 2 versions, from 2008-01-01 (latest in force: 2015-01-01) · <https://wetten.overheid.nl/BWBR0023224>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

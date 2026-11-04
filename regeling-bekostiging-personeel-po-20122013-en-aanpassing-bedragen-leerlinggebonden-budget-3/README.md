@@ -1,0 +1,6 @@
+# Regeling bekostiging personeel PO 2012–2013 en aanpassing bedragen leerlinggebonden budget VO 2012–2013
+
+Regeling bekostiging personeel PO 2012–2013 en aanpassing bedragen leerlinggebonden budget VO 2012–2013 · 2 versions, from 2015-08-01 (latest in force: 2022-04-01) · <https://wetten.overheid.nl/BWBR0033979>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

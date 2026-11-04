@@ -1,0 +1,6 @@
+# Deelregeling Internationale Samenwerking Erfgoedinstellingen
+
+Deelregeling Internationale Samenwerking Erfgoedinstellingen · 2 versions, from 2013-01-01 (latest in force: 2017-01-01) · <https://wetten.overheid.nl/BWBR0032692>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
