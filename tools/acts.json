@@ -283174,5 +283174,3245 @@
   "part": "bwb-now-restr-010",
   "current_label": "2026-07-01_0",
   "as_of": "2026-11-04"
+ },
+ "muziekauteursrecht": {
+  "bwb": "BWBR0001958",
+  "short": "Muziekauteursrecht",
+  "title": "Muziekauteursrecht",
+  "part": "bwb-now-mr-025",
+  "current_label": "1933-04-13_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "beschikking-vaststelling-van-de-eisen-waaraan-de-lokalen-moeten-voldoen-welke-door-de-geme": {
+  "bwb": "BWBR0002023",
+  "short": "Beschikking vaststelling van de eisen, waaraan de lokalen moeten voldoen, welke door de gemeentebesturen beschikbaar worden gesteld voor de herkeuring, bedoeld in de IJkwet 1997 (Staatsblad no. 693)",
+  "title": "Beschikking vaststelling van de eisen, waaraan de lokalen moeten voldoen, welke door de gemeentebesturen beschikbaar worden gesteld voor de herkeuring, bedoeld in de IJkwet 1997 (Staatsblad no. 693)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-12-24_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-als-opsporingsambtenaren-ex-artikel-62-wag": {
+  "bwb": "BWBR0002203",
+  "short": "Aanwijzing als opsporingsambtenaren ex artikel 62 WAG",
+  "title": "Aanwijzing als opsporingsambtenaren ex artikel 62 WAG",
+  "part": "bwb-now-mr-025",
+  "current_label": "1964-01-31_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "beschikking-oplegging-van-de-verplichting-tot-immunisatie-tegen-tuberculose-aan-bepaalde-g": {
+  "bwb": "BWBR0002218",
+  "short": "Beschikking oplegging van de verplichting tot immunisatie tegen tuberculose aan bepaalde groepen van militairen der koninklijke landmacht en der koninklijke luchtmacht",
+  "title": "Beschikking oplegging van de verplichting tot immunisatie tegen tuberculose aan bepaalde groepen van militairen der koninklijke landmacht en der koninklijke luchtmacht",
+  "part": "bwb-now-mr-025",
+  "current_label": "1956-06-03_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "formulier-van-kennisgeving-vestiging-en-neerlegging-praktijk-artsen-tandartsen-apothekers": {
+  "bwb": "BWBR0002334",
+  "short": "Formulier van Kennisgeving Vestiging en Neerlegging Praktijk Artsen, Tandartsen, Apothekers Vroedvrouwen en Tandheelkundigen",
+  "title": "Formulier van Kennisgeving Vestiging en Neerlegging Praktijk Artsen, Tandartsen, Apothekers Vroedvrouwen en Tandheelkundigen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1959-12-14_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "beschikking-aanwijzing-opsporingsambtenaren-wet-op-het-afbetalingsstelsel-1961": {
+  "bwb": "BWBR0002434",
+  "short": "Beschikking aanwijzing opsporingsambtenaren Wet op het afbetalingsstelsel 1961",
+  "title": "Beschikking aanwijzing opsporingsambtenaren Wet op het afbetalingsstelsel 1961",
+  "part": "bwb-now-mr-025",
+  "current_label": "1964-02-08_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-doctorstitel-godgeleerdheid-of-wijsbegeerte": {
+  "bwb": "BWBR0002445",
+  "short": "Regeling doctorstitel godgeleerdheid of wijsbegeerte",
+  "title": "Regeling doctorstitel godgeleerdheid of wijsbegeerte",
+  "part": "bwb-now-mr-025",
+  "current_label": "1964-08-27_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-bewijs-van-bekwaamheid-voor-toelating-examens-akte-handenarbeid-l-o": {
+  "bwb": "BWBR0002623",
+  "short": "Aanwijzing bewijs van bekwaamheid voor toelating examens akte handenarbeid l.o.",
+  "title": "Aanwijzing bewijs van bekwaamheid voor toelating examens akte handenarbeid l.o.",
+  "part": "bwb-now-mr-025",
+  "current_label": "1968-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "bewijs-van-bekwaamheid-voor-toelating-examens-l-o-akten": {
+  "bwb": "BWBR0002624",
+  "short": "Bewijs van bekwaamheid voor toelating examens l.o.-akten",
+  "title": "Bewijs van bekwaamheid voor toelating examens l.o.-akten",
+  "part": "bwb-now-mr-025",
+  "current_label": "1980-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "centraal-kantmeldingenregister": {
+  "bwb": "BWBR0002695",
+  "short": "Ckm",
+  "title": "Centraal Kantmeldingenregister",
+  "part": "bwb-now-mr-025",
+  "current_label": "1970-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "leerplichtwet-1969-art-3-en-7": {
+  "bwb": "BWBR0002775",
+  "short": "Leerplw art 3 en 7",
+  "title": "Leerplichtwet 1969 (art. 3 en 7)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1971-08-05_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-opsporingsambtenaren-wet-ziekenhuisvoorzieningen": {
+  "bwb": "BWBR0002792",
+  "short": "Aanwijzing opsporingsambtenaren Wet Ziekenhuisvoorzieningen",
+  "title": "Aanwijzing opsporingsambtenaren Wet Ziekenhuisvoorzieningen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1971-12-09_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-opsporingsambtenaren-wet-ambtelijk-toezicht-bij-openbare-verkopingen": {
+  "bwb": "BWBR0002802",
+  "short": "Aanwijzing opsporingsambtenaren (Wet ambtelijk toezicht bij openbare verkopingen)",
+  "title": "Aanwijzing opsporingsambtenaren (Wet ambtelijk toezicht bij openbare verkopingen)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1972-04-05_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "type-goedkeuring-motorvoertuigen-in-het-kader-der-europese-gemeenschappen": {
+  "bwb": "BWBR0002992",
+  "short": "Type-goedkeuring motorvoertuigen in het kader der Europese Gemeenschappen",
+  "title": "Type-goedkeuring motorvoertuigen in het kader der Europese Gemeenschappen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1996-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instelling-begeleidingscommissie-voor-opleidingen-voor-het-inrichtingswerk": {
+  "bwb": "BWBR0003024",
+  "short": "Instelling Begeleidingscommissie voor opleidingen voor het inrichtingswerk",
+  "title": "Instelling Begeleidingscommissie voor opleidingen voor het inrichtingswerk",
+  "part": "bwb-now-mr-025",
+  "current_label": "1976-05-10_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-tot-observatie-inrichting-voor-preventief-gedetineerden": {
+  "bwb": "BWBR0003193",
+  "short": "Aanwijzing tot observatie-inrichting voor preventief gedetineerden",
+  "title": "Aanwijzing tot observatie-inrichting voor preventief gedetineerden",
+  "part": "bwb-now-mr-025",
+  "current_label": "1979-01-03_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "beschikking-aanwijzing-opsporingsambtenaren-wet-op-de-economische-delicten": {
+  "bwb": "BWBR0003272",
+  "short": "Beschikking aanwijzing opsporingsambtenaren Wet op de economische delicten",
+  "title": "Beschikking aanwijzing opsporingsambtenaren Wet op de economische delicten",
+  "part": "bwb-now-mr-025",
+  "current_label": "1979-11-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instelling-stuurgroep-wapenbeheersing-en-nucleaire-bewapening": {
+  "bwb": "BWBR0003441",
+  "short": "Instelling Stuurgroep wapenbeheersing en nucleaire bewapening",
+  "title": "Instelling Stuurgroep wapenbeheersing en nucleaire bewapening",
+  "part": "bwb-now-mr-025",
+  "current_label": "1981-10-02_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-opsporingsambtenaren-wet-tarieven-gezondheidszorg": {
+  "bwb": "BWBR0003481",
+  "short": "Aanwijzing opsporingsambtenaren (Wet tarieven gezondheidszorg)",
+  "title": "Aanwijzing opsporingsambtenaren (Wet tarieven gezondheidszorg)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1982-12-13_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "opschorting-overbrenging-archiefbescheiden-defensie": {
+  "bwb": "BWBR0003586",
+  "short": "Opschorting overbrenging archiefbescheiden Defensie",
+  "title": "Opschorting overbrenging archiefbescheiden Defensie",
+  "part": "bwb-now-mr-025",
+  "current_label": "1983-04-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "gelijkstelling-functie-lid-dagelijks-bestuur-deelgemeenteraad-stadsdeelraad-enz": {
+  "bwb": "BWBR0003811",
+  "short": "Gelijkstelling functie lid dagelijks bestuur deelgemeenteraad, stadsdeelraad enz.",
+  "title": "Gelijkstelling functie lid dagelijks bestuur deelgemeenteraad, stadsdeelraad enz.",
+  "part": "bwb-now-mr-025",
+  "current_label": "1985-08-12_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingen-inzake-interdepartementale-commissies": {
+  "bwb": "BWBR0004127",
+  "short": "Aanwijzingen inzake interdepartementale commissies",
+  "title": "Aanwijzingen inzake interdepartementale commissies",
+  "part": "bwb-now-mr-025",
+  "current_label": "1987-04-26_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-bijdragen-gemoedsbezwaarden-1988": {
+  "bwb": "BWBR0004255",
+  "short": "Vaststelling bijdragen gemoedsbezwaarden (1988)",
+  "title": "Vaststelling bijdragen gemoedsbezwaarden (1988)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1988-01-18_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-bijdragen-gemoedsbezwaarden-1989": {
+  "bwb": "BWBR0004439",
+  "short": "Vaststelling bijdragen gemoedsbezwaarden 1989",
+  "title": "Vaststelling bijdragen gemoedsbezwaarden 1989",
+  "part": "bwb-now-mr-025",
+  "current_label": "1989-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-formulier-centraal-testamentenregister": {
+  "bwb": "BWBR0004485",
+  "short": "Vaststelling formulier centraal testamentenregister",
+  "title": "Vaststelling formulier centraal testamentenregister",
+  "part": "bwb-now-mr-025",
+  "current_label": "1989-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-aanwijzingen-inzake-inzage-ministerraadsnotulen-door-ambtenaren": {
+  "bwb": "BWBR0004488",
+  "short": "Vaststelling aanwijzingen inzake inzage ministerraadsnotulen door ambtenaren",
+  "title": "Vaststelling aanwijzingen inzake inzage ministerraadsnotulen door ambtenaren",
+  "part": "bwb-now-mr-025",
+  "current_label": "1989-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-stichting-waarborgfonds-motorverkeer-als-rechtspersoon": {
+  "bwb": "BWBR0004547",
+  "short": "Aanwijzing Stichting Waarborgfonds Motorverkeer als rechtspersoon",
+  "title": "Aanwijzing Stichting Waarborgfonds Motorverkeer als rechtspersoon",
+  "part": "bwb-now-mr-025",
+  "current_label": "1989-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-bijdragen-aan-het-waarborgfonds-motorverkeer-ex-artikel-24-eerste-lid-wam": {
+  "bwb": "BWBR0004548",
+  "short": "Vaststelling bijdragen aan het Waarborgfonds Motorverkeer (ex artikel 24 eerste lid, WAM)",
+  "title": "Vaststelling bijdragen aan het Waarborgfonds Motorverkeer (ex artikel 24 eerste lid, WAM)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1989-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-bijdragen-aan-het-waarborgfonds-motorverkeer-ex-artikel-24-derde-lid-wam": {
+  "bwb": "BWBR0004549",
+  "short": "Vaststelling bijdragen aan het Waarborgfonds Motorverkeer (ex artikel 24 derde lid, WAM)",
+  "title": "Vaststelling bijdragen aan het Waarborgfonds Motorverkeer (ex artikel 24 derde lid, WAM)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1989-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-bureau-voorlichting-interlandelijke-adoptie-als-rechtspersoon": {
+  "bwb": "BWBR0004589",
+  "short": "Aanw. bviarp",
+  "title": "Aanwijzing Bureau Voorlichting Interlandelijke Adoptie als rechtspersoon",
+  "part": "bwb-now-mr-025",
+  "current_label": "1989-07-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "beschikking-aanwijzing-rechtspersoon-ex-artikel-1-besluit-opneming-buitenlandse-pleegkinde": {
+  "bwb": "BWBR0004592",
+  "short": "Beschikking aanwijzing rechtspersoon ex artikel 1 besluit opneming buitenlandse pleegkinderen",
+  "title": "Beschikking aanwijzing rechtspersoon ex artikel 1 besluit opneming buitenlandse pleegkinderen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1989-07-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-coordinatiegroepen-alternatieve-sancties": {
+  "bwb": "BWBR0004731",
+  "short": "Besluit Coördinatiegroepen alternatieve sancties",
+  "title": "Besluit Coördinatiegroepen alternatieve sancties",
+  "part": "bwb-now-mr-025",
+  "current_label": "1990-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instellingsbeschikking-bouwdienst-rijkswaterstaat": {
+  "bwb": "BWBR0004932",
+  "short": "Instellingsbeschikking Bouwdienst Rijkswaterstaat",
+  "title": "Instellingsbeschikking Bouwdienst Rijkswaterstaat",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-12-22_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-reglement-personeelsvoorschriften-belastingdienst": {
+  "bwb": "BWBR0005220",
+  "short": "Vaststelling Reglement Personeelsvoorschriften Belastingdienst",
+  "title": "Vaststelling Reglement Personeelsvoorschriften Belastingdienst",
+  "part": "bwb-now-mr-025",
+  "current_label": "2001-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instellingsbeschikking-commissie-swart": {
+  "bwb": "BWBR0005437",
+  "short": "Instellingsbeschikking Commissie-Swart",
+  "title": "Instellingsbeschikking Commissie-Swart",
+  "part": "bwb-now-mr-025",
+  "current_label": "1992-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingen-inzake-openbaarheid-van-bestuur": {
+  "bwb": "BWBR0005469",
+  "short": "Aanwijzingen inzake openbaarheid van bestuur",
+  "title": "Aanwijzingen inzake openbaarheid van bestuur",
+  "part": "bwb-now-mr-025",
+  "current_label": "1998-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "algemene-aanwijzingen-inzake-aangelegenheden-van-de-ministerraad-en-onderraden": {
+  "bwb": "BWBR0005471",
+  "short": "Algemene aanwijzingen inzake aangelegenheden van de ministerraad en onderraden",
+  "title": "Algemene aanwijzingen inzake aangelegenheden van de ministerraad en onderraden",
+  "part": "bwb-now-mr-025",
+  "current_label": "1992-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingen-tarievenbeleid-en-tarievenbudgetbeleid-1993-kruisorganisaties": {
+  "bwb": "BWBR0005709",
+  "short": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (kruisorganisaties)",
+  "title": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (kruisorganisaties)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1993-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingen-tarievenbeleid-en-tarievenbudgetbeleid-1993-fysiotherapeuten": {
+  "bwb": "BWBR0005710",
+  "short": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (fysiotherapeuten)",
+  "title": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (fysiotherapeuten)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1993-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingen-tarievenbeleid-en-tarievenbudgetbeleid-1993-algemene-categorale-en-academisch": {
+  "bwb": "BWBR0005711",
+  "short": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (algemene, categorale en academische ziekenhuizen)",
+  "title": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (algemene, categorale en academische ziekenhuizen)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1993-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingen-tarievenbeleid-en-tarievenbudgetbeleid-1993-apothekers-en-apotheekhoudende-hu": {
+  "bwb": "BWBR0005712",
+  "short": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (apothekers en apotheekhoudende huisartsen)",
+  "title": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (apothekers en apotheekhoudende huisartsen)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1993-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingen-tarievenbeleid-en-tarievenbudgetbeleid-1993-medisch-specialisten": {
+  "bwb": "BWBR0005713",
+  "short": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (medisch specialisten)",
+  "title": "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (medisch specialisten)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1993-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "bekendmaking-wijziging-methoden-van-onderzoek-kennisgevingen-wet-milieugevaarlijke-stoffen": {
+  "bwb": "BWBR0006195",
+  "short": "Bekendmaking wijziging methoden van onderzoek kennisgevingen Wet milieugevaarlijke stoffen",
+  "title": "Bekendmaking wijziging methoden van onderzoek kennisgevingen Wet milieugevaarlijke stoffen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1993-12-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "oprichting-europol-drugs-unit": {
+  "bwb": "BWBR0006262",
+  "short": "Oprichting Europol Drugs Unit",
+  "title": "Oprichting Europol Drugs Unit",
+  "part": "bwb-now-mr-025",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instellingsbeschikking-directie-noord-nederland": {
+  "bwb": "BWBR0006316",
+  "short": "Instellingsbeschikking Directie Noord-Nederland",
+  "title": "Instellingsbeschikking Directie Noord-Nederland",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-12-22_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "toestemming-vaststelling-premie-aandeel-werknemer-voor-1994-bedrijfsvereniging-voor-de-bou": {
+  "bwb": "BWBR0006436",
+  "short": "Toestemming vaststelling premie-aandeel werknemer voor 1994 (Bedrijfsvereniging voor de Bouwnijverheid)",
+  "title": "Toestemming vaststelling premie-aandeel werknemer voor 1994 (Bedrijfsvereniging voor de Bouwnijverheid)",
+  "part": "bwb-now-mr-025",
+  "current_label": "1994-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instelling-dienst-informatievoorziening-overheidspersoneel": {
+  "bwb": "BWBR0006576",
+  "short": "Instelling dienst Informatievoorziening Overheidspersoneel",
+  "title": "Instelling dienst Informatievoorziening Overheidspersoneel",
+  "part": "bwb-now-mr-025",
+  "current_label": "1994-04-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-wijziging-huurprijzen-woonwagens": {
+  "bwb": "BWBR0006657",
+  "short": "Besluit wijziging huurprijzen woonwagens",
+  "title": "Besluit wijziging huurprijzen woonwagens",
+  "part": "bwb-now-mr-025",
+  "current_label": "1994-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-model-formulier-betalingsbewijs-transacties-en-boetes": {
+  "bwb": "BWBR0006854",
+  "short": "Besluit vaststelling model formulier betalingsbewijs transacties en boetes",
+  "title": "Besluit vaststelling model formulier betalingsbewijs transacties en boetes",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-10-09_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "gedeeltelijke-onttrekking-traverse-zuid-willemsvaart-aan-openbare-scheepvaart": {
+  "bwb": "BWBR0006892",
+  "short": "Gedeeltelijke onttrekking traverse Zuid-Willemsvaart aan openbare scheepvaart",
+  "title": "Gedeeltelijke onttrekking traverse Zuid-Willemsvaart aan openbare scheepvaart",
+  "part": "bwb-now-mr-025",
+  "current_label": "1994-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instellingsbesluit-nederlandse-beheersorganisatie-europol": {
+  "bwb": "BWBR0006949",
+  "short": "Instellingsbesluit Nederlandse beheersorganisatie Europol",
+  "title": "Instellingsbesluit Nederlandse beheersorganisatie Europol",
+  "part": "bwb-now-mr-025",
+  "current_label": "1994-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instelling-commissie-betuweroute": {
+  "bwb": "BWBR0006954",
+  "short": "Instelling Commissie Betuweroute",
+  "title": "Instelling Commissie Betuweroute",
+  "part": "bwb-now-mr-025",
+  "current_label": "1994-10-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "erkenning-stichting-reclassering-nederland": {
+  "bwb": "BWBR0007152",
+  "short": "Erkenning Stichting reclassering Nederland",
+  "title": "Erkenning Stichting reclassering Nederland",
+  "part": "bwb-now-mr-025",
+  "current_label": "1995-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instelling-werkgroep-medische-zorg-in-penitentiaire-inrichtingen": {
+  "bwb": "BWBR0007328",
+  "short": "Instelling Werkgroep medische zorg in penitentiaire inrichtingen",
+  "title": "Instelling Werkgroep medische zorg in penitentiaire inrichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1995-04-08_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "gelijkstelling-provinciaal-milieubeleidsplan-utrecht-1993-1997-aan-een-provinciaal-milieub": {
+  "bwb": "BWBR0007337",
+  "short": "Gelijkstelling provinciaal milieubeleidsplan Utrecht 1993-1997 aan een provinciaal milieubeleidsplan, Wet milieubeheer",
+  "title": "Gelijkstelling provinciaal milieubeleidsplan Utrecht 1993-1997 aan een provinciaal milieubeleidsplan, Wet milieubeheer",
+  "part": "bwb-now-mr-025",
+  "current_label": "1995-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beeindiging-verplichte-periode-atf": {
+  "bwb": "BWBR0007817",
+  "short": "Besluit beëindiging verplichte periode ATF",
+  "title": "Besluit beëindiging verplichte periode ATF",
+  "part": "bwb-now-mr-025",
+  "current_label": "1996-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "loopbaanregeling-bedrijfsartsen-rbb": {
+  "bwb": "BWBR0008034",
+  "short": "Loopbaanregeling bedrijfsartsen RBB",
+  "title": "Loopbaanregeling bedrijfsartsen RBB",
+  "part": "bwb-now-mr-025",
+  "current_label": "1996-05-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-rechtspersoon-belast-met-inning-en-verdeling-vergoedingen": {
+  "bwb": "BWBR0008306",
+  "short": "Aanwijzing rechtspersoon belast met inning en verdeling vergoedingen",
+  "title": "Aanwijzing rechtspersoon belast met inning en verdeling vergoedingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1996-11-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "erkenning-limburgs-onder-deel-ii-europees-handvest": {
+  "bwb": "BWBR0008559",
+  "short": "Erkenning Limburgs onder deel II Europees Handvest",
+  "title": "Erkenning Limburgs onder deel II Europees Handvest",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-03-23_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-als-beschermd-dorpsgezicht": {
+  "bwb": "BWBR0008617",
+  "short": "Aanwijzing als beschermd dorpsgezicht",
+  "title": "Aanwijzing als beschermd dorpsgezicht",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mandaatbesluit-joint-implementation": {
+  "bwb": "BWBR0008795",
+  "short": "Mandaatbesluit Joint Implementation",
+  "title": "Mandaatbesluit Joint Implementation",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-identiteitsbewijs-geprivilegieerden-als-document-vaststelling-identiteit": {
+  "bwb": "BWBR0008858",
+  "short": "Aanwijzing identiteitsbewijs geprivilegieerden als document vaststelling identiteit",
+  "title": "Aanwijzing identiteitsbewijs geprivilegieerden als document vaststelling identiteit",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instellingsbeschikking-onderzoekscommissie-eurotop": {
+  "bwb": "BWBR0008907",
+  "short": "Instellingsbeschikking onderzoekscommissie Eurotop",
+  "title": "Instellingsbeschikking onderzoekscommissie Eurotop",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-09-13_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "toepassing-regeling-politiespeurhonden-1997-op-het-korps-landelijke-politiediensten": {
+  "bwb": "BWBR0008918",
+  "short": "Toepassing Regeling politiespeurhonden 1997 op het Korps landelijke politiediensten",
+  "title": "Toepassing Regeling politiespeurhonden 1997 op het Korps landelijke politiediensten",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-09-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mandaatverlening-bevoegde-autoriteit-inzake-internationale-uitwisseling-van-inlichtingen": {
+  "bwb": "BWBR0009293",
+  "short": "Mandaatverlening bevoegde autoriteit inzake internationale uitwisseling van inlichtingen",
+  "title": "Mandaatverlening bevoegde autoriteit inzake internationale uitwisseling van inlichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1998-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mandaatverlening-internationale-inlichtingenuitwisseling": {
+  "bwb": "BWBR0009311",
+  "short": "Mandaatverlening internationale inlichtingenuitwisseling",
+  "title": "Mandaatverlening internationale inlichtingenuitwisseling",
+  "part": "bwb-now-mr-025",
+  "current_label": "1998-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instelling-stuurgroep-europese-aanbesteding-dienst-justitiele-inrichtingen": {
+  "bwb": "BWBR0009520",
+  "short": "Instelling stuurgroep Europese Aanbesteding Dienst Justitiële Inrichtingen",
+  "title": "Instelling stuurgroep Europese Aanbesteding Dienst Justitiële Inrichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-12-16_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "rechtspositie-personenchauffeurs": {
+  "bwb": "BWBR0010494",
+  "short": "Rechtspositie personenchauffeurs",
+  "title": "Rechtspositie personenchauffeurs",
+  "part": "bwb-now-mr-025",
+  "current_label": "1999-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-meerjarenprogramma-piek-1999-tot-en-met-2002-en-het-actieplan-piek-1999": {
+  "bwb": "BWBR0010521",
+  "short": "Vaststelling meerjarenprogramma Piek 1999 tot en met 2002 en het actieplan Piek 1999",
+  "title": "Vaststelling meerjarenprogramma Piek 1999 tot en met 2002 en het actieplan Piek 1999",
+  "part": "bwb-now-mr-025",
+  "current_label": "1999-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-meerjarenprogramma-ssz-1999-tot-en-met-2003-en-het-actieplan-ssz-1999": {
+  "bwb": "BWBR0010522",
+  "short": "Vaststelling meerjarenprogramma SSZ 1999 tot en met 2003 en het actieplan SSZ 1999",
+  "title": "Vaststelling meerjarenprogramma SSZ 1999 tot en met 2003 en het actieplan SSZ 1999",
+  "part": "bwb-now-mr-025",
+  "current_label": "1999-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mandaatsbesluit-rijksdienst-voor-het-wegverkeer": {
+  "bwb": "BWBR0010567",
+  "short": "Mandaatsbesluit Rijksdienst voor het Wegverkeer",
+  "title": "Mandaatsbesluit Rijksdienst voor het Wegverkeer",
+  "part": "bwb-now-mr-025",
+  "current_label": "1999-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vervanging-archiefbescheiden-centraal-archief-belastingdienst-apeldoorn": {
+  "bwb": "BWBR0010590",
+  "short": "Vervanging archiefbescheiden Centraal Archief Belastingdienst Apeldoorn",
+  "title": "Vervanging archiefbescheiden Centraal Archief Belastingdienst Apeldoorn",
+  "part": "bwb-now-mr-025",
+  "current_label": "1997-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vervanging-archiefbescheiden-centraal-archief-belastingdienst-apeldoorn-1999": {
+  "bwb": "BWBR0010659",
+  "short": "Vervanging archiefbescheiden Centraal Archief Belastingdienst Apeldoorn 1999",
+  "title": "Vervanging archiefbescheiden Centraal Archief Belastingdienst Apeldoorn 1999",
+  "part": "bwb-now-mr-025",
+  "current_label": "1999-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-toezichthoudende-ambtenaren-sanering-loden-drinkwaterleidingen": {
+  "bwb": "BWBR0010907",
+  "short": "Aanwijzing toezichthoudende ambtenaren sanering loden drinkwaterleidingen",
+  "title": "Aanwijzing toezichthoudende ambtenaren sanering loden drinkwaterleidingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "1999-12-12_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "bekendmaking-nieuwe-en-gewijzigde-verkeersscheidingsstelsels": {
+  "bwb": "BWBR0011546",
+  "short": "Bekendmaking nieuwe en gewijzigde verkeersscheidingsstelsels",
+  "title": "Bekendmaking nieuwe en gewijzigde verkeersscheidingsstelsels",
+  "part": "bwb-now-mr-025",
+  "current_label": "2000-12-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-zak-en-kleedgeld-voor-ter-beschikking-gestelden-en-anderszins-verpleegden": {
+  "bwb": "BWBR0011695",
+  "short": "rvb",
+  "title": "Besluit zak- en kleedgeld voor ter beschikking gestelden en anderszins verpleegden",
+  "part": "bwb-now-mr-025",
+  "current_label": "2000-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "machtigingen-tot-vervanging-archiefbescheiden-arrondissement-den-haag": {
+  "bwb": "BWBR0011805",
+  "short": "Machtigingen tot vervanging archiefbescheiden Arrondissement Den Haag",
+  "title": "Machtigingen tot vervanging archiefbescheiden Arrondissement Den Haag",
+  "part": "bwb-now-mr-025",
+  "current_label": "2001-02-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "machtigingen-tot-vervanging-archiefbescheiden-arrondissement-zutphen": {
+  "bwb": "BWBR0011830",
+  "short": "Machtigingen tot vervanging archiefbescheiden Arrondissement Zutphen",
+  "title": "Machtigingen tot vervanging archiefbescheiden Arrondissement Zutphen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2001-02-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-uitstel-differentiatie-eurovignet": {
+  "bwb": "BWBR0012053",
+  "short": "Besluit uitstel differentiatie eurovignet",
+  "title": "Besluit uitstel differentiatie eurovignet",
+  "part": "bwb-now-mr-025",
+  "current_label": "2001-02-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "taakomschrijving-staatssecretaris-van-justitie": {
+  "bwb": "BWBR0012178",
+  "short": "TSSJ",
+  "title": "Taakomschrijving Staatssecretaris van Justitie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2001-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "intrekking-delegatie-bevoegdheden-aan-novem": {
+  "bwb": "BWBR0012393",
+  "short": "Intrekking delegatie bevoegdheden aan Novem",
+  "title": "Intrekking delegatie bevoegdheden aan Novem",
+  "part": "bwb-now-mr-025",
+  "current_label": "2001-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststelling-beschikbaar-bedrag-2002-kredietregeling-bodemsanering-nationale-investeringsb": {
+  "bwb": "BWBR0013300",
+  "short": "Vaststelling beschikbaar bedrag 2002 Kredietregeling bodemsanering Nationale Investeringsbank",
+  "title": "Vaststelling beschikbaar bedrag 2002 Kredietregeling bodemsanering Nationale Investeringsbank",
+  "part": "bwb-now-mr-025",
+  "current_label": "2002-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanpassing-kostenvergoedingen-eerste-en-tweede-kamerleden": {
+  "bwb": "BWBR0013358",
+  "short": "Aanpassing kostenvergoedingen Eerste- en Tweede-Kamerleden",
+  "title": "Aanpassing kostenvergoedingen Eerste- en Tweede-Kamerleden",
+  "part": "bwb-now-mr-025",
+  "current_label": "2002-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-integrale-tekst-afvalstoffenlijst": {
+  "bwb": "BWBR0013549",
+  "short": "Ritaf",
+  "title": "Regeling integrale tekst Afvalstoffenlijst",
+  "part": "bwb-now-mr-025",
+  "current_label": "2007-04-13_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vervanging-archiefbescheiden-centrale-bewaarplaats": {
+  "bwb": "BWBR0013942",
+  "short": "Vervanging archiefbescheiden Centrale Bewaarplaats",
+  "title": "Vervanging archiefbescheiden Centrale Bewaarplaats",
+  "part": "bwb-now-mr-025",
+  "current_label": "2002-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuring-besluit-ccms-1-2002-inzake-herziene-opleidingseisen-anesthesiologie": {
+  "bwb": "BWBR0014955",
+  "short": "Goedkeuring besluit CCMS 1-2002 inzake herziene opleidingseisen anesthesiologie",
+  "title": "Goedkeuring besluit CCMS 1-2002 inzake herziene opleidingseisen anesthesiologie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "waarnemingsregeling-sg": {
+  "bwb": "BWBR0015002",
+  "short": "Waarnemingsregeling SG",
+  "title": "Waarnemingsregeling SG",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-04-28_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuring-ccms-besluit-inzake-opleidingseisen-gastro-enterologie": {
+  "bwb": "BWBR0015092",
+  "short": "Goedkeuring CCMS-besluit inzake opleidingseisen gastro-enterologie",
+  "title": "Goedkeuring CCMS-besluit inzake opleidingseisen gastro-enterologie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vervanging-vermiste-10-jarenklappers-gemeente-westerbork": {
+  "bwb": "BWBR0015190",
+  "short": "Vv10",
+  "title": "Vervanging vermiste 10-jarenklappers gemeente Westerbork",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-06-13_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vervanging-archiefbescheiden-aanvragen-toekenning-huursubsidie": {
+  "bwb": "BWBR0015193",
+  "short": "Besluit vervanging archiefbescheiden (aanvragen toekenning huursubsidie)",
+  "title": "Besluit vervanging archiefbescheiden (aanvragen toekenning huursubsidie)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuring-ccms-besluit-inzake-opleidingseisen-plastische-chirurgie": {
+  "bwb": "BWBR0015212",
+  "short": "Goedkeuring CCMS-besluit inzake opleidingseisen plastische chirurgie",
+  "title": "Goedkeuring CCMS-besluit inzake opleidingseisen plastische chirurgie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuring-besluit-chvg-7-2002-herregistratie-van-verpleeghuisartsen": {
+  "bwb": "BWBR0015290",
+  "short": "Goedkeuring besluit CHVG 7-2002 (herregistratie van verpleeghuisartsen)",
+  "title": "Goedkeuring besluit CHVG 7-2002 (herregistratie van verpleeghuisartsen)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingsregeling-stichting-waarborgfonds-motorverkeer-als-schadevergoedingsorgaan": {
+  "bwb": "BWBR0015327",
+  "short": "Aanwijzingsregeling Stichting Waarborgfonds Motorverkeer als Schadevergoedingsorgaan",
+  "title": "Aanwijzingsregeling Stichting Waarborgfonds Motorverkeer als Schadevergoedingsorgaan",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-07-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzingsregeling-vereniging-het-nederlands-bureau-der-motorrijtuigverzekeraars-als-info": {
+  "bwb": "BWBR0015328",
+  "short": "Aanwijzingsregeling Vereniging het Nederlands Bureau der Motorrijtuigverzekeraars als Informatiecentrum",
+  "title": "Aanwijzingsregeling Vereniging het Nederlands Bureau der Motorrijtuigverzekeraars als Informatiecentrum",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-07-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-normbedragen-wts-maas-2003": {
+  "bwb": "BWBR0015459",
+  "short": "Besluit normbedragen WTS – Maas 2003",
+  "title": "Besluit normbedragen WTS – Maas 2003",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-11-06_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-ccsm-no-4-2003": {
+  "bwb": "BWBR0015580",
+  "short": "Goedkeuringsbesluit besluit CCSM no. 4-2003",
+  "title": "Goedkeuringsbesluit besluit CCSM no. 4-2003",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-09-29_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuring-besluiten-ccms-3-2002-opleidingseisen-keel-neus-oorheelkunde-en-ccms-10-2002-o": {
+  "bwb": "BWBR0015641",
+  "short": "Goedkeuring besluiten CCMS 3-2002 Opleidingseisen keel-neus-oorheelkunde en CCMS 10-2002 Opleidingseisen orthopedie",
+  "title": "Goedkeuring besluiten CCMS 3-2002 Opleidingseisen keel-neus-oorheelkunde en CCMS 10-2002 Opleidingseisen orthopedie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-10-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "afkeuring-besluit-ccms-no-8-2002-van-het-centraal-college-medische-specialismen": {
+  "bwb": "BWBR0015664",
+  "short": "Afkeuring Besluit CCMS no. 8-2002 van het Centraal College Medische Specialismen",
+  "title": "Afkeuring Besluit CCMS no. 8-2002 van het Centraal College Medische Specialismen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-10-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-inschrijftarief-huisartsen-verpleeghuisartsen-en-artsen-voor-verstande": {
+  "bwb": "BWBR0015802",
+  "short": "Goedkeuringsbesluit inschrijftarief huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten",
+  "title": "Goedkeuringsbesluit inschrijftarief huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-11-04_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "wijzigingsregeling-noodwet-arbeidsvoorziening": {
+  "bwb": "BWBR0015805",
+  "short": "Wijzigingsregeling Noodwet Arbeidsvoorziening",
+  "title": "Wijzigingsregeling Noodwet Arbeidsvoorziening",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-11-07_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsregeling-wijzigingsregeling-knmg-van-24-juni-2003-inzake-de-opleiding-en-regis": {
+  "bwb": "BWBR0015906",
+  "short": "Goedkeuringsregeling wijzigingsregeling KNMG van 24 juni 2003 inzake de opleiding en registratie van specialisten",
+  "title": "Goedkeuringsregeling wijzigingsregeling KNMG van 24 juni 2003 inzake de opleiding en registratie van specialisten",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-11-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-ccms-6-2002-betreffende-opleidingseisen-interne-geneeskunde": {
+  "bwb": "BWBR0015907",
+  "short": "Goedkeuringsbesluit besluit CCMS 6-2002 betreffende Opleidingseisen interne geneeskunde",
+  "title": "Goedkeuringsbesluit besluit CCMS 6-2002 betreffende Opleidingseisen interne geneeskunde",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-11-26_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-legalisatie-en-verificatie-van-afghaanse-documenten": {
+  "bwb": "BWBR0016074",
+  "short": "Besluit legalisatie en verificatie van Afghaanse documenten",
+  "title": "Besluit legalisatie en verificatie van Afghaanse documenten",
+  "part": "bwb-now-mr-025",
+  "current_label": "2003-12-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-regeling-ziekenhuisapotheker-klinisch-onderzoeker": {
+  "bwb": "BWBR0016493",
+  "short": "Goedkeuringsbesluit Regeling Ziekenhuisapotheker-Klinisch onderzoeker",
+  "title": "Goedkeuringsbesluit Regeling Ziekenhuisapotheker-Klinisch onderzoeker",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-03-23_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-inzake-het-tarief-voor-hernieuwde-inschrijving-in-de-registers": {
+  "bwb": "BWBR0016540",
+  "short": "Goedkeuringsbesluit Besluit inzake het tarief voor (hernieuwde) inschrijving in de registers van Huisartsen, Verpleeghuisartsen en Artsen voor verstandelijk gehandicapten",
+  "title": "Goedkeuringsbesluit Besluit inzake het tarief voor (hernieuwde) inschrijving in de registers van Huisartsen, Verpleeghuisartsen en Artsen voor verstandelijk gehandicapten",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-03-23_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-beschikking-sgrc-2004-tarief-registratie-en-herregistratie": {
+  "bwb": "BWBR0016642",
+  "short": "Goedkeuringsbesluit beschikking SGRC 2004 (tarief registratie en herregistratie)",
+  "title": "Goedkeuringsbesluit beschikking SGRC 2004 (tarief registratie en herregistratie)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-04-22_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststellingsbesluit-taken-staatssecretaris-van-hoof": {
+  "bwb": "BWBR0016885",
+  "short": "Vbesl.TS",
+  "title": "Vaststellingsbesluit taken staatssecretaris Van Hoof",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-afwijking-gemiddeld-premiepercentage-basispremie-wao-2004": {
+  "bwb": "BWBR0016928",
+  "short": "Goedkeuringsbesluit Besluit Afwijking gemiddeld premiepercentage basispremie WAO 2004",
+  "title": "Goedkeuringsbesluit Besluit Afwijking gemiddeld premiepercentage basispremie WAO 2004",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-06-29_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-taken-netbeheerder-landelijk-hoogspanningsnet": {
+  "bwb": "BWBR0016995",
+  "short": "Besluit taken netbeheerder landelijk hoogspanningsnet",
+  "title": "Besluit taken netbeheerder landelijk hoogspanningsnet",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-ccms-2-1999-opleidingseisen-cardiologie": {
+  "bwb": "BWBR0017276",
+  "short": "Goedkeuringsbesluit CCMS 2-1999 Opleidingseisen Cardiologie",
+  "title": "Goedkeuringsbesluit CCMS 2-1999 Opleidingseisen Cardiologie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-10-05_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-rekenpercentage-en-gemiddeld-percentage-wao-per-1-januari-2005": {
+  "bwb": "BWBR0017393",
+  "short": "Goedkeuringsbesluit rekenpercentage en gemiddeld percentage WAO per 1 januari 2005",
+  "title": "Goedkeuringsbesluit rekenpercentage en gemiddeld percentage WAO per 1 januari 2005",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-goedkeuring-besluiten-csg": {
+  "bwb": "BWBR0017394",
+  "short": "Besluit goedkeuring besluiten CSG",
+  "title": "Besluit goedkeuring besluiten CSG",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-10-29_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-kaderbesluit-en-drie-specifieke-besluiten-van-de-chvg-betreffende-huis": {
+  "bwb": "BWBR0017529",
+  "short": "Goedkeuringsbesluit kaderbesluit en drie specifieke besluiten van de CHVG betreffende Huisartsgeneeskunde, Verpleeghuisgeneeskunde en Medische zorg voor verstandelijk gehandicapten",
+  "title": "Goedkeuringsbesluit kaderbesluit en drie specifieke besluiten van de CHVG betreffende Huisartsgeneeskunde, Verpleeghuisgeneeskunde en Medische zorg voor verstandelijk gehandicapten",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-11-16_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-kaderbesluit-en-27-specifieke-besluiten-van-het-ccms": {
+  "bwb": "BWBR0017604",
+  "short": "Goedkeuringsbesluit Kaderbesluit en 27 specifieke besluiten van het CCMS",
+  "title": "Goedkeuringsbesluit Kaderbesluit en 27 specifieke besluiten van het CCMS",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-12-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-reglement-stichting-donorgegevens-kunstmatige-bevruchting": {
+  "bwb": "BWBR0017689",
+  "short": "Goedkeuringsbesluit Reglement Stichting donorgegevens kunstmatige bevruchting",
+  "title": "Goedkeuringsbesluit Reglement Stichting donorgegevens kunstmatige bevruchting",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-12-14_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-regeling-inzake-instelling-specialismen-avvv": {
+  "bwb": "BWBR0017697",
+  "short": "Goedkeuringsbesluit Regeling inzake instelling specialismen (AVVV)",
+  "title": "Goedkeuringsbesluit Regeling inzake instelling specialismen (AVVV)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-12-14_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-ccsf-8-2004-inschrijving-buitenslands-gediplomeerde-ziekenhuis": {
+  "bwb": "BWBR0017775",
+  "short": "Goedkeuringsbesluit besluit CCSF 8-2004 (inschrijving buitenslands gediplomeerde ziekenhuisapothekers)",
+  "title": "Goedkeuringsbesluit besluit CCSF 8-2004 (inschrijving buitenslands gediplomeerde ziekenhuisapothekers)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-12-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-college-specialismen-gezondheidszorgpsycholoog": {
+  "bwb": "BWBR0017789",
+  "short": "Goedkeuringsbesluit besluit College Specialismen Gezondheidszorgpsycholoog",
+  "title": "Goedkeuringsbesluit besluit College Specialismen Gezondheidszorgpsycholoog",
+  "part": "bwb-now-mr-025",
+  "current_label": "2004-12-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-verhaal-ziekengeld-uitvoeringsinstituut-werknemersverzekeringe": {
+  "bwb": "BWBR0017929",
+  "short": "Bvz",
+  "title": "Goedkeuringsbesluit Besluit verhaal ziekengeld Uitvoeringsinstituut werknemersverzekeringen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-wijzigingsregeling-knmg-7-december-2004-opleiding-en-registratie-speci": {
+  "bwb": "BWBR0018076",
+  "short": "Goedkeuringsbesluit wijzigingsregeling KNMG (7 december 2004, opleiding en registratie specialisten)",
+  "title": "Goedkeuringsbesluit wijzigingsregeling KNMG (7 december 2004, opleiding en registratie specialisten)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-03-07_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-sociaal-geneeskundigen-registratie-commissie": {
+  "bwb": "BWBR0018116",
+  "short": "Goedkeuringsbesluit Besluit Sociaal-Geneeskundigen Registratie Commissie",
+  "title": "Goedkeuringsbesluit Besluit Sociaal-Geneeskundigen Registratie Commissie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-03-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "goedkeuringsbesluit-besluit-wijziging-bijzonder-dagloonbesluit-zw-bv-koopvaardij-1991-van": {
+  "bwb": "BWBR0018118",
+  "short": "Goedkeuringsbesluit Besluit wijziging Bijzonder Dagloonbesluit ZW BV Koopvaardij 1991 van het UWV",
+  "title": "Goedkeuringsbesluit Besluit wijziging Bijzonder Dagloonbesluit ZW BV Koopvaardij 1991 van het UWV",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-03-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-belga-19561977-1986": {
+  "bwb": "BWBR0018372",
+  "short": "Besluit beperking openbaarheid archiefbescheiden BELGA 1956–1977 (1986)",
+  "title": "Besluit beperking openbaarheid archiefbescheiden BELGA 1956–1977 (1986)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-06-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-centrale-vermogensopsporingsdienst-194519": {
+  "bwb": "BWBR0018373",
+  "short": "Besluit beperking openbaarheid archiefbescheiden Centrale Vermogensopsporingsdienst 1945–1967",
+  "title": "Besluit beperking openbaarheid archiefbescheiden Centrale Vermogensopsporingsdienst 1945–1967",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-06-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-directie-bewindvoering-1940-19531965-1982": {
+  "bwb": "BWBR0018374",
+  "short": "Besluit beperking openbaarheid archiefbescheiden Directie Bewindvoering (1940) 1953–1965 (1982) Ministerie van Financiën",
+  "title": "Besluit beperking openbaarheid archiefbescheiden Directie Bewindvoering (1940) 1953–1965 (1982) Ministerie van Financiën",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-06-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-van-de-inspecteur-van-de-waarborg-1804198": {
+  "bwb": "BWBR0018785",
+  "short": "Besluit beperking openbaarheid archiefbescheiden van de Inspecteur van de Waarborg, 1804–1984",
+  "title": "Besluit beperking openbaarheid archiefbescheiden van de Inspecteur van de Waarborg, 1804–1984",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-09-29_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-van-naar-het-nationaal-archief-over-te-brengen-archiefbesch-2": {
+  "bwb": "BWBR0018800",
+  "short": "Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Commissie Rechtsherstel Buitenlandse Effecten (CRBE) (1946) 1949–1956 (1987)",
+  "title": "Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Commissie Rechtsherstel Buitenlandse Effecten (CRBE) (1946) 1949–1956 (1987)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-10-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-van-naar-het-nationaal-archief-over-te-brengen-archiefbesch-3": {
+  "bwb": "BWBR0018801",
+  "short": "Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Commissie voor de Duplicaten Effecten 1954–1976",
+  "title": "Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Commissie voor de Duplicaten Effecten 1954–1976",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-10-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-kabinet-ministerie-van-financien-19401960": {
+  "bwb": "BWBR0018802",
+  "short": "Besluit beperking openbaarheid archiefbescheiden Kabinet Ministerie van Financiën 1940–1960",
+  "title": "Besluit beperking openbaarheid archiefbescheiden Kabinet Ministerie van Financiën 1940–1960",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-10-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-ex-artikel-4-eerste-lid-kennisgevingsbesluit-wet-milieugevaarlijke-stoffen": {
+  "bwb": "BWBR0018933",
+  "short": "Regeling ex artikel 4, eerste lid, Kennisgevingsbesluit Wet milieugevaarlijke stoffen",
+  "title": "Regeling ex artikel 4, eerste lid, Kennisgevingsbesluit Wet milieugevaarlijke stoffen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-10-31_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-directoraat-generaal-rijksbegroting-1940": {
+  "bwb": "BWBR0019001",
+  "short": "Besluit beperking openbaarheid archiefbescheiden directoraat-generaal Rijksbegroting (1940) 1945–1979",
+  "title": "Besluit beperking openbaarheid archiefbescheiden directoraat-generaal Rijksbegroting (1940) 1945–1979",
+  "part": "bwb-now-mr-025",
+  "current_label": "2005-12-16_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vergoeding-voorzitter-en-leden-garantiewetcommissie-vacatiegeldenbesluit": {
+  "bwb": "BWBR0019661",
+  "short": "Besluit Vergoeding voorzitter en leden Garantiewetcommissie (Vacatiegeldenbesluit)",
+  "title": "Besluit Vergoeding voorzitter en leden Garantiewetcommissie (Vacatiegeldenbesluit)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2006-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-informatieverstrekking-centraal-orgaan-opvang-asielzoekers-2006": {
+  "bwb": "BWBR0019816",
+  "short": "Regeling informatieverstrekking Centraal Orgaan opvang asielzoekers 2006",
+  "title": "Regeling informatieverstrekking Centraal Orgaan opvang asielzoekers 2006",
+  "part": "bwb-now-mr-025",
+  "current_label": "2011-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-toezichthouder-naleving-tijdelijke-regeling-subsidie-experimenten-open-bestel": {
+  "bwb": "BWBR0020533",
+  "short": "Aanwijzing toezichthouder naleving Tijdelijke regeling subsidie experimenten open bestel",
+  "title": "Aanwijzing toezichthouder naleving Tijdelijke regeling subsidie experimenten open bestel",
+  "part": "bwb-now-mr-025",
+  "current_label": "2007-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-wbo-vergunning-digitalisering-bevolkingsonderzoek-borstkanker": {
+  "bwb": "BWBR0021700",
+  "short": "Regeling WBO-vergunning digitalisering bevolkingsonderzoek borstkanker",
+  "title": "Regeling WBO-vergunning digitalisering bevolkingsonderzoek borstkanker",
+  "part": "bwb-now-mr-025",
+  "current_label": "2007-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-tot-uitgifte-frequenties-voor-gebruik-niet-landelijke-commerciele-radio-omroep-en": {
+  "bwb": "BWBR0022792",
+  "short": "Besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf",
+  "title": "Besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf",
+  "part": "bwb-now-mr-025",
+  "current_label": "2008-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-bepaling-vestigingsplaats-college-voor-zorgverzekeringen": {
+  "bwb": "BWBR0023570",
+  "short": "Besluit bepaling vestigingsplaats College voor zorgverzekeringen",
+  "title": "Besluit bepaling vestigingsplaats College voor zorgverzekeringen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-bekendmaking-via-de-procedure-veilen-verdelen-van-twee-vergunningen-voor-frequenti": {
+  "bwb": "BWBR0024729",
+  "short": "Besluit bekendmaking via de procedure veilen verdelen van twee vergunningen voor frequentieruimte t.b.v. digitale omroep",
+  "title": "Besluit bekendmaking via de procedure veilen verdelen van twee vergunningen voor frequentieruimte t.b.v. digitale omroep",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "subsidieregeling-sterktes-in-innovatie": {
+  "bwb": "BWBR0024881",
+  "short": "Subsidieregeling sterktes in innovatie",
+  "title": "Subsidieregeling sterktes in innovatie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-rente-geconsigneerde-gelden-2009": {
+  "bwb": "BWBR0025215",
+  "short": "Besluit rente geconsigneerde gelden 2009",
+  "title": "Besluit rente geconsigneerde gelden 2009",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vaststellingsbesluit-vergoeding-voorzitter-en-leden-adviescommissie-fonds-voor-economische": {
+  "bwb": "BWBR0025400",
+  "short": "Vaststellingsbesluit vergoeding voorzitter en leden Adviescommissie Fonds voor Economische Opbouw Uruzgan",
+  "title": "Vaststellingsbesluit vergoeding voorzitter en leden Adviescommissie Fonds voor Economische Opbouw Uruzgan",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-uurvergoedingen-voor-geestelijk-verzorgers-van-de-niet-klassieke-denominaties": {
+  "bwb": "BWBR0026030",
+  "short": "Besluit uurvergoedingen voor geestelijk verzorgers van de niet klassieke denominaties",
+  "title": "Besluit uurvergoedingen voor geestelijk verzorgers van de niet klassieke denominaties",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-kerkgenootschappen-van-de-hoofdafdeling-privaatrech": {
+  "bwb": "BWBR0026091",
+  "short": "Besluit beperking openbaarheid archief Kerkgenootschappen van de Hoofdafdeling Privaatrecht, Bureau Verenigingen en Stichtingen van het Ministerie van Justitie (1873) 1941–1988 (2000)",
+  "title": "Besluit beperking openbaarheid archief Kerkgenootschappen van de Hoofdafdeling Privaatrecht, Bureau Verenigingen en Stichtingen van het Ministerie van Justitie (1873) 1941–1988 (2000)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-personeelsdossiers-van-het-directoraat-generaal-voo": {
+  "bwb": "BWBR0026092",
+  "short": "Besluit beperking openbaarheid archief Personeelsdossiers van het Directoraat-Generaal voor Bijzondere Rechtspleging (DGBR) ressorterend onder het Ministerie van Justitie (1945–1986), toegang nr. 2.09.70",
+  "title": "Besluit beperking openbaarheid archief Personeelsdossiers van het Directoraat-Generaal voor Bijzondere Rechtspleging (DGBR) ressorterend onder het Ministerie van Justitie (1945–1986), toegang nr. 2.09.70",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-beleid-inzake-gratie-op-doodstraffen-van-het-minist": {
+  "bwb": "BWBR0026093",
+  "short": "Besluit beperking openbaarheid archief beleid inzake gratie op doodstraffen van het Ministerie van Justitie, 1945–1977, toegang nr. 2.09.71",
+  "title": "Besluit beperking openbaarheid archief beleid inzake gratie op doodstraffen van het Ministerie van Justitie, 1945–1977, toegang nr. 2.09.71",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vervanging-archiefbescheiden-penitentiaire-dossiers": {
+  "bwb": "BWBR0026307",
+  "short": "Besluit vervanging archiefbescheiden (penitentiaire dossiers)",
+  "title": "Besluit vervanging archiefbescheiden (penitentiaire dossiers)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-09-02_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-kameraadschapsbond-van-de-nederlandse-politie-en-he": {
+  "bwb": "BWBR0026316",
+  "short": "Besluit beperking openbaarheid archief Kameraadschapsbond van de Nederlandse Politie en het Georganiseerd Overleg voor Politieambtenarenzaken Ministerie van Justitie 1943–1994",
+  "title": "Besluit beperking openbaarheid archief Kameraadschapsbond van de Nederlandse Politie en het Georganiseerd Overleg voor Politieambtenarenzaken Ministerie van Justitie 1943–1994",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-lettergroep-verzoeken-om-recht-vr-ministerie-van-ju": {
+  "bwb": "BWBR0026317",
+  "short": "Besluit beperking openbaarheid archief Lettergroep Verzoeken om Recht (VR) Ministerie van Justitie 1945–1990",
+  "title": "Besluit beperking openbaarheid archief Lettergroep Verzoeken om Recht (VR) Ministerie van Justitie 1945–1990",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-algemene-inspectie-van-het-korps-rijkspolitie-minis": {
+  "bwb": "BWBR0026324",
+  "short": "Besluit beperking openbaarheid archief Algemene Inspectie van het Korps Rijkspolitie Ministerie van Justitie 1945–1992",
+  "title": "Besluit beperking openbaarheid archief Algemene Inspectie van het Korps Rijkspolitie Ministerie van Justitie 1945–1992",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-personele-aangelegenheden-ministerie-van-justitie-1": {
+  "bwb": "BWBR0026331",
+  "short": "Besluit beperking openbaarheid archief Personele aangelegenheden Ministerie van Justitie 1922–2000",
+  "title": "Besluit beperking openbaarheid archief Personele aangelegenheden Ministerie van Justitie 1922–2000",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-afdeling-internationale-rechtshulp-in-strafzaken-mi": {
+  "bwb": "BWBR0026332",
+  "short": "Besluit beperking openbaarheid archief afdeling Internationale Rechtshulp in Strafzaken Ministerie van Justitie 1921–1995",
+  "title": "Besluit beperking openbaarheid archief afdeling Internationale Rechtshulp in Strafzaken Ministerie van Justitie 1921–1995",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-lettergroep-verzoeken-om-recht-bijzondere-onderwerp": {
+  "bwb": "BWBR0026333",
+  "short": "Besluit beperking openbaarheid archief Lettergroep Verzoeken om Recht (Bijzondere Onderwerpen) Ministerie van Justitie 1949–1991",
+  "title": "Besluit beperking openbaarheid archief Lettergroep Verzoeken om Recht (Bijzondere Onderwerpen) Ministerie van Justitie 1949–1991",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-notaris-standplaatsen-directoraat-generaal-rechtspl": {
+  "bwb": "BWBR0026334",
+  "short": "Besluit beperking openbaarheid archief Notaris-standplaatsen Directoraat-Generaal Rechtspleging en Rechtshandhaving Ministerie van Justitie 1842–2007",
+  "title": "Besluit beperking openbaarheid archief Notaris-standplaatsen Directoraat-Generaal Rechtspleging en Rechtshandhaving Ministerie van Justitie 1842–2007",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaste-vergoeding-voorzitter-commissie-buitenlands-gediplomeerden-volksgezondheid": {
+  "bwb": "BWBR0026603",
+  "short": "Besluit vaste vergoeding voorzitter Commissie Buitenlands Gediplomeerden Volksgezondheid",
+  "title": "Besluit vaste vergoeding voorzitter Commissie Buitenlands Gediplomeerden Volksgezondheid",
+  "part": "bwb-now-mr-025",
+  "current_label": "2009-11-07_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-excessen-indonesie-ministerie-van-justitie-19451969": {
+  "bwb": "BWBR0026694",
+  "short": "Besluit beperking openbaarheid archief Excessen Indonesië, Ministerie van Justitie (1945–1969)",
+  "title": "Besluit beperking openbaarheid archief Excessen Indonesië, Ministerie van Justitie (1945–1969)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-semi-ambtelijk-archief-minister-van-justitie-i-samkalden-19": {
+  "bwb": "BWBR0026695",
+  "short": "Besluit beperking openbaarheid semi-ambtelijk archief minister van Justitie, I. Samkalden (1940) 1956–1966",
+  "title": "Besluit beperking openbaarheid semi-ambtelijk archief minister van Justitie, I. Samkalden (1940) 1956–1966",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-betreffende-oud-spanjestrijders-19371941": {
+  "bwb": "BWBR0026696",
+  "short": "Besluit beperking openbaarheid archief betreffende Oud-Spanjestrijders 1937–1941",
+  "title": "Besluit beperking openbaarheid archief betreffende Oud-Spanjestrijders 1937–1941",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-ministerie-van-justitie-betreffende-slobo-2": {
+  "bwb": "BWBR0026698",
+  "short": "Besluit beperking openbaarheid archiefbescheiden Ministerie van Justitie betreffende Slobodan Mitric, 1974–1986",
+  "title": "Besluit beperking openbaarheid archiefbescheiden Ministerie van Justitie betreffende Slobodan Mitric, 1974–1986",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-molukse-acties-ministerie-van-justitie-19702000": {
+  "bwb": "BWBR0026699",
+  "short": "Besluit beperking openbaarheid archief Molukse acties (Ministerie van Justitie 1970−2000)",
+  "title": "Besluit beperking openbaarheid archief Molukse acties (Ministerie van Justitie 1970−2000)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-betreffende-oorlogsmisdadigers-ministerie-van-justi": {
+  "bwb": "BWBR0026700",
+  "short": "Besluit beperking openbaarheid archief betreffende Oorlogsmisdadigers (Ministerie van Justitie 1950−1980)",
+  "title": "Besluit beperking openbaarheid archief betreffende Oorlogsmisdadigers (Ministerie van Justitie 1950−1980)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-koninklijk-huis-ministerie-van-justitie-18161980": {
+  "bwb": "BWBR0026703",
+  "short": "Besluit beperking openbaarheid archief Koninklijk Huis (Ministerie van Justitie 1816–1980)",
+  "title": "Besluit beperking openbaarheid archief Koninklijk Huis (Ministerie van Justitie 1816–1980)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-bureaus-kabinet-en-juridische-zaken-afdeling-politi": {
+  "bwb": "BWBR0026704",
+  "short": "Besluit beperking openbaarheid archief bureaus Kabinet en Juridische Zaken afdeling Politie ressorterend onder het Ministerie van Justitie (1932–) 1945–1952 (–1968)",
+  "title": "Besluit beperking openbaarheid archief bureaus Kabinet en Juridische Zaken afdeling Politie ressorterend onder het Ministerie van Justitie (1932–) 1945–1952 (–1968)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "nationale-algemene-uitvoervergunning-nl-002": {
+  "bwb": "BWBR0026717",
+  "short": "Nationale Algemene Uitvoervergunning NL 002",
+  "title": "Nationale Algemene Uitvoervergunning NL 002",
+  "part": "bwb-now-mr-025",
+  "current_label": "2021-09-09_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-ministerie-voor-algemeene-oorlogvoering-v": {
+  "bwb": "BWBR0027104",
+  "short": "Besluit beperking openbaarheid archiefbescheiden Ministerie voor Algemeene Oorlogvoering van het Koninkrijk (1942–1946), enz.",
+  "title": "Besluit beperking openbaarheid archiefbescheiden Ministerie voor Algemeene Oorlogvoering van het Koninkrijk (1942–1946), enz.",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-01-22_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-directoraat-generaal-handel-ambachten-en-diensten-1": {
+  "bwb": "BWBR0027367",
+  "short": "Besluit beperking openbaarheid archief Directoraat-Generaal Handel Ambachten en Diensten 1939–1975 (Ministerie van Economische Zaken)",
+  "title": "Besluit beperking openbaarheid archief Directoraat-Generaal Handel Ambachten en Diensten 1939–1975 (Ministerie van Economische Zaken)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-03-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-directoraat-generaal-voor-de-buitenlandse-economisc": {
+  "bwb": "BWBR0027690",
+  "short": "Besluit beperking openbaarheid archief Directoraat-Generaal voor de Buitenlandse Economische Betrekkingen (1949) 1976–1983 (1986) (ex artikel 10 archiefbesluit 1995)",
+  "title": "Besluit beperking openbaarheid archief Directoraat-Generaal voor de Buitenlandse Economische Betrekkingen (1949) 1976–1983 (1986) (ex artikel 10 archiefbesluit 1995)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-aanwijzing-vestigingsplaats-pensioen-en-uitkeringsraad-per-1-januari-2011": {
+  "bwb": "BWBR0027778",
+  "short": "Regeling aanwijzing vestigingsplaats Pensioen- en Uitkeringsraad per 1 januari 2011",
+  "title": "Regeling aanwijzing vestigingsplaats Pensioen- en Uitkeringsraad per 1 januari 2011",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-huis-van-bewaring-en-strafgevangenis-wolvenplein-te": {
+  "bwb": "BWBR0028185",
+  "short": "Besluit beperking openbaarheid archief Huis van Bewaring en Strafgevangenis Wolvenplein te Utrecht (aanvulling), 1940−1978 (2000)",
+  "title": "Besluit beperking openbaarheid archief Huis van Bewaring en Strafgevangenis Wolvenplein te Utrecht (aanvulling), 1940−1978 (2000)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archieven-huis-van-bewaring-de-bijzondere-strafgevangenis-v": {
+  "bwb": "BWBR0028186",
+  "short": "Besluit beperking openbaarheid archieven Huis van Bewaring, de Bijzondere Strafgevangenis voor Jonge Mannen te Zutphen en de Graafse Kamp te Warnsveld (1888) 1937−1993",
+  "title": "Besluit beperking openbaarheid archieven Huis van Bewaring, de Bijzondere Strafgevangenis voor Jonge Mannen te Zutphen en de Graafse Kamp te Warnsveld (1888) 1937−1993",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-strafgevangenis-groningen-en-de-dr-s-van-mesdagklin": {
+  "bwb": "BWBR0028187",
+  "short": "Besluit beperking openbaarheid archief Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993",
+  "title": "Besluit beperking openbaarheid archief Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-commissie-van-toezicht-over-de-rijksinrichting-tuch": {
+  "bwb": "BWBR0028188",
+  "short": "Besluit beperking openbaarheid archief Commissie van Toezicht over de Rijksinrichting (Tuchtschool en Rijksinternaat) voor jongens en meisjes De Hunnerberg te Nijmegen, periode 1918−1981 (Gelders Archief)",
+  "title": "Besluit beperking openbaarheid archief Commissie van Toezicht over de Rijksinrichting (Tuchtschool en Rijksinternaat) voor jongens en meisjes De Hunnerberg te Nijmegen, periode 1918−1981 (Gelders Archief)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-commissie-van-toezicht-over-de-rijksinrichting-tuch-2": {
+  "bwb": "BWBR0028189",
+  "short": "Besluit beperking openbaarheid archief Commissie van Toezicht over de Rijksinrichting (Tuchtschool en Rijksinternaat) voor jongens en meisjes De Hunnerberg te Nijmegen, periode 1918−1981 (Utrechts archief)",
+  "title": "Besluit beperking openbaarheid archief Commissie van Toezicht over de Rijksinrichting (Tuchtschool en Rijksinternaat) voor jongens en meisjes De Hunnerberg te Nijmegen, periode 1918−1981 (Utrechts archief)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-voorwaardelijke-invrijheidstellingen-van-het-minist": {
+  "bwb": "BWBR0028190",
+  "short": "Besluit beperking openbaarheid archief voorwaardelijke invrijheidstellingen van het Ministerie van Justitie, periode 1950−1978",
+  "title": "Besluit beperking openbaarheid archief voorwaardelijke invrijheidstellingen van het Ministerie van Justitie, periode 1950−1978",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-tot-vaststelling-model-geneeskundige-verklaring-krankzinnigheid-bes": {
+  "bwb": "BWBR0028705",
+  "short": "Regeling tot vaststelling model geneeskundige verklaring krankzinnigheid BES",
+  "title": "Regeling tot vaststelling model geneeskundige verklaring krankzinnigheid BES",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-10-10_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-recht-op-kinderopvangtoeslag-bij-gastouderopvang-in-2010": {
+  "bwb": "BWBR0028943",
+  "short": "Besluit recht op kinderopvangtoeslag bij gastouderopvang in 2010",
+  "title": "Besluit recht op kinderopvangtoeslag bij gastouderopvang in 2010",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-11-16_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-vervolg-aanwijzing-ex-artikel-7-wet-marktordening-gezondheidszorg-contracteerruim": {
+  "bwb": "BWBR0029042",
+  "short": "Regeling vervolg aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Contracteerruimte AWBZ 2011)",
+  "title": "Regeling vervolg aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Contracteerruimte AWBZ 2011)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-12-08_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-digitaal-beheer-bes": {
+  "bwb": "BWBR0029182",
+  "short": "Regeling digitaal beheer BES",
+  "title": "Regeling digitaal beheer BES",
+  "part": "bwb-now-mr-025",
+  "current_label": "2010-10-10_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-taakomschrijving-staatssecretaris-van-infrastructuur-en-milieu": {
+  "bwb": "BWBR0029290",
+  "short": "Besluit vaststelling taakomschrijving Staatssecretaris van Infrastructuur en Milieu",
+  "title": "Besluit vaststelling taakomschrijving Staatssecretaris van Infrastructuur en Milieu",
+  "part": "bwb-now-mr-025",
+  "current_label": "2011-02-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-uitgifte-vergunningen-landelijke-commerciele-radio-omroep-kavels-a7-en-a8-fm-band": {
+  "bwb": "BWBR0029918",
+  "short": "Besluit uitgifte vergunningen landelijke commerciële radio-omroep kavels A7 en A8 FM-band en digitale radio-omroep band III",
+  "title": "Besluit uitgifte vergunningen landelijke commerciële radio-omroep kavels A7 en A8 FM-band en digitale radio-omroep band III",
+  "part": "bwb-now-mr-025",
+  "current_label": "2011-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-beleidskader-subsidiering-anonieme-e-mental-health-2": {
+  "bwb": "BWBR0030549",
+  "short": "Besluit vaststelling beleidskader subsidiëring anonieme e-mental health",
+  "title": "Besluit vaststelling beleidskader subsidiëring anonieme e-mental health",
+  "part": "bwb-now-mr-025",
+  "current_label": "2011-10-22_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzing-erfgoedinspectie-als-centrale-autoriteit-in-de-zin-van-richtlijn-93-7-e": {
+  "bwb": "BWBR0030764",
+  "short": "Besluit aanwijzing Erfgoedinspectie als centrale autoriteit in de zin van Richtlijn 93/7/EEG",
+  "title": "Besluit aanwijzing Erfgoedinspectie als centrale autoriteit in de zin van Richtlijn 93/7/EEG",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-02-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-normbedrag-en-bedrag-van-het-voorschot-van-het-besluit-vergoedingen-r": {
+  "bwb": "BWBR0030808",
+  "short": "Besluit vaststelling normbedrag en bedrag van het voorschot van het Besluit vergoedingen rechtsbijstand 2000 (2012)",
+  "title": "Besluit vaststelling normbedrag en bedrag van het voorschot van het Besluit vergoedingen rechtsbijstand 2000 (2012)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzing-instantie-voor-advies-over-ontheffing-naturalisatietoets-belemmering-al": {
+  "bwb": "BWBR0031056",
+  "short": "Besluit aanwijzing instantie voor advies over ontheffing naturalisatietoets (belemmering als bedoeld artikel 4, aanhef en onder a, Besluit naturalisatietoets)",
+  "title": "Besluit aanwijzing instantie voor advies over ontheffing naturalisatietoets (belemmering als bedoeld artikel 4, aanhef en onder a, Besluit naturalisatietoets)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-01-03_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vervanging-archiefbescheiden-directie-justitiele-inrichtingen": {
+  "bwb": "BWBR0031098",
+  "short": "Besluit vervanging archiefbescheiden Directie Justitiële Inrichtingen",
+  "title": "Besluit vervanging archiefbescheiden Directie Justitiële Inrichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-uniforme-administratieve-voorwaarden-voor-de-uitvoering-van-werken-en": {
+  "bwb": "BWBR0031190",
+  "short": "Besluit vaststelling Uniforme administratieve voorwaarden voor de uitvoering van werken en van technische installatiewerken 2012 (UAV 2012)",
+  "title": "Besluit vaststelling Uniforme administratieve voorwaarden voor de uitvoering van werken en van technische installatiewerken 2012 (UAV 2012)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-routinematige-digitale-vervanging-archiefbescheiden-ocw": {
+  "bwb": "BWBR0031381",
+  "short": "Besluit routinematige digitale vervanging archiefbescheiden (OCW)",
+  "title": "Besluit routinematige digitale vervanging archiefbescheiden (OCW)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opname-register-buitenlandse-kinderopvang-juli-2012": {
+  "bwb": "BWBR0031857",
+  "short": "Besluit opname Register buitenlandse kinderopvang juli 2012",
+  "title": "Besluit opname Register buitenlandse kinderopvang juli 2012",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opname-register-buitenlandse-kinderopvang-oktober-2012": {
+  "bwb": "BWBR0032106",
+  "short": "Besluit opname Register buitenlandse kinderopvang oktober 2012",
+  "title": "Besluit opname Register buitenlandse kinderopvang oktober 2012",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-10-19_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-taakverdeling-minister-en-staatssecretaris-van-volksgezondheid-welzijn-en-sport": {
+  "bwb": "BWBR0032265",
+  "short": "Besluit taakverdeling Minister en Staatssecretaris van Volksgezondheid, Welzijn en Sport",
+  "title": "Besluit taakverdeling Minister en Staatssecretaris van Volksgezondheid, Welzijn en Sport",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-taakverdeling-minister-en-staatsecretaris-ocw": {
+  "bwb": "BWBR0032266",
+  "short": "Besluit taakverdeling Minister en Staatsecretaris OCW",
+  "title": "Besluit taakverdeling Minister en Staatsecretaris OCW",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-bekendmaking-taak-staatssecretaris-infrastructuur-en-milieu": {
+  "bwb": "BWBR0032313",
+  "short": "Besluit bekendmaking taak Staatssecretaris Infrastructuur en Milieu",
+  "title": "Besluit bekendmaking taak Staatssecretaris Infrastructuur en Milieu",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-van-eerder-aan-nationaal-archief-overgebrachte-en-aldaar-aa": {
+  "bwb": "BWBR0032510",
+  "short": "Besluit beperking openbaarheid van eerder aan Nationaal Archief overgebrachte en aldaar aanwezige archief van Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983 haar taakvoorgangers en taakopvolgers",
+  "title": "Besluit beperking openbaarheid van eerder aan Nationaal Archief overgebrachte en aldaar aanwezige archief van Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983 haar taakvoorgangers en taakopvolgers",
+  "part": "bwb-now-mr-025",
+  "current_label": "2012-12-21_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opname-register-buitenlandse-kinderopvang-januari-2013": {
+  "bwb": "BWBR0032855",
+  "short": "Besluit opname Register buitenlandse kinderopvang januari 2013",
+  "title": "Besluit opname Register buitenlandse kinderopvang januari 2013",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-02-04_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-openbaarheid-archiefbescheiden-toegang-nummer-2-03-01": {
+  "bwb": "BWBR0032984",
+  "short": "Besluit opheffing openbaarheid archiefbescheiden toegang nummer 2.03.01",
+  "title": "Besluit opheffing openbaarheid archiefbescheiden toegang nummer 2.03.01",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-03-13_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-verlening-ondermandaat-algemeen-directeur-centraal-justitieel-incassobureau-onderm": {
+  "bwb": "BWBR0032996",
+  "short": "Besluit verlening ondermandaat algemeen directeur Centraal Justitieel Incassobureau (Ondermandaatregeling CJIB)",
+  "title": "Besluit verlening ondermandaat algemeen directeur Centraal Justitieel Incassobureau (Ondermandaatregeling CJIB)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "reglement-werkwijze-klachtenadviescommissie-wsnp": {
+  "bwb": "BWBR0033000",
+  "short": "Reglement werkwijze Klachtenadviescommissie Wsnp",
+  "title": "Reglement werkwijze Klachtenadviescommissie Wsnp",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-03-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vervreemding-archiefbescheiden-papieren-dossiers-met-gegevens-beroepsbeoefenaren-e": {
+  "bwb": "BWBR0033064",
+  "short": "Besluit vervreemding archiefbescheiden (papieren dossiers met gegevens beroepsbeoefenaren ex artikel 34 Wet BIG in register SKP (periode 2000–2012))",
+  "title": "Besluit vervreemding archiefbescheiden (papieren dossiers met gegevens beroepsbeoefenaren ex artikel 34 Wet BIG in register SKP (periode 2000–2012))",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opname-register-buitenlandse-kinderopvang-april-2013": {
+  "bwb": "BWBR0033293",
+  "short": "Besluit opname Register buitenlandse kinderopvang april 2013",
+  "title": "Besluit opname Register buitenlandse kinderopvang april 2013",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-04-22_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-uitgifte-drie-vergunningen-voor-analoge-commerciele-radio-omroep-voor-de-kavels-a7": {
+  "bwb": "BWBR0033305",
+  "short": "Besluit uitgifte drie vergunningen voor analoge commerciële radio-omroep (voor de kavels A7, B38 en C08) en drie vergunningen voor digitale radio-omroep",
+  "title": "Besluit uitgifte drie vergunningen voor analoge commerciële radio-omroep (voor de kavels A7, B38 en C08) en drie vergunningen voor digitale radio-omroep",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-04-24_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-geheimhouding-aanbestedingen-beveiligingsinstallaties-museale-instellingen-2013": {
+  "bwb": "BWBR0033517",
+  "short": "Besluit geheimhouding aanbestedingen beveiligingsinstallaties museale instellingen 2013",
+  "title": "Besluit geheimhouding aanbestedingen beveiligingsinstallaties museale instellingen 2013",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-06-14_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opneming-in-en-verwijdering-uit-register-buitenlandse-kinderopvang-juli-2013": {
+  "bwb": "BWBR0033656",
+  "short": "Besluit opneming in en verwijdering uit register buitenlandse kinderopvang juli 2013",
+  "title": "Besluit opneming in en verwijdering uit register buitenlandse kinderopvang juli 2013",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-07-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-tot-geheimhouding-aanbesteding-vervanging-closed-circuit-television-videomatrix-va": {
+  "bwb": "BWBR0033800",
+  "short": "Besluit tot geheimhouding aanbesteding vervanging Closed-circuit television/Videomatrix van Unit 5 van de Extra Beveiligde Inrichting in Vught",
+  "title": "Besluit tot geheimhouding aanbesteding vervanging Closed-circuit television/Videomatrix van Unit 5 van de Extra Beveiligde Inrichting in Vught",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-08-28_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opneming-in-en-verwijdering-uit-register-buitenlandse-kinderopvang-oktober-2013": {
+  "bwb": "BWBR0034012",
+  "short": "Besluit opneming in en verwijdering uit register buitenlandse kinderopvang oktober 2013",
+  "title": "Besluit opneming in en verwijdering uit register buitenlandse kinderopvang oktober 2013",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-10-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "reglement-werkwijze-klachtenadviescommissie-wsnp-ii": {
+  "bwb": "BWBR0034028",
+  "short": "Reglement werkwijze Klachtenadviescommissie Wsnp II",
+  "title": "Reglement werkwijze Klachtenadviescommissie Wsnp II",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-10-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "gedragscode-bewindvoerders-wsnp-ii": {
+  "bwb": "BWBR0034033",
+  "short": "Gedragscode bewindvoerders Wsnp II",
+  "title": "Gedragscode bewindvoerders Wsnp II",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-10-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-kwaliteitsaudits-wsnp-bewindvoerderorganisaties-ii": {
+  "bwb": "BWBR0034035",
+  "short": "Besluit kwaliteitsaudits Wsnp-bewindvoerderorganisaties II",
+  "title": "Besluit kwaliteitsaudits Wsnp-bewindvoerderorganisaties II",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-10-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanvullend-beleid-ontzegging-bewindvoerdersubsidie-wsnp": {
+  "bwb": "BWBR0034036",
+  "short": "Aanvullend beleid ontzegging bewindvoerdersubsidie Wsnp",
+  "title": "Aanvullend beleid ontzegging bewindvoerdersubsidie Wsnp",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-10-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-beschikbaarheidbijdrage-medische-vervolgopleidingen-2014-2016": {
+  "bwb": "BWBR0034146",
+  "short": "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2014-2016",
+  "title": "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2014-2016",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-beperking-openbaarheid-ordedienst-binnenlandse-strijdkrachten-en-afwikke": {
+  "bwb": "BWBR0034194",
+  "short": "Besluit opheffing beperking openbaarheid Ordedienst/Binnenlandse Strijdkrachten en afwikkelingsbureau, 1941–1956",
+  "title": "Besluit opheffing beperking openbaarheid Ordedienst/Binnenlandse Strijdkrachten en afwikkelingsbureau, 1941–1956",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-11-23_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-directie-facilitair-bedrijf-en-taakvoorgangers-mini": {
+  "bwb": "BWBR0034221",
+  "short": "Besluit beperking openbaarheid archief Directie Facilitair Bedrijf en taakvoorgangers Ministerie van Onderwijs, Cultuur en Wetenschap 1989–2007 (2008)",
+  "title": "Besluit beperking openbaarheid archief Directie Facilitair Bedrijf en taakvoorgangers Ministerie van Onderwijs, Cultuur en Wetenschap 1989–2007 (2008)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2013-11-26_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "regeling-verlening-mandaat-volmacht-en-machtiging-aan-duo-in-verband-met-register-buitenla": {
+  "bwb": "BWBR0034646",
+  "short": "Regeling verlening mandaat, volmacht en machtiging aan DUO in verband met register buitenlandse kinderopvang",
+  "title": "Regeling verlening mandaat, volmacht en machtiging aan DUO in verband met register buitenlandse kinderopvang",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzing-uwv-als-national-co-ordination-office": {
+  "bwb": "BWBR0034647",
+  "short": "Besluit aanwijzing UWV als National Co-ordination Office",
+  "title": "Besluit aanwijzing UWV als National Co-ordination Office",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-02-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-wettelijke-erkenning-specialistentitel-sportarts-en-instemming-met-besluit-sportge": {
+  "bwb": "BWBR0035067",
+  "short": "Besluit wettelijke erkenning specialistentitel sportarts en instemming met Besluit Sportgeneeskunde",
+  "title": "Besluit wettelijke erkenning specialistentitel sportarts en instemming met Besluit Sportgeneeskunde",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-mandaat-ondermandaat-en-machtiging-afdelingshoofden-omgevingsdienst-west-holland": {
+  "bwb": "BWBR0035114",
+  "short": "Besluit mandaat, ondermandaat en -machtiging afdelingshoofden Omgevingsdienst West-Holland",
+  "title": "Besluit mandaat, ondermandaat en -machtiging afdelingshoofden Omgevingsdienst West-Holland",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-05-16_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opneming-in-en-verwijdering-uit-register-buitenlandse-kinderopvang-juli-2014": {
+  "bwb": "BWBR0035319",
+  "short": "Besluit opneming in en verwijdering uit register buitenlandse kinderopvang juli 2014",
+  "title": "Besluit opneming in en verwijdering uit register buitenlandse kinderopvang juli 2014",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-07-14_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-inventarisnummer-12956a-archief-tweede-kamer-19801989-toega": {
+  "bwb": "BWBR0035419",
+  "short": "Besluit beperking openbaarheid inventarisnummer 12956A Archief Tweede Kamer 1980–1989, toegang 2.02.28",
+  "title": "Besluit beperking openbaarheid inventarisnummer 12956A Archief Tweede Kamer 1980–1989, toegang 2.02.28",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-beperkingen-openbaarheid-enige-inventarisnummers-archief-cg-singapore": {
+  "bwb": "BWBR0035665",
+  "short": "Besluit opheffing beperkingen openbaarheid enige inventarisnummers archief CG Singapore",
+  "title": "Besluit opheffing beperkingen openbaarheid enige inventarisnummers archief CG Singapore",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-10-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-openbaarheid-enige-inventarisnummers-archief-directe-verre-oosten": {
+  "bwb": "BWBR0035666",
+  "short": "Besluit opheffing openbaarheid enige inventarisnummers archief Directe Verre Oosten",
+  "title": "Besluit opheffing openbaarheid enige inventarisnummers archief Directe Verre Oosten",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-10-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-beperkingen-openbaarheid-enige-inventarisnummers-indisch-archief": {
+  "bwb": "BWBR0035668",
+  "short": "Besluit opheffing beperkingen openbaarheid enige inventarisnummers Indisch Archief",
+  "title": "Besluit opheffing beperkingen openbaarheid enige inventarisnummers Indisch Archief",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-10-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-beperkingen-openbaarheid-archief-rapportage-indonesie": {
+  "bwb": "BWBR0035669",
+  "short": "Besluit opheffing beperkingen openbaarheid archief Rapportage Indonesië",
+  "title": "Besluit opheffing beperkingen openbaarheid archief Rapportage Indonesië",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-10-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-beperkingen-openbaarheid-enige-inventarisnummers-archief-commissariaat-i": {
+  "bwb": "BWBR0035671",
+  "short": "Besluit opheffing beperkingen openbaarheid enige inventarisnummers archief Commissariaat Indische Zaken",
+  "title": "Besluit opheffing beperkingen openbaarheid enige inventarisnummers archief Commissariaat Indische Zaken",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-10-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-beperkingen-openbaarheid-enige-inventarisnummers-code-archief-buza": {
+  "bwb": "BWBR0035672",
+  "short": "Besluit opheffing beperkingen openbaarheid enige inventarisnummers Code-Archief BuZa",
+  "title": "Besluit opheffing beperkingen openbaarheid enige inventarisnummers Code-Archief BuZa",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-10-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vervanging-archiefbescheiden-ind": {
+  "bwb": "BWBR0035714",
+  "short": "Besluit Vervanging Archiefbescheiden (IND)",
+  "title": "Besluit Vervanging Archiefbescheiden (IND)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-12-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffen-beperking-openbaarheid-inventarisnummer-9107-in-archief-kdk-18981945": {
+  "bwb": "BWBR0035916",
+  "short": "Besluit opheffen beperking openbaarheid inventarisnummer 9107 in archief KdK 1898–1945",
+  "title": "Besluit opheffen beperking openbaarheid inventarisnummer 9107 in archief KdK 1898–1945",
+  "part": "bwb-now-mr-025",
+  "current_label": "2014-12-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archiefbescheiden-ministerie-van-algemeene-oorlogsvoering-v": {
+  "bwb": "BWBR0036346",
+  "short": "Besluit beperking openbaarheid archiefbescheiden ministerie van Algemeene Oorlogsvoering van het Koninkrijk (1942–1946), het Kabinet van de Minister-President (1946–1947) en het ministerie van Algemene Zaken, Kabinet van de Minister-President (1947–heden) over het tijdvak (1942) 1942–1979 (1989)",
+  "title": "Besluit beperking openbaarheid archiefbescheiden ministerie van Algemeene Oorlogsvoering van het Koninkrijk (1942–1946), het Kabinet van de Minister-President (1946–1947) en het ministerie van Algemene Zaken, Kabinet van de Minister-President (1947–heden) over het tijdvak (1942) 1942–1979 (1989)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-02-27_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-spoorwegongevallenraad-19561999": {
+  "bwb": "BWBR0036423",
+  "short": "Besluit beperking openbaarheid archief Spoorwegongevallenraad, 1956–1999",
+  "title": "Besluit beperking openbaarheid archief Spoorwegongevallenraad, 1956–1999",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-03-20_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vervanging-archiefbescheiden-immigratie-en-naturalisatiedienst-ind": {
+  "bwb": "BWBR0036556",
+  "short": "Besluit vervanging archiefbescheiden Immigratie- en Naturalisatiedienst (IND)",
+  "title": "Besluit vervanging archiefbescheiden Immigratie- en Naturalisatiedienst (IND)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-06-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "controleprotocol-behorend-bij-de-regeling-subsidies-hoogwaterbescherming-2014": {
+  "bwb": "BWBR0036604",
+  "short": "Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014",
+  "title": "Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-05-12_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-routinematige-digitale-vervanging-archiefbescheiden-informatiesysteem-marjolein": {
+  "bwb": "BWBR0036911",
+  "short": "Besluit routinematige digitale vervanging archiefbescheiden informatiesysteem Marjolein",
+  "title": "Besluit routinematige digitale vervanging archiefbescheiden informatiesysteem Marjolein",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-inzake-de-routinematige-digitale-vervanging-van-archiefbescheiden-van-de-rijksdien": {
+  "bwb": "BWBR0036982",
+  "short": "Besluit inzake de (routinematige) digitale vervanging van archiefbescheiden van de Rijksdienst voor het Cultureel Erfgoed",
+  "title": "Besluit inzake de (routinematige) digitale vervanging van archiefbescheiden van de Rijksdienst voor het Cultureel Erfgoed",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzing-erfgoedinspectie-als-centrale-autoriteit-in-de-zin-van-richtlijn-2014-6": {
+  "bwb": "BWBR0037342",
+  "short": "Besluit aanwijzing Erfgoedinspectie als centrale autoriteit in de zin van Richtlijn 2014/60/EU",
+  "title": "Besluit aanwijzing Erfgoedinspectie als centrale autoriteit in de zin van Richtlijn 2014/60/EU",
+  "part": "bwb-now-mr-025",
+  "current_label": "2015-12-16_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffen-beperkingen-openbaarheid-archief-kabinet-der-koningin-18981945": {
+  "bwb": "BWBR0037477",
+  "short": "Besluit opheffen beperkingen openbaarheid archief Kabinet der Koningin 1898–1945",
+  "title": "Besluit opheffen beperkingen openbaarheid archief Kabinet der Koningin 1898–1945",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffing-beperkingen-gesteld-aan-openbaarheid-archief-sociaal-economische-raad-19": {
+  "bwb": "BWBR0037516",
+  "short": "Besluit opheffing beperkingen gesteld aan openbaarheid archief Sociaal-Economische Raad 1950–1979",
+  "title": "Besluit opheffing beperkingen gesteld aan openbaarheid archief Sociaal-Economische Raad 1950–1979",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-01-12_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-wettelijke-erkenning-specialistentitel-openbaar-apotheker-en-instemming-met-beslui": {
+  "bwb": "BWBR0037551",
+  "short": "Besluit wettelijke erkenning specialistentitel openbaar apotheker en instemming met Besluit opleidingseisen openbare farmacie en Besluiten registratie en herregistratie openbare farmacie",
+  "title": "Besluit wettelijke erkenning specialistentitel openbaar apotheker en instemming met Besluit opleidingseisen openbare farmacie en Besluiten registratie en herregistratie openbare farmacie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-ondermandaat-nederlandse-vertegenwoordigingen": {
+  "bwb": "BWBR0037762",
+  "short": "Besluit ondermandaat Nederlandse vertegenwoordigingen",
+  "title": "Besluit ondermandaat Nederlandse vertegenwoordigingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-03-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-i-windenergiegebied-borssele": {
+  "bwb": "BWBR0037794",
+  "short": "Kavelbesluit I windenergiegebied Borssele",
+  "title": "Kavelbesluit I windenergiegebied Borssele",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-iv-windenergiegebied-borssele": {
+  "bwb": "BWBR0037800",
+  "short": "Kavelbesluit IV windenergiegebied Borssele",
+  "title": "Kavelbesluit IV windenergiegebied Borssele",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-ii-windenergiegebied-borssele": {
+  "bwb": "BWBR0037801",
+  "short": "Kavelbesluit II windenergiegebied Borssele",
+  "title": "Kavelbesluit II windenergiegebied Borssele",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-v-innovatiekavel-windenergiegebied-borssele": {
+  "bwb": "BWBR0037802",
+  "short": "Kavelbesluit V (innovatiekavel) windenergiegebied Borssele",
+  "title": "Kavelbesluit V (innovatiekavel) windenergiegebied Borssele",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-iii-windenergiegebied-borssele": {
+  "bwb": "BWBR0037811",
+  "short": "Kavelbesluit III windenergiegebied Borssele",
+  "title": "Kavelbesluit III windenergiegebied Borssele",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-tot-veilen-vergunningen-digitale-ethertelevisie-en-vaststelling-voorschriften-en-b": {
+  "bwb": "BWBR0037843",
+  "short": "Besluit tot veilen vergunningen digitale ethertelevisie en vaststelling voorschriften en beperkingen vergunningen",
+  "title": "Besluit tot veilen vergunningen digitale ethertelevisie en vaststelling voorschriften en beperkingen vergunningen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-04-21_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mededeling-herziening-hoogte-uitkering-op-grond-van-algemene-nabestaandenwet-met-ingang-va": {
+  "bwb": "BWBR0038136",
+  "short": "Mededeling herziening hoogte uitkering op grond van Algemene nabestaandenwet met ingang van 1 juli 2016",
+  "title": "Mededeling herziening hoogte uitkering op grond van Algemene nabestaandenwet met ingang van 1 juli 2016",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-algemeen-interventiebeleid-nederlandse-voedsel-en-warenautoriteit": {
+  "bwb": "BWBR0038207",
+  "short": "Besluit vaststelling Algemeen Interventiebeleid Nederlandse Voedsel- en Warenautoriteit",
+  "title": "Besluit vaststelling Algemeen Interventiebeleid Nederlandse Voedsel- en Warenautoriteit",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "aanwijzing-beschikbaarheidbijdrage-medische-vervolgopleidingen-20172018": {
+  "bwb": "BWBR0038287",
+  "short": "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2017–2018",
+  "title": "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2017–2018",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "bekendmaking-akw-bedragen-per-1-juli-2016": {
+  "bwb": "BWBR0038517",
+  "short": "Bekendmaking AKW-bedragen per 1 juli 2016",
+  "title": "Bekendmaking AKW-bedragen per 1 juli 2016",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzing-geschillencommissie-auteurscontractenrecht-2": {
+  "bwb": "BWBR0038567",
+  "short": "Besluit aanwijzing Geschillencommissie Auteurscontractenrecht",
+  "title": "Besluit aanwijzing Geschillencommissie Auteurscontractenrecht",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffen-beperkingen-openbaarheid-archief-stichting-nederlands-kunstbezit-1930-194": {
+  "bwb": "BWBR0038649",
+  "short": "Besluit opheffen beperkingen openbaarheid archief Stichting Nederlands Kunstbezit (1930) 1945–1951 (1983) en van haar taakvoorgangers en taakopvolgers, Toegangnummer 2.08.42",
+  "title": "Besluit opheffen beperkingen openbaarheid archief Stichting Nederlands Kunstbezit (1930) 1945–1951 (1983) en van haar taakvoorgangers en taakopvolgers, Toegangnummer 2.08.42",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-10-26_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "reglement-geschillencommissie-defensie-geneeskundige-zorg-2": {
+  "bwb": "BWBR0039091",
+  "short": "Reglement geschillencommissie defensie geneeskundige zorg",
+  "title": "Reglement geschillencommissie defensie geneeskundige zorg",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-i-windenergiegebied-hollandse-kust-zuid": {
+  "bwb": "BWBR0039095",
+  "short": "Kavelbesluit I windenergiegebied Hollandse Kust (zuid)",
+  "title": "Kavelbesluit I windenergiegebied Hollandse Kust (zuid)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-ii-windenergiegebied-hollandse-kust-zuid": {
+  "bwb": "BWBR0039112",
+  "short": "Kavelbesluit II windenergiegebied Hollandse Kust (zuid)",
+  "title": "Kavelbesluit II windenergiegebied Hollandse Kust (zuid)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "tijdelijk-besluit-mandaat-en-machtiging-afdoen-en-beantwoorden-brieven-over-fiscale-wetsto": {
+  "bwb": "BWBR0039185",
+  "short": "Tijdelijk besluit mandaat en machtiging afdoen en beantwoorden brieven over fiscale wetstoepassing en uitvoeringsbeleid (Mandaatbesluit Directie Vaktechniek Belastingen & Toeslagen)",
+  "title": "Tijdelijk besluit mandaat en machtiging afdoen en beantwoorden brieven over fiscale wetstoepassing en uitvoeringsbeleid (Mandaatbesluit Directie Vaktechniek Belastingen & Toeslagen)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-02-14_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-handhavingsbeleidsplan-rijkswaterstaat": {
+  "bwb": "BWBR0039539",
+  "short": "Besluit Handhavingsbeleidsplan Rijkswaterstaat",
+  "title": "Besluit Handhavingsbeleidsplan Rijkswaterstaat",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-specifiek-interventiebeleid-tabak-en-rookwaren-nvwa-ib02-spec-31-vers": {
+  "bwb": "BWBR0039683",
+  "short": "Besluit vaststelling Specifiek Interventiebeleid Tabak en rookwaren NVWA (IB02-SPEC 31, versie 7)",
+  "title": "Besluit vaststelling Specifiek Interventiebeleid Tabak en rookwaren NVWA (IB02-SPEC 31, versie 7)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "bekendmaking-akw-bedragen-per-1-januari-2017": {
+  "bwb": "BWBR0039686",
+  "short": "Bekendmaking AKW-bedragen per 1 januari 2017",
+  "title": "Bekendmaking AKW-bedragen per 1 januari 2017",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "bekendmaking-gewijzigde-bedragen-algemene-kinderbijslagwet-enz-per-1-juli-2017": {
+  "bwb": "BWBR0039694",
+  "short": "Bekendmaking gewijzigde bedragen Algemene Kinderbijslagwet, enz. per 1 juli 2017",
+  "title": "Bekendmaking gewijzigde bedragen Algemene Kinderbijslagwet, enz. per 1 juli 2017",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "controleprotocol-behorend-bij-de-regeling-subsidies-hoogwaterbescherming-2014-nieuwe-norme": {
+  "bwb": "BWBR0039824",
+  "short": "Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014 (nieuwe normering primaire waterkeringen, Rijkswaterstaat)",
+  "title": "Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014 (nieuwe normering primaire waterkeringen, Rijkswaterstaat)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-07-22_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-specifiek-interventiebeleid-productveiligheid-nvwa-ib02-spec-45-versi": {
+  "bwb": "BWBR0039868",
+  "short": "Besluit vaststelling Specifiek Interventiebeleid Productveiligheid NVWA (IB02-SPEC 45, versie 6)",
+  "title": "Besluit vaststelling Specifiek Interventiebeleid Productveiligheid NVWA (IB02-SPEC 45, versie 6)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-specifiek-interventiebeleid-inspectie-levensmiddelen-en-voedselveilig": {
+  "bwb": "BWBR0039869",
+  "short": "Besluit vaststelling Specifiek Interventiebeleid inspectie levensmiddelen en voedselveiligheid geregistreerde bedrijven NVWA (IB02-SPEC 37, versie 5)",
+  "title": "Besluit vaststelling Specifiek Interventiebeleid inspectie levensmiddelen en voedselveiligheid geregistreerde bedrijven NVWA (IB02-SPEC 37, versie 5)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-specifiek-interventiebeleid-productveiligheid-nvwa-ib02-spec-45-versi-2": {
+  "bwb": "BWBR0039878",
+  "short": "Besluit vaststelling Specifiek Interventiebeleid Productveiligheid NVWA (IB02-SPEC 45, versie 7)",
+  "title": "Besluit vaststelling Specifiek Interventiebeleid Productveiligheid NVWA (IB02-SPEC 45, versie 7)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-specifiek-interventiebeleid-attractie-en-speeltoestellen-nvwa-ib02-sp": {
+  "bwb": "BWBR0039879",
+  "short": "Besluit vaststelling Specifiek Interventiebeleid Attractie en speeltoestellen NVWA (IB02-SPEC 46, versie 06)",
+  "title": "Besluit vaststelling Specifiek Interventiebeleid Attractie en speeltoestellen NVWA (IB02-SPEC 46, versie 06)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-subsidieplafond-en-aanvraagmomenten-ex-subsidieregeling-lerarenontwik": {
+  "bwb": "BWBR0039938",
+  "short": "Besluit vaststelling subsidieplafond en aanvraagmomenten ex Subsidieregeling LerarenOntwikkelFonds (schooljaar 2017–2018)",
+  "title": "Besluit vaststelling subsidieplafond en aanvraagmomenten ex Subsidieregeling LerarenOntwikkelFonds (schooljaar 2017–2018)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-subsidieplafond-en-aanvraagmomenten-ex-subsidieregeling-lerarenontwik-2": {
+  "bwb": "BWBR0039939",
+  "short": "Besluit vaststelling subsidieplafond en aanvraagmomenten ex Subsidieregeling LerarenOntwikkelFonds (schooljaar 2016–2017)",
+  "title": "Besluit vaststelling subsidieplafond en aanvraagmomenten ex Subsidieregeling LerarenOntwikkelFonds (schooljaar 2016–2017)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2016-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-specifiek-interventiebeleid-diervoeder-van-de-nederlandse-voedsel-en": {
+  "bwb": "BWBR0039983",
+  "short": "Besluit vaststelling Specifiek Interventiebeleid Diervoeder van de Nederlandse Voedsel- en Warenautoriteit (IB02-SPEC35, versie 02)",
+  "title": "Besluit vaststelling Specifiek Interventiebeleid Diervoeder van de Nederlandse Voedsel- en Warenautoriteit (IB02-SPEC35, versie 02)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-tot-geheimverklaring-opdrachten-in-het-kader-van-onderhoud-vredespaleis": {
+  "bwb": "BWBR0039993",
+  "short": "Besluit tot geheimverklaring opdrachten in het kader van onderhoud Vredespaleis",
+  "title": "Besluit tot geheimverklaring opdrachten in het kader van onderhoud Vredespaleis",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-11-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "instructie-handhaving-rijden-onder-invloed": {
+  "bwb": "BWBR0040010",
+  "short": "Instructie handhaving rijden onder invloed",
+  "title": "Instructie handhaving rijden onder invloed",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-10-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-ambtshalve-verlenen-van-toestemming-op-aanvragen-voor-deelname-aan-de-pilotrekento": {
+  "bwb": "BWBR0040063",
+  "short": "Besluit ambtshalve verlenen van toestemming op aanvragen voor deelname aan de pilotrekentoetsen 2A, 2A-ER of 3S door scholen in het voortgezet onderwijs in schooljaar 2017–2018",
+  "title": "Besluit ambtshalve verlenen van toestemming op aanvragen voor deelname aan de pilotrekentoetsen 2A, 2A-ER of 3S door scholen in het voortgezet onderwijs in schooljaar 2017–2018",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-12-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-tot-geheimverklaring-opdracht-in-het-kader-van-dronedetectie-en-verstoringssysteem": {
+  "bwb": "BWBR0040134",
+  "short": "Besluit tot geheimverklaring opdracht in het kader van dronedetectie- en verstoringssysteem voor Dienst Justitiële Inrichtingen",
+  "title": "Besluit tot geheimverklaring opdracht in het kader van dronedetectie- en verstoringssysteem voor Dienst Justitiële Inrichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-11-02_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-archief-betreffende-oud-spanjestrijders-19371941-toegang-2": {
+  "bwb": "BWBR0040181",
+  "short": "Besluit beperking openbaarheid archief betreffende Oud-Spanjestrijders 1937–1941, toegang 2.09.99",
+  "title": "Besluit beperking openbaarheid archief betreffende Oud-Spanjestrijders 1937–1941, toegang 2.09.99",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-11-09_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-landelijk-afvalbeheerplan-20172029-lap-3": {
+  "bwb": "BWBR0040257",
+  "short": "Besluit vaststelling Landelijk afvalbeheerplan 2017–2029 (LAP 3)",
+  "title": "Besluit vaststelling Landelijk afvalbeheerplan 2017–2029 (LAP 3)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2021-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mededeling-gewijzigde-bedragen-szw-per-1-januari-2018": {
+  "bwb": "BWBR0040280",
+  "short": "Mededeling gewijzigde bedragen SZW per 1 januari 2018",
+  "title": "Mededeling gewijzigde bedragen SZW per 1 januari 2018",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mededeling-gewijzigde-bedragen-algemene-kinderbijslagwet-enz-per-1-januari-2018": {
+  "bwb": "BWBR0040402",
+  "short": "Mededeling gewijzigde bedragen Algemene Kinderbijslagwet, enz. per 1 januari 2018",
+  "title": "Mededeling gewijzigde bedragen Algemene Kinderbijslagwet, enz. per 1 januari 2018",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffen-beperkingen-openbaarheid-archief-ministerie-van-kolonien-te-londen-194019": {
+  "bwb": "BWBR0040506",
+  "short": "Besluit opheffen beperkingen openbaarheid archief Ministerie van Koloniën te Londen 1940–1945",
+  "title": "Besluit opheffen beperkingen openbaarheid archief Ministerie van Koloniën te Londen 1940–1945",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-01-16_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-specifiek-interventiebeleid-dierproeven-ib02-spec-14-versie-2": {
+  "bwb": "BWBR0040517",
+  "short": "Besluit Specifiek Interventiebeleid dierproeven (IB02-SPEC 14, versie 2)",
+  "title": "Besluit Specifiek Interventiebeleid dierproeven (IB02-SPEC 14, versie 2)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-02-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-iv-windenergiegebied-hollandse-kust-zuid": {
+  "bwb": "BWBR0040532",
+  "short": "Kavelbesluit IV windenergiegebied Hollandse Kust (zuid)",
+  "title": "Kavelbesluit IV windenergiegebied Hollandse Kust (zuid)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-iii-windenergiegebied-hollandse-kust-zuid": {
+  "bwb": "BWBR0040556",
+  "short": "Kavelbesluit III windenergiegebied Hollandse Kust (zuid)",
+  "title": "Kavelbesluit III windenergiegebied Hollandse Kust (zuid)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "nationale-algemene-uitvoervergunning-nl-010-items-voor-informatiebeveiliging": {
+  "bwb": "BWBR0040563",
+  "short": "Nationale Algemene Uitvoervergunning NL 010 (items voor informatiebeveiliging)",
+  "title": "Nationale Algemene Uitvoervergunning NL 010 (items voor informatiebeveiliging)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2017-12-30_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "specifiek-interventiebeleid-samenstelling-levensmiddelen-van-de-nederlandse-voedsel-en-war": {
+  "bwb": "BWBR0040612",
+  "short": "Specifiek Interventiebeleid Samenstelling levensmiddelen van de Nederlandse Voedsel- en Warenautoriteit (IB02-SPEC 32, versie 2)",
+  "title": "Specifiek Interventiebeleid Samenstelling levensmiddelen van de Nederlandse Voedsel- en Warenautoriteit (IB02-SPEC 32, versie 2)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-03-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-levering-verkoop-inspectie-leefomgeving-en-transport": {
+  "bwb": "BWBR0040682",
+  "short": "Besluit levering verkoop, Inspectie Leefomgeving en Transport",
+  "title": "Besluit levering verkoop, Inspectie Leefomgeving en Transport",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-03-03_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-geheimverklaring-opdrachten-betreffende-productie-identiteitsbewijzen-voor-geprivi": {
+  "bwb": "BWBR0040699",
+  "short": "Besluit geheimverklaring opdrachten betreffende productie identiteitsbewijzen voor geprivilegieerden",
+  "title": "Besluit geheimverklaring opdrachten betreffende productie identiteitsbewijzen voor geprivilegieerden",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "vraag-en-antwoordbesluit-crs-fatca": {
+  "bwb": "BWBR0040750",
+  "short": "Vraag- en antwoordbesluit CRS/FATCA",
+  "title": "Vraag- en antwoordbesluit CRS/FATCA",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-03-24_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-opheffen-beperking-openbaarheid-archief-ministerie-van-justitie-gratie-doodstraffe": {
+  "bwb": "BWBR0040772",
+  "short": "Besluit opheffen beperking openbaarheid archief Ministerie van Justitie: Gratie Doodstraffen, nummer toegang 2.09.71",
+  "title": "Besluit opheffen beperking openbaarheid archief Ministerie van Justitie: Gratie Doodstraffen, nummer toegang 2.09.71",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-03-30_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mededeling-gewijzigde-bedragen-szw-per-1-juli-2018": {
+  "bwb": "BWBR0040946",
+  "short": "Mededeling gewijzigde bedragen SZW per 1 juli 2018",
+  "title": "Mededeling gewijzigde bedragen SZW per 1 juli 2018",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "bekendmaking-gewijzigde-bedragen-algemene-kinderbijslagwet-per-1-juli-2018": {
+  "bwb": "BWBR0041063",
+  "short": "Bekendmaking gewijzigde bedragen Algemene Kinderbijslagwet per 1 juli 2018",
+  "title": "Bekendmaking gewijzigde bedragen Algemene Kinderbijslagwet per 1 juli 2018",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-06-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-machtiging-en-volmacht-directeur-koninkrijksrelaties": {
+  "bwb": "BWBR0041217",
+  "short": "Besluit machtiging en volmacht directeur Koninkrijksrelaties",
+  "title": "Besluit machtiging en volmacht directeur Koninkrijksrelaties",
+  "part": "bwb-now-mr-025",
+  "current_label": "2018-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-bestuursrecht-toeslagen": {
+  "bwb": "BWBR0041450",
+  "short": "Besluit bestuursrecht Toeslagen",
+  "title": "Besluit bestuursrecht Toeslagen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-12-30_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "nationale-algemene-uitvoervergunning-nl-010-items-voor-informatiebeveiliging-2": {
+  "bwb": "BWBR0041748",
+  "short": "Nationale Algemene Uitvoervergunning NL 010 (items voor informatiebeveiliging)",
+  "title": "Nationale Algemene Uitvoervergunning NL 010 (items voor informatiebeveiliging)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-03-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzing-van-een-systeem-en-een-systeemexploitant-ex-artikel-212a-faillissements": {
+  "bwb": "BWBR0041880",
+  "short": "Besluit aanwijzing van een systeem en een systeemexploitant ex artikel 212a Faillissementswet",
+  "title": "Besluit aanwijzing van een systeem en een systeemexploitant ex artikel 212a Faillissementswet",
+  "part": "bwb-now-mr-025",
+  "current_label": "2019-02-08_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-ontheffing-gecertificeerde-pabo-gediplomeerden-voor-de-onderbouw-vmbo-basis-en-kad": {
+  "bwb": "BWBR0041926",
+  "short": "Besluit ontheffing gecertificeerde pabo-gediplomeerden voor de onderbouw vmbo basis- en kader",
+  "title": "Besluit ontheffing gecertificeerde pabo-gediplomeerden voor de onderbouw vmbo basis- en kader",
+  "part": "bwb-now-mr-025",
+  "current_label": "2022-08-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-bewaartermijn-logging": {
+  "bwb": "BWBR0042391",
+  "short": "Besluit vaststelling bewaartermijn logging",
+  "title": "Besluit vaststelling bewaartermijn logging",
+  "part": "bwb-now-mr-025",
+  "current_label": "2019-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-inventarisnummers-6939a-6945a-en-7258-archief-ministeries-v": {
+  "bwb": "BWBR0042785",
+  "short": "Besluit beperking openbaarheid inventarisnummers 6939A, 6945A en 7258 archief ministeries voor Algemeene Oorlogvoering van het Koninkrijk (AOK) en van Algemeene Zaken (AZ)",
+  "title": "Besluit beperking openbaarheid inventarisnummers 6939A, 6945A en 7258 archief ministeries voor Algemeene Oorlogvoering van het Koninkrijk (AOK) en van Algemeene Zaken (AZ)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2019-11-22_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-specifieke-verdeling-van-taken-en-stemrechten-ex-verordening-eu-2017-2195-tot-vast": {
+  "bwb": "BWBR0042846",
+  "short": "Besluit specifieke verdeling van taken en stemrechten ex Verordening (EU) 2017/2195 tot vaststelling richtsnoeren voor elektriciteitsbalancering",
+  "title": "Besluit specifieke verdeling van taken en stemrechten ex Verordening (EU) 2017/2195 tot vaststelling richtsnoeren voor elektriciteitsbalancering",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-02-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "intrekkingsbesluit-besluit-consignatiezendingen": {
+  "bwb": "BWBR0043002",
+  "short": "Intrekkingsbesluit besluit consignatiezendingen",
+  "title": "Intrekkingsbesluit besluit consignatiezendingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "circulaire-legalisatie-en-verificatie-buitenlandse-bewijsstukken-staat-van-personen-en-toe": {
+  "bwb": "BWBR0043011",
+  "short": "Circulaire legalisatie en verificatie buitenlandse bewijsstukken (staat van personen en toepassing van DNA-onderzoek) 2020",
+  "title": "Circulaire legalisatie en verificatie buitenlandse bewijsstukken (staat van personen en toepassing van DNA-onderzoek) 2020",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vervreemding-archiefbescheiden-ministerie-van-landbouw-natuur-en-voedselkwaliteit-2": {
+  "bwb": "BWBR0043054",
+  "short": "Besluit vervreemding archiefbescheiden Ministerie van Landbouw, Natuur en Voedselkwaliteit aan Rijksdienst voor het Cultureel Erfgoed",
+  "title": "Besluit vervreemding archiefbescheiden Ministerie van Landbouw, Natuur en Voedselkwaliteit aan Rijksdienst voor het Cultureel Erfgoed",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-02-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vervreemding-archiefbescheiden-buitenlandse-inlichtingendienst-inlichtingendienst": {
+  "bwb": "BWBR0043188",
+  "short": "Besluit vervreemding archiefbescheiden Buitenlandse Inlichtingendienst/Inlichtingendienst Buitenland (blok BID/IDB 1945–1994)",
+  "title": "Besluit vervreemding archiefbescheiden Buitenlandse Inlichtingendienst/Inlichtingendienst Buitenland (blok BID/IDB 1945–1994)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-geheimverklaring-opdracht-en-in-het-kader-van-verstoren-communicatie-met-niet-toeg": {
+  "bwb": "BWBR0043236",
+  "short": "Besluit geheimverklaring opdracht(en) in het kader van verstoren communicatie met niet-toegestane communicatiemiddelen ten behoeve van Dienst Justitiële Inrichtingen",
+  "title": "Besluit geheimverklaring opdracht(en) in het kader van verstoren communicatie met niet-toegestane communicatiemiddelen ten behoeve van Dienst Justitiële Inrichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-03-05_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-subsidieplafond-ex-subsidieregeling-versterking-omgevingsveiligheid-b": {
+  "bwb": "BWBR0043327",
+  "short": "Besluit vaststelling subsidieplafond ex Subsidieregeling versterking omgevingsveiligheid BRZO-sector voor het jaar 2020",
+  "title": "Besluit vaststelling subsidieplafond ex Subsidieregeling versterking omgevingsveiligheid BRZO-sector voor het jaar 2020",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-wijziging-beperking-toegankelijkheid-ex-artikel-2-5-wet-natuurbescherming-natura-2": {
+  "bwb": "BWBR0043451",
+  "short": "Besluit wijziging beperking toegankelijkheid ex artikel 2.5 Wet natuurbescherming Natura 2000-gebied 'IJsselmeer'",
+  "title": "Besluit wijziging beperking toegankelijkheid ex artikel 2.5 Wet natuurbescherming Natura 2000-gebied 'IJsselmeer'",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-geheimverklaring-programma-met-maatregelen-gericht-op-beperken-contrabande-reducer": {
+  "bwb": "BWBR0043488",
+  "short": "Besluit geheimverklaring programma met maatregelen gericht op beperken contrabande, reduceren geweldsdreiging en voortgezet crimineel handelen gedetineerden in detentie, Dienst Justitiële Inrichtingen",
+  "title": "Besluit geheimverklaring programma met maatregelen gericht op beperken contrabande, reduceren geweldsdreiging en voortgezet crimineel handelen gedetineerden in detentie, Dienst Justitiële Inrichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-05-09_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-inwilliging-avv-verzoek-varkenshouderijsector": {
+  "bwb": "BWBR0043561",
+  "short": "Besluit inwilliging AVV-verzoek varkenshouderijsector",
+  "title": "Besluit inwilliging AVV-verzoek varkenshouderijsector",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-05-23_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-waarde-varkensrecht-ex-art-8-derde-lid-subsidieregeling-sanering-vark": {
+  "bwb": "BWBR0043649",
+  "short": "Besluit vaststelling waarde varkensrecht ex art. 8, derde lid, Subsidieregeling sanering varkenshouderijen (Marktprijzen-besluit)",
+  "title": "Besluit vaststelling waarde varkensrecht ex art. 8, derde lid, Subsidieregeling sanering varkenshouderijen (Marktprijzen-besluit)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-06-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzing-toezichthoudende-ambtenaren-toezicht-naleving-verplichtingen-ex-art-13": {
+  "bwb": "BWBR0044324",
+  "short": "Besluit aanwijzing toezichthoudende ambtenaren toezicht naleving verplichtingen ex art. 13 Tijdelijke noodmaatregel overbrugging voor behoud van werkgelegenheid",
+  "title": "Besluit aanwijzing toezichthoudende ambtenaren toezicht naleving verplichtingen ex art. 13 Tijdelijke noodmaatregel overbrugging voor behoud van werkgelegenheid",
+  "part": "bwb-now-mr-025",
+  "current_label": "2020-11-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-houdende-aanwijzing-van-bondsrepubliek-duitsland-in-verband-met-reiniging-en-ontsm": {
+  "bwb": "BWBR0045487",
+  "short": "Besluit houdende aanwijzing van Bondsrepubliek Duitsland in verband met reiniging en ontsmetting van in Nederland gebrachte vervoermiddelen voor evenhoevigen",
+  "title": "Besluit houdende aanwijzing van Bondsrepubliek Duitsland in verband met reiniging en ontsmetting van in Nederland gebrachte vervoermiddelen voor evenhoevigen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2021-07-31_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-subsidieplafond-ex-regeling-bijzondere-uitkeringen-afvalbeheer-bonair-2": {
+  "bwb": "BWBR0045659",
+  "short": "Besluit vaststelling subsidieplafond ex Regeling bijzondere uitkeringen afvalbeheer Bonaire 2020–2023 voor het jaar 2021",
+  "title": "Besluit vaststelling subsidieplafond ex Regeling bijzondere uitkeringen afvalbeheer Bonaire 2020–2023 voor het jaar 2021",
+  "part": "bwb-now-mr-025",
+  "current_label": "2021-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzing-geschillencommissie-oneerlijke-handelspraktijken-landbouw-en-voedselvoo": {
+  "bwb": "BWBR0045759",
+  "short": "Besluit aanwijzing Geschillencommissie Oneerlijke Handelspraktijken Landbouw- en Voedselvoorzieningsketen ex art. 6, eerste lid, Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen",
+  "title": "Besluit aanwijzing Geschillencommissie Oneerlijke Handelspraktijken Landbouw- en Voedselvoorzieningsketen ex art. 6, eerste lid, Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-noodoplossing-verlengen-boa-aktes-naar-aanleiding-van-grootschalige-it-storing-bin": {
+  "bwb": "BWBR0045761",
+  "short": "Besluit noodoplossing verlengen boa-aktes naar aanleiding van grootschalige IT-storing binnen Justis",
+  "title": "Besluit noodoplossing verlengen boa-aktes naar aanleiding van grootschalige IT-storing binnen Justis",
+  "part": "bwb-now-mr-025",
+  "current_label": "2021-11-02_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-benoeming-en-vergoeding-leden-bezwaarschriftenadviescommissie-hersteloperatie-toes": {
+  "bwb": "BWBR0045901",
+  "short": "Besluit benoeming en vergoeding leden Bezwaarschriftenadviescommissie hersteloperatie toeslagen",
+  "title": "Besluit benoeming en vergoeding leden Bezwaarschriftenadviescommissie hersteloperatie toeslagen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-06-27_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-vi-windenergiegebied-hollandse-kust-west": {
+  "bwb": "BWBR0046360",
+  "short": "Kavelbesluit VI windenergiegebied Hollandse Kust (west)",
+  "title": "Kavelbesluit VI windenergiegebied Hollandse Kust (west)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-vii-windenergiegebied-hollandse-kust-west": {
+  "bwb": "BWBR0046414",
+  "short": "Kavelbesluit VII windenergiegebied Hollandse Kust (west)",
+  "title": "Kavelbesluit VII windenergiegebied Hollandse Kust (west)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-tot-geheim-verklaring-van-de-opdracht-voor-beveiligingsdiensten-voor-bedreigd-pers": {
+  "bwb": "BWBR0046591",
+  "short": "Besluit tot geheim-verklaring van de opdracht voor beveiligingsdiensten voor bedreigd personeel binnen de Dienst Justitiële Inrichtingen",
+  "title": "Besluit tot geheim-verklaring van de opdracht voor beveiligingsdiensten voor bedreigd personeel binnen de Dienst Justitiële Inrichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2022-04-29_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "verrekenprijsbesluit-2022": {
+  "bwb": "BWBR0046839",
+  "short": "Verrekenprijsbesluit 2022",
+  "title": "Verrekenprijsbesluit 2022",
+  "part": "bwb-now-mr-025",
+  "current_label": "2022-07-02_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-geheimverklaring-gehele-productieproces-van-vreemdelingendocumenten": {
+  "bwb": "BWBR0046975",
+  "short": "Besluit geheimverklaring gehele productieproces van vreemdelingendocumenten",
+  "title": "Besluit geheimverklaring gehele productieproces van vreemdelingendocumenten",
+  "part": "bwb-now-mr-025",
+  "current_label": "2022-07-28_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-voortzetting-financieel-toezicht-op-curacao-en-sint-maarten": {
+  "bwb": "BWBR0046983",
+  "short": "Besluit vaststelling voortzetting financieel toezicht op Curaçao en Sint Maarten",
+  "title": "Besluit vaststelling voortzetting financieel toezicht op Curaçao en Sint Maarten",
+  "part": "bwb-now-mr-025",
+  "current_label": "2022-09-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-beperking-openbaarheid-geluidsbanden-van-de-processen-tegen-p-n-menten-19761980-to": {
+  "bwb": "BWBR0047453",
+  "short": "Besluit beperking openbaarheid geluidsbanden van de processen tegen P.N. Menten 1976–1980 toegang 2.09.133",
+  "title": "Besluit beperking openbaarheid geluidsbanden van de processen tegen P.N. Menten 1976–1980 toegang 2.09.133",
+  "part": "bwb-now-mr-025",
+  "current_label": "2022-11-12_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-geheimverklaring-opdracht-en-in-het-kader-van-detecteren-en-lokaliseren-van-niet-t": {
+  "bwb": "BWBR0047790",
+  "short": "Besluit geheimverklaring opdracht(en) in het kader van detecteren en lokaliseren van niet toegestane communicatiemiddelen ten behoeve van Dienst Justitiële Inrichtingen",
+  "title": "Besluit geheimverklaring opdracht(en) in het kader van detecteren en lokaliseren van niet toegestane communicatiemiddelen ten behoeve van Dienst Justitiële Inrichtingen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-01-24_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-marktwaarde-productierecht-voor-uitvoering-landelijke-beeindigingsreg": {
+  "bwb": "BWBR0048353",
+  "short": "Besluit vaststelling marktwaarde productierecht voor uitvoering Landelijke beëindigingsregeling veehouderijlocaties voor stikstofreductie",
+  "title": "Besluit vaststelling marktwaarde productierecht voor uitvoering Landelijke beëindigingsregeling veehouderijlocaties voor stikstofreductie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-07-04_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-marktwaarde-productierecht-voor-uitvoering-landelijke-beeindigingsreg-2": {
+  "bwb": "BWBR0048354",
+  "short": "Besluit vaststelling marktwaarde productierecht voor uitvoering Landelijke beëindigingsregeling veehouderijlocaties met piekbelasting",
+  "title": "Besluit vaststelling marktwaarde productierecht voor uitvoering Landelijke beëindigingsregeling veehouderijlocaties met piekbelasting",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-07-04_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "onderlinge-regeling-programma-stimuleren-van-studeren-in-de-caribische-landen-van-het-koni": {
+  "bwb": "BWBR0048432",
+  "short": "Onderlinge regeling ‘Programma Stimuleren van Studeren in de Caribische Landen van het Koninkrijk en in de regio’",
+  "title": "Onderlinge regeling ‘Programma Stimuleren van Studeren in de Caribische Landen van het Koninkrijk en in de regio’",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-07-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-ondervolmacht-personele-aangelegenheden-bzk-kerndepartement": {
+  "bwb": "BWBR0048700",
+  "short": "Besluit ondervolmacht personele aangelegenheden BZK Kerndepartement",
+  "title": "Besluit ondervolmacht personele aangelegenheden BZK Kerndepartement",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-10-06_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-verlening-mandaat-directeur-generaal-openbaar-bestuur-en-democratische-rechtstaat": {
+  "bwb": "BWBR0048710",
+  "short": "Besluit verlening mandaat Directeur-generaal Openbaar bestuur en democratische rechtstaat",
+  "title": "Besluit verlening mandaat Directeur-generaal Openbaar bestuur en democratische rechtstaat",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-10-07_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-geheimverklaring-opdrachten-in-het-kader-van-organisatie-navo-top-2025-nederland": {
+  "bwb": "BWBR0048728",
+  "short": "Besluit geheimverklaring opdrachten in het kader van organisatie NAVO-top 2025 Nederland",
+  "title": "Besluit geheimverklaring opdrachten in het kader van organisatie NAVO-top 2025 Nederland",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-10-13_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-houdende-vaststelling-aanvangstijdstip-aanloopfase-experiment-gesloten-coffeeshopk": {
+  "bwb": "BWBR0048732",
+  "short": "Besluit houdende vaststelling aanvangstijdstip aanloopfase experiment gesloten coffeeshopketen gemeenten Breda en Tilburg",
+  "title": "Besluit houdende vaststelling aanvangstijdstip aanloopfase experiment gesloten coffeeshopketen gemeenten Breda en Tilburg",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-12-15_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-ondervolmacht-personele-aangelegenheden-dgabd": {
+  "bwb": "BWBR0048863",
+  "short": "Besluit ondervolmacht personele aangelegenheden DGABD",
+  "title": "Besluit ondervolmacht personele aangelegenheden DGABD",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-11-10_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "specifiek-interventiebeleid-diergezondheid-ib02-spec-16-versie-01": {
+  "bwb": "BWBR0048925",
+  "short": "Specifiek interventiebeleid Diergezondheid (IB02-SPEC 16, versie 01)",
+  "title": "Specifiek interventiebeleid Diergezondheid (IB02-SPEC 16, versie 01)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-wettelijke-erkenning-specialistentitel-spoedeisende-hulp-arts-seh-arts-en-instemmi": {
+  "bwb": "BWBR0048980",
+  "short": "Besluit wettelijke erkenning specialistentitel Spoedeisende Hulp arts (SEH-arts) en instemming met vaststelling Besluit spoedeisende geneeskunde",
+  "title": "Besluit wettelijke erkenning specialistentitel Spoedeisende Hulp arts (SEH-arts) en instemming met vaststelling Besluit spoedeisende geneeskunde",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "taakverdelingsbesluit-ocw-2023": {
+  "bwb": "BWBR0049056",
+  "short": "Taakverdelingsbesluit OCW 2023",
+  "title": "Taakverdelingsbesluit OCW 2023",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-12-08_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-cameraplan-2024": {
+  "bwb": "BWBR0049112",
+  "short": "Besluit vaststelling cameraplan 2024",
+  "title": "Besluit vaststelling cameraplan 2024",
+  "part": "bwb-now-mr-025",
+  "current_label": "2023-12-29_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-kavel-alpha-windenergiegebied-ijmuiden-ver": {
+  "bwb": "BWBR0049193",
+  "short": "Kavelbesluit kavel Alpha windenergiegebied IJmuiden Ver",
+  "title": "Kavelbesluit kavel Alpha windenergiegebied IJmuiden Ver",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-kavel-beta-windenergiegebied-ijmuiden-ver": {
+  "bwb": "BWBR0049198",
+  "short": "Kavelbesluit kavel Beta windenergiegebied IJmuiden Ver",
+  "title": "Kavelbesluit kavel Beta windenergiegebied IJmuiden Ver",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "taakverdelingsbesluit-ocw-2024": {
+  "bwb": "BWBR0049278",
+  "short": "Taakverdelingsbesluit OCW 2024",
+  "title": "Taakverdelingsbesluit OCW 2024",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-01-19_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "capaciteitsraming-provinciale-opvangopgave-en-indicatieve-verdeling-per-gemeente-2024": {
+  "bwb": "BWBR0049312",
+  "short": "Capaciteitsraming, provinciale opvangopgave en indicatieve verdeling per gemeente 2024",
+  "title": "Capaciteitsraming, provinciale opvangopgave en indicatieve verdeling per gemeente 2024",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-01-31_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-aanvangstijdstip-overgangsfase-experiment-gesloten-coffeeshopketen": {
+  "bwb": "BWBR0049601",
+  "short": "Besluit vaststelling aanvangstijdstip overgangsfase experiment gesloten coffeeshopketen",
+  "title": "Besluit vaststelling aanvangstijdstip overgangsfase experiment gesloten coffeeshopketen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-04-23_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-personele-ondermandaten-logius": {
+  "bwb": "BWBR0049684",
+  "short": "Besluit vaststelling personele ondermandaten Logius",
+  "title": "Besluit vaststelling personele ondermandaten Logius",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-03-07_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "onderlinge-regeling-tula-studiebeurs": {
+  "bwb": "BWBR0049691",
+  "short": "Onderlinge regeling Tula-studiebeurs",
+  "title": "Onderlinge regeling Tula-studiebeurs",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-05-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-erkenning-papiaments-in-het-europese-deel-van-nederland": {
+  "bwb": "BWBR0049908",
+  "short": "Besluit erkenning Papiaments in het Europese deel van Nederland",
+  "title": "Besluit erkenning Papiaments in het Europese deel van Nederland",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-07-03_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "protocol-vliegtuigbergingen-en-archeologie-26-juni-2024": {
+  "bwb": "BWBR0049971",
+  "short": "Protocol Vliegtuigbergingen en Archeologie, 26 juni 2024",
+  "title": "Protocol Vliegtuigbergingen en Archeologie, 26 juni 2024",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-07-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-personele-ondermandaten-rijksorganisatie-voor-ontwikkeling-digitalise": {
+  "bwb": "BWBR0050273",
+  "short": "Besluit vaststelling personele ondermandaten Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie",
+  "title": "Besluit vaststelling personele ondermandaten Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-10-08_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "nationale-algemene-uitvoervergunning-nl900": {
+  "bwb": "BWBR0050309",
+  "short": "Nationale Algemene Uitvoervergunning NL900",
+  "title": "Nationale Algemene Uitvoervergunning NL900",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-12-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-voorlopige-tarieven-glb-2024-en-tarief-zeldzame-landbouwhuisdierrassen-glb-2024": {
+  "bwb": "BWBR0050391",
+  "short": "Besluit voorlopige tarieven GLB 2024 en tarief zeldzame landbouwhuisdierrassen GLB 2024",
+  "title": "Besluit voorlopige tarieven GLB 2024 en tarief zeldzame landbouwhuisdierrassen GLB 2024",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-11-12_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-ter-aanvulling-op-organisatiebesluit-taak-herstel-groningen": {
+  "bwb": "BWBR0050399",
+  "short": "Besluit ter aanvulling op organisatiebesluit taak herstel Groningen",
+  "title": "Besluit ter aanvulling op organisatiebesluit taak herstel Groningen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-11-13_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-cameraplan-voor-2025": {
+  "bwb": "BWBR0050589",
+  "short": "Besluit vaststelling cameraplan voor 2025",
+  "title": "Besluit vaststelling cameraplan voor 2025",
+  "part": "bwb-now-mr-025",
+  "current_label": "2024-12-31_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-ter-verlenging-van-aanvulling-op-organisatiebesluit-taak-herstel-groningen": {
+  "bwb": "BWBR0050641",
+  "short": "Besluit ter verlenging van aanvulling op organisatiebesluit taak herstel Groningen",
+  "title": "Besluit ter verlenging van aanvulling op organisatiebesluit taak herstel Groningen",
+  "part": "bwb-now-mr-025",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "inkomstenbelasting-eigenwoningschuld-vanaf-1-januari-2013-bij-annuitaire-lening-is-overeen": {
+  "bwb": "BWBR0050717",
+  "short": "Inkomstenbelasting, eigenwoningschuld vanaf 1 januari 2013; bij annuïtaire lening is overeengekomen contractuele rente hoger dan marktconforme rente",
+  "title": "Inkomstenbelasting, eigenwoningschuld vanaf 1 januari 2013; bij annuïtaire lening is overeengekomen contractuele rente hoger dan marktconforme rente",
+  "part": "bwb-now-mr-025",
+  "current_label": "2025-01-29_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-vaststelling-uniforme-administratieve-voorwaarden-voor-de-uitvoering-van-werken-en-2": {
+  "bwb": "BWBR0050955",
+  "short": "Besluit vaststelling Uniforme administratieve voorwaarden voor de uitvoering van werken en van technische installatiewerken 2012 (UAV 2012 (versie 2025))",
+  "title": "Besluit vaststelling Uniforme administratieve voorwaarden voor de uitvoering van werken en van technische installatiewerken 2012 (UAV 2012 (versie 2025))",
+  "part": "bwb-now-mr-025",
+  "current_label": "2025-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mandaatbesluit-wet-open-overheid-ofl": {
+  "bwb": "BWBR0050998",
+  "short": "Mandaatbesluit Wet open overheid OFL",
+  "title": "Mandaatbesluit Wet open overheid OFL",
+  "part": "bwb-now-mr-025",
+  "current_label": "2025-05-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-kavel-i-a-windenergiebied-nederwiek-zuid": {
+  "bwb": "BWBR0051044",
+  "short": "Kavelbesluit kavel I-A windenergiebied Nederwiek (zuid)",
+  "title": "Kavelbesluit kavel I-A windenergiebied Nederwiek (zuid)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-kavel-gamma-b-windenergiegebied-ijmuiden-ver": {
+  "bwb": "BWBR0051391",
+  "short": "Kavelbesluit kavel Gamma-B windenergiegebied IJmuiden Ver",
+  "title": "Kavelbesluit kavel Gamma-B windenergiegebied IJmuiden Ver",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "taakverdelingsbesluit-ocw-2025": {
+  "bwb": "BWBR0051502",
+  "short": "Taakverdelingsbesluit OCW 2025",
+  "title": "Taakverdelingsbesluit OCW 2025",
+  "part": "bwb-now-mr-025",
+  "current_label": "2025-09-18_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "verzamelbesluit-aanmerkelijk-belang-2025": {
+  "bwb": "BWBR0051728",
+  "short": "Verzamelbesluit aanmerkelijk belang 2025",
+  "title": "Verzamelbesluit aanmerkelijk belang 2025",
+  "part": "bwb-now-mr-025",
+  "current_label": "2025-11-12_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "mandaatbesluit-bzk-inzake-wijzigingen-van-het-abro-2026-voorschrift": {
+  "bwb": "BWBR0051923",
+  "short": "Mandaatbesluit BZK inzake wijzigingen van het ABRO 2026 voorschrift",
+  "title": "Mandaatbesluit BZK inzake wijzigingen van het ABRO 2026 voorschrift",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-mandatering-wijzigen-abro-voorschrift-defensie": {
+  "bwb": "BWBR0051942",
+  "short": "Besluit mandatering wijzigen ABRO-voorschrift Defensie",
+  "title": "Besluit mandatering wijzigen ABRO-voorschrift Defensie",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "skal-tarievenblad-2026": {
+  "bwb": "BWBR0051972",
+  "short": "Skal-Tarievenblad 2026",
+  "title": "Skal-Tarievenblad 2026",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-capaciteitsraming-provinciale-opvangopgave-en-indicatieve-verdeling-per-gemeente-2": {
+  "bwb": "BWBR0052384",
+  "short": "Besluit capaciteitsraming, provinciale opvangopgave en indicatieve verdeling per gemeente 2026",
+  "title": "Besluit capaciteitsraming, provinciale opvangopgave en indicatieve verdeling per gemeente 2026",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-verlening-ondermandaat-functionarissen-logius": {
+  "bwb": "BWBR0052407",
+  "short": "Besluit verlening ondermandaat functionarissen Logius",
+  "title": "Besluit verlening ondermandaat functionarissen Logius",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-03-06_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "kavelbesluit-v-windenergiegebied-hollandse-kust-noord": {
+  "bwb": "BWBR0052410",
+  "short": "Kavelbesluit V windenergiegebied Hollandse Kust (noord)",
+  "title": "Kavelbesluit V windenergiegebied Hollandse Kust (noord)",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-07-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-geheimverklaring-opdrachten-nederlandse-special-operation-forces": {
+  "bwb": "BWBR0052421",
+  "short": "Besluit geheimverklaring opdrachten Nederlandse Special Operation Forces",
+  "title": "Besluit geheimverklaring opdrachten Nederlandse Special Operation Forces",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-03-12_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "taakverdelingsbesluit-ocw-2026": {
+  "bwb": "BWBR0052428",
+  "short": "Taakverdelingsbesluit OCW 2026",
+  "title": "Taakverdelingsbesluit OCW 2026",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-03-17_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "toegangbeperkend-besluit-waddenzee-wijziging-feugelpolle-simonszand": {
+  "bwb": "BWBR0052527",
+  "short": "Toegangbeperkend Besluit Waddenzee; wijziging Feugelpôlle & Simonszand",
+  "title": "Toegangbeperkend Besluit Waddenzee; wijziging Feugelpôlle & Simonszand",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-04-11_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "besluit-aanwijzen-klachtencommissie-ongewenste-omgangsvormen-rijk-als-klachtadviescommissi": {
+  "bwb": "BWBR0052576",
+  "short": "Besluit aanwijzen Klachtencommissie Ongewenste Omgangsvormen Rijk als klachtadviescommissie Ministerie van Justitie en Veiligheid",
+  "title": "Besluit aanwijzen Klachtencommissie Ongewenste Omgangsvormen Rijk als klachtadviescommissie Ministerie van Justitie en Veiligheid",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-04-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
+ },
+ "tijdelijk-besluit-ondermandaat-ondervolmacht-en-ondermachtiging-hoofddirecteur-financien-e": {
+  "bwb": "BWBR0052581",
+  "short": "Tijdelijk besluit ondermandaat, ondervolmacht en ondermachtiging Hoofddirecteur Financiën en Control",
+  "title": "Tijdelijk besluit ondermandaat, ondervolmacht en ondermachtiging Hoofddirecteur Financiën en Control",
+  "part": "bwb-now-mr-025",
+  "current_label": "2026-04-25_0",
+  "as_of": "2026-11-05",
+  "single_file": true
  }
 }

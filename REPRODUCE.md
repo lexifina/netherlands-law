@@ -1,6 +1,6 @@
 # How this repository was made (Netherlands)
 
-This file is written by the build on 2026-11-04, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -35721,7 +35721,7 @@ The build made 55567 commits:
 | 6198 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-05.
 - 244 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 9363 laws in the record.
 - 72978 tags.
@@ -35742,7 +35742,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 ## Checks
 
-Not yet run for this build.
+63616 versions of 35466 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
