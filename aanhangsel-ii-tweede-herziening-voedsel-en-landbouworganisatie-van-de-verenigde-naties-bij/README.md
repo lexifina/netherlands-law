@@ -1,0 +1,7 @@
+# Aanhangsel II (tweede herziening): Voedsel- en Landbouworganisatie van de Verenigde Naties bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties
+
+Aanhangsel II (tweede herziening): Voedsel- en Landbouworganisatie van de Verenigde Naties bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties · 1 versions, from 1966-12-09 (latest in force: 1966-12-09) · <https://wetten.overheid.nl/BWBV0004774>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
