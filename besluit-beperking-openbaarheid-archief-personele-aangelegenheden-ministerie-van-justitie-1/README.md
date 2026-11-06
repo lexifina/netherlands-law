@@ -1,0 +1,7 @@
+# Besluit beperking openbaarheid archief Personele aangelegenheden Ministerie van Justitie 1922–2000
+
+Besluit beperking openbaarheid archief Personele aangelegenheden Ministerie van Justitie 1922–2000 · 1 versions, from 2009-11-01 (latest in force: 2009-11-01) · <https://wetten.overheid.nl/BWBR0026331>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |

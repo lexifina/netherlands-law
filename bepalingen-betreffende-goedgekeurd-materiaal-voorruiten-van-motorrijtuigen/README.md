@@ -1,0 +1,6 @@
+# BEPALINGEN BETREFFENDE GOEDGEKEURD MATERIAAL VOORRUITEN VAN MOTORRIJTUIGEN
+
+BEPALINGEN BETREFFENDE GOEDGEKEURD MATERIAAL VOORRUITEN VAN MOTORRIJTUIGEN · 2 versions, from 1953-02-05 (latest in force: 2008-07-23) · <https://wetten.overheid.nl/BWBR0002105>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

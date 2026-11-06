@@ -1,0 +1,7 @@
+# Taakverdelingsbesluit OCW 2026
+
+Taakverdelingsbesluit OCW 2026 · 1 versions, from 2026-03-17 (latest in force: 2026-03-17) · <https://wetten.overheid.nl/BWBR0052428>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
