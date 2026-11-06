@@ -60,8 +60,6 @@ def main():
             state, detail = publish_marker.status(p)
             if state not in ('legacy', 'match'):
                 raise SystemExit(f'{name}: not verified ({state}: {detail})')
-            for suffix in ('', ''):
-                pass
             os.link(p, tmp / 'corpus.d' / name)
             os.link(p.with_suffix('.PUBLISH'), tmp / 'corpus.d' / p.with_suffix('.PUBLISH').name)
             names.append(name)
@@ -199,9 +197,11 @@ def main():
     # Check: at the new tip each appended act's files equal its corpus version in force on the docs date.
     bad = 0
     tree = {}
-    for line in git(repo, 'ls-tree', '-r', new_head, '--', *[x['slug'] for x in sub['acts']]).splitlines():
-        meta, path = line.split('\t', 1)
-        tree[path] = meta.split()[2]
+    slugs = [x['slug'] for x in sub['acts']]
+    for i in range(0, len(slugs), 50):
+        for line in git(repo, 'ls-tree', '-r', new_head, '--', *slugs[i:i + 50]).splitlines():
+            meta, path = line.split('\t', 1)
+            tree[path] = meta.split()[2]
     for x in sub['acts']:
         v = A.corpus_on(x['versions'], a.docs_date)
         want = {f'{x["slug"]}/{k}.md': K.blob_oid(u['text']) for k, u in (v['units'] if v else {}).items()}
