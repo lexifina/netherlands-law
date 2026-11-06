@@ -1,0 +1,7 @@
+# Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d.
+
+Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d. · 1 versions, from 2011-06-15 (latest in force: 2011-06-15) · <https://wetten.overheid.nl/BWBR0030091>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |

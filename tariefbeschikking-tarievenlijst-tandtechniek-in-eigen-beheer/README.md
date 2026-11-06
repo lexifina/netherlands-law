@@ -1,0 +1,7 @@
+# Tariefbeschikking Tarievenlijst tandtechniek in eigen beheer
+
+Tariefbeschikking Tarievenlijst tandtechniek in eigen beheer · 1 versions, from 2013-01-01 (latest in force: 2013-01-01) · <https://wetten.overheid.nl/BWBR0032348>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |

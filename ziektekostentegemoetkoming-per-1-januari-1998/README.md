@@ -1,0 +1,7 @@
+# Ziektekostentegemoetkoming per 1 januari 1998
+
+Ziektekostentegemoetkoming per 1 januari 1998 · 1 versions, from 1998-01-01 (latest in force: 1998-01-01) · <https://wetten.overheid.nl/BWBR0009495>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
