@@ -1,0 +1,7 @@
+# Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot wijziging en aanvulling van de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding met protocol, gedaan te Brussel op 15 december 1993 (met Protocol)
+
+Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot wijziging en aanvulling van de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding met protocol, gedaan te Brussel op 15 december 1993 (met Protocol) · 1 versions, from 2020-07-07 (latest in force: 2020-07-07) · <https://wetten.overheid.nl/BWBV0006883>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |

@@ -1,0 +1,7 @@
+# Notawisseling tussen de Nederlandse en de Amerikaanse Regering betreffende de regeling van zekere vorderingen in verband met de vaart ter zee in aanvulling op artikel 4 A (I) van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot regeling der wederzijdse vorderingen en schulden uit hoofde van de uitvoering van de Leen- en Pachtovereenkomst (Lend-Lease), de uitvoering der overeenkomst tot wederkerige hulpverlening (reciprocal aid), de verkoop van overtollige legergoederen (surplus property), de uitvoering van het militaire hulpprogramma voor de civiele bevolking (military relief) van 28 mei 1947
+
+Notawisseling tussen de Nederlandse en de Amerikaanse Regering betreffende de regeling van zekere vorderingen in verband met de vaart ter zee in aanvulling op artikel 4 A (I) van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot regeling der wederzijdse vorderingen en schulden uit hoofde van de uitvoering van de Leen- en Pachtovereenkomst (Lend-Lease), de uitvoering der overeenkomst tot wederkerige hulpverlening (reciprocal aid), de verkoop van overtollige legergoederen (surplus property), de uitvoering van het militaire hulpprogramma voor de civiele bevolking (military relief) van 28 mei 1947 · 1 versions, from 1950-06-08 (latest in force: 1950-06-08) · <https://wetten.overheid.nl/BWBV0005671>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
