@@ -1,0 +1,7 @@
+# Beleidsbesluit aanpassing looptijd wegens (getemporiseerde) verhoging van de AOW-leeftijd
+
+Beleidsbesluit aanpassing looptijd wegens (getemporiseerde) verhoging van de AOW-leeftijd · 1 versions, from 2022-07-28 (latest in force: 2022-07-28) · <https://wetten.overheid.nl/BWBR0046972>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
