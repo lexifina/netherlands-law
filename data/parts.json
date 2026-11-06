@@ -27762,6 +27762,43 @@
    ],
    "sha256": "1cd11a1be705a936b753e08bfbca308a66e78ab8fb5eed1858715a7a2f8c8763"
   },
+  "bwb-now-rest-019.json": {
+   "acts": [
+    "aanvullend-protocol-bij-de-overeenkomst-tussen-het-koninkrijk-der-nederlanden-en-de-intern",
+    "algemene-overeenkomst-betreffende-de-privileges-en-immuniteiten-van-de-internationale-poli",
+    "briefwisseling-houdende-een-verdrag-tussen-het-koninkrijk-der-nederlanden-en-de-internatio",
+    "briefwisseling-houdende-een-verdrag-tussen-het-koninkrijk-der-nederlanden-en-het-internati",
+    "briefwisseling-houdende-een-verdrag-tussen-het-koninkrijk-der-nederlanden-ten-behoeve-van-4",
+    "gastlandverdrag-tussen-het-koninkrijk-der-nederlanden-en-het-ontwikkelingsprogramma-van-de",
+    "geavanceerde-kaderovereenkomst-tussen-de-europese-unie-en-haar-lidstaten-enerzijds-en-de-r",
+    "kaderverdrag-van-de-raad-van-europa-over-artificiele-intelligentie-en-de-mensenrechten-de",
+    "overeenkomst-betreffende-de-uitlegging-en-toepassing-van-het-verdrag-inzake-het-energiehan",
+    "overeenkomst-tussen-de-benelux-staten-en-belize-inzake-de-vrijstelling-van-de-visumplicht",
+    "overeenkomst-tussen-de-benelux-staten-en-de-kirgizische-republiek-inzake-de-vrijstelling-v",
+    "overeenkomst-tussen-de-benelux-staten-en-de-republiek-suriname-inzake-de-vrijstelling-van",
+    "overeenkomst-tussen-de-benelux-staten-het-koninkrijk-belgie-het-groothertogdom-luxemburg-e",
+    "overeenkomst-tussen-de-benelux-staten-het-koninkrijk-belgie-het-groothertogdom-luxemburg-e-2",
+    "overeenkomst-tussen-de-benelux-staten-het-koninkrijk-belgie-het-groothertogdom-luxemburg-h-4",
+    "protocol-tot-wijziging-van-de-euromediterrane-luchtvaartovereenkomst-tussen-de-europese-ge",
+    "protocol-tot-wijziging-van-het-verdrag-over-de-status-en-werkzaamheden-van-de-internationa",
+    "verdrag-inzake-exportcontrole-in-het-defensiedomein",
+    "verdrag-inzake-het-bureau-van-de-europese-burgerluchtvaart-conferentie-ecac",
+    "verdrag-tot-oprichting-van-een-internationale-schadevergoedingscommissie-voor-oekraine",
+    "verdrag-tussen-de-regering-van-het-koninkrijk-der-nederlanden-en-de-regering-van-de-bondsr-4",
+    "verdrag-tussen-de-regering-van-het-koninkrijk-der-nederlanden-en-de-regering-van-de-franse-7",
+    "verdrag-tussen-de-regering-van-het-koninkrijk-der-nederlanden-en-de-regering-van-japan-bet",
+    "verdrag-tussen-de-regering-van-het-koninkrijk-der-nederlanden-ten-behoeve-van-aruba-en-de-2",
+    "verdrag-tussen-het-koninkrijk-der-nederlanden-en-de-republiek-bulgarije-inzake-de-uitwisse",
+    "verdrag-tussen-het-koninkrijk-der-nederlanden-en-de-republiek-estland-inzake-de-uitwisseli",
+    "verdrag-tussen-het-koninkrijk-der-nederlanden-en-de-republiek-letland-inzake-de-uitwisseli",
+    "verdrag-tussen-het-koninkrijk-der-nederlanden-en-de-republiek-moldavie-inzake-betaalde-wer",
+    "verdrag-tussen-het-koninkrijk-der-nederlanden-en-het-koninkrijk-thailand-tot-het-vermijden",
+    "verdrag-tussen-het-koninkrijk-der-nederlanden-ten-behoeve-van-curacao-en-de-republiek-cypr",
+    "verdrag-van-de-raad-van-europa-tot-bescherming-van-het-advocatenberoep",
+    "vierde-aanvullend-protocol-bij-het-europees-verdrag-betreffende-uitlevering"
+   ],
+   "sha256": "88f770dda3d0ba4979719e8581518d7b36be9ddab928b78bb1432f69e04d80a7"
+  },
   "bwb-now-restr-001.json": {
    "acts": [
     "algemene-heffingsverordening",
