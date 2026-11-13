@@ -1,0 +1,5 @@
+# Article XII. Budget
+1. The Ministerial Council shall examine and approve with such modifications, as it deems necessary, the draft Budget of the Association submitted by the committee on Budget and Administration.
+2. Voting on the total figure of the Budget shall be preceded by a vote on each budget head. Each budget head shall be approved by a three-quarters majority of the votes of delegates present and voting. The total of the Budget of the Association shall be approved by consensus of delegates present.
+3. The Budget of the Association shall be prepared on a biennial basis, subject to an annual review. Where in any year, the Budget of the Association is not approved, the Budget of the Association voted for the previous biennium shall remain in force and Member States, and Associate Members shall continue to make the same contributions as for the preceding biennium.
+4. Contributions by Member States to the Budget of the Association shall be made in such proportions as the Ministerial Council may decide.

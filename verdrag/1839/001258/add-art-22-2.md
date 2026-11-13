@@ -1,0 +1,4 @@
+# Artikel XXII
+Alle de vorderingen der Belgische onderdanen ten laste van bijzondere instellingen, zoo als weduwen-fondsen en fondsen bekend onder de namen van leges-fondsen en burgerlijke- en militair-pensioen-fondsen zullen door de, in artikel XIII vermelde gemengde commissie onderzocht en beslist worden overeenkomstig den inhoud der reglementen van die fondsen of kassen.
+De gestorte borgtogten, gelijk mede de stortingen, door Belgische rekenpligtigen gedaan, de geregtelijke depôts, en de geconsigneerde gelden zullen insgelijks aan de daarop regthebbenden, op vertoon hunner bescheiden, teruggegeven worden.
+Indien Belgische onderdanen, uit hoofde der verevening van den zoogenaamden franschen achterstand, nog regten van inschrijving hadden te doen gelden, zullen de vorderingen deswege insgelijks door de gezegde commissie onderzocht en verëvend worden.

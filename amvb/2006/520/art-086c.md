@@ -1,0 +1,11 @@
+# Artikel 86c
+1. Een financiëledienstverlener verschaft of ontvangt, rechtstreeks of middellijk, geen provisie voor het bemiddelen of adviseren van een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering, overlijdensrisicoverzekering, premiepensioenvordering, uitvaartverzekering of bij ministeriële regeling aan te wijzen ander financieel product.
+2. Het eerste lid is niet van toepassing op:
+a. provisies die rechtstreeks worden verschaft door de consument of, voor zover het een verzekering betreft, de cliënt of degene die namens hem optreedt, tenzij de hoogte van deze provisies kennelijk onredelijk is gelet op de aard en reikwijdte van de dienstverlening;
+b. provisies die rechtstreeks worden verschaft door de bijdragende onderneming voor zover het een premiepensioenvordering betreft, tenzij de hoogte van deze provisies kennelijk onredelijk is gelet op de aard en reikwijdte van de dienstverlening;
+c. provisies die worden verschaft door de aanbieder of ontvangen door de bemiddelaar of adviseur voor het bemiddelen of adviseren van een consument die inzake een hypothecair krediet betalingsachterstanden of voorzienbare betalingsachterstanden heeft, mits de provisie geen afbreuk doet aan de kwaliteit van de dienstverlening en de verplichting van de bemiddelaar of adviseur om zich in te zetten voor de belangen van de consument;
+d. provisies die noodzakelijk zijn voor het verlenen van de desbetreffende financiële dienst of de desbetreffende financiële dienst mogelijk maken;
+e. provisies die worden verschaft door een bemiddelaar of adviseur, niet zijnde een aanbieder of gevolmachtigde agent, aan een andere bemiddelaar of adviseur;
+f. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.
+3. De bemiddelaar of adviseur doet op begrijpelijke wijze mededeling van het bestaan en het bedrag van de provisie als bedoeld in het tweede lid, onderdeel b, voordat de desbetreffende financiële dienst wordt verleend, tenzij het bedrag van de provisie op dat moment niet bekend is.
+4. Dit artikel is niet van toepassing op overeenkomsten inzake premiepensioenvorderingen die zijn afgesloten vóór 1 januari 2016, met dien verstande dat de niet-toepasselijkheid voor die overeenkomsten op 31 december 2020 eindigt.

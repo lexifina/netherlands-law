@@ -1,0 +1,2 @@
+# Artikel 99bis
+Hij die door geweld of bedreiging met geweld een vergadering van de Raad van Ministers uiteenjaagt, tot het nemen of niet nemen van enig besluit dwingt, een lid uit die vergadering verwijdert of opzettelijk een lid verhindert die vergadering bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste twintig jaren.

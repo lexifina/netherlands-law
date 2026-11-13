@@ -1,2 +1,0 @@
-# Artikel XI. Wijziging van de Wet financiering sociale verzekeringen
-[Wijzigt de Wet financiering sociale verzekeringen.]

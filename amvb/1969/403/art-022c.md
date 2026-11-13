@@ -1,0 +1,6 @@
+# Artikel 22c
+1. De houder van een vergunning voor een inrichting als bedoeld in artikel 15, onder b, van de wet, wijzigt het beveiligingspakket, bedoeld in artikel 22a, nadat de referentiedreiging is gewijzigd, of wanneer de Autoriteit dit nodig acht en dit schriftelijk heeft medegedeeld aan de vergunninghouder, waarbij in de kennisgeving is aangegeven wat de aard is van de aan te brengen wijzigingen.
+2. De houder van een vergunning voor een inrichting als bedoeld in artikel 15, onder b, van de wet dient binnen een jaar nadat de referentiedreiging is gewijzigd, respectievelijk binnen een jaar nadat de Autoriteit kenbaar heeft gemaakt wijziging van het beveiligingspakket nodig te achten, een aanvraag om goedkeuring van het in overeenstemming met de referentiedreiging, respectievelijk de kennisgeving van de Autoriteit, gewijzigde beveiligingspakket in.
+3. De termijnen, bedoeld in het tweede lid, kunnen door de Autoriteit worden gewijzigd indien:
+a. de wijziging van de referentiedreiging, respectievelijk de door de Autoriteit nodig geachte wijzigingen van het beveiligingspakket, deze gewijzigde termijnen rechtvaardigen, en
+b. de wijzigingen binnen de door de Autoriteit gestelde termijn door de houder van een vergunning van een inrichting als bedoeld in artikel 15, onder b, van de wet, redelijkerwijs mogelijk zijn.

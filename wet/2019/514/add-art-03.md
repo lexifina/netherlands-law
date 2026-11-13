@@ -1,0 +1,3 @@
+# Artikel III
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor het koninklijk besluit wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Indien binnen deze termijn door of namens een van de Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven dat de inwerkingtreding van deze wet bij wet wordt geregeld, wordt geen voordracht gedaan.
+2. In afwijking van het eerste lid treedt artikel I, onderdeel D, in werking met ingang van 1 januari 2031.

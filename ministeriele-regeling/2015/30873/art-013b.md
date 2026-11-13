@@ -1,0 +1,2 @@
+# Artikel 13b. Overgangsrecht certificaten ondernemingen
+In afwijking van artikel 2, eerste lid, is een certificaat van een onderneming, dat is afgegeven vóór 1 september 2026 op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor ondernemingen, versie 2.0, 6 juni 2019, geldig tot het moment waarop een instelling een besluit heeft genomen waaruit blijkt of aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan.

@@ -1,0 +1,2 @@
+# Artikel 174a
+De wet tot wijziging van Boek 8 van het Burgerlijk Wetboek, Boek 8 van het Burgerlijk Wetboek BES en de Wet bestrijding maritieme ongevallen in verband met de schrapping van de beperking van aansprakelijkheid voor vorderingen inzake wrakopruiming is slechts van toepassing ten aanzien van aansprakelijkheid voortvloeiende uit een maritiem ongeval dat zich na de inwerkingtreding van die wet heeft voorgedaan.

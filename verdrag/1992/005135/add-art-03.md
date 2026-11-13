@@ -1,0 +1,3 @@
+# III
+a) In the event that the Permanent Bureau shall have established its own social security system or has adhered to a social scheme offering coverage comparable to the coverage under Netherlands legislation, the Permanent Bureau and its staff members to whom the aforementioned scheme applies, shall be exempt from social security provisions in force in the Netherlands.
+b) The provisions of paragraph a) shall apply, mutatis mutandis, to the members of the family forming part of the households of the individuals referred to in paragraph a), unless they are employed in the Netherlands otherwise than by the Conference or unless they are in the domestic service of the aforesaid households.

@@ -1,0 +1,2 @@
+# Artikel III. Deelnemende Staten
+Ieder Lid van de Wereldgezondheidsorganisatie kan, met inachtneming van de bepalingen van artikel XII, actief deelnemen aan de werkzaamheden van het Instituut door zich door middel van een aan de Directeur-Generaal van de Wereldgezondheidsorganisatie gerichte kennisgeving te verplichten de bepalingen van dit Statuut in acht te nemen en toe te passen. In dit Statuut worden Leden die een dergelijke kennisgeving hebben ingezonden „Deelnemende Staten" genoemd.

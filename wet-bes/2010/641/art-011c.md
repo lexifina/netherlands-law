@@ -1,0 +1,3 @@
+# Artikel 11c
+1. Degene die enig voorwerp koopt, huurt, inruilt, in pand neemt, als geschenk aanneemt of uit winstbejag verkoopt, verhuurt, verruilt, in pand geeft, vervoert, bewaart of verbergt, wordt, indien aan zijn schuld te wijten is dat zijn handeling een door een in deze wet strafbaar gesteld misdrijf verkregen voorwerp betreft, gestraft hetzij met gevangenisstraf van ten hoogste twaalf jaren, hetzij met geldboete van de vijfde categorie, hetzij met beide straffen.
+2. Dezelfde straf wordt opgelegd aan degene die uit de opbrengst van enig voorwerp voordeel trekt, indien aan zijn schuld te wijten is dat zijn handeling een door een in deze wet strafbaar gesteld misdrijf verkregen voorwerp betreft.

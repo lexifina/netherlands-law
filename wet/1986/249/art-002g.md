@@ -1,0 +1,10 @@
+# Artikel 2g
+Voor de toepassing van dit artikel, artikel 6i, artikel 8, eerste lid en artikel 13a wordt verstaan onder:
+algemeen deel: het deel van de bijheffing-informatieaangifte dat algemene informatie bevat over de multinationale groep als geheel, met inbegrip van haar vennootschapsstructuur en een samenvatting op hoog niveau van de toepassing van Richtlijn (EU) 2022/2523, en dat overeenkomt met deel 1 van het standaardmodel;
+bijheffing-informatieaangifte: de bijheffing-informatieaangifte, bedoeld in artikel 13.1, vijfde lid, van de Wet minimumbelasting 2024;
+deel over rechtsgebieden: de delen van de bijheffing-informatieaangifte die informatie bevatten over de gedetailleerde toepassing van de kwalificerende inkomens-inclusiemaatregel, de kwalificerende onderbelastewinstmaatregel en de kwalificerende binnenlandse bijheffing met betrekking tot elk rechtsgebied waar de multinationale groep actief is, en die overeenkomen met de delen 2 en 3 van het standaardmodel voor de bijheffing-informatieaangifte;
+lidstaat die alleen een kwalificerende binnenlandse bijheffing toepast: een lidstaat die voor het te rapporteren verslagjaar enkel een kwalificerende binnenlandse bijheffing als bedoeld in artikel 1.2 van de Wet minimumbelasting 2024 heeft ingevoerd;
+Richtlijn (EU) 2022/2523: Richtlijn (EU) 2022/2523 van de Raad van 14 december 2022 tot waarborging van een mondiaal minimumniveau van belastingheffing voor groepen van multinationale ondernemingen en omvangrijke binnenlandse groepen in de Unie (PbEU 2022, L 328);
+standaardmodel: het standaardformulier door middel waarvan de bijheffing-informatieaangifte wordt ingediend, bedoeld in artikel 13.1, eerste lid, onderdeel c, van de Wet minimumbelasting 2024;
+te rapporteren verslagjaar: het verslagjaar, bedoeld in artikel 1.2 van de Wet minimumbelasting 2024, waarop de bijheffing-informatieaangifte betrekking heeft;
+uitvoerende lidstaat: een lidstaat die in het gegeven te rapporteren verslagjaar een kwalificerende inkomens-inclusiemaatregel of een kwalificerende onderbelastewinstmaatregel als bedoeld in artikel 1.2 van de Wet minimumbelasting 2024, of beide heeft toegepast.

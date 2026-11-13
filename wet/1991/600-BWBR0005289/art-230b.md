@@ -1,0 +1,15 @@
+# Artikel 230b
+De dienstverrichter die diensten verricht als bedoeld in richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376), stelt de afnemer van die diensten de volgende gegevens ter beschikking:
+1. zijn naam, rechtspositie en rechtsvorm, het geografisch adres waar hij is gevestigd, zijn adresgegevens, zodat de afnemers hem snel kunnen bereiken en rechtstreeks met hem kunnen communiceren, eventueel langs elektronische weg;
+2. wanneer de dienstverrichter in een handelsregister of in een vergelijkbaar openbaar register is ingeschreven, de naam van dat register en het nummer waaronder hij is ingeschreven, of gelijkwaardige gegevens uit dat register die ter identificatie dienen;
+3. wanneer voor de activiteit een vergunningstelsel geldt, de adresgegevens van de bevoegde instantie of van het centraal loket;
+4. wanneer de dienstverrichter een btw-plichtige activiteit uitoefent, het nummer bedoeld in artikel 214, eerste lid, onder a, van Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het Gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347);
+5. voor gereglementeerde beroepen: elke beroepsorde of vergelijkbare organisatie waarbij de dienstverrichter is ingeschreven, alsmede de beroepstitel en de lidstaat waar die is verleend;
+6. in voorkomend geval, de algemene voorwaarden en bepalingen die de dienstverrichter hanteert;
+7. het eventuele bestaan van door de dienstverrichter gehanteerde contractuele bepalingen betreffende het op de overeenkomst toepasselijke recht of de bevoegde rechter;
+8. het eventuele bestaan van niet bij wet voorgeschreven garantie na verkoop;
+9. de prijs van de dienst wanneer de dienstverrichter de prijs van een bepaald soort dienst vooraf heeft vastgesteld;
+10. de belangrijkste kenmerken van de dienst wanneer deze niet uit de context blijken;
+11. de in artikel 23, lid 1 van de in de aanhef van dit artikel genoemde richtlijn, bedoelde verzekering of waarborgen, met name de adresgegevens van de verzekeraar of de borg en de geografische dekking;
+12. adresgegevens, met name een postadres, faxnummer of e-mailadres en een telefoonnummer, waar alle afnemers, ook die die in andere lidstaten verblijven, een klacht kunnen indienen of informatie over de verrichte dienst kunnen vragen. Indien dit niet hun gebruikelijke correspondentieadres is, wordt hun wettelijke adres verstrekt. Op eventuele klachten wordt zo snel mogelijk gereageerd en alles wordt in het werk gesteld om een bevredigende oplossing te vinden;
+13. wanneer een dienstverrichter gebonden is aan een gedragscode of lid is van een handelsvereniging of beroepsorde die voorziet in een regeling voor buitengerechtelijke geschillenbeslechting, wordt dienaangaande informatie verstrekt. De dienstverrichter vermeldt dit in elk document waarin zijn diensten in detail worden beschreven en geeft daarbij aan hoe toegang kan worden verkregen tot gedetailleerde informatie over de kenmerken en toepassingsvoorwaarden van deze regeling.

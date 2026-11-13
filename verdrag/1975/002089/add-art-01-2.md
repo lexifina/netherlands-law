@@ -1,0 +1,2 @@
+# Artikel I
+Ingeval beide Regeringen hebben besloten samen te werken bij een bepaald project van technische samenwerking (hierna te noemen „een Project"), worden zowel de wederzijdse bijdragen aan dat project als de uitvoering ervan in elk afzonderlijk geval vastgelegd in een administratief akkoord, waarover overeenstemming moet worden bereikt door de onderscheiden bevoegde administratieve autoriteiten, overeenkomstig de beginselen vervat in deze Overeenkomst.

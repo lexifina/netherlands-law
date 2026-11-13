@@ -1,0 +1,2 @@
+# Artikel II
+De SLIM-regeling zoals deze luidde op de dag voor inwerkingtreding van deze regeling blijft van toepassing op subsidies die voorafgaande aan de inwerkingtreding van deze regeling zijn verleend of aangevraagd, met uitzondering van de artikelen 10, 11, eerste, derde, vierde en vijfde lid, 12 en 20. Op subsidies als hiervoor bedoeld is tevens artikel 25 van toepassing, zoals dit luidt na inwerkingtreding van deze regeling.

@@ -1,0 +1,2 @@
+# Article I
+For the purpose of expressing sympathy and regret for the sufferings inflicted during the Second World War by agencies of the Government of Japan upon Netherlands nationals, the Government of Japan shall voluntarily tender as a solatium the amount of Pounds Sterling equivalent to U.S. $ 10,000,000 to the Government of the Kingdom of The Netherlands on behalf of those Netherlands nationals.

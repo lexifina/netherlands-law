@@ -1,0 +1,4 @@
+# Artikel 2d
+1. Gegevens en bescheiden die van belang zijn voor de aanvraag omtrent de erkenning als referent, worden niet verkregen van de aanvrager, voor zover Onze Minister die gegevens of bescheiden kan verkrijgen uit bij regeling van Onze Minister aan te wijzen administraties, tenzij hierdoor een goede uitvoering van de wet wordt belet.
+2. Overeenkomstig bij regeling van Onze Minister gestelde regels verstrekt de aanvrager Onze Minister op diens verzoek en al dan niet in persoon alsnog de gegevens en bescheiden, die van belang zijn voor de beoordeling van de aanvraag.
+3. Bij regeling van Onze Minister wordt bepaald voor welke gegevens en bescheiden het eerste lid van toepassing is en kunnen administraties of delen daarvan worden aangewezen, waarvoor het eerste lid tijdelijk niet van toepassing is.

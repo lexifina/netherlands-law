@@ -1,0 +1,4 @@
+# Artikel 97b
+Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie wordt gestraft:
+1°. hij die enig voorwerp invoert dat geschikt is tot het verschaffen van stoffelijke steun aan het voorbereiden, bevorderen of teweegbrengen van omwenteling, indien hij weet of ernstige reden heeft om te vermoeden dat het daartoe bestemd is;
+2°. hij die enig voorwerp onder zich heeft of tot onderwerp van een overeenkomst maakt dat geschikt is tot het verschaffen van stoffelijke steun aan het voorbereiden, bevorderen of teweegbrengen van omwenteling, indien hij weet of ernstige reden heeft om te vermoeden, dat het daartoe bestemd is en dat het voorwerp of enig ander voorwerp waarvoor het in de plaats is getreden, hetzij met die bestemming is ingevoerd, hetzij door of vanwege een in het buitenland gevestigd persoon of lichaam daartoe is bestemd.

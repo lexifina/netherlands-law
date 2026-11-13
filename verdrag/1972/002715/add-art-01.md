@@ -1,0 +1,2 @@
+# Article I
+Contracting Parties shall individually and collectively promote the effective control of all sources of pollution of the marine environment, and pledge themselves especially to take all practicable steps to prevent the pollution of the sea by the dumping of waste and other matter that is liable to create hazards to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea.

@@ -1,2 +1,0 @@
-# Artikel Ya 18
-De gezaghebber brengt zo spoedig mogelijk nadat over de toelating van de gekozenen is beslist een afschrift van het proces-verbaal van het stembureau van het openbaar lichaam, bedoeld in artikel Na 31, en een afschrift van het proces-verbaal van het centraal stembureau, bedoeld in artikel P 22, langs elektronische weg over aan de Kiesraad, dan wel, indien het stembureau van het openbaar lichaam of het centraal stembureau programmatuur heeft gebruikt, de digitale bestanden.

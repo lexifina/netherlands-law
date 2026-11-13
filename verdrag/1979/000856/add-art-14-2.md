@@ -1,0 +1,3 @@
+# Artikel XIV. Voorbehouden
+1. Ten aanzien van de bepalingen van dit Verdrag kunnen geen algemene voorbehouden worden gemaakt. Bijzondere voorbehouden kunnen worden gemaakt overeenkomstig het bepaalde in dit artikel en het bepaalde in artikel XI.
+2. Iedere Staat of iedere regionale organisatie voor economische integratie kan bij de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, een bijzonder voorbehoud maken ten aanzien van de vermelding van iedere trekkende soort in Bijlage I of Bijlage II of in beide, en wordt alsdan ten aanzien van het onderwerp van dit voorbehoud niet als Partij beschouwd tot negentig dagen na het tijdstip waarop de Depositaris de Partijen in kennis heeft gesteld van de intrekking van dit voorbehoud.

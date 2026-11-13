@@ -1,0 +1,2 @@
+# Artikel 8g
+Een weefselbank bewaart postmortaal weefsel waarvan op grond van artikel 18, derde lid, van de Wet op de orgaandonatie is bepaald dat het voor transplantatie beschikbaar moet blijven, ten minste totdat het orgaancentrum met toepassing van die wet heeft aangewezen wie voor transplantatie van dat postmortale weefsel in aanmerking komt, of totdat het orgaancentrum heeft bepaald dat het niet langer beschikbaar moet blijven.

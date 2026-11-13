@@ -1,0 +1,3 @@
+# Article XIX. Smoking Ban
+1. Each Contracting Party shall prohibit or cause their airlines to prohibit smoking on all flights carrying passengers operated by its airlines between the territories of the Contracting Parties. This prohibition shall apply to all locations within the aircraft and shall be in effect from the time an aircraft commences enplanement of passengers to the time deplanement of passengers is completed.
+2. Each Contracting Party shall take all measures that it considers reasonable to secure compliance by its airlines and by their passengers and crew with the provisions of this Article, including the imposition of appropriate penalties for non-compliance.

@@ -1,0 +1,5 @@
+# Artikel V
+A. Artikel 77g, tweede en derde lid, van het Wetboek van Strafrecht zoals zij na inwerkingtreding van deze wet komen te luiden, worden slechts toegepast met betrekking tot feiten begaan na inwerkingtreding van deze wet. Met betrekking tot feiten begaan voor inwerkingtreding van deze wet blijft artikel 77g, tweede en derde lid, van het Wetboek van Strafrecht van toepassing zoals het luidde voor dat tijdstip.
+B. De artikelen 77w, 77wa en 77wb van het Wetboek van Strafrecht worden slechts toegepast met betrekking tot feiten begaan na inwerkingtreding van deze wet.
+C. Aan artikel 77l, vijfde lid, van het Wetboek van Strafrecht zoals dat komt te luiden na inwerkingtreding van deze wet, en aan artikel 77p, vierde lid, van het Wetboek van Strafrecht wordt slechts toepassing gegeven voor zover de veroordeling is uitgesproken na inwerkingtreding van deze wet. Met betrekking tot feiten ten aanzien waarvan de veroordeling is uitgesproken voor inwerkingtreding van deze wet blijft artikel 77l, vijfde lid, van het Wetboek van Strafrecht van toepassing zoals het luidde voor dat tijdstip.
+D. [Wijzigt het Wetboek van Strafrecht.]

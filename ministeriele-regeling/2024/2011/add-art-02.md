@@ -1,0 +1,2 @@
+# Artikel II
+Met ingang van 1 januari 2024 gaan de bij resolutie MSC.545(107) vastgestelde wijzigingen van de MODU-Code 1979, de bij resolutie MSC.546(107) vastgestelde wijzigingen van de MODU-Code 1989 en de bij resolutie MSC.547(107) vastgestelde wijzigingen van de MODU-Code 2009, gelden voor de toepassing van de Regeling veiligheid zeeschepen en de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen.

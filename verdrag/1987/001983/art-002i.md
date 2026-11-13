@@ -1,0 +1,2 @@
+# Article 2I. Bromochloromethane
+Each Party shall ensure that for the twelve-month period commencing in 1 January 2002, and in each twelve-month period thereafter, its a calculated level of consumption and production of the controlled substance in Group III of Annex C does not exceed zero. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed to be essential.

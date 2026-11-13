@@ -1,0 +1,7 @@
+# Rule 71a. Conclusion of the grant procedure
+1. The decision to grant the European patent shall be issued if all fees have been paid, a translation of the claims in the two official languages of the European Patent Office other than the language of the proceedings has been filed and there is agreement as to the text to be granted. It shall state which text of the European patent application forms the basis for the decision.
+2. Until the decision to grant the European patent, the Examining Division may resume the examination proceedings at any time.
+3. If the designation fee becomes due after the communication under Rule 71, paragraph 3, the mention of the grant of the European patent shall not be published until the designation fee has been paid. The applicant shall be informed accordingly.
+4. If a renewal fee becomes due after the communication under Rule 71, paragraph 3, and before the next possible date for publication of the mention of the grant of the European patent, the mention shall not be published until the renewal fee has been paid. The applicant shall be informed accordingly.
+5. If, in response to an invitation under Rule 71, paragraph 3, the applicant has already paid the fee for grant and publishing or the claims fees, the paid amount shall be credited if a further such invitation is issued.
+6. If the European patent application is refused, withdrawn prior to notification of the decision on the grant of a European patent or, at that time, deemed to be withdrawn, the fee for grant and publishing shall be refunded.

@@ -1,0 +1,6 @@
+# Artikel I. Doelstelling
+De Maatschappij heeft ten doel de economische ontwikkeling te bevorderen door het aanmoedigen van de groei van productieve particuliere ondernemingen in landen-leden, in het bijzonder in de minder ontwikkelde gebieden, en daarmede de werkzaamheden van de Internationale Bank voor Herstel en Ontwikkeling (hierna te noemen de Bank) aan te vullen. Bij de uitvoering van deze doelstelling zal de Maatschappij:
+(i) tezamen met particuliere investeerders medewerking verlenen bij de financiering van de oprichting, verbetering en uitbreiding van productieve particuliere ondernemingen, welke zullen bijdragen tot de ontwikkeling van haar landen-leden door het verrichten van investeringen, zonder garantie tot terugbetaling door de regering van het betrokken land dat lid is van de Maatschappij in gevallen waar voldoende particulier kapitaal niet op redelijke voorwaarden beschikbaar is;
+(ii) trachten mogelijkheden tot investeren, binnen- en buitenlands particulier kapitaal en ervaren leiding tezamen te brengen; en
+(iii) trachten de stroom van particulier binnen- en buitenlands kapitaal naar productieve investeringen in landen-leden te stimuleren en behulpzaam te zijn bij het tot stand brengen van voorwaarden, welke daartoe bevorderlijk zijn.
+De Maatschappij laat zich in al haar beslissingen leiden door de bepalingen van dit artikel.

@@ -1,0 +1,4 @@
+# Artikel V
+1. Artikel III, onderdelen A, B, onder 1, C en G, onder 1, van dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt terug tot en met 1 juli 2000.
+2. De artikelen I, onderdeel A, II, III, onderdeel B, onder 2, en IV van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werken terug tot en met 1 januari 2001.
+3. De artikelen I, onderdeel B, en III, onderdelen D, E, F en G, onder 2, van dit besluit treden in werking met ingang van 1 juli 2001. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 juni 2001, treden de artikelen I, onderdeel B, en III, onderdelen D, E, F en G, onder 2, van dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werken zij terug tot en met 1 juli 2001.

@@ -1,0 +1,2 @@
+# Article IV.4
+Where admission to particular higher education programmes is dependent on the fulfilment of specific requirements in addition to the general requirements for access, the competent authorities of the Party concerned may impose the additional requirements equally on holders of qualifications obtained in the other Parties or assess whether applicants with qualifications obtained in other Parties fulfil equivalent requirements.

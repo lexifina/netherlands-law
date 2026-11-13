@@ -1,0 +1,2 @@
+# Artikel 584q
+Indien het beslag en de executie niet overeenkomstig deze afdeling hebben plaats gevonden, kan een ieder, die daardoor is benadeeld, binnen zes maanden na de toewijzing vorderen dat de rechtbank binnen welker rechtsgebied de verkoop is geschied de verkoop en daaropgevolgde eigendomsovergang vernietigt. Indien deze vorderingen een in het register teboekstaand luchtvaartuig betreft, moet zij op straffe van niet ontvankelijkheid binnen drie dagen na de instelling daarvan in de openbare registers worden ingeschreven.

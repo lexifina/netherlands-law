@@ -1,0 +1,2 @@
+# Artikel 72a
+Een diploma verbonden aan het voltooien van een initiële opleiding, die de ambtenaar is begonnen vóór 1 januari 2002, wordt voor wat betreft de benoembaarheid van de ambtenaar in een functie, bij nader door Onze Minister te stellen regels, gelijkgesteld aan een diploma verbonden aan een voltooide initiële opleiding van na 1 januari 2002 en aan een diploma verbonden aan een politieopleiding als bedoeld in artikel 1, eerste lid, onderdeel s, onder 1°, van de Politiewet 2012.

@@ -1,0 +1,3 @@
+# Artikel 3a
+1. De bevoegde autoriteit, bedoeld in artikel 1 ter, eerste lid, van Verordening (EG) nr. 1183/2005 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand, bedoeld in voornoemd artikel 1 ter, eerste lid. De bevoegde autoriteit is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 1 ter, eerste lid.
+2. De bevoegde autoriteit, bedoeld in de artikelen 3, 4 en 4 ter van Verordening (EG) nr. 1183/2005 is de Minister van Financiën voor zover het betreft de vrijgave van bevroren tegoeden en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave van economische middelen.

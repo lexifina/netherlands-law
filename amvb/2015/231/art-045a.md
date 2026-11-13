@@ -1,0 +1,5 @@
+# Artikel 45a
+1. Het financieel voordeel, bedoeld in artikel 44d, tweede lid, van de wet, is het verschil tussen:
+a. de canon die de gemeente op basis van de actuele grondwaarde zou opleggen bij uitgifte van de grond, indien die bestemd is voor huurwoningen met een aanvangshuurprijs van ten minste het bedrag, bedoeld in artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag, en ten hoogste een in de gemeentelijke verordening bepaalde, jaarlijks te indexeren aanvangshuurprijs, en;
+b. de canon die de gemeente op basis van de actuele grondwaarde zou opleggen bij uitgifte van de grond met de bestemming voorafgaand aan een wijziging daarvan als bedoeld in artikel 44d, eerste lid, van de wet.
+2. De grondwaarden, bedoeld in het eerste lid, worden uiterlijk een maand na wijziging van de bestemming bepaald door een onafhankelijke taxateur als bedoeld in artikel 1, eerste lid, die door de gemeente en de toegelaten instelling gezamenlijk is aangesteld voor rekening van de toegelaten instelling. De taxateur rapporteert aan beide partijen.

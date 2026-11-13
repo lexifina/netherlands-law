@@ -1,0 +1,3 @@
+# Article V
+La présente Convention est conclue pour cinq années, à partir du jour de l'échange des actes de ratification. Dans le cas où aucune des deux Hautes Parties Contractantes n'aurait notifié une année avant l'expiration de ce terme son intention d'en faire cesser les effets, la Convention continuera à être obligatoire encore une année et ainsi de suite d'année en année à compter du jour où l'une des Parties l'aura dénoncée.
+La présente Convention sera ratifiée et les ratifications en seront échangées à Bruxelles aussitôt que possible après l'accomplissement des formalités constitutionnelles dans les deux Pays.

@@ -1,0 +1,8 @@
+# C
+1. Elke aangewezen luchtvaartmaatschappij heeft het recht op de omschreven routes zeven wekelijkse retourdiensten te exploiteren met elk type luchtvaartuig in elke klasse.
+2. Er mogen echter niet meer dan twee wekelijkse diensten worden verricht vanaf de datum van ondertekening van deze Overeenkomst.
+Twee jaar na aanvang van de exploitatie door de aangewezen luchtvaartmaatschappij van een van beide Overeenkomstsluitende Partijen, en vervolgens na iedere volgende termijn van twee jaar, hebben beide aangewezen luchtvaartmaatschappijen het recht een nieuwe wekelijkse retourdienst toe te voegen aan het dan krachtens deze paragraaf geldende recht, totdat het in paragraaf C. 1 genoemde maximumaantal is bereikt.
+3. Het maximumaantal zitplaatsen dat wekelijks kan worden verkocht voor de route tussen de grondgebieden van de Overeenkomstsluitende Partijen is gelijk aan het in paragraaf C.2 hierboven vermelde aantal toegestane retourdiensten, vermenigvuldigd met 300.
+4. Extra diensten boven het hierboven omschreven aantal zijn onderworpen aan en afhankelijk van overleg tussen de aangewezen luchtvaartmaatschappijen en behoeven de goedkeuring van de luchtvaartautoriteiten van de Overeenkomstsluitende Partijen.
+5. Indien de aangewezen luchtvaartmaatschappijen er niet in slagen overeenstemming te bereiken in gevallen zoals bedoeld in paragraaf C4 hierboven, kan elke aangewezen luchtvaartmaatschappij haar luchtvaartautoriteiten verzoeken om overleg krachtens artikel 17 van deze Overeenkomst.
+De luchtvaartautoriteiten kunnen in dat geval beslissen over het verrichten van extra diensten.

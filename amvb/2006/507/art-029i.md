@@ -1,0 +1,2 @@
+# Artikel 29i
+De Nederlandsche Bank neemt een aanvraag voor vergoeding uit hoofde van een vangnetregeling waaraan een bank, beleggingsonderneming of financiële instelling met zetel in een andere lidstaat deelneemt in behandeling indien de uitvoerder van de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft, heeft vastgesteld wat de hoogte van de vergoeding voor de desbetreffende depositohouder of belegger is.

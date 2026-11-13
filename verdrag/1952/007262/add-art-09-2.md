@@ -1,0 +1,3 @@
+# Artikel IX. Ondertekening en bekrachtiging
+1. Deze Overeenkomst staat tot 30 Juni 1953 open voor ondertekening door de Regeringen welke Partij zijn bij de Algemene Overeenkomst betreffende Tarieven en Handel, evenals door de Regeringen van alle Staten-Leden der Verenigde Naties of van elke andere Staat aan welke de Secretaris-Generaal van de Verenigde Naties daartoe een afschrift van deze Overeenkomst heeft doen toekomen.
+2. Deze Overeenkomst is onderworpen aan bekrachtiging of aanvaarding door de ondertekenende Regeringen overeenkomstig de procedure voorzien bij hun grondwet. De akten van bekrachtiging of van aanvaarding worden nedergelegd bij de Secretaris-Generaal der Verenigde Naties.

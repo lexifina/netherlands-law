@@ -1,0 +1,2 @@
+# Artikel Ia
+Onze Minister van Volkshuisvesting en Ruimtelijke Ordening zendt binnen twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, waarbij in het bijzonder aandacht wordt besteed aan de betaalbaarheid van huren voor huurders, de doorstroming in de sociale huursector, de financiële positie en investeringscapaciteit van verhuurders en de gevolgen daarvan voor investeringsopgaven van verhuurders en regionale verschillen tussen verhuurders.

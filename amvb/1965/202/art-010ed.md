@@ -1,0 +1,3 @@
+# Artikel 10ed
+1. Indien een ingekomen werknemer tijdens de looptijd een andere inhoudingsplichtige krijgt, blijft op gezamenlijk verzoek van de werknemer en de nieuwe inhoudingsplichtige de bewijsregel gedurende de resterende looptijd van toepassing, mits de periode tussen het einde van de tewerkstelling door de oude inhoudingsplichtige en de totstandkoming van de arbeidsovereenkomst met de nieuwe inhoudingsplichtige niet langer is dan drie maanden.
+2. Bij een dergelijk verzoek moet door de nieuwe inhoudingsplichtige opnieuw aannemelijk worden gemaakt dat de werknemer behoort te worden aangemerkt als ingekomen werknemer.

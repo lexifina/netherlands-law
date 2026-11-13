@@ -1,0 +1,2 @@
+# Artikel 61b
+De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen aan een in het belang van de dienst door het bevoegde gezag gelast onderzoek aan zijn lichaam of aan zijn kleding of van zijn daar aanwezige goederen. Het bevoegd gezag, op wiens last het onderzoek plaatsheeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.

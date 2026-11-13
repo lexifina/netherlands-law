@@ -1,0 +1,2 @@
+# Article V
+Chacun des deux Gouvernements se réserve le droit de refuser l'accès ou le séjour sur son territoire aux nationaux de l'autre Etat qu'il considère comme indésirables.

@@ -1,2 +1,0 @@
-# Artikel III
-Waar in op het tijdstip van inwerkingtreding van deze rijkswet geldende bepalingen in rijkswetten, wetten, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur en daarop gebaseerde regelingen en besluiten melding wordt gemaakt van de Nederlandse Antillen, wordt, zolang die bepalingen niet met deze rijkswet in overeenstemming zijn gebracht, daaronder mede begrepen Aruba.

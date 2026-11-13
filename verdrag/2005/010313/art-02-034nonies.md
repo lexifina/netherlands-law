@@ -1,0 +1,2 @@
+# Artikel 2.34nonies. Aanvullende gronden voor nietigverklaring
+In aanvulling op de gronden voor nietigverklaring in artikel 2.2bis, met uitzondering van artikel 2.2bis, lid 1, sub c, betreffende tekens of benamingen die in de handel kunnen dienen tot aanduiding van de plaats van herkomst van de waren of diensten, en in artikel 2.2ter, wordt een collectief merk nietig verklaard indien het in strijd met artikel 2.34quater is ingeschreven, tenzij de merkhouder door een wijziging van het reglement voldoet aan de in artikel 2.34quater gestelde eisen.

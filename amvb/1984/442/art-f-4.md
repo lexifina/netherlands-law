@@ -1,0 +1,2 @@
+# Artikel F-4
+In andere gevallen van samenvoeging dan die, bedoeld in de artikelen F-2 en F-3, geldt vanaf de samenvoeging als krachtens artikel 24, eerste lid, van de wet aan de nieuwe school te zijn gekozen een voorlopige medezeggenschapsraad, samengesteld uit de leden van de raden van de samengevoegde scholen. Na de samenvoeging legt het bevoegd gezag onverwijld een medezeggenschapsreglement als voorstel aan de voorlopige raad voor. Vervolgens spreekt de voorlopige raad zich, na overleg met het bevoegd gezag, binnen drie maanden over het voorstel uit.

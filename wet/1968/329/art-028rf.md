@@ -1,0 +1,3 @@
+# Artikel 28rf
+1. De niet in de Unie gevestigde ondernemer die van de niet-Unieregeling gebruikmaakt, dient langs elektronische weg bij de lidstaat van identificatie een btw-melding in voor elk kalenderkwartaal, ongeacht of al dan niet onder de niet-Unieregeling vallende diensten zijn verricht. De btw-melding wordt uiterlijk voor het einde van de maand volgend op het verstrijken van het belastingtijdvak waarop de melding betrekking heeft, ingediend.
+2. De ondernemer die voor Nederland heeft gekozen als lidstaat van identificatie dient de in het eerste lid bedoelde btw-melding in bij de inspecteur.

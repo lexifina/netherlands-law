@@ -1,0 +1,2 @@
+# Artikel 2a. Specifieke uitzondering
+Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een onderdeel van een bondgenootschappelijk orgaan of bondgenootschappelijke strijdkrachten in Nederland of door Onze Minister aan te wijzen nationale of internationale overheidsdiensten waar werknemers in de zin van dit besluit werkzaam zijn, geheel of gedeeltelijk worden vrijgesteld van de werking van dit besluit.

@@ -1,0 +1,6 @@
+# Artikel 94b
+Voor de toepassing van de artikelen 94 en 94a geldt:
+1°. dat beslag op vorderingen wordt gelegd en beëindigd door een schriftelijke kennisgeving aan de schuldenaar;
+2°. dat beslag op rechten aan toonder of order geschiedt door beslag op het papier;
+3°. dat bij het leggen van beslag op aandelen en effecten op naam en bij het leggen en beëindigen van beslag op onroerende registergoederen de tussenkomst van de gerechtsdeurwaarder wordt ingeroepen en formaliteiten in acht genomen worden welke ingevolge het Wetboek van Burgerlijke Rechtsvordering gelden ten aanzien van de mededeling of aanzegging van de inbeslagneming, dan wel de betekening van het proces-verbaal van inbeslagneming, de aantekening, inschrijving of doorhaling in registers en de betekening daarvan aan derden;
+4°. dat bij het leggen en beëindigen van beslag op schepen en luchtvaartuigen formaliteiten in acht genomen worden welke ingevolge het Wetboek van Burgerlijke Rechtsvordering gelden ten aanzien van de betekening van het proces-verbaal van inbeslagneming, en ingevolge enige regeling inzake teboekgestelde schepen, onderscheidenlijk luchtvaartuigen ten aanzien van de inschrijving en doorhaling daarvan in registers.

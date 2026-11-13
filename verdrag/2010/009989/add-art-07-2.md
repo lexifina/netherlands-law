@@ -1,0 +1,2 @@
+# VII. Ad Article 5, paragraph 3
+For enterprises resident of a Contracting State and having started their activities on a building site or construction or installation project in the other Contracting State before the entry into force of the new Convention, the existence or not of a permanent establishment in the other State is determined according to the rules of the Convention of November 12, 1951, as supplemented by a Supplementary Protocol of November 12, 1951, and as amended by the Supplementary Convention of June 22, 1966.

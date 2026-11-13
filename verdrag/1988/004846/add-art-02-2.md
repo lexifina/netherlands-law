@@ -1,0 +1,4 @@
+# Artikel II. Eerdere verdragen
+1. Tussen de Partijen bij dit Protocol treedt dit Protocol in de plaats van het Protocol uit 1978 bij het Verdrag.
+2. Niettegenstaande andere bepalingen van dit Protocol, blijft ieder certificaat, afgegeven krachtens en in overeenstemming met de bepalingen van het Verdrag, alsmede iedere aanvulling op een zodanig certificaat, afgegeven krachtens en in overeenstemming met de bepalingen van het Protocol van 1978 bij het Verdrag, dat geldig is wanneer dit Protocol in werking treedt ten aanzien van de Partij die het certificaat of de aanvulling hierop heeft afgegeven, geldig totdat het komt te vervallen ingevolge de voorwaarden van het Verdrag of van het Protocol van 1978 bij het Verdrag, al naar gelang het geval.
+3. Een Partij bij dit Protocol geeft geen certificaten af krachtens en in overeenstemming met de bepalingen van het Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974, zoals aangenomen op 1 november 1974.

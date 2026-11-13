@@ -1,2 +1,0 @@
-# Artikel XXVI
-Vervallen

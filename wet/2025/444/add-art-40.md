@@ -1,0 +1,2 @@
+# Artikel XL
+De artikelen 5.26, vierde lid, en 5.31, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001 blijven buiten toepassing voor zover het werkelijke rendement van bezittingen en schulden, bedoeld in artikel 5.25, eerste lid, van die wet, wordt bepaald over bezittingen of schulden die direct voorafgaand aan 25 augustus 2025, 16.00 uur tot de bezittingen, bedoeld in artikel 5.3, tweede lid, van die wet, onderscheidenlijk de schulden, bedoeld in artikel 5.3, derde lid, van die wet, behoorden.

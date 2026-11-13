@@ -1,0 +1,10 @@
+# Artikel VI. Begroting en financiële middelen
+1. De operationele kosten van het Secretariaat en de Vergadering en alle kosten in verband met ondersteunende functies en sectoroverkoepelende activiteiten vormen de begroting van de ISA. Zij worden gedekt door:
+a. Vrijwillige bijdragen van de leden, de VN en haar agentschappen en andere landen;
+b. Vrijwillige bijdragen van de private sector. In het geval van mogelijke belangenconflict verwijst het Secretariaat de kwestie naar de Vergadering voor goedkeuring van de aanvaarding van de bijdrage;
+c. Inkomsten die voortvloeien uit specifieke, door de Vergadering goedgekeurde activiteiten.
+2. Het Secretariaat zal voorstellen doen aan de Vergadering om een corpusfonds op te richten en te bevorderen, dat inkomsten zal genereren voor de ISA-begroting, met een startbegroting van 16 miljoen dollar.
+3. De regering van India draagt 27 miljoen dollar bij aan de ISA voor het opzetten van het corpusfonds, de aanleg van infrastructuur en vaste lasten over een periode van vijf jaar, van 2016–17 tot 2020–21. Daarnaast hebben overheidsbedrijven van de Indiase regering, namelijk de Solar Energy Corporation of India (SECI) en Indian Renewable Energy Development Agency (IREDA), elk een bijdrage van 1 miljoen dollar geleverd voor de oprichting van het ISA-corpusfonds.
+4. De financiële middelen die nodig zijn voor de uitvoering van een programma, met uitzondering van de administratieve kosten die onder de algemene begroting vallen, worden beoordeeld en gemobiliseerd door de landen die aan dit programma deelnemen, met de steun en bijstand van het Secretariaat.
+5. De financiële en administratieve activiteiten van de ISA, met uitzondering van de programma's, kunnen worden uitbesteed aan een andere organisatie, in overeenstemming met een afzonderlijke overeenkomst die door de Vergadering dient te worden goedgekeurd.
+6. Het secretariaat kan met goedkeuring van de Vergadering een externe accountant aanstellen om de rekeningen van de ISA te onderzoeken.

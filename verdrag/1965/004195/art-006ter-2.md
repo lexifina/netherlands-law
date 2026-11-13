@@ -1,0 +1,2 @@
+# Artikel 6 ter
+De Overeenkomstsluitende Partij op wier grondgebied een onderdaan van de andere Overeenkomstsluitende Partij een investering doet of voornemens is te doen, dient in te stemmen met elk verzoek van de kant van een zodanige onderdaan een geschil dat met betrekking tot die investering zou kunnen rijzen ter bemiddeling of arbitrage voor te leggen aan het Centrum dat is opgericht krachtens het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.

@@ -1,0 +1,3 @@
+# Artikel III
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+2. Artikel 7, derde lid, van de Natuurschoonwet 1928 vindt met betrekking tot onroerende zaken als bedoeld in artikel 1, derde lid, van de Natuurschoonwet 1928 slechts toepassing indien het overlijden, de schenking of de in artikel 45, derde lid, tweede volzin, of artikel 53, eerste lid, van de Successiewet 1956 bedoelde gebeurtenis op of na het tijdstip van de inwerkingtreding van deze wet plaatsvindt, zomede indien op of na dat tijdstip krachtens schenking wordt verkregen door vervulling van een voorwaarde.

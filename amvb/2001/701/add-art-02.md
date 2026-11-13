@@ -1,0 +1,2 @@
+# Artikel II
+Dit besluit treedt in werking met ingang van 1 januari 2002, met dien verstande dat de aanhef juncto nummer 21 van onderdeel b van de bij het Uitvoeringsbesluit omzetbelasting 1968 behorende bijlage B zoals deze bepaling luidde op 31 december 2001, van toepassing blijft met betrekking tot die instellingen die deze bepaling toepasten op die datum, en wel uiterlijk tot het tijdstip waarop die instellingen ervoor kiezen die bepaling niet langer op hen van toepassing te doen zijn.

@@ -1,0 +1,4 @@
+# Artikel XLVII
+De bij artikel XLVI van deze wet ingetrokken wetten, de bij deze wet gewijzigde wetten alsmede de daarop berustende bepalingen blijven – met inbegrip van bepalingen van overgangsrecht – van toepassing zoals zij golden voor de inwerkingtreding van deze wet voor zover zij betrekking hebben op:
+a. de heffing van belastingen, invoerrechten, rechten bij invoer en rechten bij uitvoer waarvan de feiten die aanleiding geven tot het ontstaan van de verschuldigdheid van die belastingen, invoerrechten, rechten bij invoer dan wel rechten bij uitvoer zich hebben voorgedaan vóór de dag van de inwerkingtreding van deze wet;
+b. strafbare feiten en feiten die aanleiding kunnen zijn tot het opleggen van een bestuurlijke boete welke zich hebben voorgedaan vóór de dag van de inwerkingtreding van deze wet.

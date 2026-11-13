@@ -1,0 +1,5 @@
+# Artikel 5a
+1. Bij aankondigingen van prijsverminderingen geeft de verkoper de laagste verkoopprijs aan die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voor de toepassing van de prijsvermindering.
+2. In afwijking van het eerste lid mag de verkoper voor producten van bij ministeriële regeling aangewezen categorieën die snel bederven of een beperkte houdbaarheid hebben, de verkoopprijs aangeven die direct voorafgaand aan de prijsvermindering is toegepast.
+3. Ingeval een prijsvermindering progressief wordt verhoogd, mag de verkoper, in afwijking van het eerste lid, gedurende een periode tot drie kalendermaanden na aanvang van de eerste prijsvermindering de laagste verkoopprijs aangeven die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voorafgaand aan de toepassing van de eerste prijsvermindering.
+4. Indien een product minder dan dertig dagen op de markt is, mag de verkoper, in afwijking van het eerste lid, de laagste verkoopprijs aangeven in een door hem te vermelden periode.

@@ -1,0 +1,6 @@
+# Artikel 48x
+1. Het bevoegd gezag onderscheidenlijk de korpschef kan, indien hem blijkt van feiten of omstandigheden die een hernieuwd onderzoek naar de betrouwbaarheid rechtvaardigen, een onderzoek naar de betrouwbaarheid instellen naar de persoon, bedoeld in artikel 48v, eerste lid, onder a of b.
+2. Het bevoegd gezag onderscheidenlijk de korpschef stelt periodiek een hernieuwd onderzoek naar de betrouwbaarheid in naar een persoon als bedoeld in artikel 48v, eerste lid, onder a en b.
+3. Op het onderzoek, bedoeld in het eerste en tweede lid, zijn de artikelen 48q, 48r, eerste tot en met derde lid en vijfde lid, 48s, 48t en 48u, tweede en vierde lid, van overeenkomstige toepassing. Op het onderzoek, bedoeld in het tweede lid, is tevens artikel 48u, eerste lid, tweede volzin, en derde lid, van overeenkomstige toepassing.
+4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de feiten of omstandigheden, bedoeld in het eerste lid, en de periode, bedoeld in het tweede lid, waarbij de periode voor verschillende werkzaamheden anders kan worden vastgesteld.
+5. Het eerste en tweede lid zijn niet van toepassing indien het een vertrouwensfunctie of een functie waarvan is bepaald dat een verklaring omtrent het gedrag is vereist, betreft.

@@ -1,0 +1,6 @@
+# Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Geldzuivering, over de periode 1942–1986 (Minister van Justitie)
+
+Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Geldzuivering, over de periode 1942–1986 (Minister van Justitie) · 2 versions, from 2007-10-27 (latest in force: 2021-04-14) · <https://wetten.overheid.nl/BWBR0022700>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

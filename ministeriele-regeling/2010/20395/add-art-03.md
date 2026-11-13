@@ -1,0 +1,5 @@
+# Artikel III
+1. Indien het bij koninklijke boodschap van 17 juni 2010 ingediende voorstel van wet tot wijziging van verschillende wetten in verband met harmonisatie en vereenvoudiging van deze wetten ten behoeve van de uitvoering van die wetten door het Uitvoeringsinstituut werknemersverzekeringen (Wet harmonisatie en vereenvoudiging sociale zekerheidswetten) (32 421) tot wet is verheven en artikel IV van die wet in werking treedt, treedt artikel I van deze regeling op hetzelfde tijdstip in werking, met uitzondering van:
+a. artikel I, onderdelen A en H, die in werking treden met ingang van 1 januari 2011;
+b. artikel I, onderdeel I, dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en terugwerkt tot en met 1 januari 2010.
+2. Indien het bij koninklijke boodschap van 24 september 2010 ingediende voorstel van wet tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid (Verzamelwet SZW 2011) (32 520) tot wet is verheven en artikel VIII, onderdeel D, van die wet in werking treedt, treedt artikel II van deze regeling, op hetzelfde tijdstip in werking.

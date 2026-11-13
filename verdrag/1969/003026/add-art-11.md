@@ -1,0 +1,2 @@
+# Article XI
+Certificates of airworthiness, certificates of competency and licenses issued or rendered valid by one Contracting Party shall be recognized as valid by the other Contracting Party for the purpose of operating the routes and services described in the Annex to this Agreement. Each Contracting Party reserves the right to refuse to recognize for the purpose of flight above its own territory, certificates of competency and licenses granted to its own nationals by another state.

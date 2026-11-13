@@ -1,0 +1,9 @@
+# Artikel 35d. (samenwerking met toezichthoudende autoriteiten in andere lidstaten)
+1. De Autoriteit persoonsgegevens verstrekt aan een autoriteit in een andere lidstaat die is belast met het toezicht, bedoeld in artikel 35, eerste lid, relevante informatie en wederzijdse bijstand om deze richtlijn op een consequente manier ten uitvoer te leggen en toe te passen, en neemt maatregelen om doeltreffend met elkaar samen te werken.
+2. De Autoriteit persoonsgegevens neemt alle passende maatregelen die nodig zijn om een verzoek om informatie of wederzijdse bijstand van een andere autoriteit, bedoeld in het eerste lid, zonder onnodige vertraging en in ieder geval binnen één maand na de ontvangst ervan te beantwoorden. De verzoekende autoriteit wordt geïnformeerd over de resultaten of, in voorkomend geval, de voortgang van de maatregelen die naar aanleiding van het verzoek zijn genomen.
+3. Een verzoek om bijstand van de Autoriteit persoonsgegevens bevat alle nodige informatie, waaronder het doel van en de redenen voor het verzoek. De uitgewisselde informatie wordt alleen gebruikt voor het doel waarvoor om die informatie is verzocht.
+4. De Autoriteit persoonsgegevens kan een verzoek om bijstand van een andere autoriteit, bedoeld in het eerste lid, gemotiveerd afwijzen indien:
+a. zij niet bevoegd is voor het onderwerp van het verzoek of voor de maatregelen die zij wordt verzocht uit te voeren, of
+b. inwilliging van het verzoek indruist tegen de richtlijn of het Unierecht of het Nederlandse recht dat op de Autoriteit persoonsgegevens van toepassing is.
+5. Behoudens regels voor vergoeding voor specifieke uitgaven die voortvloeien uit het verstrekken van wederzijdse bijstand in uitzonderlijke omstandigheden geschiedt de wederzijdse bijstand, bedoeld in het tweede lid, kosteloos.
+6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van verstrekking van de informatie, bedoeld in het eerste lid.

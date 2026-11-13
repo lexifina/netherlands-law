@@ -1,0 +1,4 @@
+# Artikel 59i. Voedingsrecht
+1. Een vrouwelijke militair, die een borstkind voedt, heeft, indien zij de commandant hiervan in kennis heeft gesteld, gedurende ten minste de eerste 9 levensmaanden van dat kind het recht de werkzaamheden of diensten te onderbreken ten einde in de nodige rust en afzondering haar kind te zogen dan wel de borstvoeding te kolven. De commandant biedt haar daartoe de gelegenheid en stelt, waar nodig, een geschikte af te sluiten besloten ruimte ter beschikking.
+2. De onderbrekingen, bedoeld in het eerste lid, vinden plaats zo vaak en zo lang als nodig is doch bedragen gezamenlijk ten hoogste een vierde van de arbeidsduur per werkdag of nachtdienst. De vaststelling van het tijdstip en de duur van de onderbrekingen vindt plaats door de betrokken vrouwelijke militair na overleg met de commandant.
+3. De duur van de onderbrekingen, bedoeld in dit artikel, gelden voor de toepassing van dit hoofdstuk als arbeidsduur.

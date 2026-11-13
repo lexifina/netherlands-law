@@ -1,0 +1,5 @@
+# Artikel 15c
+1. In een vergunning wordt duidelijk aangegeven waarop zij betrekking heeft. De aanvraag om de vergunning maakt deel uit van de vergunning, voor zover dat in de vergunning is aangegeven.
+2. Een vergunning kan ter bescherming van de bij of krachtens artikel 15b aangewezen belangen onder beperkingen worden verleend.
+3. Aan een vergunning worden, met inachtneming van de dienaangaande bij algemene maatregel van bestuur gestelde regels, de voorschriften verbonden, die nodig zijn ter bescherming van de bij of krachtens artikel 15 b aangewezen belangen. Voor zover door het verbinden van voorschriften aan de vergunning de nadelige gevolgen van de betrokken activiteit voor mensen, dieren, planten en goederen niet kunnen worden voorkomen, worden daaraan de voorschriften verbonden, die de grootst mogelijke bescherming bieden tegen die gevolgen, tenzij dat redelijkerwijs niet kan worden gevergd.
+4. Voor zover ten aanzien van de betrokken splijtstoffen, ertsen, inrichtingen of uitrustingen regels gelden krachtens artikel 21, kunnen de voorschriften daarvan alleen afwijken, voor zover dat bij die regels is toegestaan.

@@ -1,0 +1,2 @@
+# Artikel 112c
+De informatie, bedoeld in artikel 4:33, eerste lid, van de wet, met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument binnen een termijn van een maand plaatsvindt, bevat de in artikel 112a, tweede lid, onderdelen c, e, f en g, bedoelde gegevens met betrekking tot de kenmerken van het krediet.

@@ -1,0 +1,2 @@
+# Artikel 13a
+De in artikel 13, eerste lid, bedoelde ambtenaren zijn bevoegd ladingen, waarvan zij redelijkerwijs kunnen vermoeden dat vuurwapenen en munitie daarvan deel uitmaken, aan onderzoekingen te onderwerpen, voor zover dit redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig is. Daartoe kunnen zij vorderen dat de verpakking van goederen wordt geopend en dat ook overigens de medewerking wordt verleend die voor die onderzoekingen is vereist.

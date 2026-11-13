@@ -1,0 +1,4 @@
+# Artikel II
+1. Op rijksambtenaren die voor de inwerkingtreding van deze regeling door burgemeester en wethouders op voet van artikel 6 van de Regeling rijksvoorkeurswoningen 1989 op de speciale lijst zijn geplaatst, blijft genoemde regeling van toepassing zoals zij onmiddellijk voor de inwerkingtreding luidde.
+2. Woningen die op voet van de Regeling rijksvoorkeurswoningen 1989 zijn aangewezen als rijksvoorkeurswoningen en bestemd zijn voor het huisvesten van rijksambtenaren, worden, met inachtneming van het eerste lid, aangewend voor het huisvesten van personen met een vergunning tot verblijf en vluchtelingen.
+3. Op vluchtelingen die voor de inwerkingtreding van deze regeling op voet van artikel 11 van de Regeling rijksvoorkeurswoningen 1989 zijn voorgedragen, blijft genoemde regeling van toepassing zoals zij onmiddellijk voor de inwerkingtreding luidde.

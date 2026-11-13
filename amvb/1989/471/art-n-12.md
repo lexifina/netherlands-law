@@ -1,0 +1,2 @@
+# Artikel N 12
+Ingeval van een schorsing als bedoeld in artikel N 8, tweede lid, opent het briefstembureau na aanvang van de hervatte zitting de verzegelde enveloppe en de stembus en begint het opnieuw met de stemopneming. In alle andere gevallen waarin de in artikel N 15, eerste lid, onder b, van de Kieswet bedoelde zitting is geschorst zet het briefstembureau na hervatting van de zitting de stemopneming voort.

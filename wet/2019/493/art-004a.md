@@ -1,0 +1,5 @@
+# Artikel 4a
+1. Er is een fonds waaruit uitkeringen kunnen worden gedaan aan werknemers van een productie-installatie alsmede investeringen in om- en bijscholing.
+2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over het fonds en de wijze waarop de uitkeringen worden verstrekt alsmede de wijze waarop investeringen worden gedaan in om- en bijscholing.
+3. Onze Minister van Sociale Zaken en Werkgelegenheid consulteert de betrokken werknemers dan wel een vereniging van werknemers die krachtens haar statuten ten doel heeft de belangen van haar leden als werknemers te behartigen over de regels, bedoeld in het tweede lid, en informeert de Tweede Kamer der Staten-Generaal uiterlijk twee maanden nadat dit lid is ingevoegd over de voorwaarden waaronder en de wijze waarop de bekostiging van de om- en bijscholing van werknemers wordt geregeld.
+4. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.

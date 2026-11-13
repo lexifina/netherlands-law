@@ -1,0 +1,2 @@
+# Artikel 130ee
+Artikel 42b, eerste lid, vindt geen toepassing voor zover het eerdere recht was geëindigd op grond van artikel 20, eerste lid, onderdelen a, b, c en d, zoals dat luidde op de dag voor de datum waarop artikel XXVI, onderdeel S, van de Wet werk en zekerheid in werking is getreden en op grond van artikel 21, zoals dat luidde op de dag voor die inwerkingtreding, geen herleving zou plaatsvinden wegens het overschrijden van de in laatstgenoemd artikel bedoelde termijnen.

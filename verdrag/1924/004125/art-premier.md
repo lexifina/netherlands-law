@@ -1,0 +1,11 @@
+# Article premier
+II est institué un office international du vin ayant son siège à Paris et qui est chargé de:
+a) Réunir, étudier et publier les renseignements de nature à démontrer les effets bienfaisants du vin;
+b) Tracer un programme indicatif des expériences scientifiques nouvelles qu'il conviendrait d'entreprendre pour mettre en évidence les qualités hygiéniques du vin et son influence en tant qu'agent de lutte contre l'alcoolisme;
+c) Indiquer aux gouvernements adhérents les mesures propres à assurer la protection des intérêts viticoles et l'amélioration des conditions du marché international du vin, après avoir recueilli toutes les informations nécessaires, telles que: voeux, avis exprimés par les académies, corps savants, congrès internationaux ou autres congrès de la production et du commerce du vin;
+d) Signaler aux gouvernements les conventions internationales auxquelles il y aurait intérêt à adhérer, telles que celles tendant: 1° à assurer un mode uniforme de présentation des résultats d'analyse des vins; 2° à poursuivre une étude comparative des méthodes d'analyse employées par les divers Etats, en vue d'établir des tables de concordance;
+e) Soumettre aux gouvernements toutes propositions susceptibles d'assurer, aussi bien dans l'intérêt du consommateur que dans celui du producteur:
+1°. La protection des appellations d'origine des vins;
+2°. La garantie de la pureté et de l'authenticité des produits jusqu'à leur vente au consommateur, et ce, par toutes mesures appropriées, notamment au moyen de certificats d'origine délivrés en conformité des lois nationales;
+3°. La répression des fraudes et de la concurrence déloyale par la saisie des produits qui se présenteraient contrairement à la loi et par les actions civiles et correctionnelles, individuelles ou collectives, pour faire interdire les pratiques illicites, indemniser les intéressés lésés et punir les auteurs des fraudes;
+f) Prendre, en conformité de la législation de chaque pays, toutes initiatives propres à développer le commerce du vin et communiquer aux organisations privées, nationales ou internationales, ainsi qu'aux intéressés qui en feraient la demande, les informations et documents nécessaires à leur action.

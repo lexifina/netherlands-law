@@ -1,0 +1,2 @@
+# Artikel IX
+De Overeenkomstsluitende Partijen verbinden zich in de nabije toekomst beraadslagingen en onderhandelingen te bespoedigen, welke nodig zijn voor het totstandbrengen van een overeenkomst inzake de overbrenging van onderdanen in overeenstemming met het bepaalde in het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake Verdovende Middelen, gewijzigd middels het op 25 maart 1972 te Geneve tot stand gekomen Protocol.

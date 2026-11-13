@@ -1,0 +1,3 @@
+# Article 1er
+1. Le recrutement de travailleurs italiens devant trouver emploi aux Pays-Bas est du ressort des services du «Ministero del Lavoro e délla Previdenza Sociale» (ci-après dénommé «Ministero del Lavoro»), tandis que leur placement aux Pays-Bas est du ressort des services du Ministère des Affaires Sociales et de la Santé Publique (ci-après dénommé «Ministère des Affaires Sociales» ).
+2. Les deux Ministères, dans le but de réaliser la plus efficace compensation entre les offres et les demandes d'emploi, agissent en collaboration et cherchent à accélérer et à simplifier les procédures de recrutement et de placement dans le cadre des dispositions du présent Accord et par les moyens qui seront jugés opportuns et nécessaires à cet effet.

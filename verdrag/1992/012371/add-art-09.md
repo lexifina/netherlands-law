@@ -1,0 +1,4 @@
+# Article IX
+1. Where an incident has caused pollution damage in the territory, including the territorial sea or an area referred to in Article II, of one or more Contracting States or preventive measures have been taken to prevent or minimize pollution damage in such territory including the territorial sea or area, actions for compensation may only be brought in the Courts of any such Contracting State or States. Reasonable notice of any such action shall be given to the defendant.
+2. Each Contracting State shall ensure that its Courts possess the necessary jurisdiction to entertain such actions for compensation.
+3. After the fund has been constituted in accordance with Article V the Courts of the State in which the fund is constituted shall be exclusively competent to determine all matters relating to the apportionment and distribution of the fund.

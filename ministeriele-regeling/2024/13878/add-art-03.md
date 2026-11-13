@@ -1,0 +1,2 @@
+# Artikel III. Overgangsbepalingen
+Hoofdstuk 3, paragraaf 2, van de Regeling beheer rijkscollectie en subsidiëring museale instellingen, zoals dit luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Subsidieregeling culturele basisinfrastructuur 2025–2028, blijft van toepassing op de subsidies voor publieksactiviteiten en andere activiteiten die zijn verstrekt op grond van artikel 3.14 van de Regeling beheer rijkscollectie en subsidiëring museale instellingen juncto artikel 4a van de Wet op het specifiek cultuurbeleid voor de jaren 2021 tot en met 2024.

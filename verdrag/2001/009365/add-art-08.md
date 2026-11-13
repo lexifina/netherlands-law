@@ -1,0 +1,2 @@
+# Artikel VIII. Informatieverstrekking
+De Luchtvaartautoriteit van de ene Verdragsluitende Partij verstrekt, wanneer zij daarom wordt verzocht, de Luchtvaartautoriteit van de andere Verdragsluitende Partij de statistische gegevens die deze noodzakelijk acht voor het beoordelen van de exploitatie van de overeengekomen luchtdiensten. Deze informatie kan door de Luchtvaartautoriteiten van elke Partij direct worden aangevraagd bij de door de andere Partij aangewezen luchtvaartmaatschappijen.

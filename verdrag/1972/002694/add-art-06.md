@@ -1,0 +1,4 @@
+# VI. Pour ce qui concerne l'article 15
+1. Les transports de voyageurs et de marchandises effectués par un transporteur, établi sur le territoire d'une Partie Contractante, sur le territoire de l'autre Partie Contractante ainsi que les véhicules au moyen desquels les dits transports se réalisent sont exonérés sur le territoire de l'autre Partie Contractante de toutes les taxes et impôts spécifiques les frappant.
+2. Cette exonération ne s'applique pas à l'impôt frappant au Portugal le transport régulier non touristique de personnes, prévu dans l'article 16 du Décret-Loi no. 477/71, du 6 novembre.
+3. Sont exclus en outre de cette exonération les péages pour les routes, les ponts et les tunnels, dans la mesure où ces péages sont généralement applicables au transport national et international.

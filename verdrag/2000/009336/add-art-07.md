@@ -1,0 +1,3 @@
+# Artikel VII. Projecten en programma's
+1. De identificatie, voorbereiding, beoordeling en supervisie van projecten en programma's ingevolge dit Verdrag worden uitgevoerd onder de eindverantwoordelijkheid van Vietnam. Vietnam vrijwaart Nederland ter zake van elke verantwoordelijkheid of aansprakelijkheid voor deze projecten en programma's ingevolge de wetgeving van Vietnam.
+2. Vertegenwoordigers van Nederland worden in overleg met Vietnam in de gelegenheid gesteld zich in situ op de hoogte te stellen van de voortgang van de projecten en programma's, en de projecten en programma's te evalueren.

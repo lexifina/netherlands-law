@@ -1,0 +1,2 @@
+# Artikel V
+Teneinde bij te dragen tot een goede uitvoering dezer Overeenkomst in overeenstemming met haar doeleinden keuren de Overeenkomstsluitende Partijen ter verwezenlijking der wetenschappelijke en culturele samenwerking tussen de beide Landen de oprichting van bilaterale genootschappen op hun onderscheidene grondgebieden goed. Deze genootschappen zullen aan de in elk Land van kracht zijnde wetten en voorschriften worden onderworpen.

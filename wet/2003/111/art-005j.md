@@ -1,0 +1,2 @@
+# Artikel 5j
+De artikelen 5a tot en met 5i zijn niet van toepassing op collectieve beheersorganisaties die op grond van de vrijwillige samenvoeging van de vereiste rechten overeenkomstig de mededingingsregels krachtens de artikelen 101 en 102 VWEU, een multiterritoriale licentie verlenen voor de onlinerechten inzake muziekwerken die vereist zijn voor een omroep die zijn radio- of televisieprogramma's gelijktijdig met of na de oorspronkelijke uitzending wil meedelen of openbaar wil maken.

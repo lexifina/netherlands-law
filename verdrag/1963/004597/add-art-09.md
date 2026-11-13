@@ -1,0 +1,2 @@
+# Artikel IX
+Voor alles wat betreft heffingen, rechten en belastingen, hun schattingen en vereffeningen en overige formaliteiten en voorschriften, welke van toepassing zijn op de door voer handel, zullen de Overeenkomstsluitende Partijen de doorvoer van of naar het grondgebied van de andere Partij een niet minder gunstige behandeling toekennen dan die, welke wordt of zal worden toegekend aan de doorvoer van of naar het grondgebied van enig derde land.

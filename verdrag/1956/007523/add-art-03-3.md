@@ -1,0 +1,2 @@
+# Artikel III. Lidmaatschap
+Regeringen die Lid zijn van de Raad van Europa kunnen Lid worden van het Fonds overeenkomstig de bepalingen van artikel IV, tweede lid, letter (a), onder (i). Andere Regeringen die tot het lidmaatschap van het Fonds toegelaten worden, kunnen Lid van het Fonds worden op de bijzondere voorwaarden die het Fonds voor ieder geval afzonderlijk kan stellen, overeenkomstig de bepalingen van artikel IV, tweede lid, letter (a), onder (ii).

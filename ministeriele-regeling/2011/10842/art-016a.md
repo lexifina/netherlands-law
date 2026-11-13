@@ -1,0 +1,4 @@
+# Artikel 16a. (signaleringsparameters voor oppervlaktewater gebruikt voor de bereiding van drinkwater)
+1. Signaleringsparameters voor het signaleren van mogelijke verontreiniging van oppervlaktewater, gebruikt voor de bereiding van drinkwater, zijn opgenomen in bijlage 5b.
+2. Een overschrijding van een signaleringsparameter wordt door de eigenaar van een drinkwaterbedrijf onmiddellijk gemeld aan de inspecteur.
+3. In geval van een overschrijding draagt de eigenaar van een drinkwaterbedrijf zorg voor het onmiddellijk verrichten van onderzoek naar de hoedanigheid van het water dat wordt gebruikt voor de bereiding van drinkwater, waaronder in het bijzonder de aard en concentratie van de desbetreffende stof of stoffen en de risico's daarvan voor de volksgezondheid. De eigenaar van het drinkwaterbedrijf deelt de resultaten van dit onderzoek onmiddellijk met de inspecteur.

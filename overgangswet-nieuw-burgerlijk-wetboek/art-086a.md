@@ -1,2 +1,0 @@
-# Artikel 86a
-Is vóór het tijdstip van het in werking treden van de wet een goed ter uitvoering van een voorwaardelijke verbintenis geleverd, dan geldt het als onder dezelfde voorwaarde verkregen.

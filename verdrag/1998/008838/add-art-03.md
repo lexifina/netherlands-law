@@ -1,0 +1,6 @@
+# Article III. Inviolability of Headquarters
+1. The Headquarters shall be inviolable. Any person authorized to enter any place under any legal provision or on the strength of the law shall not exercise that authority in respect of the Headquarters unless permission to do so has been given by or on behalf of the Director.
+2. The Host State authorities shall take whatever action may be necessary to ensure that Europol shall not be dispossessed of any part of the Headquarters of Europol without the express consent of Europol.
+3. In case of fire or other emergency requiring prompt protective action, or in the event that the competent Host State authorities have reasonable cause to believe that such an emergency has occurred or is about to occur on the Headquarters of Europol, the consent of the Director, or an official designated by him, to entry into the Headquarters of Europol shall be presumed if neither of them can be reached in time.
+4. Europol may expel or exclude persons from the Headquarters of Europol for violation of its regulations.
+5. The Director shall prevent the Headquarters from being used to harbour persons who are avoiding arrest under any law of the Kingdom of the Netherlands, who are wanted by the Government for extradition to another country, or who are endeavouring to evade service of legal process.

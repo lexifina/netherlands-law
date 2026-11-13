@@ -1,0 +1,3 @@
+# Article XIX. Notifications
+1. The Director-General of the United Nations Educational, Scientific and Cultural Organization shall notify all signatory and acceding States, and all other States which took part in the Conference for the organization of studies concerning the establishment of a European Nuclear Research Laboratory held at Paris in December, 1951, and at Geneva in February, 1952, of the deposit of each instrument of ratification or accession, and of the entry into force of this Convention.
+2. The President of Council shall notify all Member States and the Director-General of the United Nations Educational, Scientific and Cultural Organization of every withdrawal from, or termination of, membership.

@@ -1,0 +1,3 @@
+# Artikel 7b.29. Monitoring vaccinatie Newcastle disease
+1. De exploitant, bedoeld in artikel 2.76id, eerste lid, van het besluit, laat een dierenarts of dierenartsassistent paraveterinair een bloedmonster nemen van de door hem gehouden dieren als bedoeld in artikel 7b.28, eerste lid, en laat dat monster onderzoeken op de werking van de vaccinatie, bedoeld in artikel 2.76id, eerste lid, van het besluit, door de instelling die op grond van artikel 3.1 van het Besluit diergezondheid is aangewezen voor de uitvoering van het monitoringsprogramma voor Newcastle disease.
+2. Bij de monstername wordt ten minste 1 milliliter bloed per dier afgenomen.

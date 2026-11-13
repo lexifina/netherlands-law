@@ -1,0 +1,4 @@
+# IV
+Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt zes maanden na opzegging buiten werking.
+De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat bovenstaande regeling overeenkomstig artikel 1, lid 5, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze Nota-verbaal en de antwoord-nota van de Ambassade van het Koninkrijk der Nederlanden; zij is het er mede eens dat de regeling, zoals voorgesteld, op 15 juli 1970 in werking treedt.".
+De Ambassade heeft de eer het Ministerie van Buitenlandse Zaken mede te delen, dat de Regering van het Koninkrijk der Nederlanden er mede instemt, dat de Nota-verbaal van het Ministerie en deze antwoord-nota de in artikel 1, lid 5, van de Overeenkomst bedoelde bevestiging vormen van de hierboven aangehaalde briefwisseling tussen de Bondsminister van Financiën en de Nederlandse Staatssecretaris van Financiën en dat de regeling op 15 juli 1970 in werking treedt.

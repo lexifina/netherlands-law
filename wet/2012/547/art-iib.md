@@ -1,0 +1,2 @@
+# Artikel IIb
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid, de effecten en de uitvoering door het CAK in de praktijk van de artikelen 6 en 41 van de Algemene Wet Bijzondere Ziektekosten en de artikelen 15 en 19 van de Wet maatschappelijke ondersteuning zoals deze zijn komen te luiden na 1 januari 2013.

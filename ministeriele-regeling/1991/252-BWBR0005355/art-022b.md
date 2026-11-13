@@ -1,0 +1,4 @@
+# Artikel 22b
+1. De vervoerder, de eigenaar of de gecertificeerde afzender, bedoeld in artikel 56, derde lid, van de wet, stelt zekerheid in plaats van de vergunninghouder van een accijnsgoederenplaats, de geregistreerde afzender of de gecertificeerde geadresseerde, bedoeld in artikel 56, eerste lid, van de wet, voor de accijns die hij verschuldigd is of kan worden. De zekerheid wordt bepaald op basis van het accijnsbelang.
+2. Het accijnsbelang, bedoeld in het eerste lid, is het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door of namens de vervoerder, de eigenaar of de gecertificeerde afzender wordt vervoerd de bestemmingen, bedoeld in artikel 2a, eerste of derde lid, van de wet, of naar de gecertificeerde geadresseerde.
+3. De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het accijnsbelang met een maximum van € 2 250 000.

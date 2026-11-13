@@ -1,0 +1,2 @@
+# Article 7, paragraph 2
+This provision does not prevent Parties from providing in their legislation that young persons not having reached the minimum age laid down may perform work in so far as it is absolutely necessary for their vocational training where such work is carried out in accordance with conditions prescribed by the competent authority and measures are taken to protect the health and safety of these young persons.

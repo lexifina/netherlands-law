@@ -1,0 +1,5 @@
+# Artikel 48t
+1. Voor zover dat voor een goede oordeelsvorming in het kader van het onderzoek naar de betrouwbaarheid noodzakelijk is, kan het bevoegd gezag onderscheidenlijk de korpschef bij de toepassing van artikel 48r of artikel 48s inlichtingen inwinnen omtrent:
+a. de betrokkene en de personen, bedoeld in de artikelen 48s, tweede lid, bij het openbaar ministerie en bij instellingen die op grond van artikel 4, eerste lid, van de Reclasseringsregeling 1995 bevoegd zijn om reclasseringswerkzaamheden te verrichten, voor zover het betreft de op hen betrekking hebbende justitiële gegevens;
+b. de betrokkene bij personen en instanties die inzicht hebben in diens betrouwbaarheid, voor zover het betreft gegevens als bedoeld in artikel 48r, derde lid, onder b, c en d.
+2. Het inwinnen van inlichtingen als bedoeld in het eerste lid, onder b, vindt slechts plaats onder opgave van redenen aan de betrokkene en nadat hem is bericht bij welke persoon of instantie en in welke fase van het onderzoek dat geschiedt.

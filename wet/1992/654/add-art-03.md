@@ -1,0 +1,3 @@
+# Artikel III
+1. Geen recht op pensioen ingevolge deze wet ontstaat, indien op de datum van overlijden van de vrouwelijke politieke ambtsdrager, gewezen politieke ambtsdrager of gepensioneerde politieke ambtsdrager in een overeenkomstig geval geen recht op weduwenpensioen of bijzonder weduwenpensioen zou zijn ontstaan ingevolge het overlijden van een mannelijke politieke ambtsdrager, gewezen politieke ambtsdrager of gepensioneerde politieke ambtsdrager.
+2. Het pensioen waarop ingevolge deze wet recht ontstaat in verband met een overlijden voor de datum in inwerkingtreding van deze wet, wordt berekend als ware het recht ontstaan op de datum van overlijden.

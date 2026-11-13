@@ -1,0 +1,2 @@
+# Artikel 92a
+Een beheerder van een icbe die door middel van het verrichten van diensten een icbe met zetel in een andere lidstaat beheert of rechten van deelneming in door hem beheerde icbe's in een andere lidstaat aanbiedt, meldt een wijziging van de financiële diensten die hij in de andere lidstaat verleent, de procedure voor risicobeheer en de afhandeling van klachten ten minste twee weken voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten en de toezichthoudende instantie van de andere lidstaat.

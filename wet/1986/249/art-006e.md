@@ -1,0 +1,5 @@
+# Artikel 6e
+1. Onze Minister verstrekt op grond van Richtlijn 2011/16/EU automatisch het door een rapporterende entiteit die fiscaal inwoner is van Nederland aan de inspecteur verstrekte landenrapport, bedoeld in artikel 29e van de Wet op de vennootschapsbelasting 1969, aan de bevoegde autoriteit van elke lidstaat waarvan, blijkens de informatie in het landenrapport, een of meer groepsentiteiten van de multinationale groep van de rapporterende entiteit fiscaal inwoner zijn of waarin deze aan belasting zijn onderworpen met betrekking tot de activiteiten die via een vaste inrichting worden uitgeoefend.
+2. Onze Minister verstrekt het landenrapport, bedoeld in het eerste lid, binnen vijftien maanden na de laatste dag van het verslagjaar van de multinationale groep waarop het landenrapport betrekking heeft.
+3. Onze Minister stelt elke lidstaat in kennis van een bericht als bedoeld in artikel 29d, derde lid, van de Wet op de vennootschapsbelasting 1969.
+4. Voor de toepassing van dit artikel worden de begrippen groepsentiteit, multinationale groep, rapporterende entiteit en verslagjaar opgevat in de zin van artikel 29b van de Wet op de vennootschapsbelasting 1969.

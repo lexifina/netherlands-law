@@ -1,0 +1,3 @@
+# Artikel 15o
+1. Onverminderd het bepaalde in artikel 15n wordt een reproductie in het kader van tekst- en datamining niet als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst beschouwd mits degene die de tekst- en datamining verricht rechtmatig toegang heeft tot het werk en het auteursrecht door de maker of zijn rechtverkrijgenden niet uitdrukkelijk op passende wijze is voorbehouden, zoals door middel van machinaal leesbare middelen bij een online ter beschikking gesteld werk.
+2. De reproductie gemaakt overeenkomstig het in het eerste lid bepaalde mag worden bewaard zolang dit nodig is voor tekst- en datamining.

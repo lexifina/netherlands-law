@@ -1,0 +1,2 @@
+# Artikel 7a
+De reserveringen met betrekking tot het functioneel leeftijdspensioen van registerloodsen die moeten plaatsvinden vanuit de jaarlijks werkelijke in rekening gebrachte som van loodsgelden worden door de rechtspersoon die belast is met de uitkering van het leeftijdspensioen aan registerloodsen gestort in een daarvoor bestemd volledig separaat fonds of andere overeenkomstige voorziening.

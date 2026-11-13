@@ -1,0 +1,2 @@
+# Artikel XIX. Intrekking van de Wet van 13 december 2000 (Stb. 2000, 637)
+De Wet van 13 december 2000 tot wijziging van de Wet op het voortgezet onderwijs onder meer in verband met de stichtings- en opheffingsnormen van afdelingen en scholen voor voorbereidend beroepsonderwijs en wijziging van de Wet tegemoetkoming studiekosten in verband met kinderen met leer- en opvoedingsmoeilijkheden en moeilijk lerende kinderen (Stb. 2000, 637) wordt ingetrokken.

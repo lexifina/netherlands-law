@@ -1,0 +1,2 @@
+# ARTICLE IV
+Les droits et les taxes intérieurs perçus pour le compte de l'Etat, des Provinces, Communes ou Institutions publiques qui grèvent ou grèveront la production, la préparation des marchandises ou la consommation d'un article sur le territoire de l'une des Parties Contractantes, ne pourront pas frapper les produits, marchandises ou articles de l'autre Partie d'une manière plus forte ou plus gênante que les produits, marchandises ou articles de la même espèce de la nation la plus favorisée.

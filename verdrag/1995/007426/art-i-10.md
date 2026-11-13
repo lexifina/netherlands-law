@@ -1,0 +1,3 @@
+# Regulation I/10. Equivalents
+1. The Convention shall not prevent a Party from retaining or adopting other educational and training arrangements, including those involving seagoing service and shipboard organization especially adapted to technical developments and to special types of vessels, provided that the level of seagoing service, knowledge and efficiency as regards navigational and technical handling of vessels ensures a degree of safety at sea and has a preventive effect as regards pollution at least equivalent to the requirements of the Convention.
+2. Details of such arrangements shall be included in the report under Article 4.

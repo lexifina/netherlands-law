@@ -1,0 +1,3 @@
+# Artikel IV
+1. De bepalingen van deze Overeenkomst betreffende het Nederlandse personeel zijn eveneens van toepassing op alle personen, met uitzondering van onderdanen van Sri Lanka, in dienst van de Nederlandse Regering en op alle personen, met uitzondering van onderdanen van Sri Lanka, in dienst van maatschappijen waarmee de Nederlandse Regering een contract heeft gesloten voor het verrichten van werkzaamheden die vallen onder, of die worden ondernomen in verband met deze Overeenkomst.
+2. Het ter beschikking gestelde Nederlandse personeel kan werkzaamheden uitoefenen van operationele of adviserende aard.

@@ -1,0 +1,2 @@
+# Artikel I 4
+Op de dag na de termijn, genoemd in artikel I 2, tweede lid, beslist het centraal stembureau in een openbare zitting die om zeventien uur aanvangt, over de geldigheid van de lijsten voor iedere kieskring waarvoor zij zijn ingeleverd en over het handhaven van de daarop voorkomende kandidaten, alsmede over het handhaven van de daarboven geplaatste aanduiding van een politieke groepering, en maakt deze beslissingen op de zitting bekend.

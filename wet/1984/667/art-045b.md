@@ -1,0 +1,2 @@
+# Artikel 45b
+Bij algemene maatregel van bestuur, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, kunnen regels worden gesteld over de verstrekking van systematische informatie aan Onze Minister die het aangaat, betreffende de uitvoering door het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan van de andere wet dan de Provinciewet. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de toepassing.

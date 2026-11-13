@@ -1,0 +1,11 @@
+# Artikel 5b.14. Voorschriften aanbrengen identificatiemiddelen
+1. Het aanbrengen en vervangen van een identificatiemiddel dat geen verrichting van een lichamelijke ingreep is, geschiedt uitsluitend door:
+a. de exploitant van het te identificeren dier, niet zijnde een exploitant van een slachthuis of van een verzamelcentrum of een vervoerder;
+b. een derde die daartoe door de exploitant, bedoeld in onderdeel a, is aangewezen; of
+c. een ambtenaar van de NVWA, dan wel een dierenarts of een ander persoon die voor deze werkzaamheden door de minister worden ingezet.
+2. In aanvulling op de artikelen 2.12, onderdeel b, 2.28, onderdeel c, en 2.77, onderdelen b, c, en d, van het Besluit houders van dieren is het de volgende personen toegestaan de daar genoemde identificatiemiddelen aan te brengen en te vervangen bij respectievelijk een varken, rund, schaap of geit:
+a. een derde die daartoe door de houder, bedoeld in de in de aanhef genoemde artikelen, van het te identificeren dier is aangewezen; of
+b. een ambtenaar, dierenarts of ander persoon als bedoeld in het eerste lid, onderdeel c.
+3. In afwijking van de artikelen 2.12, onderdeel b, en 2.28, onderdeel c, van het Besluit houders van dieren is het een houder niet toegestaan de daar genoemde identificatiemiddelen aan te brengen en te vervangen bij respectievelijk een varken of rund indien de houder een exploitant van een slachthuis of een verzamelcentrum is, of een vervoerder.
+4. Ingeval artikel 81 van verordening (EU) 2019/2035 van toepassing is, verricht de exploitant, bedoeld in het eerste lid, de derde, bedoeld in het eerste of tweede lid, dan wel de houder, bedoeld in het tweede lid, de handeling onder toezicht van een ambtenaar, dierenarts of ander persoon als bedoeld in het eerste lid, onderdeel c.
+5. De minister kan een exploitant of houder de bevoegdheid tot het aanbrengen en vervangen van identificatiemiddelen en het aanwijzen van een derde om die handelingen te verrichten ontzeggen indien deze naar het oordeel van de minister niet langer handelt in overeenstemming met de regels over de identificatie van dieren. In dat geval levert de exploitant dan wel de houder alle bij hem in voorraad zijnde nog niet aangebrachte identificatiemiddelen in bij de minister, binnen drie werkdagen te rekenen vanaf de dag na de dag waarop de bevoegdheid is ontzegd.

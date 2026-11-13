@@ -1,0 +1,8 @@
+# ARTIKEL V
+1. Alle voortbrengselen van den bodem of de nijverheid, herkomstig van het tolgebied van een der verdragsluitende Partijen, die zullen worden ingevoerd in het tolgebied der andere Partij en bestemd zijn, hetzij voor verbruik, hetzij voor opslag in entrepôt, hetzij voor wederuitvoer, hetzij voor doorvoer, zullen zoolang dit verdrag van kracht is, onderworpen worden aan de behandeling, welke is of zal worden toegestaan aan de meestbegunstigde natie en bepaaldelijk zullen zij in geen enkel geval mogen worden onderworpen aan rechten, coëfficiënten, buitengewone heffingen, toeslagen of andere belastingen, hooger dan die, welke de voortbrengselen of de koopwaren van de meestbegunstigde natie treffen of zullen treffen.
+2. De uitvoeren, met bestemming naar het land van een der Partijen, zullen door de andere Partij niet worden bezwaard met andere of hoogere rechten of heffingen dan die, welke van toepassing zijn op de uitvoeren van gelijksoortige artikelen naar het land, hetwelk te dien opzichte als het meestbegunstigde wordt behandeld.
+3. Elke Partij neemt dus op zich, de andere onmiddellijk en zonder andere voorwaarden in het genot te stellen van iedere gunst, van ieder voorrecht of van iedere vermindering der rechten of heffingen, welke zij bereids heeft toegestaan of in de toekomst mocht toestaan onder de hierbovenvermelde omstandigheden, hetzij voor goed, hetzij tijdelijk, aan een derde natie.
+4. De in dit artikel vastgestelde bepalingen zijn niet van toepassing:
+a. op de voordeelen, door een der Partijen toegestaan of nader toe te staan in het grensverkeer met de naburige landen;
+b. op de speciale gunsten, voortvloeiende uit een tolverbond;
+c. op het voorloopige douane-stelsel tusschen de Poolsche en Duitsche deelen van Opper-Silezië.

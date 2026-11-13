@@ -1,2 +1,0 @@
-# Artikel II
-De op het moment van inwerkingtreding van dit besluit geldende algemene ondermandaten in de zin van artikel 11 van het Organisatie- en mandaatbesluit OCW 2008 die niet eerder in de Staatscourant zijn geplaatst, blijven van kracht tot het moment waarop zij op grond van dat artikel worden ingetrokken of vervangen dan wel op grond van het derde lid van diezelfde bepaling alsnog in de Staatscourant worden geplaatst.

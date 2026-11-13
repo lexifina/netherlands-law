@@ -1,0 +1,2 @@
+# Artikel XII. Toepassing van het Verdrag met betrekking tot het Koninkrijk der Nederlanden
+Wat het Koninkrijk der Nederlanden betreft is dit Verdrag uitsluitend van toepassing op het Europese deel van Nederland. Dit Verdrag kan echter worden uitgebreid tot het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba), Aruba, Curaçao en Sint Maarten door wijziging van het Verdrag door middel van de uitwisseling van diplomatieke nota's.

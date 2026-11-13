@@ -1,0 +1,3 @@
+# Artikel I. Liberalisierter Handel
+Soweit im Rahmen der von der Organisation für Europäische Wirtschaftliche Zusammenarbeit (O.E.E.C.) aufgestellten Richtlinien die Einfuhrbeschränkungen bestimmter Waren bereits durch die Freilisten der vertragschliessenden Teile aufgehoben worden sind, gelten für diesen Teil des Warenverkehrs die allgemeinen Regeln der O.E.E.C.
+Falls für Waren, deren Einfuhr in dem einen Lande liberalisiert ist, von dem anderen Lande Ausfuhrbeschränkungen eingeführt werden sollten, wird der Gemischte Regierungsausschuss über die Sachlage beraten, um eine erträgliche Mindestausfuhr zugunsten des anderen Landes sicherzustellen. Dabei soll grundsätzlich von der bisherigen Höhe der Lieferungen ausgegangen werden.

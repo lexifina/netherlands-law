@@ -1,0 +1,3 @@
+# Artikel VI. Inwerkingtreding
+1. Dit Protocol treedt in werking dertig dagen na de datum waarop tweeëntwintig akten van bekrachtiging, aanvaarding, goedkeuring of toetreding zijn nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+2. Voor elke Staat die dit Protocol bekrachtigt, aanvaardt of goedkeurt, dan wel hiertoe toetreedt na de nederlegging van de tweeëntwintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Protocol in werking op de dertigste dag na de datum van nederlegging door die Staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.

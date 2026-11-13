@@ -1,0 +1,3 @@
+# Artikel 7b. Voeging wegens stakingsverlies
+1. Indien bij voeging van een maatschappij met activiteiten in een andere staat aannemelijk is dat op of voor het voegingstijdstip is besloten de activiteiten in die andere staat te staken, komt het bij de fiscale eenheid in aanmerking te nemen stakingsverlies, bedoeld in de artikelen 15i en 15j van de wet, slechts in aftrek tot het bedrag van de aan die maatschappij, zonder rekening te houden met het stakingsverlies, toe te rekenen positieve winst. Artikel 12 is van overeenkomstige toepassing.
+2. Voor zover een stakingsverlies ingevolge het eerste lid niet in aanmerking is genomen, is artikel 15ab, derde, vierde en vijfde lid, van de wet van overeenkomstige toepassing.

@@ -1,0 +1,2 @@
+# Artikel 86a
+Ten aanzien van de verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor het tijdstip van inwerkingtreding van artikel IX, onderdelen A en B, van de Wet wijziging WW-stelsel, blijven de artikelen 29, tweede lid, onderdeel d, en 36, eerste lid, van toepassing zoals deze luidden op of voor dat tijdstip, en blijft artikel 29, twaalfde lid, buiten toepassing.

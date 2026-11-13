@@ -1,0 +1,2 @@
+# IV. Ad artikelen 6, 13 en 22
+Inkomsten, andere dan dividenden, uit aandelen of andere vennootschappelijke rechten in een woning-vennootschap zoals bedoeld in de Wet van 17 mei 1991 betreffende woning-vennootschappen (Nr. 809 van 1991), of een andere gelijksoortige Finse vennootschap, of voordelen verkregen uit de vervreemding van zulke aandelen of rechten, of vermogen dat uit zulke aandelen of rechten bestaat, mogen worden belast in de Verdragsluitende Staat waar de onroerende zaken die door de vennootschap gehouden worden, zijn gelegen.

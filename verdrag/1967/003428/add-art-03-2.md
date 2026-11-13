@@ -1,0 +1,2 @@
+# Artikel III
+De Staten die partij zijn bij dit Verdrag verrichten hun activiteiten bij het onderzoek en gebruik van de kosmische ruimte, met inbegrip van de maan en de andere hemellichamen, in overeenstemming met het volkenrecht, met inbegrip van het Handvest van de Verenigde Naties, in het belang van de handhaving van de internationale vrede en veiligheid en de bevordering van samenwerking en begrip tussen de volkeren.

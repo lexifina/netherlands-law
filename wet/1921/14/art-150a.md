@@ -1,0 +1,5 @@
+# Artikel 150a
+1. De officier van justitie geeft aan de verdachte schriftelijk kennis van de aan de deskundige verleende opdracht en van tijd en plaats van het onderzoek, tenzij het belang van het onderzoek zich daartegen verzet. De verdachte kan verzoeken tot het doen van aanvullend onderzoek of het geven van aanwijzingen omtrent het uit te voeren onderzoek.
+2. Van de uitslag van het onderzoek geschiedt tevens kennisgeving aan de verdachte. Zodra het belang van het onderzoek zich niet meer verzet tegen de mededeling bedoeld in het eerste lid, geeft de officier van justitie kennis van het verlenen van de opdracht en de uitslag daarvan.
+3. De verdachte kan naar aanleiding van de uitslag binnen twee weken na kennisgeving daarvan om een tegenonderzoek verzoeken. Hij geeft daarbij aan om welke redenen hij het doen verrichten van een tegenonderzoek aangewezen acht. Hij geeft voorts aan welke deskundige het onderzoek, dat gelijkwaardig moet zijn aan het eerste onderzoek, zou moeten uitvoeren.
+4. Geen uitstel van kennisgeving van de uitslag vindt plaats van onderzoek dat is uitgevoerd op verzoek van de verdachte.

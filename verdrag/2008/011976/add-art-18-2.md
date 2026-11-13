@@ -1,0 +1,3 @@
+# Artikel XVIII. Immuniteit van eigendommen en bezittingen
+1. De eigendommen en bezittingen van de Faciliteit, ongeacht waar zij zich bevinden en door wie zij worden gehouden, worden gevrijwaard van: (a) onderzoek, vordering, onteigening, confiscatie, nationalisatie en iedere andere vorm van beslaglegging of executie op last van de uitvoerende of wetgevende macht; en (b) inbeslagname, beslaglegging of executie voordat een definitief vonnis tegen de Faciliteit is uitgesproken.
+2. Voor de toepassing van dit artikel XVIII omvat de uitdrukking „eigendommen en bezittingen van de Faciliteit" mede eigendommen en bezittingen die eigendom zijn van of in het bezit zijn van de Faciliteit en voor de lopende zaken aan de Faciliteit toevertrouwde deposito's en fondsen.

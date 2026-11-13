@@ -1,0 +1,2 @@
+# Artikel 12c
+Wanneer een omroeporganisatie de programmadragende signalen rechtstreeks aanlevert bij degene die de uitzending van een werk via de kabel of langs andere weg verzorgt zonder dat de omroeporganisatie de signalen zelf gelijktijdig uitzendt, is er sprake van een enkele openbaarmaking van een in een radio- of televisieprogramma opgenomen werk waarvoor de omroeporganisatie en degene die de programmadragende signalen uitzendt ieder voor zijn eigen bijdrage aan die openbaarmaking verantwoordelijk is.

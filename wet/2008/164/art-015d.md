@@ -1,0 +1,4 @@
+# Artikel 15d
+1. Indien de cliënt verzoekt om inzage of afschrift van het dossier van de desbetreffende cliënt, of van de gegevens betreffende deze cliënt die de zorgaanbieder via een elektronisch uitwisselingssysteem beschikbaar stelt, wordt de inzage of het afschrift op verzoek van de cliënt, met redelijke tussenpozen, door de zorgaanbieder op elektronische wijze verstrekt.
+2. Bij de afgifte van medicijnen door een apotheker, verschaft de apotheker de cliënt desgevraagd direct op elektronische wijze inzage in zijn medicatiegegevens. Op verzoek van de cliënt worden door de apotheker desgevraagd door de cliënt verstrekte gegevens over het gebruik van zelfmedicatie beschikbaar gesteld via het elektronisch uitwisselingssysteem.
+3. De in het eerste en tweede lid bedoelde elektronische inzage, en de in het eerste lid bedoelde elektronische afschriften, worden kosteloos verschaft.

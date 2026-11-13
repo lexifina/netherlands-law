@@ -1,0 +1,2 @@
+# Artikel 26e
+De voorzieningenrechter kan op vordering van de maker of zijn rechtverkrijgende tijdelijke voortzetting van de vermeende inbreuk toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de maker of zijn rechtverkrijgende geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in artikel 26d toestaan.

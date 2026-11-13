@@ -1,0 +1,2 @@
+# Artikel 41a. Vrijstellingen betreffende de veiligheid van navigatie
+Wachtalarminstallaties op de brug, die voor 1 juli 2009 zijn geplaatst, zijn vrijgesteld van de eisen van resolutie MSC.128(75) van de Maritieme Veiligheidscommissie van de IMO, inhoudende uitvoeringsnormen betreffende de wachtalarminstallatie op de brug (Performance standards for a bridge navigational watch alarm system (BNWAS)) of daaraan gelijkwaardige uitvoeringsnormen.

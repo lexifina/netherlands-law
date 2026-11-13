@@ -1,0 +1,5 @@
+# Artikel 3c. Berekening met forfaitair uurtarief loonkosten
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in artikel 3, vierde lid, onderdeel c, wordt een uurtarief gehanteerd van € 80,– per uur.
+2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid gehanteerde bedrag te vermenigvuldigen met het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt en te vermeerderen met:
+a. kosten van het gebruik van apparatuur en de kosten van verbruikte materialen en hulpmiddelen indien deze in de administratie te onderscheiden zijn; en
+b. aan derden betaalde kosten.

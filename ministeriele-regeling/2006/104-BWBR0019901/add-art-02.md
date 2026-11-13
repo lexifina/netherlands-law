@@ -1,0 +1,2 @@
+# Artikel II
+Indien de op grond van artikel 6.3.1 berekende bijdrage op jaarbasis hoger is dan de berekende bijdrage op grond van artikel 6.3.1, zoals dat artikel luidde voordat de Regeling houdende wijziging van de Regeling zorgverzekering in verband met de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden van 25 april 2006 in werking trad, is over de periode van 1 januari 2006 tot 1 juli 2006 het meerdere niet verschuldigd.

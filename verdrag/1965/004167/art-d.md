@@ -1,0 +1,2 @@
+# D. Illicit activities
+1.9. Recommended Practice. Public authorities should seek to establish cooperation arrangements with shipowners and other parties concerned to improve their ability to combat illicit activities, including, but not limited to, drug smuggling and the illicit trafficking in wildlife, while providing enhanced facilitation. Such arrangements could be based on the World Customs Organization Memoranda of Understanding, the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and the associated guidelines.

@@ -1,2 +1,0 @@
-# Artikel IV
-Dit besluit treedt in werking op 1 juli 2024.

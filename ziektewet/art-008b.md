@@ -1,6 +1,0 @@
-# Artikel 8b
-1. Tot een bij of krachtens algemene maatregel van bestuur, op voordracht van Onze Minister tezamen met Onze Minister van Binnenlandse Zaken, te bepalen tijdstip:
-a. wordt niet als dienstbetrekking beschouwd de arbeidsverhouding van de overheidswerknemer, bedoeld in artikel 1, onderdeel l, van de Wet overheidspersoneel onder de werknemersverzekeringen, alsmede
-b. is artikel 8a niet van toepassing op degene die uitsluitend uit hoofde van een of meer arbeidsverhoudingen als overheidswerknemer, dan wel uitsluitend uit hoofde van een of meer voormalige arbeidsverhoudingen als gewezen overheidswerknemer een uitkering ontvangt op grond van de verplichte verzekering op grond van de Wet op de arbeidsongeschiktheidsverzekering.
-2. Het in het eerste lid bedoelde tijdstip kan voor groepen van overheidswerknemers als bedoeld in onderdeel a van dat lid, alsmede voor groepen van overheidswerknemers en gewezen overheidswerknemers met recht op een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering als bedoeld in onderdeel b van dat lid, verschillend worden vastgesteld.
-3. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen nadere en, zo nodig, tijdelijk van deze wet afwijkende regels worden gesteld.

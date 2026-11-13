@@ -1,0 +1,3 @@
+# Artikel 25f
+1. Een organisator houdt een voldoende verzekering of andere financiële zekerheid in stand, ter dekking van zijn aansprakelijkheid ingevolge artikel 25c, eerste en tweede lid, tot een bedrag berekend overeenkomstig artikel 25e, tweede en derde lid.
+2. Indien de organisator niet aan de verplichting, bedoeld in artikel 25b, heeft voldaan, kunnen Onze Ministers bepalen tot welk bedrag zij verhaal zullen nemen op de gestelde zekerheid, bedoeld in het eerste lid. Onze Ministers kunnen de middelen aanwenden om andere partijen te betalen, teneinde de kosten, bedoeld in artikel 25c, eerste lid, te voldoen. Onze Ministers kunnen het te verhalen bedrag invorderen bij dwangbevel.

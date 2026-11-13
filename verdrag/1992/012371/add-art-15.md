@@ -1,0 +1,3 @@
+# Article XV
+1. The present Convention shall enter into force on the ninetieth day following the date on which Governments of eight States including five States each with not less than 1,000,000 gross tons of tanker tonnage have either signed it without reservation as to ratification, acceptance or approval or have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization.
+2. For each State which subsequently ratifies, accepts, approves or accedes to it the present Convention shall come into force on the ninetieth day after deposit by such State of the appropriate instrument.

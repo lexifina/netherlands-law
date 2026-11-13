@@ -1,0 +1,2 @@
+# Artikel 70d
+Op een kapitaalverzekering eigen woning die voor 1 januari 2013 ingevolge artikel 3.116, vierde lid, van de Wet inkomstenbelasting 2001, zoals dat luidde op 31 december 2012, wordt geacht tot uitkering te zijn gekomen of op een spaarrekening eigen woning of een beleggingsrecht eigen woning die voor 1 januari 2013 ingevolge artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001, zoals dat luidde op 31 december 2012, wordt geacht te zijn gedeblokkeerd, blijft artikel 44c, zoals dat luidde op 31 december 2012, van toepassing.

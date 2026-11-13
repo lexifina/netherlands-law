@@ -1,2 +1,0 @@
-# I
-Im Bahnhof Bentheim wird die Grenzabfertigung im Eisenbahngüterverkehr zusammengelegt. Die Zusammenlegung beschränkt sich auf den Eisenbahngüterverkehr mit Güterzügen in der Verkehrsrichtung Niederlande-Deutschland und mit anderen von der Oberfinanzdirektion Hannover und dem Directeur van 's Rijks belastingen in Zwolle im Einvernehmen mit den beiden Eisenbahnverwaltungen zu bezeichnenden Güterzügen.

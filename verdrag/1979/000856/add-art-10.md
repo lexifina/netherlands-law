@@ -1,0 +1,6 @@
+# Article X. Amendment of the Convention
+1. This Convention may be amended at any ordinary or extraordinary meeting of the Conference of the Parties.
+2. Proposals for amendment may be made by any Party.
+3. The text of any proposed amendment and the reasons for it shall be communicated to the Secretariat at least one hundred and fifty days before the meeting at which it is to be considered and shall promptly be communicated by the Secretariat to all Parties. Any comments on the text by the Parties shall be communicated to the Secretariat not less than sixty days before the meeting begins. The Secretariat shall, immediately after the last day for submission of comments, communicate to the Parties all comments submitted by that day.
+4. Amendments shall be adopted by a two-thirds majority of Parties present and voting.
+5. An amendment adopted shall enter into force for all Parties which have accepted it on the first day of the third month following the date on which two-thirds of the Parties have deposited an instrument of acceptance with the Depositary. For each Party which deposits an instrument of acceptance after the date on which two-thirds of the Parties have deposited an instrument on acceptance, the amendment shall enter into force for that Party on the first day of the third month following the deposit of its instrument of acceptance.

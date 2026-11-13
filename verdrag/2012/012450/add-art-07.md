@@ -1,0 +1,3 @@
+# VII. Ad artikelen 8, 13, 14 en 21
+1. Voor de toepassing van de artikelen 8, 13, 14 en 21 wordt de Koninklijke Luchtvaartmaatschappij N.V. (KLM N.V.) zo lang Nederland de uitsluitende heffingsbevoegdheid heeft ter zake van de onderneming van KLM N.V. uit hoofde van het tussen Nederland en Frankrijk gesloten belastingverdrag, geacht haar plaats van de werkelijke leiding in Nederland te hebben.
+2. Het bepaalde in het eerste lid is eveneens van toepassing indien de luchtvervoeractiviteiten van de huidige KLM N.V. geheel of grotendeels zouden worden voortgezet door een andere persoon. Die persoon zal geacht worden inwoner van Nederland te zijn.

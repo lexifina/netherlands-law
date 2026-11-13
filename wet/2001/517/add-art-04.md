@@ -1,0 +1,2 @@
+# Artikel IV
+Artikel 18.2 van de Wet milieubeheer en artikel 95 van de Wet bodembescherming zoals deze artikelen luidden voor het tijdstip van inwerkingtreding van deze wet, blijven met betrekking tot een beschikking tot toepassing van bestuursdwang of oplegging van een last onder dwangsom die op het tijdstip van inwerkingtreding van deze wet reeds is gegeven, van toepassing tot het tijdstip waarop de beschikking onherroepelijk is geworden.

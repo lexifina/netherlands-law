@@ -1,0 +1,2 @@
+# Artikel XIVaa. Wet houdende wijziging van enkele socialezekerheidswetten in verband met een andere vormgeving van de exportbeperking in de Algemene kinderbijslagwet en het regelen van overgangsrecht voor de situatie van opzegging of wijziging van een verdrag dan wel een daarmee gelijk te stellen situatie
+[Wijzigt de Wijzigingswet enkele socialezekerheidswetten (vormgeving exportbeperking Algemene kinderbijslagwet enz. (kst. 33162).]

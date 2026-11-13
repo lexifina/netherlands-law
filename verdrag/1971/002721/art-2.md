@@ -1,0 +1,3 @@
+# (2)
+Recognition and enforcement of a decision to which article 1 applies shall in a Contracting State be refused at the request of the person against whom recognition or enforcement is sought, where the decision was based, and in the circumstances could have been based, only on one or more of the grounds of jurisdiction specified in article 4.
+Recognition and enforcement need not, however, be refused where the jurisdiction of the court of the State of origin could in the circumstances also have been based upon another ground of jurisdiction which, as between the State of origin and the State of recognition, is sufficient to justify recognition and enforcement.

@@ -1,0 +1,2 @@
+# Artikel VII
+Vervallen

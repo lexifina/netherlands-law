@@ -1,0 +1,3 @@
+# Artikel 212hgd
+1. De Nederlandsche Bank N.V. kan de bank die in staat van faillissement is verklaard, de rechtspersonen die met de bank een groep vormen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek en de verkrijger verplichten tot het aan elkaar verstrekken van gegevens en verlenen van bijstand.
+2. De Nederlandsche Bank N.V. kan de bank die in staat van faillissement is verklaard en de rechtspersonen die met de bank een groep vormen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek verplichten tot het verschaffen van diensten en faciliteiten die nodig zijn om de overnemer in staat te stellen de op hem overgegane bedrijfsactiviteiten effectief uit te oefenen.

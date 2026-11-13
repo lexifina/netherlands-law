@@ -1,0 +1,7 @@
+# Voorschrift D-4. Prototype ballastwaterbehandelingstechnieken
+1. Voor elk schip dat voorafgaand aan de datum waarop de norm in voorschrift D-2 ervoor van kracht zou worden, deelneemt aan een door de Administratie goedgekeurd programma voor het testen en beoordelen van veelbelovende ballastwaterbehandelingstechnieken, wordt de norm in voorschrift D-2 niet eerder van kracht dan vijf jaar na de datum waarop het schip anders had moeten voldoen aan die norm.
+2. Voor elk schip dat, na de datum waarop de norm in voorschrift D-2 ervoor van kracht is geworden, deelneemt aan een door de Administratie goedgekeurd programma, rekening houdend met door de Organisatie opgestelde richtlijnen, voor het testen en beoordelen van veelbelovende ballastwatertechnieken die mogelijk kunnen resulteren in behandelingstechnieken waarmee een hogere norm wordt verwezenlijkt dan die vervat in voorschrift D-2, houdt de norm vervat in voorschrift D-2 gedurende vijf jaar vanaf de datum van de installatie van die techniek op voor dat schip van kracht te zijn.
+3. Bij het vaststellen en uitvoeren van programma's voor het testen en beoordelen van veelbelovende ballastwatertechnieken:
+.1 houden de Partijen rekening met de door de Organisatie opgestelde richtlijnen, en
+.2 staan de Partijen deelname uitsluitend toe door het minimum aantal schepen dat nodig is om dergelijke technieken doeltreffend te kunnen testen.
+4. Gedurende de gehele test- en beoordelingsperiode dient het behandelingssysteem op consistente wijze en overeenkomstig de opzet te worden bediend.

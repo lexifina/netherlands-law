@@ -1,0 +1,4 @@
+# Article II. Scope
+1. This Agreement shall apply to maintenance obligations arising from a family relationship or parentage, including a maintenance obligation towards a child born out of wedlock. However, a maintenance obligation towards a spouse or former spouse where there are no minor children will be enforced in the United States under this Agreement only in those states and other jurisdictions of the United States that elect to do so.
+2. This Agreement applies to the collection of payment arrears on a valid maintenance obligation and any applicable interest on arrears and to the modification or other official change in amounts due under an existing maintenance decision.
+3. The remedies provided for in this Agreement are not exclusive and do not affect the availability of any other remedies for the enforcement of a valid maintenance obligation.

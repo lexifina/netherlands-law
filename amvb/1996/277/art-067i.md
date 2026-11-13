@@ -1,0 +1,6 @@
+# Artikel 67i
+In afwijking van de artikelen 67 tot en met 67ha moet, indien het de toelating tot het praktijkexamen in verband met een aanvraag van een rijbewijs als bedoeld in artikel 42a, eerste lid, betreft, zijn voldaan aan de volgende eisen:
+a. de aanvrager dient bij de aanvraag een op zijn naam gesteld identiteitsbewijs als bedoeld in artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet op de identificatieplicht over te leggen;
+b. de aanvrager dient de in artikel 42b, tweede lid, onderdeel b, bedoelde verklaring over te leggen;
+c. de aanvrager dient niet langer dan twee jaar voor de dag van het praktijkexamen te zijn geslaagd voor het theorie-examen voor de zwaarste rijbewijscategorie, bedoeld in artikel 42a, tweede lid, waarop de aanvraag betrekking heeft, indien de aanvraag betrekking heeft op de categorieën E bij C, C, E bij D, D, E bij C1, C1, E bij D1 of D1;
+d. de aanvrager dient niet langer dan een jaar en zes maanden voor de dag van het praktijkexamen te zijn geslaagd voor het theorie-examen voor de zwaarste rijbewijscategorie, bedoeld in artikel 42a, tweede lid, waarop de aanvraag betrekking heeft, indien de aanvraag betrekking heeft op de categorieën E bij B, B, A, A2, A1, AM of T.

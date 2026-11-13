@@ -1,0 +1,2 @@
+# Artikel V
+Deze Overeenkomst blijft even lang van kracht als bovengenoemd Verdrag, met dien verstande evenwel, dat een overeenkomstsluitende Staat, welke partij is bij deze Overeenkomst, haar kan opzeggen met een opzeggingstermijn van een jaar door middel van een mededeeling aan de Regeering van de Vereenigde Staten van Amerika, die onverwijld alle andere overeenkomstsluitende Staten kennis zal geven van zoodanige mededeeling en opzegging.

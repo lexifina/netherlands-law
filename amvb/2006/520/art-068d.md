@@ -1,0 +1,2 @@
+# Artikel 68d
+Het door een beleggingsonderneming of een derde verricht onderzoek op beleggingsgebied dat aan een beleggingsonderneming of cliënt wordt verstrekt of beschikbaar wordt gesteld is duidelijk als zodanig of in soortgelijke bewoordingen herkenbaar, indien is voldaan aan alle in gedelegeerde verordening markten voor financiële instrumenten 2014 inzake organisatorische vereisten opgenomen voorwaarden die op dergelijk onderzoek van toepassing zijn.

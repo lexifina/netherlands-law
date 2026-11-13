@@ -1,0 +1,5 @@
+# Artikel 18a
+1. Artikel 18 is van overeenkomstige toepassing indien voor een nabestaande, naast recht op een of meer nabestaandenpensioenen ingevolge deze rijkswet recht bestaat op een of meer nabestaandenpensioenen krachtens een andere regeling, met dien verstande dat voor het in het derde lid van dat artikel bedoelde grensbedrag en het in het vierde lid van dat artikel bedoelde hogere bedrag, met betrekking tot een nabestaandenpensioen krachtens artikel 16, eerste lid, 14% en met betrekking tot een nabestaandenpensioen krachtens artikel 16, tweede lid, 28% van die bedragen in de plaats komt.
+2. De gedeelten van de nabestaandenpensioenen en bijzondere nabestaandenpensioenen, bedoeld in artikel 14, 15 en 16, gaan tezamen het bedrag waarvan die pensioenen zijn afgeleid niet te boven.
+3. Indien wegens toepassing van het tweede lid de daar bedoelde pensioengedeelten een vermindering moeten ondergaan, geschiedt deze in evenredigheid van de onderscheiden bedragen.
+4. Voor de toepassing van het eerste, tweede en derde lid worden krachtens wettelijk voorschrift toegekende toeslagen niet onder pensioen begrepen.

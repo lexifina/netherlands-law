@@ -1,0 +1,2 @@
+# Article XI
+Until the date on which this Convention comes into force in accordance with the provisions of Article XIII, it shall remain open for signature on behalf of any State which at that date is a Member of the United Nations or of any of the Specialized Agencies.

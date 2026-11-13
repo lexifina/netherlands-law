@@ -1,0 +1,2 @@
+# Article VI. Costs of Services
+All procedures described in this Agreement, including services of the Central Authority, and necessary legal and administrative assistance, shall be provided by the Requested Party without cost to the claimant. The costs of testing blood or tissue for paternity determinations shall be borne by the Party in which jurisdiction the proceeding takes place. A Party may assess costs in any proceeding against the respondent appearing in that Party's jurisdiction.

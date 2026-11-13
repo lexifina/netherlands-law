@@ -1,0 +1,2 @@
+# Artikel III
+De Wet van 28 Februari 1947 (Stb. H 66), houdende het openen van de mogelijkheid, wijziging te brengen in de methode van overschrijving of inschrijving van stukken in de openbare registers, en tot het stellen van nadere regelen omtrent de geldigheid van overschrijvingen en inschrijvingen na de bevrijding verricht op voet van in den bezettingstijd terzake uitgevaardigde besluiten, wordt ingetrokken.

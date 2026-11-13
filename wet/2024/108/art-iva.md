@@ -1,0 +1,2 @@
+# Artikel IVa
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen drie jaar na inwerkingtreding van artikel III aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.

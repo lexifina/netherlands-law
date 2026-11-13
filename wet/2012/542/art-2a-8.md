@@ -1,0 +1,12 @@
+# Artikel 2a.8
+1. Dit artikel is van toepassing op opdrachten van speciale-sectorbedrijven die onderdelen bevatten, genoemd in bijlage II van richtlijn 2014/23/EU, en onderdelen waar defensie- of veiligheidsaspecten aan verbonden zijn.
+2. Het speciale-sectorbedrijf kan per afzonderlijke activiteit afzonderlijke opdrachten plaatsen of één algemene opdracht plaatsen.
+3. Het speciale-sectorbedrijf dat een afzonderlijke opdracht plaatst, past voor elk van de afzonderlijke opdrachten de bepalingen toe, welke op grond van de kenmerken van het betrokken afzonderlijke onderdeel daarop dienen te worden toegepast.
+4. Onverminderd artikel 2a.6, is het zesde lid van toepassing indien het speciale-sectorbedrijf één algemene opdracht plaatst.
+5. Het speciale-sectorbedrijf plaatst één algemene opdracht of afzonderlijke opdrachten evenwel niet met het oogmerk om zich te onttrekken aan de toepassing van deze wet of van de Aanbestedingswet op defensie- en veiligheidsgebied.
+6. In het geval van een opdracht die betrekking heeft op een activiteit waarop deel 2a van toepassing is en een andere activiteit waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is, of waarop Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, kan het speciale-sectorbedrijf:
+a. een opdracht plaatsen zonder deel 2a van deze wet toe te passen wanneer die activiteit valt onder artikel 346 van het Verdrag betreffende de werking van de Europese Unie, of
+b. een opdracht plaatsen in overeenstemming met hetzij deel 2a van deze wet, hetzij de Aanbestedingswet op defensie- en veiligheidsgebied in de gevallen waarin die activiteit valt onder die wet.
+7. Het zesde lid laat de in de Aanbestedingswet op defensie- en veiligheidsgebied voorziene drempelwaarden en uitzonderingen onverlet.
+8. Opdrachten als bedoeld in het zesde lid met zowel activiteiten die vallen onder bijlage II van richtlijn 2014/23/EU als activiteiten waarop de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, die daarnaast aanbestedingen of andere onderdelen bevatten waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is, kunnen worden gegund zonder deze wet toe te passen.
+9. Voor de toepassing van het zesde tot en met achtste lid geldt dat de plaatsing van een algemene opdracht voor meerdere activiteiten objectief gerechtvaardigd dient te zijn en niet tot doel heeft een of meer opdrachten van de toepasselijkheid van deel 2a van deze wet uit te zonderen.

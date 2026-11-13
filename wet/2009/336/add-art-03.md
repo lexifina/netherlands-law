@@ -1,0 +1,2 @@
+# Artikel III
+Een spoorweg waarop de dag voorafgaand aan de aanwijzing als hoofdspoorweg het Reglement op de Raccordementen 1966 van toepassing was en die in overeenstemming was met de in dat Reglement opgenomen voorschriften, wordt met ingang van de dag waarop deze spoorweg wordt aangewezen als hoofdspoorweg, aangemerkt als in overeenstemming met het bepaalde bij of krachtens artikel 6 van de Spoorwegwet.

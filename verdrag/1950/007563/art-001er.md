@@ -1,0 +1,3 @@
+# Article 1er
+Paragraphe 1er. Les ressortissants néerlandais ou français salariés ou assimilés aux salariés par les législations de sécurité sociale énumérées à l'article 2 de la présente convention, sont soumis respectivement aux dites législations applicables en France ou aux Pays-Bas et en bénéficient dans les mêmes conditions que les ressortissants de chacun de ces pays.
+Paragraphe 2. Les ressortissants néerlandais, autres que ceux visés au premier paragraphe du présent article, bénéficient des prestations familiales, conformément aux législations énumérées à l'article 2, applicables en France et dans les mêmes conditions que les ressortissants français.

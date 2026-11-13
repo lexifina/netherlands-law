@@ -1,0 +1,2 @@
+# Artikel IV
+Na de inwerkingtreding van deze wet berusten het Besluit voorkoming olieverontreiniging door schepen, het Besluit voorkoming verontreiniging door met schepen vervoerde schadelijke stoffen in verpakte vorm, het Besluit voorkoming verontreiniging door sanitair afval van schepen en het Besluit voorkoming verontreiniging door vuilnis van schepen mede op artikel 1, onderdeel h, van de Wet voorkoming verontreiniging door schepen.

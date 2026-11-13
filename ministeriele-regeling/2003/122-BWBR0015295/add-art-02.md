@@ -1,0 +1,3 @@
+# Artikel II
+1. Deze beschikking wordt verleend onder het voorschrift dat Autotote Nederland B.V., gevestigd te 's-Gravenhage, in samenspraak met de Stichting Nederlandse Draf- en Rensport, gevestigd te 's-Gravenhage of derde partijen, tijdig voor de afloop van de periode, bedoeld in artikel 2, eerste lid, van de Beschikking totalisator 1998, voorstellen doet voor een hernieuwd systeem van afdrachten aan de begunstigden van de totalisator.
+2. Bij het doen van de voorstellen, bedoeld in het eerste lid, wordt acht geslagen op het kabinetsstandpunt van 20 november 2000 (Kamerstukken II 2000/01, 24 036, nr. 180) alsmede de tweede voortgangsrapportage kansspelen van 31 maart 2003 (Kamerstukken II 2002/03, 24 036, nr 280).

@@ -1,0 +1,2 @@
+# Artikel 6a:1. (toepasselijkheid op Bonaire, Sint Eustatius en Saba)
+Dit besluit is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba met inachtneming van het in deze paragraaf bepaalde met dien verstande dat voor de toepassing of lezing van een aantal bepalingen in dit besluit artikel 36b onderscheidenlijk artikel 36c, eerste lid, van de wet in acht moet worden genomen.

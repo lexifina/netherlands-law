@@ -1,4 +1,0 @@
-# Artikel II
-Een verpakkingseenheid die voldoet aan de in paragraaf 3 van de Regeling experiment gesloten coffeeshopketen neergelegde eisen, zoals die golden voorafgaand aan het tijdstip waarop deze regeling in werking treedt, mogen tot het tijdstip waarop de uitvoering van het experiment als bedoeld in artikel 4, eerste lid, van de Wet experiment gesloten coffeeshopketen aanvangt:
-a. door een aangewezen teler als bedoeld in artikel 1 van het Besluit experiment gesloten coffeeshopketen worden opgeslagen en aan een coffeeshophouder als bedoeld in artikel 1 van het Besluit experiment gesloten coffeeshopketen worden verkocht, geleverd of anderszins worden verhandeld;
-b. door een coffeeshophouder als hiervoor bedoeld van een aangewezen teler als hiervoor bedoeld worden gekocht of afgenomen en door hem in de coffeeshop worden bewaard of verkocht.

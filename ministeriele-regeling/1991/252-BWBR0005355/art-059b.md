@@ -1,0 +1,5 @@
+# Artikel 59b
+Een vrijstelling van de vergunningplicht als bedoeld in artikel 90a, vierde lid, onderdeel b, van de wet geldt in de gevallen waarin:
+a. een tabaksproductieapparaat is bestemd te worden gebruikt voor het op eenvoudige wijze produceren van een sigaret in de persoonlijke sfeer, waarbij die sigaret wordt verbruikt door de producent, door een gezinslid of huisgenoot van de producent of zijn gasten en er geen sprake is van productie van sigaretten voor commerciële doeleinden;
+b. een tabaksproductieapparaat voorhanden wordt gehouden in een accijnsgoederenplaats waar onder schorsing van accijns tabaksproducten mogen worden geproduceerd of verwerkt, mits uit de administratie van de vergunninghouder van de accijnsgoederenplaats blijkt welke tabaksproductieapparaten hij in gebruik heeft of die hij voornemens is te gaan gebruiken;
+c. een tabaksproductieapparaat wordt vervoerd naar een houder van een vergunning als bedoeld in artikel 90a, eerste lid, van de wet dan wel naar een accijnsgoederenplaats als bedoeld in onderdeel b indien dit vervoer blijkt uit de administratie of de vrachtbrief van de vervoerder.

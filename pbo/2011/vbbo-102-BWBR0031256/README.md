@@ -1,0 +1,6 @@
+# Verordening bestemmingsheffing subsidieverstrekking Bedrijfschap Horeca en Catering 2012
+
+Verordening bestemmingsheffing subsidieverstrekking Bedrijfschap Horeca en Catering 2012 · 2 versions, from 2012-05-12 (latest in force: 2019-10-16) · <https://wetten.overheid.nl/BWBR0031256>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

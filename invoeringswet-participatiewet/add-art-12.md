@@ -1,2 +1,0 @@
-# Artikel XII. Wijziging van de Werkloosheidswet
-[Wijzigt de Werkloosheidswet.]

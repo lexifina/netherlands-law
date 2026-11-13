@@ -1,0 +1,2 @@
+# Artikel 5a. Performancetoets na fusie van bedrijfstakpensioenfondsen
+Voor de performancetoets, bedoeld in artikel 5, eerste lid, van een bedrijfstakpensioenfonds dat is ontstaan door de fusie van twee of meer bedrijfstakpensioenfondsen waarop artikel 5, derde lid niet van toepassing is, wordt, voor de kalenderjaren vóór de fusie, gebruik gemaakt van de gegevens van de gefuseerde bedrijfstakpensioenfondsen waarbij de verhouding tussen deze gegevens gelijk is aan de verhouding tussen de totale vermogens van de gefuseerde bedrijfstakpensioenfondsen ten tijde van de fusie.

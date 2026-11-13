@@ -1,0 +1,2 @@
+# Artikel 35f
+Een beleggingsonderneming in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen, niet zijnde een beleggingsonderneming als bedoeld in artikel 32, vierde lid, onderdeel a, van de richtlijn prudentieel toezicht beleggingsondernemingen, voldoet aan het bepaalde in artikel 52, eerste lid, van de verordening prudentiële vereisten voor beleggingsondernemingen, met inachtneming van het bepaalde in het tweede en het bepaalde ingevolge het derde lid van dat artikel.

@@ -1,0 +1,8 @@
+# Aanwijzing diploma's accountants-administratieconsulenten
+
+Aanwijzing diploma's accountants-administratieconsulenten · 1 versions, from 1990-08-25 (latest in force: 1990-08-25) · <https://wetten.overheid.nl/BWBR0004839>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |

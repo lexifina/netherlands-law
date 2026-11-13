@@ -1,0 +1,9 @@
+# Artikel 18b
+1. De zorgaanbieder verschaft het CIZ ten behoeve van diens taak op grond van hoofdstuk 3, inzage in het zorgplan bedoeld in artikel 5, tweede lid, en het dossier bedoeld in artikel 16, tweede lid, van een cliënt voor wie een besluit tot opname en verblijf of een verzoek om een rechterlijke machtiging als bedoeld in artikel 24 wordt voorbereid.
+2. De zorgaanbieder verstrekt desgevraagd inzage in of afschrift van gegevens uit het dossier van een overleden cliënt, bedoeld in artikel 16, tweede lid, aan:
+a. een persoon ten behoeve van wie de cliënt bij leven toestemming heeft gegeven indien die toestemming schriftelijk of elektronisch is vastgelegd;
+b. een nabestaande of een vertegenwoordiger, indien die nabestaande of die vertegenwoordiger een mededeling over een incident op grond van artikel 10, derde lid, van de Wet kwaliteit, klachten en geschillen zorg heeft gekregen;
+c. een ieder die een zwaarwegend belang heeft en aannemelijk maakt dat dit belang mogelijk wordt geschaad en dat inzage in of afschrift van gegevens uit het dossier noodzakelijk is voor de behartiging van dit belang.
+3. De zorgaanbieder verstrekt aan degene of de instelling die het gezag uitoefende over de cliënt die op het moment van overlijden de leeftijd van zestien jaar nog niet had bereikt, desgevraagd inzage in of afschrift van gegevens uit het dossier van deze cliënt, tenzij dit in strijd is met de zorg van een goed zorgverlener.
+4. Op grond van dit artikel worden uitsluitend gegevens verstrekt voor zover deze betrekking hebben op de grond waarvoor inzage wordt verleend.
+5. Op grond van dit artikel worden geen gegevens verstrekt voor zover schriftelijk of elektronisch is vastgelegd dat de overleden cliënt die de leeftijd van twaalf jaar had bereikt en tot een redelijke waardering van zijn belangen ter zake in staat was, deze inzage niet wenst, of daarbij de persoonlijke levenssfeer van een ander wordt geschaad.

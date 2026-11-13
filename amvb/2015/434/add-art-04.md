@@ -1,0 +1,2 @@
+# Artikel IV
+Indien de Europese Commissie op grond van artikel 10, zesde lid, van de richtlijn depositogarantiestelsels een doelomvang van het depositogarantiestelsel lager dan 0,8% goedkeurt, kan bij ministeriële regeling de doelomvang van zowel de individuele saldi als het algemeen gedeelte, bedoeld in artikel 29.11, eerste lid, van het Besluit bijzondere prudentiële maatregelen Wft, worden vastgesteld op de helft van het door de Europese Commissie goedgekeurde minimale doelomvangspercentage.

@@ -1,0 +1,2 @@
+# Artikel 7b. Toelage parachutespringen
+De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding daarvoor, heeft, indien hij in opdracht van de commandant een conditiesprong, onderscheidenlijk oefensprong met een parachute uit een vliegtuig of luchtballon tijdens de vlucht maakt, aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van tabel 9 van de Inkomstenregeling militairen.

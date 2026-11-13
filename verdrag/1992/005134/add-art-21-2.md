@@ -1,0 +1,2 @@
+# XXI. In reference to paragraph 8 of Article 12 (Interest) and subparagraph 4(a) of
+Article 26 (Limitation on Benefits) For the purpose of subparagraph 4 a) of Article 26 (Limitation on Benefits) and paragraph 8 of Article 12(Interest) it is understood that interest derived from group financing or portfolio investments shall be considered to be part of the business of making or managing investments.

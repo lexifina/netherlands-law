@@ -1,0 +1,3 @@
+# Artikel 80a. Teveel verleend vakantieverlof
+1. Vakantieverlof op aanvraag dat in enig kalenderjaar teveel is verleend, wordt in mindering gebracht op het vakantieverlof over het volgende kalenderjaar of over de volgende twee of drie kalenderjaren, indien het teveel meer beloopt dan één derde onderscheidenlijk twee derde gedeelte van het de militair ingevolge artikel 73 toekomende vakantieverlof.
+2. Het in enig kalenderjaar verleende vakantieverlof niet-op-aanvraag dat, uitsluitend omdat de militair reeds vakantieverlof op aanvraag is verleend, leidt tot overschrijding van het aan de militair toekomende aantal uren vakantieverlof in dat jaar, wordt niet in mindering gebracht op het vakantieverlof over het volgend kalenderjaar of de volgende kalenderjaren.

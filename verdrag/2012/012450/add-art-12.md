@@ -1,0 +1,7 @@
+# XII. Ad artikel 14
+1. Ten behoeve van de drempel van 35 dagen wordt een dag alleen meegerekend, indien op de betreffende dag de dienstbetrekking wordt uitgeoefend gedurende ten minste 30 minuten in hetzij de woonstaat van de werknemer of in een of meer derde rechtsgebieden.
+2. Het begrip „werkdagen" betekent daadwerkelijk gewerkte dagen. Daadwerkelijk gewerkte dagen zijn alle dagen in een kalenderjaar waarop de werknemer daadwerkelijk een dienstbetrekking uitoefent en voor welke hij een beloning ontvangt. Aanwezigheidsdiensten, zelfs wanneer de werknemer wordt opgeroepen om daadwerkelijk werk te verrichten, worden echter niet meegenomen bij het vaststellen van een werkdag.
+3. Het is wel te verstaan dat Nederland en de Bondsrepubliek Duitsland artikel 14 op verschillende wijzen interpreteren en toepassen in gevallen waarin een beloning wordt betaald maar niet daadwerkelijk werk wordt verricht. Een beloning die wordt betaald door de werkgever voor dagen waarop de werknemer niet daadwerkelijk werk verricht vanwege
+a. verlof na kennisgeving van beëindiging van de dienstbetrekking;
+b. het thuis inactief doorbrengen van dagen in opdracht van de werkgever of een regering van een verdragsluitende staat,
+wordt echter geacht een beloning te zijn die wordt verstrekt voor het uitoefenen van een dienstbetrekking in de verdragsluitende staat waarin het werk feitelijk zou zijn verricht indien de bovenstaande situaties zich niet hadden voorgedaan.

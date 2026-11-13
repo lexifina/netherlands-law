@@ -1,0 +1,2 @@
+# Artikel IV
+Artikel 10, vijfde lid, van de Wet op de inkomstenbelasting 1964 vindt geen toepassing met betrekking tot de na de totstandkoming van deze wet door Onze Minister krachtens het vierde lid van dat artikel te treffen regeling welke ertoe strekt de willekeurige afschrijving van de aanschaffings- of voortbrengingskosten van bedrijfsmiddelen door een belastingplichtige ten aanzien van wie artikel 44m, derde lid, van die wet toepassing vindt, te beperken tot het investeringsbedrag waarop artikel 11, eerste lid, van die wet ten hoogste toepassing vindt.

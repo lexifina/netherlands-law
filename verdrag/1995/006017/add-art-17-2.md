@@ -1,0 +1,2 @@
+# Artikel XVII
+Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de datum waarop de Verdragsluitende Partijen elkander schriftelijk ervan in kennis hebben gesteld dat aan de in hun onderscheiden landen constitutioneel vereiste formaliteiten is voldaan. Indien een der Verdragsluitende Partijen dit Verdrag wenst op te zeggen, stelt zij de andere Verdragsluitende Partij daarvan schriftelijk in kennis en wordt de opzegging van kracht zes maanden na de datum van ontvangst van een zodanige kennisgeving door de andere Verdragsluitende Partij.

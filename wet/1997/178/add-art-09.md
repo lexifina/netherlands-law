@@ -1,0 +1,2 @@
+# ARTIKEL IX. AAW-DECLARATIES
+De op basis van artikel 8, derde lid, van de Algemene Arbeidsongeschiktheidswet bij het Uitvoeringsinstituut werknemersverzekeringen ingediende declaraties die op de datum van inwerkingtreding van deze wet nog niet zijn afgehandeld worden met ingang van die datum afgehandeld door het Uitvoeringsinstituut werknemersverzekeringen ten laste van het Algemeen Arbeidsongeschiktheidsfonds.

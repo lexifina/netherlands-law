@@ -1,0 +1,2 @@
+# Artikel I-2
+In een geval als bedoeld in artikel I-1 zijn de reglementen van de betrokken medezeggenschapsraad of medezeggenschapsraden wat de daarin neergelegde bevoegdheden als bedoeld in artikel 6, eerste lid, van de wet betreft, van overeenkomstige toepassing op voorgenomen besluiten ten aanzien van aangelegenheden als bedoeld in artikel 7 van de wet, die betrekking hebben op de situatie na de samenvoeging, splitsing, omzetting onderscheidenlijk overgang.

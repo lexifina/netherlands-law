@@ -1,2 +1,0 @@
-# Artikel VIII
-[Vervallen.]

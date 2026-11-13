@@ -1,0 +1,6 @@
+# Artikel V. Beveiliging van gerubriceerde gegevens
+1. De partijen nemen alle passende maatregelen krachtens hun nationale wet- en regelgeving om de beveiliging van gerubriceerde gegevens in overeenstemming met dit Verdrag te waarborgen. Zij kennen aan gerubriceerde gegevens die uit hoofde van dit Verdrag worden uitgewisseld of gegenereerd ten minste dezelfde beveiliging toe als aan hun eigen gerubriceerde gegevens met een vergelijkbaar rubriceringsniveau.
+2. Bij de behandeling van gerubriceerde gegevens die zijn uitgewisseld tussen de partijen worden de bepalingen van dit Verdrag gerespecteerd.
+3. Elke partij waarborgt dat de noodzakelijke maatregelen worden genomen voor de beveiliging van de gerubriceerde gegevens die worden verwerkt, opgeslagen of overgebracht door communicatie- en informatiesystemen, in overeenstemming met het rubriceringsniveau, dit Verdrag en andere nationale wet- en regelgeving.
+4. Elke partij waarborgt de vertrouwelijkheid, integriteit, beschikbaarheid en, waar van toepassing, authenticiteit, verantwoording en traceerbaarheid van gerubriceerde gegevens.
+5. De partijen maken geen gerubriceerde gegevens bekend zonder de voorafgaande schriftelijke toestemming van de partij van herkomst.

@@ -1,0 +1,5 @@
+# Artikel II. Overgangsbepaling
+1. De regelingen voor uitkeringen wegens werkloosheid, ziekte en arbeidsongeschiktheid die bij of krachtens dit besluit komen te vervallen, blijven voor de duur van de uitkering van toepassing op uitkeringen die zijn ingegaan of hadden moeten ingaan voordat de door het bevoegd gezag van de school op het desbetreffende gebied gestelde regels in werking zijn treden.
+2. Het Kaderbesluit rechtspositie PO zoals dit luidde op de dag voor de datum van inwerkingtreding van dit besluit blijft van toepassing totdat de door het bevoegd gezag van de school op het desbetreffende gebied gestelde regels in werking treden.
+3. De aanspraken uit de regelingen die op grond van het eerste en tweede lid zijn gehandhaafd, gelden vanaf de datum van inwerkingtreding van dit besluit of zoveel later als de aanspraak ontstaat, jegens het bevoegd gezag van de school of diens rechtsopvolger.
+4. Aanspraken jegens Onze Minister van Onderwijs, Cultuur en Wetenschap die bestaan op de dag voor inwerkingtreding van dit besluit, komen na inwerkingtreding van dit besluit ten laste van het bevoegd gezag of diens rechtsopvolger.

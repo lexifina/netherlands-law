@@ -1,0 +1,3 @@
+# Artikel II
+1. De voordracht voor het koninklijk besluit waarbij het tijdstip van inwerkingtreding van artikel I, onderdeel H, van de wet van 6 juni 2002 tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de invoering van accreditatie in het hoger onderwijs (Stb. 302) wordt vastgesteld, wordt niet eerder gedaan dan nadat de toetsingskaders, bedoeld in artikel 5a.8, zevende lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en de beleidsregels, bedoeld in artikel 6.2, vierde lid, van die wet, zijn vastgesteld.
+2. [Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (invoering van accreditatie in het hoger onderwijs).]

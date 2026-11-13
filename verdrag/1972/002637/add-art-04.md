@@ -1,0 +1,7 @@
+# Article IV
+(1) The Contracting Parties undertake to promote the development of international merchant shipping services. In doing so they shall maintain free and normal competitive conditions. Either Contracting Party shall refrain from taking any discriminatory measures against, and from restricting the free participation in international traffic of merchant vessels flying the flag of the other Contracting Party and operated by nationals of that Contracting Party or merchant vessels chartered by nationals of the latter Contracting Party.
+(2) Either Contracting Party shall accord in its ports to the merchant vessels flying the flag of the other Contracting Party and operated by nationals of that Contracting Party or merchant vessels chartered by nationals of the latter Contracting Party the same treatment as it accords to its own vessels. This provision applies, without prejudice to the provisions of international conventions binding on the Contracting Parties, to custom formalities, port fees and port charges, the free entry into ports, the assignment of berths, facilities for loading and unloading, and to all other facilities accorded to shipping and to economic activities in connection with merchant vessels, their crews, their passengers and the cargoes they carry.
+(3) From the provisions of the foregoing paragraphs of this Article shall be excepted –
+(a) fisheries;
+and
+(b) coastal shipping in the non-European parts of the Kingdom of the Netherlands, to which only the internal regulations of these parts of the Kingdom shall apply.

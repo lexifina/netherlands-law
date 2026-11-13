@@ -1,6 +1,0 @@
-# (20)
-Handeling: Het vaststellen van onderzoeksprogramma's inzake natuur- en landschapsbeheer
-Periode: 1969-
-Grondslag: Instellingsbeschikking Rijksinstituut voor Natuurbeheer, art. 3
-Dienstonderdeel: DN
-Waardering: B, 1

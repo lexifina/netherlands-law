@@ -1,0 +1,2 @@
+# Artikel 12a
+Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid en overig inkomen als bedoeld in de artikelen 8, eerste lid, 10, eerste en tweede lid, 11 en 12 wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.

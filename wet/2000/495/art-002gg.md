@@ -1,0 +1,3 @@
+# Artikel 2gg
+1. Onze Minister voorziet in de uitvoering van de in artikel 12, eerste lid, van de Screeningsverordening bedoelde voorlopige medische controle door gekwalificeerd medisch personeel en in de aanstelling van personen als bedoeld in artikel 13, derde lid, van de Screeningsverordening.
+2. Het in het eerste lid bedoelde gekwalificeerde medische personeel en de in het eerste lid bedoelde personen verstrekken de Screeningsautoriteiten die gegevens die noodzakelijk zijn om te kunnen voldoen aan de verplichting opgenomen in artikel 17, eerste lid, onderdeel d, respectievelijk artikel 17, eerste lid, onderdeel e, van de Screeningsverordening.

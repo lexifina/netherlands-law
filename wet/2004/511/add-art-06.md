@@ -1,0 +1,2 @@
+# Artikel VI
+Met betrekking tot de eerste planperiode, welke loopt van 1 januari 2005 tot en met 31 december 2007, geldt, in afwijking van artikel 16.32, tweede lid, van de Wet milieubeheer, dat de toewijzing van broeikasgasemissierechten voor inrichtingen als bedoeld in artikel 16.25, tweede lid, onder a, van die wet gedeeltelijk kan plaatsvinden in het nationale toewijzingsbesluit, bedoeld in artikel 16.29, eerste lid, van die wet, dat op bedoelde periode betrekking heeft.

@@ -1,0 +1,2 @@
+# Article I
+Upon the entry into force of this Protocol, the Secretary General of the North Atlantic Treaty Organisation shall, on behalf of all the Parties, communicate to the Government of the Republic of Latvia an invitation to accede to the North Atlantic Treaty. In accordance with article 10 of the Treaty, the Republic of Latvia shall become a Party on the date when it deposits its instrument of accession with the Government of the United States of America.

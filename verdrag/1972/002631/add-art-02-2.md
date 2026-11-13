@@ -1,0 +1,2 @@
+# Artikel II
+Elke Staat die Partij is bij dit Verdrag verbindt zich zo spoedig mogelijk, doch uiterlijk negen maanden na de inwerkingtreding van dit Verdrag, alle agentia, toxines, wapens, uitrusting en verspreidingsmiddelen genoemd in artikel I van het Verdrag, die in zijn bezit zijn of onder zijn jurisdictie of beschikkingsmacht vallen, te vernietigen of aan te wenden voor vreedzame doeleinden. Bij de uitvoering van het bepaalde in dit artikel dienen alle nodige voorzorgsmaatregelen te worden genomen om de bevolking en het milieu te beschermen.

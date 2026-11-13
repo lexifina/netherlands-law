@@ -1,0 +1,2 @@
+# I. General
+Los beneficios del Convenio no son aplicables a las sociedades o a otras personas que estén total o parcialmente exentas de impuestos por un régimen especial conforme a la legislación o prácticas administrativas de cualquiera de los Estados. Un régimen especial como se menciona en el primer enunciado de esta disposición, únicamente será considerado como tal, después de que las autoridades competentes de los Estados hayan decidido mediante el acuerdo mutuo, que este es el caso.

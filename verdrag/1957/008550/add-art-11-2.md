@@ -1,0 +1,2 @@
+# Artikel XI
+Elke Overeenkomstsluitende Partij zal erop toezien, dat haar aangewezen luchtvervoersonderneming of -ondernemingen, zo lang van tevoren als mogelijk is, aan de luchtvaartautoriteit van de andere Overeenkomstsluitende Partij de dienstregelingen, de tarieven en de vrachtprijzen aanbieden alsmede iedere andere soortgelijke, op de exploitatie van de overeengekomen luchtdiensten betrekking hebbende inlichting welke vereist zou kunnen worden, evenals alle wijzigingen betreffende die dienstregelingen, tarieven, vrachtprijzen en inlichtingen.

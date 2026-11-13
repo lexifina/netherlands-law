@@ -1,0 +1,2 @@
+# Artikel III
+Op de aanvullende deelname aan het depositogarantiestelsel, bedoeld in artikel 3:259, tweede lid, van de Wet op het financieel toezicht door een bank, beleggingsonderneming of financiële instelling met zetel in een andere lidstaat ten aanzien waarvan de Nederlandsche Bank voor het tijdstip van inwerkingtreding van dit besluit heeft besloten tot toepassing van een vangnetregeling, is het recht van toepassing dat gold op de dag voorafgaand aan de inwerkingtreding van dit besluit.

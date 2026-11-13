@@ -1,0 +1,2 @@
+# Artikel 54a
+Indien een herindelingsregeling als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet algemene regels herindeling leidt tot een wijziging van het rechtsgebied van een regionaal tuchtcollege of indien het rechtsgebied van een regionaal tuchtcollege op basis van artikel 53, tweede lid, wordt gewijzigd, heeft die wijziging geen gevolgen voor de bevoegdheid in zaken die op de datum van herindeling bij dat tuchtcollege aanhangig zijn.

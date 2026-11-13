@@ -1,0 +1,2 @@
+# Article XVI
+The Government of Iceland shall, to the fullest possible extent, cooperate with the representatives of the Organization in respect of the purposes of this Agreement and shall accord to such representatives the privileges and immunities to which they are entitled under the General Convention on the Privileges and Immunities of the Specialized Agencies, including Annex III (2) thereto.

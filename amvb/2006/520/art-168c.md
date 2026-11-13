@@ -1,0 +1,7 @@
+# Artikel 168c
+Een overeenkomst als bedoeld in artikel 4:71c, tweede lid, van de wet, bepaalt in ieder geval dat:
+a. de premiepensioeninstelling en de pensioenbewaarder in het belang van de pensioendeelnemers en pensioengerechtigden optreden en hun taken betrouwbaar, eerlijk, professioneel en, onverminderd het bepaalde in onderdeel b, onafhankelijk uitvoeren;
+b. over het in bewaring gegeven pensioenvermogen slechts kan worden beschikt door de premiepensioeninstelling en de pensioenbewaarder tezamen;
+c. de pensioenbewaarder het in bewaring gegeven pensioenvermogen slechts afgeeft tegen ontvangst van een verklaring van de premiepensioeninstelling waaruit blijkt dat afgifte wordt verlangd in verband met de regelmatige uitoefening van het bedrijf van premiepensioeninstelling;
+d. de pensioenbewaarder volgens het recht van de staat waar de premiepensioeninstelling haar zetel heeft jegens de premiepensioeninstelling, de pensioendeelnemers en de pensioengerechtigden aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook indien de pensioenbewaarder het bij hem in bewaring gegeven pensioenvermogen geheel of gedeeltelijk aan een derde heeft toevertrouwd; en
+e. de premiepensioeninstelling aan de pensioenbewaarder de informatie verstrekt die hij nodig heeft ter uitvoering van zijn wettelijke taken.

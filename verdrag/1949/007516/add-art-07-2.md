@@ -1,0 +1,3 @@
+# Article VII
+(1) Si un contribuable fait valoir que les mesures des autorités fiscales des deux Etats contractants lui font subir une double imposition, il a le droit de présenter une réclamation à l'autorité compétente de l'Etat dont il est ressortissant. Si la réclamation est reconnue fondée, cette autorité cherchera à s'entendre avec l'autorité compétente de l'autre Etat en vue d'obvier d'une manière équitable à la double imposition.
+(2) Les autorités compétentes des deux Etats contractants pourront également s'entendre pour supprimer la double imposition dans les cas non réglés par la présente convention, ainsi que dans les cas où l'interprétation ou l'application de la présente convention donnerait lieu à des difficultés ou à dés doutes.

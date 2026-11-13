@@ -1,0 +1,3 @@
+# Article IV
+Les Autorités suédoises autoriseront l'importation en Suède des produits néerlandais, belges ou luxembourgeois, conformément aux indications figurant dans la liste „B" annexée au présent Accord, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'eux.
+De leur côté, les Autorités néerlandaises et belgo-luxembourgeoises compétentes s'engagent à délivrer les licences d'exportation ou toutes autres autorisations nécessaires pour l'exportation vers la Suède des dits produits, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'eux, dans la liste „B" annexée au présent Accord.

@@ -1,0 +1,3 @@
+# Artikel 5a.11. Uitzonderingen documentatieplicht bepaalde inrichtingen aquacultuurinrichtingen en vervoerders van bepaalde categorieën waterdieren
+1. Artikel 186, eerste lid, aanhef in samenhang met de onderdelen c, d, en e, van verordening (EU) nr. 2016/429 is niet van toepassing op aquacultuurinrichtingen die voldoen aan artikel 4, eerste lid, onderdelen a en b, van verordening (EU) nr. 2021/2037.
+2. Artikel 188, eerste lid, van verordening (EU) nr. 2016/429 is niet van toepassing op vervoerders van de in artikel 4, tweede lid, van de verordening (EU) nr. 2021/2037 genoemde categorieën waterdieren als aan de in dat lid genoemde voorwaarden is voldaan.

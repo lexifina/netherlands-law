@@ -1,0 +1,44 @@
+# Artikel III. Besluit subsidies energieprogramma's
+De volgende regelingen worden ingetrokken:
+a. Uitvoeringsregeling BSE-Demos;
+b. Uitvoeringsregeling BSE-duurzame energie;
+c. Uitvoeringsregeling BSE-gebouwde omgeving en ruimtelijke aspecten;
+d. Uitvoeringsregeling BSE-NECST;
+e. Uitvoeringsregeling BSE 1998-I;
+f. Uitvoeringsregeling BSE 1998-II;
+g. Uitvoeringsregeling BSE 1998-III;
+h. Uitvoeringsregeling BSE 1999-I;
+i. Uitvoeringsregeling BSE 1999-II;
+j. Uitvoeringsregeling BSE 1999-III;
+k. Uitvoeringsregeling BSE 1999-IV;
+l. Uitvoeringsregeling BSE 1999-V;
+m. Uitvoeringsregeling BSE 2000-I;
+n. Uitvoeringsregeling BSE 2000-IA;
+o. Uitvoeringsregeling BSE 2000-II;
+p. Uitvoeringsregeling BSE 2000-IIA;
+q. Uitvoeringsregeling BSE 2000-III;
+r. Uitvoeringsregeling BSE 2000-IIIA;
+s. Uitvoeringsregeling BSE 2001-I;
+t. Uitvoeringsregeling BSE 2001-II;
+u. Uitvoeringsregeling BSE 2002-CRUST;
+v. Uitvoeringsregeling BSE-2002 duurzame energie;
+w. Uitvoeringsregeling BSE-2002 programma energiebesparing door innovatie;
+x. Uitvoeringsregeling BSE-2003 duurzame energie;
+y. Uitvoeringsregeling BSE-2003 programma energiebesparing door innovatie;
+z. Uitvoeringsregeling BSE-2004 duurzame energie;
+aa. Uitvoeringsregeling BSE-2004 programma energiebesparing door innovatie;
+bb. Uitvoeringsregeling energieprogramma's;
+cc. Regeling van de Minister van Economische Zaken van 4 april 1995, nr. WJA/JZ 95024380, houdende vaststelling van enige energieprogramma's, de daarvoor beschikbare bedragen en de periodes in 1995 waarin aanvragen om subsidie met betrekking tot die programma's kunnen worden ingediend (Stcrt. 69);
+dd. Regeling van de Minister van Economische Zaken van 3 mei 1995, nr. WJA/JZ 95030145, houdende vaststelling enige energieprogramma's (tweede tranche) 1995 (Stcrt. 87);
+ee. Regeling van de Minister van Economische Zaken van 3 juli 1995, nr. WJA/JZ 95039936, houdende vaststelling energieprogramma's (derde tranche) (Stcrt. 126);
+ff. Regeling van de Minister van Economische Zaken van 14 december 1995, nr. WJA/JZ 95079714, houdende vaststelling energieprogramma's en beschikbare bedragen (Stcrt. 247);
+gg. Regeling van de Minister van Economische Zaken van 22 april 1996, nr. WJA/JZ96023832, houdende vaststelling van enige energieprogramma's, de daarvoor beschikbare bedragen en de periodes in 1996 waarin aanvragen om subsidie met betrekking tot die programma's kunnen worden ingediend (eerste tranche) (Stcrt. 79);
+hh. Regeling van de Minister van Economische Zaken van 3 juni 1996, nr. WJA/JZ 96031826, houdende vaststelling enige energieprogramma's (tweede tranche) 1996 (Stcrt. 105);
+ii. Regeling van de Minister van Economische Zaken van 14 augustus 1996, nr. 96048564, houdende vaststelling van enige energieprogramma's, de daarvoor beschikbare bedragen en de periodes in 1996 waarin aanvragen om subsidie met betrekking tot die programma's kunnen worden ingediend (derde tranche) (Stcrt. 156);
+jj. Regeling van de Minister van Economische Zaken van 17 oktober 1996, nr. WJA/JZ 96063339, houdende wijziging vaststelling energieprogramma's (tweede tranche) (Stcrt. 202);
+kk. Regeling van de Minister van Economische Zaken van 18 december 1996, nr. WJA/JZ 96077533, houdende wijziging enige energieprogramma's en vaststelling energieprogramma (Stcrt. 246);
+ll. Regeling van de Minister van Economische Zaken van 13 maart 1997, nr. 97010306, houdende vaststelling energieprogramma's (eerste tranche) (Stcrt. 52);
+mm. Regeling van de Minister van Economische Zaken van 3 juli 1997, nr. WJA/JZ 97039454, houdende vaststelling energieprogramma's en beschikbare bedragen 1997 (tweede tranche) (Stcrt. 126);
+nn. Regeling van de Minister van Economische Zaken van 11 december 1997, nr. WJA/JZ 97075680, houdende wijziging van een energieprogramma, wijziging van voor reeds eerder vastgestelde energieprogramma's beschikbare bedragen alsmede wijzigingen van de periodes in 1997 dat aanvragen om subsidies voor die energieprogramma's kunnen worden ingediend (Stcrt. 242);
+oo. Regeling van de Minister van Economische Zaken van 11 juni 2001, nr. WJZ 01026365, houdende delegatie bevoegdheid besluiten te nemen o.g.v. Uitvoeringsregeling BSE-duurzame energie en Uitvoeringsregeling BSE-Demos (Stcrt. 125);
+pp. Regeling van de Minister van Economische Zaken van 20 november 2003, nr. WJZ 3062795, houdende wijziging van de BSE-formulieren in verband met gewijzigde interpretatie van het Milieusteunkader (Stcrt. 226).

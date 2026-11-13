@@ -1,0 +1,3 @@
+# Artikel 147ii
+1. Indien de bewaarder van een Nederlandse beleggingsinstelling aansprakelijkheid geheel of gedeeltelijk uitsluit als bedoeld in artikel 4:62q, eerste lid, van de wet, wordt door de bewaarder voldaan aan artikel 21, dertiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
+2. Indien financiële instrumenten als bedoeld in artikel 1:1 van de wet in bewaring worden genomen in een staat die geen lidstaat is als bedoeld in artikel 4:62q, tweede lid, van de wet, is de bewaarder niet aansprakelijk voor verlies van de financiële instrumenten, indien wordt voldaan aan de in artikel 21, veertiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen, gestelde voorwaarden.

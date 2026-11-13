@@ -1,0 +1,3 @@
+# E. Maritieme corruptie
+1.9bis. Norm. De Verdragsluitende Regeringen moedigen het openbaar gezag aan de risico's van corruptie die gepaard gaan met de schip-wal-interface in havens te beoordelen en aan te pakken door preventieve maatregelen ter versterking van integriteit, transparantie en verantwoording te ontwikkelen en toe te passen. Het openbaar gezag coördineert ook inspanningen om via nationale en internationale samenwerking corruptie in verband met het aanlopen van schepen in de haven op te sporen, te onderzoeken en te bestraffen.
+1.10. Norm. Wanneer het openbaar gezag, reders en andere betrokken partijen in het kader van samenwerkingsregelingen toegang krijgen tot gevoelige commerciële en andere informatie, wordt deze informatie vertrouwelijk behandeld.

@@ -1,0 +1,2 @@
+# Artikel III
+Artikel I, onderdeel D en E, treden in werking op een bij koninklijk besluit te bepalen tijdstip. De overige onderdelen van artikel I en de artikelen II en IIa treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met dien verstande dat artikel II, alsmede de onderdelen A, C, F en G van artikel I terugwerken tot en met 1 januari 2005 en onderdeel B van dat artikel tot 1 januari 2006.

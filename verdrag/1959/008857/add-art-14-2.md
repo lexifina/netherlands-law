@@ -1,0 +1,2 @@
+# Artikel XIV. Territoriale toepassing
+De Lid-Staten van de Commissie dienen op het ogenblik waarop zij deze Overeenkomst aanvaarden, uitdrukkelijk aan te geven voor welke gebiedsdelen deze aanvaarding van kracht is. Indien een zodanige verklaring achterwege wordt gelaten, worden zij geacht de Overeenkomst te hebben aanvaard voor alle gebieden waarvan de internationale betrekkingen door de desbetreffende Lid-Staat worden behartigd. Behoudens de bepalingen van lid 2 van Artikel XVI, kan de territoriale toepassing worden gewijzigd bij een latere verklaring.

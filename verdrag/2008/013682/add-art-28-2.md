@@ -1,0 +1,2 @@
+# Artikel XXVIII. Doorvoer van personeel, apparatuur en eigendommen
+Deelnemende staten dienen, op verzoek van hetzij de verzoekende staat hetzij de zendstaat, alle maatregelen te treffen die nodig zijn om de doorvoer over zijn grondgebied van officieel aangekondigde personeelsleden, uitrusting en eigendommen die bij de verlening van bijstand betrokken zijn, naar en van de verzoekende staat te vergemakkelijken.

@@ -1,0 +1,2 @@
+# XIV. Ad Artikel 27, vijfde lid, en Artikelen 28 en 29
+Met betrekking tot de bepalingen inzake arbitrage, uitwisseling van inlichtingen en bijstand bij invordering kunnen de bevoegde autoriteiten van de Verdragsluitende Staten in onderling overłeg regels opstellen met betrekking tot zaken de procedure betreffende, formulieren voor de aanvraag en beantwoording daarvan, de afdracht van ingevorderde bedragen, minimale invorderingsbedragen en aanverwante zaken.

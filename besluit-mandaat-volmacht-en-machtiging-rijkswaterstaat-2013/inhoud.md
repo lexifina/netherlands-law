@@ -1,2 +1,0 @@
-# Inhoud
-## Voorbehouden en beperkingen

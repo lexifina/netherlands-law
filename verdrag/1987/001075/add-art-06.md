@@ -1,0 +1,4 @@
+# Article VI. Principles Governing Operation of Agreed Services
+1. There shall be a fair and equal opportunity for the designated airlines of each Contracting Party to operate on the specified air routes between their respective territories.
+2. The air transportation performed by the designated airlines of either Contracting Party shall retain as its primary objective the provision, at a reasonable load factor, of capacity adequate to the current and reasonably anticipated traffic demands between the territory of the Contracting Party designating the airlines and the countries of ultimate destination of the traffic.
+3. In the operation of the agreed services of either Contracting Party the combined capacity provided by the designated airlines of both Contracting Parties shall be maintained in reasonable relationship to the requirements of the public for air transportation.

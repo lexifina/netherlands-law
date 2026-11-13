@@ -1,0 +1,3 @@
+# Artikel 30i. Wijzigingen met betrekking tot de vergunningplicht
+1. Geplande wijzigingen in de aard van de activiteiten van de gereglementeerde entiteit of de brandstoffen die door haar tot verbruik worden uitgeslagen, waarvoor een aanpassing van de inhoud van de vergunning nodig is, meldt de gereglementeerde entiteit zo spoedig mogelijk, doch niet later dan zes weken nadat de geplande wijziging zich heeft voorgedaan.
+2. Handelingen of omstandigheden, anders dan bedoeld in het eerste lid, van belang voor een goede werking van het systeem van handel in emissierechten, meldt de gereglementeerde entiteit zo spoedig mogelijk.

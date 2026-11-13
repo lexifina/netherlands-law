@@ -1,0 +1,5 @@
+# Artikel VII
+In elk land zal een Commissie worden ingesteld, die tot taak zal hebben de Regering voorstellen te doen die betrekking hebben op de uitvoering van deze Overeenkomst.
+De in Brazilië in te stellen Commissie zal haar zetel hebben in Brasilia en de naam dragen van „Comissão Brasileira". Haar leden zullen worden aangewezen door de Minister van Buitenlandse Betrekkingen, de Minister van Onderwijs en Cultuur gehoord.
+De in Nederland in te stellen Commissie zal haar zetel hebben te 's-Gravenhage en de naam dragen van „Nederlandse Commissie". Haar leden zullen worden aangewezen door de Nederlandse Ministers van Onderwijs en Wetenschappen en van Cultuur, Recreatie en Maatschappelijk Werk gezamenlijk.
+Elke Commissie vergadert steeds wanneer daartoe aanleiding bestaat en ten minste een maal per jaar. De Diplomatieke Vertegenwoordiger van de ene Overeenkomstsluitende Partij kan worden uitgenodigd om deel te nemen aan de beraadslagingen van de Commissie van de andere Overeenkomstsluitende Partij.

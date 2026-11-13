@@ -1,0 +1,2 @@
+# Artikel 5c
+Indien geen administratieve sanctie kan worden opgelegd, omdat degene die ten tijde van de geconstateerde gedraging met of door middel van een motorrijtuig met een kenteken als bedoeld in artikel 4 van het Kentekenreglement was ingeschreven in het kentekenregister immuniteit geniet op grond van het volkenrecht, verstrekt de officier van justitie de gegevens, genoemd in artikel 4, eerste lid, tweede volzin aan Onze Minister van Buitenlandse Zaken ten behoeve van het versturen van een notificatie aan deze kentekenhouder.

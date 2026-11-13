@@ -1,0 +1,2 @@
+# Artikel 54a
+Er is een proef forensisch psychiatrisch toezicht in de fase van proefverlof. De proef is tijdelijk van aard en duurt ten hoogste drie jaar. Onze Minister wijst inrichtingen voor verpleging van ter beschikking gestelden aan waar de proef plaatsvindt. In de proef wordt, onverminderd de betrokkenheid van de reclassering, op de ter beschikking gestelde die met proefverlof is, toezicht gehouden door de inrichting voor verpleging van ter beschikking gestelden.

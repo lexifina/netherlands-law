@@ -1,0 +1,2 @@
+# Artikel 511c
+De officier van justitie kan, zolang het onderzoek op de terechtzitting niet is gesloten, met de verdachte of veroordeelde een schriftelijke schikking aangaan tot betaling van een geldbedrag aan de staat of tot overdracht van voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge artikel 36e van het Wetboek van Strafrecht voor ontneming vatbare wederrechtelijk verkregen voordeel.

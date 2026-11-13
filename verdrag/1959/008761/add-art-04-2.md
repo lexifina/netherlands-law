@@ -1,0 +1,2 @@
+# Artikel IV
+Het verzoek om kosteloze rechtsbijstand moet in Brazilië worden gericht tot de ter zake bevoegde rechter en in Nederland hetzij tot het bureau voor rechtsbijstand in strafzaken, hetzij tot het bureau van consultatie in burgerlijke zaken van de plaats waar de bijstand moet worden verleend, en zal beheerst worden door de ter plaatse geldende wetgeving; de verzoeker zal de voorrechten genieten die deze wetgeving aan de eigen onderdanen toekent.

@@ -1,0 +1,2 @@
+# Art. 5bis
+De bewijsstukken betreffende de wettigheid van het gebruik van zekere in de merken vervatte bestanddeelen, als wapens, wapenschilden, portretten, eervolle onderscheidingen, titels, handelsnamen of namen van personen anders dan dien van den aanvrager, of andere overeenkomstige vermeldingen, welke door de Administraties der verdragsluitende landen mochten worden gevorderd, zullen vrijgesteld zijn van elke andere waarmerking of legalisatie dan die van de Administratie van het land van oorsprong.

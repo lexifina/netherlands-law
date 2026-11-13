@@ -1,0 +1,2 @@
+# Artikel 281f
+Indien te voorzien is dat er meer dan één uitkering aan de schuldeisers zal moeten geschieden, kan de rechtbank bij de homologatie van het akkoord bepalen, dat bij de eerste uitkering aan de schuldeisers een of meer papieren aan toonder zullen worden ter hand gesteld en dat betaling van de volgende uitkeringen uitsluitend door middel van aanbieding van zodanig papier zal kunnen worden gevorderd.

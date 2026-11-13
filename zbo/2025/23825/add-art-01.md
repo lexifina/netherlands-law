@@ -1,0 +1,2 @@
+# Artikel I
+Het subsidieplafond van de Stimuleringsmaatregel Filmproductie in Nederland voor 2025 is € 19,3 miljoen voor filmproducties, verdeeld over 4 aanvraagrondes per jaar (€ 4,8 miljoen per aanvraagronde). Voor de tweede, derde en vierde aanvraagronde is € 1,45 miljoen per ronde extra beschikbaar door de toevoeging van resterende subsidiemiddelen uit de vorige beleidsperiode. Per aanvraagronde worden als eerste alle internationale coproducties gehonoreerd tot maximaal 70% van het budget.

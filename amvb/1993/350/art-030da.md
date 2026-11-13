@@ -1,0 +1,10 @@
+# Artikel 30da. Tijdelijke verlenging van de arbeidsduur
+1. De ambtenaar kan bij de commandant eenmaal per kalenderjaar een aanvraag indienen om zijn arbeidsduur gedurende het resterende deel van dat kalenderjaar met 2 uren per week te verlengen wanneer het rooster van de ambtenaar gedurende het resterende deel van dat kalenderjaar zal zijn gebaseerd op een arbeidsduur van gemiddeld 38 uur per week. Voor de ambtenaar die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week wordt de ingevolge de vorige volzin geldende aanspraak vastgesteld op een evenredig deel van de aanspraak bij een arbeidsduur van gemiddeld 38 uur per week.
+2. De commandant wijst een aanvraag als bedoeld in het eerste lid toe, tenzij het dienstbelang zich daartegen verzet. In ieder geval wordt de aanvraag afgewezen indien de tijdelijke verlenging van de arbeidsduur geen effect heeft op de formatie, onder door Onze Minister bij ministeriële regeling nader vast te stellen voorwaarden.
+3. Een toegestane verlenging van de arbeidsduur gaat in op de eerste dag van de maand, volgend op de maand waarin de verlenging is toegestaan.
+4. Een toegestane verlenging van de arbeidsduur wordt jaarlijks stilzwijgend voortgezet tenzij:
+a. de ambtenaar een aanvraag indient om de tijdelijke verlenging van de arbeidsduur te beëindigen; of
+b. de ambtenaar een aanvraag indient als bedoeld in artikel 30db, eerste lid; of
+c. de commandant de verlenging van de arbeidsduur beëindigt omdat hij van oordeel is dat het dienstbelang zich tegen een voortgezette verlenging daarvan verzet.
+5. Indien de ambtenaar in een andere functie wordt tewerkgesteld vervalt met ingang van de datum van tewerkstelling de verlenging van de arbeidsduur. In dat geval kan de ambtenaar bij zijn nieuwe commandant een aanvraag als bedoeld in het eerste lid indienen.
+6. Voor het deel dat de arbeidsduur wordt verlengd ontvangt de ambtenaar een maandelijkse toeslag. Deze toeslag bedraagt acht maal het voor de betrokken ambtenaar geldende salaris per uur, of een evenredig deel daarvan voor de ambtenaar die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week.

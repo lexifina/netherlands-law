@@ -1,0 +1,59 @@
+# Tekst
+De Staatssecretaris van Financiën,
+Gelet op artikel 4.81 van de Algemene wet bestuursrecht, artikel 24, tweede lid van de Wet op de omzetbelasting 1968 en artikel 23a van de Uitvoeringsbeschikking omzetbelasting 1968;
+Besluit:
+## 1 Inleiding
+Dit besluit behandelt het beleid op het gebied van de heffing van btw bij de uitvoer van reizigersbagage. In het besluit is opgenomen onder welke voorwaarden de leverancier het nultarief voor deze reizigersbagage kan toepassen. Ook wordt de handelwijze bij toepassing door de leverancier van de teruggaafprocedure toegelicht.
+Dit besluit vervangt het besluit van 13 juli 2021, nr. 2021-7204 (Stcrt. 2021, 36025). De wijzigingen betreffen:
+− Wijzigingen naar aanleiding van de wetswijziging van artikel 23a, derde lid van de Uitvoeringsbeschikking omzetbelasting 1968. De aanleiding voor deze wijziging is de verdere digitalisering van het validatiesysteem voor in Nederland aangekochte goederen die vanuit Nederland worden uitgevoerd als reizigersbagage. Als gevolg hiervan zal fysieke validatie bij de uitvoer van die goederen slechts nog in uitzonderlijke situaties plaatsvinden.
+− Wijzigingen naar aanleiding van de impact van voorgenoemde wetswijziging op de praktische vormgeving van de regeling. Dit betreft de introductie van de mobiele applicatie voor de uitvoervalidatie. Hiermee is het praktisch belang van het voorheen in onderdeel 2.2 opgenomen chequesysteem grotendeels komen te vervallen.
+− Enkele redactionele wijzigingen.
+## 1.1 Gebruikte begrippen en afkortingen
+btw | omzetbelasting
+btw-richtlijn | Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde
+EU | Europese Unie
+HvJ | Hof van Justitie van de Europese Unie
+nultarief | btw-nultarief zoals bedoeld in artikel 23a van de Uitvoeringsbeschikking omzetbelasting 1968
+reiziger | reiziger die zijn woonplaats of gebruikelijke verblijfplaats in een land heeft dat niet tot de EU behoort
+uitvoeringsbeschikking | Uitvoeringsbeschikking omzetbelasting 1968
+visum | iedere vorm van autorisatie door de bevoegde autoriteit, bijvoorbeeld een (digitale) stempel op de (kopie)factuur of het bescheid
+wet | Wet op de omzetbelasting 1968
+## 2 Uitvoer van goederen als reizigersbagage
+In het internationale reizigersverkeer kan het nultarief worden toegepast op de levering van goederen aan particulieren die hun woonplaats of gebruikelijke verblijfplaats hebben in een land dat niet tot de EU behoort. Deze regeling is vastgesteld in artikel 24, tweede lid, van de wet en artikel 23a van de uitvoeringsbeschikking. Deze artikelen zijn gebaseerd op artikel 147 van de btw-richtlijn.
+Voor toepassing van het nultarief in deze gevallen gelden de volgende voorwaarden:
+– de particulier moet de goederen uiterlijk vóór het einde van de derde maand na de maand van aankoop in zijn of haar persoonlijke bagage meenemen naar een bestemming buiten de EU;
+– de totale waarde van de op een factuur vermelde goederen moet tenminste € 50 (inclusief btw) bedragen; en
+– de woonplaats of gebruikelijke verblijfplaats van de particulier moet aan de hand van een legitimatiebewijs worden aangetoond.
+De regeling is ook van toepassing op de levering van goederen aan particulieren die hun woonplaats of gebruikelijke verblijfplaats in de EU hebben en aantonen dat zij zich vóór het einde van de derde maand na de maand van de aankoop van de goederen buiten de EU vestigen.
+## 2.1 Aantonen aanspraak toepassing nultarief
+Om aanspraak te kunnen maken op de toepassing van het nultarief, moet de leverancier aan de hand van boeken en bescheiden aantonen dat aan de voorwaarden wordt voldaan. De boeken en bescheiden waarmee de leverancier de toepassing van het nultarief aan kan tonen, hangen op basis van artikel 23a, derde lid, van de uitvoeringsbeschikking af van de lidstaat van waaruit de reiziger de EU verlaat met de betreffende in Nederland gekochte goederen in zijn persoonlijke bagage:
+– Als de reiziger de EU verlaat vanuit Nederland, toont de leverancier de toepassing van het nultarief aan met een digitaal aangeleverd document dat is voorzien van een visum door een geautomatiseerd systeem van of vanwege de bevoegde autoriteiten (digitale stempel).
+– Als de reiziger de EU verlaat vanuit een lidstaat anders dan Nederland, toont de leverancier toepassing van het nultarief aan door een (kopie)factuur op naam van de koper of een daarmee gelijk te stellen origineel bescheid dat is voorzien van een visum door een geautomatiseerd systeem van of vanwege de bevoegde autoriteiten of een daartoe bevoegde ambtenaar (digitale of fysieke stempel).
+De leverancier kan de uitvoer ook aantonen aan de hand van een door bemiddeling van de koper verkregen bewijsstuk waaruit blijkt dat de geleverde goederen in een land buiten de EU definitief zijn ingevoerd, zoals een afschrift van een in een dergelijk land gedane definitieve aangifte ten invoer.
+In plaats van de verkoopfactuur kan ook een daarmee gelijk te stellen origineel bescheid dienen als hierop dezelfde gegevens zijn vermeld als op een factuur en de aard en de hoeveelheid van de goederen duidelijk is vermeld. De hier bedoelde bescheiden dienen uiterlijk te worden uitgereikt op het moment van levering.
+Als op één bescheid meerdere leveringen zijn vermeld die elk afzonderlijk niet voldoen aan de voorwaarden voor toepassing van het nultarief, kan het nultarief alleen van toepassing zijn als de op het bescheid vermelde leveringen:
+– door dezelfde ondernemer zijn verricht;
+– op dezelfde dag zijn verricht;
+– gezamenlijk een waarde hebben van tenminste € 50 (inclusief btw); en
+– voldoen aan de overige voorwaarden voor toepassing van het nultarief.
+## 2.2 Wijze van toepassing nultarief
+Op het moment van levering beschikt de leverancier nog niet over de informatie die de uitvoer aantoont. Immers kan de leverancier pas over de in onderdeel 2.1 genoemde bescheiden beschikken wanneer de reiziger de EU met de betreffende goederen verlaat. Op het moment van levering beschikt de leverancier wel over de overige in onderdeel 2 genoemde informatie. Dit zijn de volledige naam, de woonplaats en het nummer van het legitimatiebewijs van de reiziger en informatie over de vergoeding en de aard van de geleverde goederen (bij voorkeur aan de hand van de classificatiecode).
+Als de reiziger de EU (naar verwachting) vanuit Nederland verlaat, dient de leverancier deze informatie in een daartoe ingerichte digitale omgeving in te voeren. Leveranciers maken vaak gebruik van intermediairs die een dergelijke digitale omgeving ter beschikking stellen en het verzamelen en opslaan van de informatie faciliteren. Als de reiziger de EU niet vanuit Nederland verlaat of op voorhand niet zeker weet of hij de EU vanuit Nederland of een andere lidstaat gaat verlaten, vermeldt de leverancier de informatie op een fysiek uitgereikte (kopie)factuur of daarmee gelijk te stellen bescheid.
+Omdat de leverancier op het moment van leveren nog niet aan de voorwaarden voldoet om het nultarief toe te passen, moet hij op dat moment eerst btw in rekening brengen. Pas wanneer de leverancier van de reiziger alle bescheiden heeft ontvangen die noodzakelijk zijn voor het toepassen van het nultarief, vraagt hij de btw terug via een (suppletie)aangifte en geeft hij het btw-bedrag terug aan de reiziger. De terugbetaling van de btw aan de reiziger door de leverancier is een civielrechtelijke aangelegenheid tussen de reiziger en de leverancier.
+Op het moment dat de leverancier de btw terugvraagt van de Belastingdienst moet zijn voldaan aan de hiervoor beschreven voorwaarden voor de toepassing van het nultarief. Daarbij maakt het geen verschil of de bescheiden door de reiziger zelf of door een faciliterend bedrijf aan de leverancier worden aangeleverd. De vereiste bescheiden kunnen ook worden gearchiveerd bij een faciliterend bedrijf onder de voorwaarde dat zij direct beschikbaar zijn en toegankelijk blijven voor controle bij de leverancier door de Belastingdienst.
+## 3 Ingetrokken regeling
+Het volgende besluit is ingetrokken op de datum van inwerkingtreding van dit besluit:
+– Het besluit van 13 juli 2021, nr. 2021-7204 (Stcrt. 2021, 36025).
+## 4 Inwerkingtreding
+Dit besluit treedt in werking op 1 januari 2026.
+## 5 Citeertitel
+Dit besluit wordt aangehaald als: Besluit uitvoer reizigersbagage omzetbelasting.
+## 6 Publicatie en ondertekening
+Dit besluit zal in de Staatscourant worden geplaatst.
+Den Haag
+24 november 2025
+De Staatssecretaris van Financiën,
+namens deze,
+H.G.
+Roodbeen
+Hoofddirecteur Fiscale en Juridische Zaken

@@ -1,0 +1,4 @@
+# Artikel IV
+1. De Regering van de Verenigde Staten van Amerika zal de in deze Overeenkomst bedoelde samenwerking ten uitvoer leggen overeenkomstig de op dit gebied geldende Amerikaanse wetten.
+2. Krachtens deze Overeenkomst zal de Regering van de Verenigde Staten van Amerika geen atoomwapens, niet-nucleaire delen van atoomwapens of niet-nucleaire delen van atoomwapensystemen overdragen, wanneer hiermede gegevens gemoeid zijn, die als geheim zijn gerubriceerd.
+3. De door de Regering van de Verenigde Staten van Amerika ingevolge deze Overeenkomst verstrekte atoomgegevens dienen uitsluitend te worden gebruikt ter voorbereiding of tenuitvoerlegging van verdedigingsplannen en -activiteiten van de Noordatlantische Verdragsorganisatie, alsmede voor de ontwikkeling van overbrengingsmiddelen in het gemeenschappelijke belang van de Noordatlantische Verdragsorganisatie.

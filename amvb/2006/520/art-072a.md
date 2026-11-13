@@ -1,0 +1,2 @@
+# Artikel 72a
+Indien een financiëledienstverlener een cliënt voorafgaand aan het advies heeft medegedeeld dat hij een periodieke beoordeling ontvangt van de geschiktheid van de verzekering met een beleggingscomponent die de financiëledienstverlener heeft geadviseerd, wordt door de financiëledienstverlener een bijgewerkte geschiktheidsverklaring verstrekt als bedoeld in artikel 4:23, vierde lid, van de wet.

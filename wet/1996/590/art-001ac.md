@@ -1,0 +1,9 @@
+# Artikel 1ac
+1. De Sectorcommissie rechterlijke macht bestaat uit vertegenwoordigers van:
+a. de Nederlandse Vereniging voor Rechtspraak;
+b. andere door Onze Minister tot het overleg toegelaten verenigingen of centrales van verenigingen van ambtenaren, die onder meer gelet op het aantal rechterlijke ambtenaren dat zij vertegenwoordigen, eveneens als representatief kunnen worden aangemerkt en tegen wier toelating het algemeen belang zich niet verzet.
+2. Bij algemene maatregel van bestuur worden regels gesteld over:
+a. de wijze waarop met de Sectorcommissie rechterlijke macht overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van de rechterlijke ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;
+b. het inwinnen van advies van een commissie over een geschil en het onderwerpen van een geschil aan een arbitrale uitspraak van een commissie door de deelnemers aan het in onderdeel a bedoelde overleg, waaronder in elk geval regels over de procedure voorafgaand aan het voorleggen van een geschil aan de commissie en over de samenstelling en de werkwijze van de commissie.
+3. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de samenstelling, de werkwijze, de besluitvorming, de stemverhouding daaronder begrepen, de onderwerpen waarover de Sectorcommissie Onze Minister dient in te lichten, de intrekking en schorsing van de toelating van verenigingen of centrales van verenigingen tot de Sectorcommissie en de schorsing van vertegenwoordigers in de Sectorcommissie.
+4. Voor zover de in het tweede lid, onderdeel a, bedoelde gevallen aangelegenheden betreffen waaraan individuele rechterlijke ambtenaren rechten kunnen ontlenen dan wel die plichten voor hen kunnen meebrengen, strekt de eis van overeenstemming met de Sectorcommissie rechterlijke macht zich tevens uit tot onderwerpen geregeld in deze wet.

@@ -1,0 +1,2 @@
+# Artikel XXXIII. Wet van 23 december 2015 houdende wijziging van de Participatiewet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen en de Wet financiering sociale verzekeringen in verband met harmonisatie van instrumenten ter bevordering van arbeidsdeelname van arbeidsbeperkten (Stb. 2015, 547)
+[Wijzigt de Wijzigingswet Participatiewet, enz. (harmonisatie instrumenten ter bevordering van arbeidsdeelname van arbeidsbeperkten)(Stb. 2015/547).]

@@ -1,0 +1,2 @@
+# Artikel 54j. Gelijkstelling met de zondag
+Voor de toepassing van de bepalingen in dit hoofdstuk ten aanzien van de zondag, vindt voor de militair, die in verband met zijn godsdienstige of levensbeschouwelijke opvatting, de wekelijkse rustdag op een andere dag dan de zondag viert, overeenkomstige toepassing ten aanzien van die dag in plaats van ten aanzien van de zondag, indien die militair dit schriftelijk verzoekt.

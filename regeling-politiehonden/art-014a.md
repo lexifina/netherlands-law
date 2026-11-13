@@ -1,5 +1,0 @@
-# Artikel 14a
-1. Betrokkenen bij de keuring of herkeuring kunnen bij de voorzitter van de rijksgecommitteerden die toezicht houden op de betreffende keuring of herkeuring, een gemotiveerd schriftelijk protest indienen tegen het keurings- of herkeuringsbesluit van de keuringscommissie. Het protest kan tot acht dagen na ontvangst van het keuringsrapport worden ingediend.
-2. Om het protest te beoordelen wijst de voorzitter van de rijksgecommitteerden die het protest ontvangt drie rijksgecommitteerden aan die niet betrokken zijn geweest bij de desbetreffende keuring of herkeuring.
-3. De aangewezen rijksgecommitteerden onderzoeken de gronden van het protest en beslissen binnen drie maanden schriftelijk over het protest.
-4. De aangewezen rijksgecommitteerden kunnen het besluit van de keuringscommissie bekrachtigen of vernietigen. Bij vernietiging kunnen zij in de plaats van de keuringscommissie een nieuw besluit nemen of bepalen dat er een nieuwe keuring of herkeuring zal plaatsvinden. De rijksgecommitteerden nemen hierbij de keuringsreglementen in acht.

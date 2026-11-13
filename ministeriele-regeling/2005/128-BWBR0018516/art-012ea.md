@@ -1,0 +1,5 @@
+# Artikel 12ea
+1. De uitkering aan de gemeente Leeuwarden kan worden verhoogd met € 300.000,– ten laste van de middelen die vanuit hoofdstuk XVIII van de Rijksbegroting voor de jaren 2008 en 2009 ter beschikking worden gesteld ten behoeve van de uitvoering door het Nicis Institute van het tweejarige programma 'Aanval op de Uitval II' van de G27, ten behoeve van activiteiten in de G31, gericht op het opleiden en coachen van gemeenten in de complexiteit van de stedelijke regie.
+2. Binnen vier weken na inwerkingtreding van deze regeling dient het college van burgemeester en wethouders van de gemeente Leeuwarden, namens het dagelijks bestuur van de G27, bij de minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. Een aanvraag die is ingediend voor de inwerkingtreding van dit artikel worden aangemerkt als aanvraag als bedoeld in dit artikel.
+3. De minister neemt een beschikking over verlening van de verhoging, bedoeld in het eerste lid, binnen vier weken na de inwerkingtreding van dit artikel.
+4. Aan de verlening van de verhoging, bedoeld in het eerste lid, kunnen door de minister voorwaarden worden verbonden.

@@ -1,0 +1,3 @@
+# Artikel 1a
+1. Voor de toepassing van het bij of krachtens de wet bepaalde wordt onder dienstbetrekking als bedoeld in artikel 2, eerste lid, van de wet mede verstaan de arbeidsverhouding van degene die, anders dan krachtens een overeenkomst van opdracht als bedoeld in artikel 400 van Boek 7 van het Burgerlijk Wetboek, arbeid tegen beloning verricht, tenzij deze arbeid wordt verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep.
+2. In het geval, bedoeld in het eerste lid, wordt onder werkgever verstaan de wederpartij met wie de overeenkomst, die ten grondslag ligt aan de arbeidsverhouding, is aangegaan.

@@ -1,0 +1,2 @@
+# Article XII
+All stations, installations, equipment and space vehicles on the moon and other celestial bodies shall be open to representatives of other States Parties to the Treaty on a basis of reciprocity. Such representatives shall give reasonable advance notice of a projected visit, in order that appropriate consultations may be held and that maximum precautions may be taken to assure safety and to avoid interference with normal operations in the facility to be visited.

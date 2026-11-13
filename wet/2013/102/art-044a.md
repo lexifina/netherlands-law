@@ -1,0 +1,2 @@
+# Artikel 44a
+Op overtredingen van het bij of krachtens de Wet handhaving consumentenbescherming bepaalde, waarvoor op grond van de Wet handhaving consumentenbescherming zoals die luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 30 van deze wet, een bestuurlijke boete kon worden opgelegd, en die zijn begaan en beëindigd voor het tijdstip van inwerkingtreding van artikel 30 van deze wet, blijft de Wet handhaving consumentenbescherming van toepassing zoals die luidde onmiddellijk voor het genoemde tijdstip.

@@ -1,0 +1,97 @@
+# Wet structuur uitvoeringsorganisatie werk en inkomen
+
+SUWI · 63 versions, from 2002-04-01 (latest in force: 2026-07-01) · <https://wetten.overheid.nl/BWBR0013060>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 21 | 2026-07-01 |
+| Art. 2 | [art-002.md](art-002.md) | 2 | 2020-01-01 |
+| Art. 3 | [art-003.md](art-003.md) | 2 | 2020-01-01 |
+| Art. 4 | [art-004.md](art-004.md) | 2 | 2014-01-01 |
+| Art. 5 | [art-005.md](art-005.md) | 1 | 2009-01-01 |
+| Art. 6 | [art-006.md](art-006.md) | 1 | 2009-01-01 |
+| Art. 7 | [art-007.md](art-007.md) | 2 | 2009-01-01 |
+| Art. 8 | [art-008.md](art-008.md) | 2 | 2012-07-01 |
+| Art. 9 | [art-009.md](art-009.md) | 6 | 2015-01-01 |
+| Art. 10 | [art-010.md](art-010.md) | 4 | 2015-01-01 |
+| Art. 10a | [art-010a.md](art-010a.md) | 2 | 2026-01-01 |
+| Art. 11 | [art-011.md](art-011.md) | 1 | 2009-01-01 |
+| Art. 12 | [art-012.md](art-012.md) | 2 | 2009-01-01 |
+| Art. 30 | [art-030.md](art-030.md) | 16 | 2020-01-01 |
+| Art. 30a | [art-030a.md](art-030a.md) | 18 | 2021-01-01 |
+| Art. 30b | [art-030b.md](art-030b.md) | 7 | 2018-01-01 |
+| Art. 30c | [art-030c.md](art-030c.md) | 8 | 2015-01-01 |
+| Art. 30d | [art-030d.md](art-030d.md) | 2 | 2015-01-01 |
+| Art. 31 | [art-031.md](art-031.md) | 2 | 2009-01-01 |
+| Art. 31a | [art-031a.md](art-031a.md) | 1 | 2009-01-01 |
+| Art. 32 | [art-032.md](art-032.md) | 7 | 2017-01-01 |
+| Art. 32a | [art-032a.md](art-032a.md) | 2 | 2012-01-01 |
+| Art. 32b | [art-032b.md](art-032b.md) | 3 | 2015-01-01 |
+| Art. 32c | [art-032c.md](art-032c.md) | 7 | 2026-01-01 |
+| Art. 32d | [art-032d.md](art-032d.md) | 1 | 2009-01-01 |
+| Art. 32e | [art-032e.md](art-032e.md) | 3 | 2026-01-01 |
+| Art. 33 | [art-033.md](art-033.md) | 8 | 2020-01-01 |
+| Art. 33a | [art-033a.md](art-033a.md) | 7 | 2018-07-28 |
+| Art. 33b | [art-033b.md](art-033b.md) | 5 | 2014-01-06 |
+| Art. 33c | [art-033c.md](art-033c.md) | 4 | 2018-07-28 |
+| Art. 33d | [art-033d.md](art-033d.md) | 3 | 2013-07-01 |
+| Art. 34 | [art-034.md](art-034.md) | 10 | 2024-01-01 |
+| Art. 34a | [art-034a.md](art-034a.md) | 1 | 2009-01-01 |
+| Art. 35 | [art-035.md](art-035.md) | 7 | 2018-07-28 |
+| Art. 37 | [art-037.md](art-037.md) | 10 | 2022-01-01 |
+| Art. 38 | [art-038.md](art-038.md) | 4 | 2022-01-01 |
+| Art. 39 | [art-039.md](art-039.md) | 3 | 2022-01-01 |
+| Art. 40 | [art-040.md](art-040.md) | 2 | 2022-01-01 |
+| Art. 41 | [art-041.md](art-041.md) | 4 | 2022-01-01 |
+| Art. 42 | [art-042.md](art-042.md) | 9 | 2023-01-01 |
+| Art. 45 | [art-045.md](art-045.md) | 7 | 2015-01-01 |
+| Art. 46 | [art-046.md](art-046.md) | 4 | 2014-01-01 |
+| Art. 47 | [art-047.md](art-047.md) | 2 | 2012-07-01 |
+| Art. 48 | [art-048.md](art-048.md) | 2 | 2012-07-01 |
+| Art. 49 | [art-049.md](art-049.md) | 3 | 2023-01-01 |
+| Art. 51 | [art-051.md](art-051.md) | 4 | 2015-01-01 |
+| Art. 52 | [art-052.md](art-052.md) | 2 | 2014-01-01 |
+| Art. 53 | [art-053.md](art-053.md) | 2 | 2026-07-01 |
+| Art. 54 | [art-054.md](art-054.md) | 25 | 2022-01-01 |
+| Art. 55 | [art-055.md](art-055.md) | 4 | 2009-01-01 |
+| Art. 55a | [art-055a.md](art-055a.md) | 2 | 2009-01-01 |
+| Art. 61 | [art-061.md](art-061.md) | 3 | 2014-01-01 |
+| Art. 62 | [art-062.md](art-062.md) | 14 | 2018-07-28 |
+| Art. 63 | [art-063.md](art-063.md) | 3 | 2026-07-01 |
+| Art. 64 | [art-064.md](art-064.md) | 3 | 2018-07-28 |
+| Art. 65 | [art-065.md](art-065.md) | 3 | 2018-07-28 |
+| Art. 72 | [art-072.md](art-072.md) | 5 | 2015-01-01 |
+| Art. 72a | [art-072a.md](art-072a.md) | 2 | 2021-01-01 |
+| Art. 73 | [art-073.md](art-073.md) | 14 | 2022-01-01 |
+| Art. 73a | [art-073a.md](art-073a.md) | 4 | 2015-01-01 |
+| Art. 74 | [art-074.md](art-074.md) | 2 | 2006-01-01 |
+| Art. 75 | [art-075.md](art-075.md) | 2 | 2018-07-28 |
+| Art. 76 | [art-076.md](art-076.md) | 1 | 2009-01-01 |
+| Art. 77 | [art-077.md](art-077.md) | 8 | 2022-01-01 |
+| Art. 79 | [art-079.md](art-079.md) | 1 | 2009-01-01 |
+| Art. 82 | [art-082.md](art-082.md) | 1 | 2009-01-01 |
+| Art. 82a | [art-082a.md](art-082a.md) | 7 | 2026-01-01 |
+| Art. 83 | [art-083.md](art-083.md) | 1 | 2009-01-01 |
+| Art. 83c | [art-083c.md](art-083c.md) | 6 | 2018-01-01 |
+| Art. 83i | [art-083i.md](art-083i.md) | 5 | 2009-01-01 |
+| Art. 83k | [art-083k.md](art-083k.md) | 3 | 2011-01-01 |
+| Art. 83l | [art-083l.md](art-083l.md) | 2 | 2009-01-01 |
+| Art. 83la | [art-083la.md](art-083la.md) | 1 | 2009-01-01 |
+| Art. 83lb | [art-083lb.md](art-083lb.md) | 1 | 2009-07-08 |
+| Art. 83m | [art-083m.md](art-083m.md) | 1 | 2009-01-01 |
+| Art. 83n | [art-083n.md](art-083n.md) | 1 | 2009-01-01 |
+| Art. 83o | [art-083o.md](art-083o.md) | 1 | 2009-01-01 |
+| Art. 83p | [art-083p.md](art-083p.md) | 2 | 2017-09-01 |
+| Art. 83q | [art-083q.md](art-083q.md) | 1 | 2009-01-01 |
+| Art. 83r | [art-083r.md](art-083r.md) | 1 | 2009-01-01 |
+| Art. 83s | [art-083s.md](art-083s.md) | 1 | 2009-01-01 |
+| Art. 83sa | [art-083sa.md](art-083sa.md) | 1 | 2012-07-01 |
+| Art. 83t | [art-083t.md](art-083t.md) | 1 | 2012-07-01 |
+| Art. 83u | [art-083u.md](art-083u.md) | 1 | 2012-07-01 |
+| Art. 83v | [art-083v.md](art-083v.md) | 1 | 2012-07-01 |
+| Art. 84 | [art-084.md](art-084.md) | 11 | 2016-01-01 |
+| Art. 85 | [art-085.md](art-085.md) | 4 | 2018-11-23 |
+| Art. 86 | [art-086.md](art-086.md) | 2 | 2008-01-01 |
+| Art. 87 | [art-087.md](art-087.md) | 0 |  |
+| Art. 88 | [art-088.md](art-088.md) | 0 |  |
+| Inhoud | [inhoud.md](inhoud.md) | 3 | 2012-07-01 |

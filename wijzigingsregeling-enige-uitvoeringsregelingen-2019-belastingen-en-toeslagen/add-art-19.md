@@ -1,2 +1,0 @@
-# Artikel XIX. (overgangsrecht)
-Aan de verplichting, bedoeld in artikel 47b van de Algemene wet inzake rijksbelastingen, wordt voldaan uiterlijk op het moment waarop de gegevens en inlichtingen, bedoeld in artikel 53, tweede en derde lid, van die wet, door een administratieplichtige als bedoeld in artikel II, eerste lid, van het Besluit van 30 december 2019 tot wijziging van de Algemene douanewet, enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Stb. 2019, 516) aan de inspecteur worden verstrekt.

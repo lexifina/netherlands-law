@@ -1,0 +1,3 @@
+# Artikel IV
+De Overeenkomstsluitende Partijen hechten groot belang aan het onderwijs van hun taal en cultuur in het andere land. Te dien einde zullen zij onder andere hun steun blijven verlenen aan het goed functioneren van de reeds bestaande leerstoelen en lectoraten, zullen zij welwillend de mogelijkheid onderzoeken deze steun te vergroten alsmede de wenselijkheid nieuwe leerstoelen en lectoraten in te stellen.
+De Overeenkomstsluitende Partijen staan welwillend, binnen de grenzen van het mogelijke, tegenover de oprichting en het instellen van culturele instituten in de meest brede zin des woords, op het grondgebied van de andere partij in overeenstemming met de wettelijke regelingen welke in elk land van kracht zijn.

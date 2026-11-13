@@ -1,0 +1,3 @@
+# Artikel 5a
+1. De artikelen 21, 22, 40, 48, 53 en 59b, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, zoals die artikelen luidden op de dag voorafgaande aan die waarop de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen in werking is getreden, blijven van toepassing op de belanghebbende, bedoeld in artikel 5. De artikelen 21a en 21b zijn niet van toepassing op de in artikel 5 bedoelde belanghebbende.
+2. In afwijking van het eerste lid is artikel 21, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, zoals dat artikel luidt na de inwerkingtreding van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen, van toepassing.

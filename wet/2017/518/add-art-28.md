@@ -1,0 +1,2 @@
+# Artikel XXVIII
+Artikel 3.13, eerste lid, onderdeel i, van de Wet inkomstenbelasting 2001, zoals dat op 31 december 2017 luidde, en de op dat artikel gebaseerde bepaling, zoals die op 31 december 2017 luidde, blijven van toepassing op na 31 december 2017 op grond van daarbij aangewezen mobiliteitsprojecten genoten voordelen. De eerste volzin is van overeenkomstige toepassing bij de toepassing van artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969.

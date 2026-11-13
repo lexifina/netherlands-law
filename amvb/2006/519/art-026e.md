@@ -1,0 +1,2 @@
+# Artikel 26e
+Een betaaldienstverlener, met uitzondering van de betaaldienstverlener die uitsluitend betaaldiensten verleent als bedoeld onder 8 van de bijlage bij de richtlijn betaaldiensten, verkrijgt alleen met de uitdrukkelijke toestemming van de betaaldienstgebruiker toegang tot diens persoonsgegevens, om deze gegevens te verwerken en te bewaren voor zover noodzakelijk voor het verlenen van betaaldiensten.

@@ -1,0 +1,6 @@
+# III. Ad artikel 10 van het Verdrag
+a. Indien Chili in een ander verdrag ermee instemt de toepassing van de in Chili verschuldigde aanvullende belasting (Additional Tax) te beperken, plegen de verdragsluitende staten met elkaar overleg met het oog op wijziging van het Verdrag, teneinde het evenwicht in de voordelen van het Verdrag te herstellen.
+b. Wanneer
+i. het tarief van de aanvullende belasting (Additional Tax) die krachtens de binnenlandse wetgeving van Chili wordt geheven meer dan 35 percent bedraagt; of
+ii. de belasting van de eerste categorie (First Category Tax) ophoudt volledig verrekenbaar te zijn bij het bepalen van het bedrag van de te betalen aanvullende belasting,
+dan is het vierde lid van artikel 10 van het Verdrag niet van toepassing en mag de belasting die ingevolge artikel 10, tweede lid, onderdelen a en b, van het Verdrag wordt geheven, niet meer bedragen dan 20 percent van het brutobedrag van de dividenden betaald door een lichaam dat inwoner is van een verdragsluitende staat en waarvan een inwoner van de andere verdragsluitende staat de uiteindelijk gerechtigde is. In dit geval plegen de verdragsluitende staten met elkaar overleg met het oog op wijziging van het Verdrag, teneinde het evenwicht van de voordelen van het Verdrag te herstellen.

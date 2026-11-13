@@ -1,2 +1,0 @@
-# Inhoud
-## Besluit beperking openbaarheid

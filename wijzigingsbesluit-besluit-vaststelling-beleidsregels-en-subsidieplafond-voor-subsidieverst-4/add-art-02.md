@@ -1,2 +1,0 @@
-# Artikel II
-[Wijzigt het Besluit vaststelling subsidieplafond voor subsidieverstrekking en wijzigingsbesluit vaststelling beleidsregels en subsidieplafond voor subsidieverstrekking activiteiten MKB-ondernemingen gericht op bevordering van duurzaam internationaal ondernemen (Subsidieplafond 2021 en wijziging Vouchers internationaal ondernemen).]

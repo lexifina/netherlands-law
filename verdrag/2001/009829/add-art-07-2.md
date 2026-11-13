@@ -1,0 +1,2 @@
+# VII. Ad artikel 10
+Niettegenstaande de bepalingen van artikel 10, tweede lid, onderdeel a, van het Verdrag, zal zolang ingevolge de bepalingen van de Nederlandse Wet op de vennootschapsbelasting en de toekomstige wijzigingen daarvan, van een lichaam dat inwoner is van Nederland geen Nederlandse vennootschapsbelasting wordt geheven ter zake van dividenden die dat lichaam ontvangt van een lichaam dat inwoner is van Oezbekistan, het percentage voorzien in dat onderdeel worden verminderd tot nul percent.

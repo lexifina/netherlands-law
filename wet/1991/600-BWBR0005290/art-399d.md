@@ -1,0 +1,3 @@
+# Artikel 399d
+1. De bepalingen betreffende pacht vinden overeenkomstige toepassing op overeenkomsten, waardoor of krachtens welke tegen een vergoeding ineens of in termijnen zakelijke genotsrechten voor 25 jaar of korter, dan wel voor onbepaalde tijd op hoeven of los land worden gevestigd. In geval van zakelijke genotsrechten voor onbepaalde tijd blijft de overeenkomstige toepassing van bepalingen van deze wet beperkt tot 25 jaar na de vestiging.
+2. De bepalingen, die voor het zakelijke genotsrecht gelden, vinden slechts toepassing, voorzover zij niet in strijd zijn met dwingende bepalingen betreffende pacht.

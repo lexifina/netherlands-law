@@ -1,0 +1,3 @@
+# Artikel 17a
+1. Ingeval bij een verzoek als bedoeld in artikel 7:249, 7:253, 7:254, 7:255, 7:257, tweede lid, 7:260 of 7:261, derde lid, van het Burgerlijk Wetboek, blijkt dat de huurovereenkomst meer omvat dan het enkele gebruik van de woonruimte en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, kan de huurcommissie, voordat een uitspraak wordt gegeven, ambtshalve de huurprijs vaststellen op 55% van de overeengekomen prijs en, voor zover nodig, het voorschotbedrag voor de kosten voor nutsvoorzieningen met een individuele meter en servicekosten op 25% van de overeengekomen prijs.
+2. Artikel 17, tweede lid, is van overeenkomstige toepassing.

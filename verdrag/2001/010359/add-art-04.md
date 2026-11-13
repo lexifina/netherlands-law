@@ -1,0 +1,2 @@
+# Article IV
+This Protocol shall enter into force on the date on which both Parties shall have notified each other through diplomatic channels that the legal requirements for its entry into force have been fulfilled. Upon entry into force, Article II shall have effect retroactively from January 1, 2000. The Government of the Netherlands shall apply this Protocol provisionally from the first day of the second month following the date on which the Protocol is signed.

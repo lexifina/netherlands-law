@@ -1,0 +1,5 @@
+# Artikel 213l
+1. In afwijking van artikel 131, tweede lid, worden vorderingen uit hoofde van een verzekering, vervallende na de dag waarop het faillissement is aangevangen, geverifieerd voor de waarde die zij hebben op de dag van de aanvang van het faillissement.
+2. In afwijking van het eerste lid worden vorderingen uit hoofde van een verzekering, vervallende na de dag waarop het faillissement is aangevangen, op grond een overeenkomst waarbij de wederpartij van de verzekeraar zich heeft verbonden tot het betalen van premie in termijnen en de wederpartij op het tijdstip van de faillietverklaring de laatste termijn nog niet heeft voldaan, geverifieerd voor de waarde die zij hebben op de dag van de verificatie.
+3. Een vordering ter zake van de verwezenlijking na de faillietverklaring van een risico dat is verzekerd krachtens een overeenkomst van verzekering wordt geverifieerd voor haar waarde op de dag dat het risico zich verwezenlijkt.
+4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de waardering van activa en passiva in geval van een faillietverklaring op grond van deze afdeling.

@@ -1,0 +1,5 @@
+# Artikel 33b
+1. De beheerder van een beleggingsinstelling maakt gebruik van een passend liquiditeitsbeheersysteem en beschikt over procedures om het liquiditeitsrisico te monitoren en te waarborgen dat het liquiditeitsprofiel van de beleggingen van de beleggingsinstelling in overeenstemming is met de onderliggende verplichtingen.
+2. De beheerder van een beleggingsinstelling waarborgt dat de beleggingsstrategie, het liquiditeitsprofiel en het terugbetalingsbeleid van elke door hem beheerde beleggingsinstelling coherent zijn.
+3. De beheerder voert periodiek onder zowel normale als uitzonderlijke liquiditeitsomstandigheden stresstests uit die hem in staat stellen het liquiditeitsrisico van de beleggingsinstelling te beoordelen en te monitoren.
+4. Dit artikel is niet van toepassing op beheerders van beleggingsinstellingen die geen gebruik maken van hefboomfinanciering en waarbij de deelnemers niet regelmatig het recht tot inkoop of terugbetaling van rechten van deelneming in de beleggingsinstellingen kunnen uitoefenen.

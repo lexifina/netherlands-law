@@ -1,0 +1,3 @@
+# Artikel 3a:1. Plaats en duur openbaarmaking
+1. De gegevens, bedoeld in artikel 15b van de wet, worden door de toezichthouder of de door Onze Minister aangewezen ambtenaren geplaatst op een website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 15b, eerste lid, van de wet.
+2. De gegevens, bedoeld in artikel 15b, eerste lid, van de wet, blijven uiterlijk drie jaar na de datum van bekendmaking van het besluit, bedoeld in artikel 15b, eerste lid, dan wel na verzending van een brief met de mededeling dat er geen overtreding is geconstateerd, beschikbaar op de website.

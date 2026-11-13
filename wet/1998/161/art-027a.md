@@ -1,0 +1,4 @@
+# Artikel 27a
+1. Bij ministeriële regeling kan worden bepaald dat toezending van informatie, die op grond van deze wet moet worden verstrekt aan de centrale commissie, de commissie of de inspectie, elektronisch geschiedt. Daarbij kunnen regels worden gesteld inzake de vorm waarin dit dient te geschieden.
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de rapportages, bedoeld in artikel 10.
+3. Bij ministeriële regeling kunnen ten aanzien van wetenschappelijk onderzoek met geneesmiddelen regels worden gesteld ter uitvoering van richtlijn (EG) 2005/28/EG van de Commissie van de Europese Gemeenschappen van 8 april 2005 tot vaststelling van beginselen en gedetailleerde richtsnoeren inzake goede klinische praktijken wat geneesmiddelen voor onderzoek voor menselijk gebruik betreft en tot vaststelling van de eisen voor vergunningen voor de vervaardiging of invoer van die geneesmiddelen (PbEG 2005, L 91).

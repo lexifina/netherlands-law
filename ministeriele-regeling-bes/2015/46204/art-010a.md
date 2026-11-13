@@ -1,0 +1,5 @@
+# Artikel 10a. Gelijkstelling advies tijdelijke regelingen
+1. Indien een ingezetene op basis van een van de tijdelijke regelingen een tegemoetkoming heeft ontvangen, wordt dit voor de vaststelling van het recht op dubbele kinderbijslag gelijkgesteld aan een positief advies, als bedoeld in artikel 2b, eerste lid.
+2. Indien er sprake is van een gelijkstelling kan de Minister de verdubbeling van het kinderbijslagbedrag BES, bedoeld in artikel 5a, ambtshalve toekennen.
+3. De gelijkstelling vervalt op 1 april 2027, tenzij op basis van de gegevens die zijn verzameld voor de beoordeling van de zorgbehoefte van het kind voor een tegemoetkoming op basis van een van de tijdelijke regelingen vastgesteld wordt dat er geen sprake is van herstelperspectief. In dat geval blijft de gelijkstelling voor de betrokkene van kracht tot het kind de leeftijd van 18 jaar bereikt.
+4. Er is sprake van herstelperspectief wanneer het aannemelijk is dat de zorgbehoefte voor het achttiende jaar in zulke mate kan veranderen dat er geen sprake meer zal zijn van intensieve zorg.

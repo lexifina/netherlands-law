@@ -1,0 +1,8 @@
+# Artikel 14b
+1. Pensioenfondsen kunnen de voorwaardelijke toeslagverlening financieren door:
+a. het creëren van technische voorzieningen;
+b. het creëren van eigen vermogen boven het vereist eigen vermogen ten behoeve van de toeslagverlening;
+c. het putten uit het eigen vermogen boven het vereist eigen vermogen ten behoeve van de toeslagverlening;
+d. het hanteren van een opslag op de premie; of
+e. overrendement.
+2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake het eerste lid.

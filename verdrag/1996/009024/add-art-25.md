@@ -1,0 +1,2 @@
+# Article XXV. Withdrawal
+Any Party may withdraw from this Convention at any time after 12 months from the date on which this Convention entered into force with respect to that Party by giving written notice of withdrawal to the Depositary. The Depositary shall inform the other Parties of the withdrawal within 30 days of receipt of such notice. The withdrawal shall become effective six months after receipt of such notice.

@@ -1,0 +1,2 @@
+# Artikel I
+Het door Logius, onderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, beheerde Nationale Dataportaal wordt aangewezen als centraal informatiepunt bedoeld in artikel 8, eerste lid, van de Verordening (EU) 2022/868 van het Europees Parlement en de Raad van 30 mei 2022 betreffende de Europese datagovernance en tot wijziging van Verordening (EU) 2018/1724 (Datagovernanceverordening).

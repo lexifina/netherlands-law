@@ -1,0 +1,2 @@
+# Artikel 13e
+Wanneer de fokker, leverancier of gebruiker overgaat tot vrijgave ter adoptie van dieren die zijn gebruikt of bestemd waren om te worden gebruikt in een dierproef, past deze een adoptieprocedure toe, die voorziet in de socialisatie van de voor adoptie vrij te geven dieren. Indien het wilde dieren betreft, doorlopen deze, indien nodig een reïntegratieprogramma voordat zij opnieuw in hun habitat worden geplaatst.

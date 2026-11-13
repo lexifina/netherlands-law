@@ -1,0 +1,2 @@
+# Artikel XVI. (Wet van 5 juli 2017 tot wijziging van de Gezondheids- en welzijnswet voor dieren en de Wet dieren in verband met de herziening van het heffingenstelsel ten behoeve van de kosten van de bestrijding en het weren van besmettelijke dierziekten, zoönosen en zoönoseverwekkers (herziening heffingenstelsel Diergezondheidsfonds) (Stb. 2017, 313))
+[Wijzigt de Wijzigingswet Gezondheids- en welzijnswet voor dieren en Wet dieren (herziening heffingenstelsel Diergezondheidsfonds).]

@@ -1,0 +1,2 @@
+# ARTIKEL V
+Onze Minister van Onderwijs, Cultuur en Wetenschappen stelt ten laste van de Rijksbegroting aan de instellingen een bedrag ter beschikking. De hoogte van het bedrag, bedoeld in de vorige volzin, wordt bij algemene maatregel van bestuur vastgesteld. Onze Minister stort het bedrag in het waarborgfonds op het tijdstip dat artikel 2.8.1 van de Wet educatie en beroepsonderwijs in werking treedt.

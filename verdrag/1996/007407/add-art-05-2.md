@@ -1,0 +1,3 @@
+# Artikel V
+1. Wetenschappelijke en technologische informatie waar geen patent op rust en die voortkomt uit de samenwerkingsactiviteiten krachtens dit Verdrag, kan door een van beide Regeringen langs de gebruikelijke weg ter beschikking worden gesteld van het publiek in overeenstemming met de normale procedures van de deelnemende instellingen.
+2. Beide Regeringen geven gepaste aandacht aan de bescherming en de verspreiding van de rechten van de intellectuele eigendom of andere eigendomsrechten die voortkomen uit de samenwerkingsactiviteiten krachtens dit Verdrag en zij plegen hiertoe naar behoefte overleg.

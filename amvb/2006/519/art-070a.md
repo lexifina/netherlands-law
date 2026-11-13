@@ -1,0 +1,2 @@
+# Artikel 70a
+Een verzekeraar met beperkte risico-omvang waarop artikel 308 ter, veertiende lid, van de richtlijn solvabiliteit II van overeenkomstige toepassing is en die op 31 december 2017 niet voldoet of gedurende het jaar 2018 dreigt niet te voldoen aan het solvabiliteitskapitaalvereiste, treft de nodige maatregelen om uiterlijk op 31 december 2022 het in aanmerking komend eigen vermogen ter dekking van het sovabiliteitskapitaalvereiste op peil te brengen of zijn risicoprofiel zodanig te verlagen dat wordt voldaan aan het solvabiliteitskapitaalvereiste.

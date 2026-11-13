@@ -1,0 +1,5 @@
+# Regel 62bis. Vertaling voor de Instantie voor de Internationale Voorlopige Beoordeling van het schriftelijk oordeel van de Instantie voor Internationaal Nieuwheidsonderzoek
+62bis.1. Vertaling en commentaar
+a. Op verzoek van de Instantie voor de Internationale Voorlopige Beoordeling wordt het ingevolge Regel 43bis. 1 opgestelde schriftelijke oordeel, wanneer het niet in de Engelse taal of een andere door die Instantie aanvaarde taal is opgesteld, door of onder de verantwoordelijkheid van het Internationaal Bureau vertaald in het Engels.
+b. Het Internationaal Bureau doet binnen twee maanden na de datum van ontvangst van het verzoek om een vertaling een afschrift van de vertaling toekomen aan de Instantie voor de Internationale Voorlopige Beoordeling en doet tegelijkertijd een afschrift toekomen aan de aanvrager.
+c. De aanvrager kan schriftelijk commentaar leveren inzake de juistheid van de vertaling en een afschrift daarvan zenden aan de Instantie voor de Internationale Voorlopige Beoordeling en aan het Internationaal Bureau.

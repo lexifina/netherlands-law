@@ -1,0 +1,3 @@
+# Artikel II
+1. Deze wet heeft geen gevolgen voor de middelen die openbare lichamen voor 4 juni 2012, 18.00 uur, hebben uitgezet met een looptijd die eindigt na de datum van inwerkingtreding van deze wet. Ten aanzien van deze middelen blijven de regels gelden die van toepassing waren op het moment dat zij werden uitgezet tot het moment waarop de looptijd eindigt of zoveel eerder als zij worden geliquideerd voordat de looptijd eindigt.
+2. Openbare lichamen zetten hun liquide middelen op een zodanige wijze uit dat zij uiterlijk op 31 december 2013 beschikbaar zijn om in de schatkist van het Rijk aangehouden te kunnen worden.

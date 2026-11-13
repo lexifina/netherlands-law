@@ -1,0 +1,4 @@
+# Article XXXIII. Representatives and staff of CDEMA
+Representatives of Participating States attending meetings of the Council, the MCC or the TAC as well as the Executive Director and other staff of CDEMA, shall enjoy in the territory of each Participating State:
+a) immunity from legal process with respect to acts performed by them in the exercise of their functions, except to the extent that the State which they represent or CDEMA as appropriate expressly waives this immunity in any particular case;
+b) where they are not nationals of that Participating State, the same exemptions from immigration restrictions, alien registration requirements and national service obligations, the same facilities as regards exchange restrictions and the same treatment in respect of traveling facilities as are accorded by that Participating State to the representatives, officials and employees of comparable rank of other Participating States.

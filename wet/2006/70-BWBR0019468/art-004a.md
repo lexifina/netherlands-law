@@ -1,0 +1,2 @@
+# Artikel 4a
+De hoofdstukken 3, en 5 tot en met 6 zijn van overeenkomstige toepassing op accountantsorganisaties die controleverklaringen afgeven betreffende de jaarlijkse of geconsolideerde financiële overzichten van een vennootschap die haar statutaire zetel buiten de Europese Unie heeft en waarvan de verhandelbare effecten zijn toegelaten tot de handel op een gereglementeerde markt in een lidstaat.

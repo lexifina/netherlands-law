@@ -1,0 +1,2 @@
+# Artikel 62a. Uitkering tot levensonderhoud
+Bij de beoordeling van het bestaan van het verhaalsrecht, bedoeld in artikel 159a van Boek 1 van het Burgerlijk Wetboek of artikel 62, en de omvang van het te verhalen bedrag wordt rekening gehouden met de maatstaven die gelden en de omstandigheden die van belang zijn in het geval dat de rechter dient te beslissen over de vraag of en, zo ja, tot welk bedrag een uitkering tot levensonderhoud na echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed zou moeten worden toegekend.

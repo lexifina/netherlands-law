@@ -1,0 +1,2 @@
+# Artikel III
+Voor de werknemer die uiterlijk op 31 december 2018 een vergoeding genoot waarop artikel 31a, tweede lid, onderdeel e, van de Wet op de loonbelasting 1964 zoals dat op 31 december 2018 luidde of artikel 39e van de Wet op de loonbelasting 1964 zoals dat op 31 december 2018 luidde van toepassing was, blijft bij de toepassing van artikel 10ec van het Uitvoeringsbesluit loonbelasting 1965 de ingevolge die bepalingen geldende termijn van maximaal acht jaar, onderscheidenlijk maximaal tien jaar, van toepassing tot en met uiterlijk 31 december 2020.

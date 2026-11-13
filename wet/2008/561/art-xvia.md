@@ -1,0 +1,4 @@
+# Artikel XVIa. (Afhandelen oude verzoeken burgerluchthavens)
+1. Op verzoeken voor een aanwijzing voor een burgerluchtvaartterrein op grond van artikel 18 van de Luchtvaartwet of een wijziging daarvan op grond van artikel 27 van die wet die zijn ingediend voor de dag van publicatie in het Staatsblad, blijft het bepaalde bij of krachtens de artikelen 18 tot en met 27 van de Luchtvaartwet alsmede het bepaalde in het Structuurschema burgerluchtvaartterreinen of de Planologische kernbeslissing luchtvaartterreinen Maastricht en Lelystad van toepassing zoals die luiden op de dag voor inwerkingtreding van artikel III, onderdeel C, van deze wet.
+2. Het eerste lid is van overeenkomstige toepassing op een ambtshalve vaststelling van een aanwijzing of een wijziging daarvan.
+3. Bij de vaststelling van het aanwijzingsbesluit of een wijziging daarvan kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar.

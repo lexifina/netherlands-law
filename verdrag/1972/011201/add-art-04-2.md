@@ -1,0 +1,2 @@
+# Artikel IV
+De Overeenkomstsluitende Partijen bevorderen de vertaling en publikatie van literaire en wetenschappelijke werken uit het andere land. Zij bevorderen de uitwisseling van boeken, tijdschriften en andere geschriften van culturele, wetenschappelijke en technologische aard, alsmede van grammofoonplaten en soortgelijke middelen tussen bibliotheken en andere instellingen in de beide landen.

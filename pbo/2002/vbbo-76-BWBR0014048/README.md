@@ -1,0 +1,6 @@
+# Heffingsverordening Hoofdbedrijfschap Detailhandel 2003
+
+Heffingsverordening Hoofdbedrijfschap Detailhandel 2003 · 2 versions, from 2003-01-01 (latest in force: 2019-10-19) · <https://wetten.overheid.nl/BWBR0014048>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

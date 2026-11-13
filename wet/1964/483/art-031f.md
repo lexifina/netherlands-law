@@ -1,0 +1,2 @@
+# Artikel 31f
+Bij regeling van Onze Minister van Veiligheid en Justitie kan worden bepaald dat de houder van een vergunning tot het organiseren van kansspelen op afstand overeenkomstig bij die regeling te stellen regels periodiek een bedrag afdraagt aan een of meer instellingen die een algemeen belang dienen, werkzaam op het gebied van sport en lichamelijke vorming, cultuur, maatschappelijk welzijn of volksgezondheid. Daarbij kan onderscheid worden gemaakt naar de aard van de door die vergunninghouder georganiseerde kansspelen.

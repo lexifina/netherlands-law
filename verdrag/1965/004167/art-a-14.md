@@ -1,0 +1,2 @@
+# A. Borgstellingen en andere vormen van zekerheid
+7.1. Aanbevolen werkwijze. In gevallen waarin het openbaar gezag een borgstelling of andere vormen van zekerheid van de reders verlangt ten aanzien van hun verplichtingen uit hoofde van wetten en voorschriften van een Staat op het gebied van douane, immigratie, volksgezondheid of landbouwquarantaine, zou het het gebruik van een enkele allesomvattende borgstelling of andere vorm van zekerheid waar mogelijk moeten toelaten.

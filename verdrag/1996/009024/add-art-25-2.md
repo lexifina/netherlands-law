@@ -1,0 +1,2 @@
+# Artikel XXV. Opzegging
+Een Partij kan dit Verdrag op elk tijdstip na 12 maanden vanaf de datum waarop dit Verdrag voor die Partij in werking is getreden, opzeggen door middel van een schriftelijke kennisgeving van de opzegging aan de depositaris. De depositaris bericht de andere Partijen over de opzegging binnen 30 dagen na ontvangst van deze kennisgeving. De opzegging treedt in werking zes maanden na ontvangst van deze kennisgeving.

@@ -1,0 +1,2 @@
+# Article XIV. Relations with other organisations
+Subject to the approval of the Assembly the Council shall be authorised to conclude agreements on behalf of the Agency establishing appropriate relations with the United Nations and any other organisations whose work is related to that of the Agency. The provisions of this Statute shall not affect the rights and obligations of any Member deriving from any existing international treaty.

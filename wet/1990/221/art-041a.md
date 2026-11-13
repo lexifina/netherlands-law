@@ -1,0 +1,2 @@
+# Artikel 41a
+Hoofdelijk aansprakelijk is voor de minimumbelasting die over een verslagjaar als bedoeld in artikel 1.2, eerste lid, van de Wet minimumbelasting 2024 is geheven van een groepsentiteit behorend tot een multinationale groep of binnenlandse groep als bedoeld in artikel 1.2, eerste lid, van die wet: elk van de groepsentiteiten die in dat verslagjaar deel uitmaakt of uitmaakte van die multinationale groep of binnenlandse groep.

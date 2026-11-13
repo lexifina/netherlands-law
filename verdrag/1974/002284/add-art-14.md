@@ -1,0 +1,2 @@
+# Artikel XIV
+Inkomsten of winsten verkregen door een luchtvaartmaatschappij, die voor wat betreft de inkomstenbelasting als inwoner van het grondgebied van een Overeenkomstsluitende Partij wordt aangemerkt, uit de exploitatie door haar van een luchtvaartuig in het internationale luchtverkeer, zijn vrijgesteld van enigerlei inkomstenbelasting en van alle andere belastingen op winsten, die door de Regering van de andere Overeenkomstsluitende Partij worden geheven.

@@ -1,2 +1,0 @@
-# Inhoud
-## Overzicht van diagnoses

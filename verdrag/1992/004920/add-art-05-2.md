@@ -1,0 +1,6 @@
+# Artikel V. Aanwijzing van vliegtuigen
+1. Elke Staat-Partij heeft het recht één of meer typen of modellen vliegtuigen die bij de desbetreffende autoriteiten van een Staat-Partij zijn ingeschreven, als observatievliegtuigen aan te wijzen.
+2. Elke Staat-Partij heeft het recht typen of modellen vliegtuigen als observatievliegtuigen aan te wijzen, dan wel nieuwe typen of modellen toe te voegen aan de eerder door hem aangewezen typen of modellen vliegtuigen, mits hij 30 dagen van tevoren alle andere Staten-Partijen daarvan in kennis stelt. De kennisgeving van de aanwijzing van vliegtuigen van een bepaald type of model dient de in Bijlage C bij dit Verdrag genoemde gegevens te bevatten.
+3. Elke Staat-Partij heeft het recht eerder door hem aangewezen typen of modellen vliegtuigen te schrappen, mits hij 90 dagen van tevoren alle andere Staten-Partijen daarvan in kennis stelt.
+4. Er behoeft slechts één exemplaar van een bepaald type of model vliegtuig met een identiek stel bijbehorende sensoren te worden aangeboden ter certificering overeenkomstig de bepalingen van Bijlage D bij dit Verdrag.
+5. Elk observatievliegtuig moet de bemanning en het personeel als genoemd in Artikel VI, Afdeling III, kunnen vervoeren.

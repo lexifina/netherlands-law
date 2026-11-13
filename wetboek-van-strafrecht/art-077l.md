@@ -1,3 +1,0 @@
-# Artikel 77l
-1. Het bedrag van de geldboete is ten minste het bedrag, genoemd in artikel 23, tweede lid, en ten hoogste het maximum van een geldboete van de tweede categorie. Artikel 24a is van overeenkomstige toepassing met dien verstande dat de rechter of de officier van justitie bij elke geldboete kan bepalen dat het bedrag in gedeelten kan worden voldaan. De rechter of de officier van justitie stelt daarbij de hoogte van elk van die gedeelten vast.
-2. De rechter kan bij de uitspraak waarbij geldboete wordt opgelegd, bevelen dat voor het geval volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, vervangende jeugddetentie zal worden toegepast.

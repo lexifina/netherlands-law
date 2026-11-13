@@ -1,0 +1,2 @@
+# Article VII
+Subject to the rights provided by international conventions, the nationals of either Contracting Party shall, as regards the protection of industrial property, enjoy in the territory of the other Contracting Party a protection not less favourable than that enjoyed by the nationals of the latter. Industrial property includes patents of inventions, industrial and commercial trade-marks, trade-names, industrial designs or models and the repression of unfair competition.

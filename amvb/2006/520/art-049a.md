@@ -1,0 +1,10 @@
+# Artikel 49a
+1. Een verzekeraar, adviseur, bemiddelaar in verzekeringen, gevolmachtigde agent of ondergevolmachtigde agent verstrekt de ingevolge deze afdeling en de artikelen 4:20, eerste en derde lid, 4:22, eerste lid, en 4:25b, eerste en tweede lid, van de wet aan de cliënt te verstrekken informatie schriftelijk en kosteloos, tenzij in deze afdeling of die artikelen anders wordt bepaald.
+2. De financiëledienstverlener kan na uitdrukkelijke toestemming van de cliënt en indien dit past in de context waarin hij met de cliënt zaken doet, de informatie op een andere duurzame drager verstrekken.
+3. De financiëledienstverlener verstrekt de informatie, bedoeld in het eerste lid, in de Nederlandse taal of in de taal waar het risico is gelegen of in elke andere taal die door partijen is overeengekomen.
+4. De financiëledienstverlener kan, na toestemming van de cliënt, de ingevolge deze afdeling en de artikelen 4:20, eerste en derde lid, 4:22, eerste lid, en 4:25b, eerste en tweede lid, van de wet te verschaffen informatie die niet persoonlijk tot de cliënt is gericht via haar website verstrekken indien:
+a. het gebruik van de website past in de context waarin hij met de cliënt zaken doet;
+b. de cliënt elektronisch op de hoogte wordt gesteld van het adres van de website en de plaats op de website waar de informatie kan worden verkregen;
+c. de informatie actueel is en, zolang dat voor de cliënt van belang is, op de website toegankelijk blijft.
+5. De verstrekking van informatie door de financiëledienstverlener aan de cliënt via een andere duurzame drager dan papier of via een website past in de context waarin de financiëledienstverlener met de cliënt zaken doet, indien is bewezen dat de cliënt regelmatig toegang heeft tot internet. Het gegeven dat de cliënt een e-mailadres opgeeft om zaken te kunnen doen geldt in ieder geval als bewijs hiervan.
+6. Een financiëledienstverlener verstrekt informatie die aan de cliënt via een andere duurzame drager dan papier of via een website is verstrekt op verzoek schriftelijk en kosteloos aan de cliënt.

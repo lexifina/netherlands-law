@@ -1,0 +1,2 @@
+# VI. Ad Articles 10, 11, and 12
+Notwithstanding provisions to the contrary in the national law of either State restitution of tax levied contrary to the provisions of Articles 10, 11 and 12 shall be granted if the claim concerned has been ledged with the competent authority of the State having levied the tax within a period of two years after the expiration of the calendar year in which the tax has been levied.

@@ -1,0 +1,4 @@
+# Artikel IV. Faciliteiten met betrekking tot communicatiemiddelen
+§ 10. De Raad geniet op het grondgebied van elk van zijn Leden voor zijn officiële mededelingen een behandeling, die niet minder gunstig is dan die, welke door dat Lid wordt toegestaan aan enige andere Regering met inbegrip van haar diplomatieke missie, wat betreft prioriteiten, tarieven en belastingen op post, kabeltelegrammen, radiogrammen, telefoto's, telefoon en andere communicatiemiddelen, alsmede perstarieven voor mededelingen aan pers of radio.
+§ 11. Op de officiële correspondentie en andere officiële mededelingen van de Raad wordt geen censuur toegepast.
+Niets in deze paragraaf verbiedt het nemen van geschikte veiligheidsmaatregelen, welke bij een overeenkomst tussen de Raad en een van zijn Leden zullen worden vastgesteld.

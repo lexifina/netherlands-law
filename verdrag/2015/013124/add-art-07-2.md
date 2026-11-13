@@ -1,0 +1,2 @@
+# Artikel VII. Maatregelen ten behoeve van bewaking, veiligheid en milieubescherming
+De partijen eerbiedigen de desbetreffende voorschriften en instructies inzake bewaking, veiligheid en milieubescherming die van kracht zijn in de ontvangende staat, in het bijzonder ter zake van wapens, munitie en luchtvaartuigen. Op het gebruik van wapens en munitie is het recht van de ontvangende staat van toepassing.

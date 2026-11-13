@@ -1,0 +1,9 @@
+# Artikel 6a
+1. Indien twee of meer van de omstandigheden, bedoeld in het tweede lid, zich voordoen, is in ieder geval aannemelijk dat er sprake is van een verhaalsconstructie als bedoeld in artikel 33a, derde lid, onderdeel g, van de wet.
+2. Van een omstandigheid als bedoeld in het eerste lid is sprake indien:
+a. de ingevolge de belastingaanslag verschuldigde belasting waarvoor de begunstigde aansprakelijk is gesteld ten minste 30 percent afwijkt van de volgens de met betrekking tot die belasting gedane aangifte verschuldigde belasting of met betrekking tot die belasting ten onrechte geen aangifte is gedaan door de belastingschuldige;
+b. zowel de materiële belastingschuld ten tijde van de benadelende handeling als de totale begunstiging meer bedraagt dan € 100.000;
+c. aan de belastingschuldige in de periode ingaande vijf jaar voorafgaand aan de dagtekening van de belastingaanslag die onbetaald is gebleven een vergrijpboete is opgelegd wegens het niet voldoen aan zijn fiscale verplichtingen of de belastingschuldige in die periode strafrechtelijk is veroordeeld voor het niet voldoen aan zijn fiscale verplichtingen;
+d. de begunstigde met betrekking tot de begunstiging ten onrechte geen aangifte heeft gedaan, of de begunstigde met betrekking tot de begunstiging een onjuiste of onvolledige aangifte heeft gedaan;
+e. de belastingschuldige of de begunstigde met betrekking tot zijn belastingplicht of belastingschuld, onderscheidenlijk zijn aansprakelijkstelling voor de belastingschuld, niet of niet volledig heeft voldaan aan de fiscale informatieverplichtingen;
+f. na het ontstaan van de materiële belastingschuld vermogensbestanddelen van de belastingschuldige zijn overgegaan op een of meer natuurlijke personen of rechtspersonen en ten minste een van die natuurlijke personen, onderscheidenlijk rechtspersonen, buiten Nederland woont, onderscheidenlijk buiten Nederland is gevestigd.

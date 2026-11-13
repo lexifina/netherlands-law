@@ -1,0 +1,3 @@
+# Artikel III
+1. In afwijking van artikel 48c van het Reglement rijbewijzen wordt voor bestuurders als bedoeld in artikel 156q, eerste lid, onder a, van het Reglement rijbewijzen die de nascholing hebben afgerond vóór 10 september 2015 als einddatum van het op het af te geven rijbewijs te vermelden getuigschrift van nascholing 10 september 2020 vermeld.
+2. In afwijking van artikel 48c van het Reglement rijbewijzen wordt voor bestuurders als bedoeld in artikel 156q, eerste lid, onder b, van het Reglement rijbewijzen die de nascholing hebben afgerond vóór 10 september 2016 als einddatum van het op het af te geven rijbewijs te vermelden getuigschrift van nascholing 10 september 2021 vermeld.

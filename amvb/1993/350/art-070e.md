@@ -1,0 +1,2 @@
+# Artikel 70e. Deelnemingen aan vennootschappen, stichtingen of verenigingen
+Aan de ambtenaren of aan bepaalde groepen van ambtenaren van een bepaalde dienst kan door onze Minister worden verboden commissaris, bestuurder of vennoot te zijn van alle of nader te omschrijven vennootschappen, stichtingen of verenigingen die geregeld in aanraking komen of krachtens haar opzet kunnen komen met de betrokken dienst.

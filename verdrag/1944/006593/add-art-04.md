@@ -1,0 +1,2 @@
+# Article IV
+Pending the coming into force of the above-mentioned Convention, all references to it herein, other than those contained in Article II, Section 2, and Article V, shall be deemed to be references to the Interim Agreement on International Civil Aviation drawn up at Chicago on December 7, 1944; and references to the International Civil Aviation Organization, the Assembly, and the Council shall be deemed to be references to the Provisional International Civil Aviation Organization, the Interim Assembly, and Interim Council, respectively.

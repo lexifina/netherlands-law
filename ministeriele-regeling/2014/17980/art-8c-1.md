@@ -1,0 +1,2 @@
+# Artikel 8c.1. Uitvoering besluit (EU) nr. 2021/260
+Het is verboden in strijd te handelen met artikel 4 van uitvoeringsbesluit (EU) nr. 2021/260 van de Commissie van 11 februari 2021 tot goedkeuring van nationale maatregelen ter beperking van het effect van bepaalde ziekten bij waterdieren overeenkomstig artikel 226, lid 3, van Verordening (EU) 2016/429 van het Europees Parlement en de Raad, en tot intrekking van Besluit 2010/221/EU van de Commissie (PbEU 2021, L 260).

@@ -1,0 +1,2 @@
+# Article XV
+The Annex to this Agreement shall be deemed to be part of the Agreement and all references to the "Agreement" shall include references to the Annex, except where otherwise expressly provided.

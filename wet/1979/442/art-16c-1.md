@@ -1,0 +1,2 @@
+# Artikel 16c.1
+Een importeur als bedoeld in artikel 3, onderdeel 15, van de Verordening koolstofcorrectie aan de grens, of in de situaties die onder artikel 32 van die verordening vallen, een overeenkomstig artikel 18 van de Verordening (EU) nr. 952/2013 aangewezen indirecte douanevertegenwoordiger, voldoet tijdig en volledig aan de rapportageverplichting, bedoeld in artikel 35, eerste lid, van die verordening.

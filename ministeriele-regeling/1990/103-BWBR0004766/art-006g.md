@@ -1,0 +1,5 @@
+# Artikel 6g
+1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de erfbelasting in gevallen als bedoeld in artikel 25, eenentwintigste lid, van de wet, mits voldoende zekerheid is gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden.
+2. Het eerste lid is van overeenkomstige toepassing bij een schriftelijk verzoek van een erfgenaam ter zake van belastingaanslagen, anders dan de belastingaanslag, bedoeld in het eerste lid, die behoren tot de nalatenschap van een natuurlijk persoon.
+3. De belastingschuldige of de erfgenaam verstrekt bij zijn verzoek als bedoeld in het eerste lid, onderscheidenlijk het tweede lid, de benodigde gegevens, waaruit blijkt dat sprake is van een situatie als bedoeld in artikel 25, eenentwintigste lid, van de wet. De ontvanger kan zo nodig om aanvullende gegevens vragen.
+4. De ontvanger kan afzien van de in het eerste lid gestelde zekerheidseis als dit voor de belastingschuldige of de erfgenaam leidt tot onevenredige gevolgen die niet in verhouding staan tot het doel van het stellen van zekerheid.

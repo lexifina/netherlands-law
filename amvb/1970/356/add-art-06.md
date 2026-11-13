@@ -1,0 +1,2 @@
+# Artikel VI
+Ingeval van ontslag met behoud van het recht tot voortzetting van de deelneming aan de spaarregeling 1968 wordt op verzoek van de gewezen belanghebbende van dienstwege een bijzondere spaarrekening te zijnen name geopend bij de instelling, waarbij de dienstspaarrekening is geopend. Het op de afzonderlijke rekening geboekte spaarsaldo wordt op deze bijzondere spaarrekening bijgeschreven en komt voor premietoekenning in aanmerking, als ware de spaarregeling 1968 gedurende de periode waarin het saldo is gespaard, ongewijzigd van toepassing geweest.

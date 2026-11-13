@@ -1,0 +1,3 @@
+# Article II
+1. Neither Contracting Party shall impose restrictions or prohibitions on the importation of any product of the other Contracting Party, or on the exportation of any product to the territory of the other Contracting Party, unless the importation of the like product of, or the exportation of the like product to, all third countries is similarly restricted or prohibited.
+2. Notwithstanding the provisions of the preceding paragraph, either Contracting Party may apply restrictions or controls on importation and exportation of goods that have effect equivalent to, or which are necessary to make effective, exchange restrictions applied pursuant to the Articles of Agreement of the International Monetary Fund.

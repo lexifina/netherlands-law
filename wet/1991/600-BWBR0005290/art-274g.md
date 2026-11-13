@@ -1,0 +1,2 @@
+# Artikel 274g
+Onder eigen gebruik in de zin van artikel 274 lid 1 onder c wordt mede begrepen het verstrekken van woonruimte aan een woningzoekende die een bloed- of aanverwantschap in de eerste graad heeft met de verhuurder, indien uitdrukkelijk in de huurovereenkomst is bedongen dat de verhuurder de huurovereenkomst na afloop van de bij dat beding overeengekomen termijn kan opzeggen ten behoeve van bewoning door een bloed- of aanverwant in de eerste graad van de verhuurder.

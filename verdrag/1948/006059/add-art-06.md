@@ -1,0 +1,2 @@
+# Article VI
+In case of attachment or sale of an aircraft in execution, or of any right therein, the Contracting States shall not be obliged to recognise, as against the attaching or executing creditor or against the purchaser, any right mentioned in Article I, paragraph (1), or the transfer of any such right, if constituted or effected with knowledge of the sale or execution proceedings by the person against whom the proceedings are directed.

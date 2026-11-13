@@ -1,0 +1,2 @@
+# Artikel I
+Bij de inwerkingtreding van dit Protocol zal de Secretaris-Generaal van de Noord-Atlantische Verdragsorganisatie uit naam van alle Partijen aan de Regering van de Tsjechische Republiek een uitnodiging doen toekomen, tot het Noord-Atlantisch Verdrag toe te treden. In overeenstemming met artikel 10 van het Verdrag wordt de Tsjechische Republiek partij op de dag waarop zij een akte van toetreding nederlegt bij de Regering van de Verenigde Staten van Amerika.

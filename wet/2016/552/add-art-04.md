@@ -1,0 +1,3 @@
+# Artikel IV
+1. Voor productie-installaties en niet-productie-installaties die op het tijdstip van inwerkingtreding van deze wet reeds zijn geplaatst, wordt § 4.1a toegepast vanaf het moment waarop ingevolge de op de dag voor de datum van inwerkingtreding van deze wet geldende regels toezending van het veiligheids- en gezondheidsdocument aan de toezichthouder verplicht is, of, als dat later is, vanaf 19 juli 2018.
+2. Voor productie-installaties en niet-productie-installaties die op het tijdstip van inwerkingtreding van deze wet nog niet zijn geplaatst, wordt § 4.1a toegepast vanaf 19 juli 2016.

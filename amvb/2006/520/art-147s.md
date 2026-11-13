@@ -1,0 +1,12 @@
+# Artikel 147s
+1. De Autoriteit Financiële Markten neemt binnen vijftien werkdagen na ontvangst van alle gegevens, een besluit op een aanvraag van instemming als bedoeld in artikel 147r, eerste lid, onderdeel a, b of c.
+2. De feeder-icbe informeert de master-icbe over een besluit van de Autoriteit Financiële Markten als bedoeld in het eerste lid.
+3. De feeder-icbe neemt na ontvangst van de instemming op een aanvraag, als bedoeld in artikel 147r, eerste lid, onderdeel b, onder 1° en 2°, zo spoedig mogelijk de maatregelen om aan het bepaalde in artikel 147f te voldoen.
+4. Indien de Autoriteit Financiële Markten nog geen besluit heeft genomen op een aanvraag van instemming als bedoeld in artikel 147r, eerste lid, onderdeel b of c, biedt de feeder-icbe haar rechten van deelneming in de master-icbe ter inkoop of terugbetaling aan op grond van de artikelen 4:61b, tweede lid, en 4:62h van de wet, op de werkdag voorafgaand aan de laatste dag waarop de feeder-icbe haar rechten van deelneming in de master-icbe ter inkoop of terugbetaling kan aanbieden.
+5. De feeder-icbe biedt haar rechten van deelneming in de master-icbe op grond van het vierde lid tevens aan om te zorgen dat geen afbreuk wordt gedaan aan het recht van haar deelnemers, bedoeld in artikel 147f, eerste lid, onderdeel d.
+6. Alvorens de feeder-icbe haar rechten van deelneming in een master-icbe op grond van het vierde lid ter inkoop of terugbetaling aanbiedt, onderzoekt zij alternatieve oplossingen die kunnen bijdragen de transactiekosten of andere negatieve effecten voor haar eigen deelnemers te vermijden of te verminderen.
+7. De feeder-icbe ontvangt opbrengsten van de inkoop of terugbetaling van haar rechten van deelneming in de master-icbe:
+a. in contanten; of
+b. in de vorm van een gehele of gedeeltelijk overdracht van activa in natura, indien de feeder-icbe dit wenst en de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid, onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, daarin voorzien.
+8. De feeder-icbe heeft het recht de overgedragen activa in natura geheel of gedeeltelijk te verzilveren.
+9. De Autoriteit Financiële Markten stemt in met het herbeleggen van contanten als bedoeld in het zevende lid voorafgaand aan de datum waarop de feeder-icbe in de nieuwe master-icbe of in overeenstemming met haar nieuwe beleggingsdoelstellingen en beleggingsbeleid zal gaan beleggen, indien de feeder-icbe uitsluitend herbelegd met het oog op een efficiënt contantenbeheer.

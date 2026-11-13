@@ -1,0 +1,2 @@
+# Artikel XIII
+Deze Overeenkomst geldt voor onbepaalde tijd. Elk der beide Overeenkomstsluitende Partijen kan haar uiterlijk drie maanden voor het einde van enig kalenderjaar opzeggen, in welk geval de Overeenkomst met ingang van het eerstvolgende kalenderjaar ophoudt van kracht te zijn. Van de mogelijkheid tot opzegging mag geen gebruik worden gemaakt in geval van een crisis in de voorziening De Commissie der Europese Gemeenschappen dient, in ieder geval, vooraf van de opzegging op de hoogte te worden gesteld.

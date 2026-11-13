@@ -1,0 +1,2 @@
+# Artikel 39c
+Als categorie van genetisch gemodificeerde organismen als bedoeld in artikel 3.24, eerste lid, in samenhang met artikel 3.26a, van het Besluit, worden aangewezen humane cellen genetisch gemodificeerd met virale vectoren afgeleid van humaan immunodeficiëntievirus 1 en gepseudotypeerd met Vesicular stomatitis virus glycoproteïne (VSV-G), waarbij er geen risico bestaat op de vorming van replicatiecompetent virus en waarbij residuele infectieuze SIN lentivirale partikels in het medisch product aanwezig kunnen zijn.

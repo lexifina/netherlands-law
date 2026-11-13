@@ -1,3 +1,0 @@
-# Inhoud
-## FINAL CLAUSES
-## SLOTBEPALINGEN

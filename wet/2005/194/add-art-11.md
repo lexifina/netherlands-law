@@ -1,0 +1,2 @@
+# Artikel XI
+[Wijzigt de wet van 7 juli 1988, houdende wijziging van de Wet van 19 november 1986, Stb. 587 tot herziening van de bepalingen van het Wetboek van Strafrecht, het Wetboek van Strafvordering, de Beginselenwet gevangeniswezen en enkele andere wetten omtrent de maatregel van terbeschikkingstelling en enige andere onderwerpen die met de berechting van geestelijk gestoorde delinquenten samenhangen.]

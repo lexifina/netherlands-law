@@ -1,0 +1,11 @@
+# Article III
+1. For the purposes of this Treaty, the States Parties shall apply the following counting rules:
+All battle tanks, armoured combat vehicles, artillery, combat aircraft and attack helicopters, as defined in Article II, within the area of application shall be subject to the numerical limitations and other provisions set forth in Articles IV, V and VI, with the exception of those which in a manner consistent with a State Party's normal practices:
+(A) are in the process of manufacture, including manufacturingrelated testing;
+(B) are used exclusively for the purposes of research and development;
+(C) belong to historical collections;
+(D) are awaiting disposal, having been decommissioned from service in accordance with the provisions of Article IX;
+(E) are awaiting, or are being refurbished for, export or re-export and are temporarily retained within the area of application. Such battle tanks, armoured combat vehicles, artillery, combat aircraft and attack helicopters shall be located elsewhere than at sites declared under the terms of Section V of the Protocol on Information Exchange or at no more than 10 such declared sites which shall have been notified in the previous year's annual information exchange. In the latter case, they shall be separately distinguishable from conventional armaments and equipment limited by the Treaty;
+(F) are, in the case of armoured personnel carriers, armoured infantry fighting vehicles, heavy armament combat vehicles or multipurpose attack helicopters, held by organisations designed and structured to perform in peacetime internal security functions; or
+(G) are in transit through the area of application from a location outside the area of application to a final destination outside the area of application, and are in the area of application for no longer than a total of seven days.
+2. If, in respect of any such battle tanks, armoured combat vehicles, artillery, combat aircraft or attack helicopters, the notification of which is required under Section IV of the Protocol on Information Exchange, a State Party notifies an unusually high number in more than two successive annual information exchanges, it shall explain the reasons in the Joint Consultative Group, if so requested.

@@ -1,2 +1,0 @@
-# Artikel 45a
-Indien de gegevens betreffende overlijden als bedoeld in artikel 44, eerste lid, onder c, niet kunnen worden geverifieerd en de aanstaande echtgenoten niet in staat zijn om de akte of akten van overlijden over te leggen, kunnen zij ter zake een beëdigde verklaring afleggen jegens de ambtenaar van de burgerlijke stand ten overstaan van wie het huwelijk zal worden voltrokken. Deze maakt daarvan melding in de huwelijksakte.

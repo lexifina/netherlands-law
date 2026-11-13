@@ -1,2 +1,0 @@
-# Inhoud
-## Rangschikkingscriteria en weging

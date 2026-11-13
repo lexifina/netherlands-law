@@ -1,0 +1,3 @@
+# Artikel XVIII. Inwerkingtreding
+1. Deze Overeenkomst treedt in werking wanneer 12 Lid-Staten of Geassocieerde Leden van de Organisatie er partij bij zijn geworden door nederlegging van een akte van aanvaarding overeenkomstig de bepalingen van lid 1 van artikel XIII van deze Overeenkomst.
+2. Voor de staten die reeds lid zijn van de Commissie en die partij worden bij deze Overeenkomst treden de bepalingen van deze Overeenkomst in de plaats van de statuten van de Internationale Populierencommissie, aangenomen tijdens de tweede zitting van de Commissie die van 20 tot 28 april 1948 in Italië is gehouden.

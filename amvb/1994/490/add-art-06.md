@@ -1,0 +1,2 @@
+# Artikel VI
+Voor dienstplichtigen die voor 1 januari 1994 voor eerste oefening in dienst zijn gekomen voor wie de duur van de eerste oefening 11 maanden of meer bedraagt, blijven de bepalingen van het Reglement rechtstoestand dienstplichtigen zoals die golden tot het moment van inwerkingtreding van dit besluit van toepassing voor de duur van hun verblijf in werkelijke dienst voor eerste oefening.

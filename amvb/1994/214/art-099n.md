@@ -1,0 +1,2 @@
+# Artikel 99n
+Aanspraken die een vrijwillige ambtenaar had op grond van het Besluit rechtspositie vrijwillige politie worden geacht te zijn gegrond op het Besluit rechtspositie vrijwillige politie zoals dat luidde op de dag voor de inwerkingtreding van het Besluit tot wijziging van het Besluit algemene rechtspositie politie en enkele andere algemene maatregelen van bestuur in verband met de invoeging van rechtspositionele bepalingen omtrent politievrijwilligers en de intrekking van het Besluit rechtspositie vrijwillige ambtenaren van politie.

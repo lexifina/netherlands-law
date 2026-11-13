@@ -1,0 +1,5 @@
+# Artikel XXII
+1. Het UNTEA en Indonesië garanderen volledig de rechten der inwoners van het gebied, met inbegrip van de vrijheid van meningsuiting, de bewegingsvrijheid en het recht van vereniging en vergadering. Deze rechten omvatten tevens de op het ogenblik van de overdracht van het bestuur aan het UNTEA bestaande rechten der inwoners van het gebied.
+2. De bestaande Nederlandse verplichtingen ten aanzien van concessies en eigendomsrechten worden door het UNTEA overgenomen.
+3. Nadat Indonesië het bestuur heeft overgenomen, komt het die verplichtingen na, welke niet onverenigbaar zijn met de belangen en de economische ontwikkeling der bevolking van het gebied. Na de overdracht van het bestuur aan Indonesië wordt een gemengde Nederlands-Indonesische commissie ingesteld ter bestudering van de aard der bovengenoemde concessies en eigendomsrechten.
+4. Tijdens het bestuur door het UNTEA kunnen burgers van Nederlandse en van Indonesische nationaliteit het gebied vrijelijk binnenreizen en verlaten.

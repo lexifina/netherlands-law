@@ -1,0 +1,6 @@
+# Artikel 23b
+1. De gedetineerde en de rechtsbijstandverlener worden op de hoogte gesteld van het visueel toezicht op gesprekken tussen de gedetineerde en de rechtsbijstandverlener als bedoeld in artikel 38, achtste lid, van de wet.
+2. Het visueel toezicht vindt plaats door middel van cameraobservatie. De camerabeelden worden terstond na het gesprek gewist.
+3. In afwijking van het tweede lid worden de camerabeelden bewaard als een ambtenaar of medewerker bij de inrichting of afdeling het gesprek tussen de gedetineerde en de rechtsbijstandverlener onderbreekt en de directeur na het horen van de ambtenaar of medewerker beslist tot beëindiging van het gesprek.
+4. De op grond van het derde lid bewaarde camerabeelden worden verwijderd zes weken na het verstrijken van de beklagtermijn als bedoeld in artikel 61, vijfde lid, van de wet, tenzij beklag is ingesteld. In dat geval volgt verwijdering zes weken na het verstrijken van de beroepstermijn als bedoeld in artikel 69, eerste lid, van de wet, tenzij beroep is ingesteld. In dat geval volgt verwijdering de dag na de uitspraak van de beroepscommissie.
+5. In het kader van het in artikel 45a, eerste lid, van de Advocatenwet bedoelde toezicht licht de directeur de deken in het arrondissement waar de rechtsbijstandverlener kantoor houdt in over het beëindigen van een gesprek, als bedoeld in het derde lid.

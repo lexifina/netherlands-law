@@ -1,0 +1,3 @@
+# Artikel VII
+Dit tractaat zal van kracht blijven gedurende tien jaren, te rekenen van den dag der uitwisseling van de akten van bekrachtiging. Bijaldien geene der beide Hooge contracterende Partijen twaalf maanden vóór het einde van gezegd tijdperk haar voornemen om hetzelve te doen ophouden mogt hebben bekend gemaakt, zoo zal het tractaat van kracht blijven tot na het eindigen van een jaar, te rekenen van den dag, waarop de een of de andere der beide Hooge contracterende Partijen hetzelve zal hebben opgezegd.
+Dit tractaat zal bekrachtigd worden en de akten van bekrachtiging er van zullen uitgewisseld worden te Turyn, binnen den tijd van zes maanden of zoo mogelijk vroeger.

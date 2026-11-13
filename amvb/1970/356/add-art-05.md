@@ -1,0 +1,2 @@
+# Artikel V
+Degene, die aan de spaarregeling 1968 deelneemt op de in artikel 4 van die regeling aangegeven wijze en bij de dienst wordt tewerkgesteld, kan het saldo van zijn bijzondere spaarrekening door tussenkomst van de dienst storten op de dienstspaarrekening. Dit saldo wordt alsdan geboekt op een afzonderlijke rekening en komt voor premietoekenning in aanmerking, als ware dit besluit gedurende de periode waarin het saldo is gespaard van toepassing geweest.

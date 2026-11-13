@@ -1,0 +1,3 @@
+# Artikel 1A.4a.2
+1. Het is een marktdeelnemer die betrokken is of is geweest bij het op de markt brengen van vuurwerk of pyrotechnische artikelen voor theatergebruik waarop de EU-verordening markttoezicht van toepassing is, verboden in strijd te handelen met artikel 7, eerste lid, van die verordening.
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van vuurwerk of pyrotechnische artikelen voor theatergebruik waarop de EU-verordening markttoezicht van toepassing is, verboden in strijd te handelen met artikel 7, tweede lid, van die verordening.

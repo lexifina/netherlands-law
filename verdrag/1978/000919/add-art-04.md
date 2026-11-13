@@ -1,0 +1,2 @@
+# Article IV. Security
+To the extent that any items, plans, specifications or information furnished in connection with the specific implementation of this MOU are classified by either Government for security purposes, the other Government shall maintain a similar classification and employ all measures necessary to preserve such security equivalent to those measures employed by the classifying Government throughout the period during which the classifying Government may maintain such classifications.

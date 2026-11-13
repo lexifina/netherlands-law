@@ -1,0 +1,4 @@
+# Artikel VII. Toegang tot gerubriceerde gegevens
+1. Elke partij waarborgt dat toegang tot gerubriceerde gegevens wordt verleend op een need-to-know-basis.
+2. Elke partij waarborgt dat elke natuurlijke persoon die toegang is verleend tot gerubriceerde gegevens is ingelicht over zijn verantwoordelijkheden inzake de beveiliging van dergelijke gegevens en een geheimhoudingsverklaring heeft ondertekend in overeenstemming met de nationale wet- en regelgeving van de ontvangende entiteit.
+3. De partijen waarborgen dat toegang tot gerubriceerde gegevens uitsluitend wordt verleend aan de natuurlijke personen die een veiligheidsmachtiging personeel hebben op het overeenkomstige niveau of die gemachtigd zijn om toegang te krijgen tot gerubriceerde gegevens uit hoofde van hun functie in overeenstemming met de nationale wet- en regelgeving van de ontvangende entiteit.

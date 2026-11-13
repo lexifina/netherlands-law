@@ -1,0 +1,2 @@
+# VII. Met betrekking tot artikel 10 (Dividenden) en het achtste lid, onderdeel b, onder ii, van artikel 26 (Beperkingen van voordelen)
+Voor de toepassing van artikel 10 en van het achtste lid, onderdeel b, onder ii, van artikel 26 (Beperkingen van voordelen) is het wel te verstaan dat depotbewijzen of trustcertificaten van aandelen worden aangemerkt als omvattende de rechten die verbonden zijn aan de aandelen die zij vervangen, met inbegrip van het daaruit voortvloeiende stemrecht.

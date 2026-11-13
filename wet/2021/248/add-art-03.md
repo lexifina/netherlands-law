@@ -1,0 +1,2 @@
+# Artikel III
+Artikel I, onderdeel B, en artikel II, onderdeel H, zijn vanaf 7 juni 2025 van toepassing op toestemming die is verkregen voor een door artikel 12c van de Auteurswet bestreken openbaarmaking van een werk en een door artikel 14b van de Wet op de naburige rechten bestreken mededeling aan het publiek van op grond van de naburige rechten beschermde prestaties, indien die toestemming op 7 juni 2021 van kracht is en na 7 juni 2025 verstrijkt.

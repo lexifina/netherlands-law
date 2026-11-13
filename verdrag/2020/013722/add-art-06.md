@@ -1,0 +1,2 @@
+# VI. AD PARAGRAPH 3 OF ARTICLE 7 AND PARAGRAPH 2 OF ARTICLE 9
+It is understood that where a Contracting State makes an adjustment, the other Contracting State shall, to the extent necessary to eliminate double taxation, make an appropriate adjustment provided that it agrees with the adjustment made by the first-mentioned State; if the other Contracting State does not so agree, the Contracting States shall eliminate any double taxation resulting therefrom by mutual agreement.

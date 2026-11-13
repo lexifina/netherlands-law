@@ -1,0 +1,5 @@
+# Article 31*. Denunciation of the 1969 and 1971 Conventions
+Subject to Article 30, within six months following the date on which the following requirements are fulfilled:
+a) at least eight States have become Parties to this Protocol or have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization, whether or not subject to Article 30, paragraph 4, and
+b) the Secretary-General of the Organization has received information in accordance with Article 29 that those persons who are or would be liable to contribute persuant to Article 10 of the 1971 Fund Convention as amended by this Protocol have received during the preceding calendar year a total quantity of at least 750 million tons of contributing oil;
+each Party to this Protocol and each State which has deposited an instrument of ratification, acceptance, approval or accession, whether or not subject to Article 30, paragraph 4, shall, if Party thereto, denounce the 1971 Fund Convention and the 1969 Liability Convention with effect twelve months after the expiry of the above-mentioned six-month period.

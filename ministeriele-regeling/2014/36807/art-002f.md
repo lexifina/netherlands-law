@@ -1,0 +1,2 @@
+# Artikel 2f
+De gegevens die noodzakelijk zijn voor de vaststelling en de inning, bedoeld in artikel 2.1.4b, eerste lid, van de wet, worden door het college uiterlijk binnen één maand na de dag waarop de voorziening is verstrekt of, indien de leveringsvorm een persoonsgebonden budget betreft, uiterlijk binnen vier maanden na de ingangsdatum van de toekenning van dat budget door het college, aan het CAK verstrekt.

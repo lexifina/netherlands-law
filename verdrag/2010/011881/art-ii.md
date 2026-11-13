@@ -1,0 +1,4 @@
+# Article II:. Critères d'entrée et de sortie
+1. Le personnel de l'État d'envoi aura le droit d'entrer, de séjourner et de quitter le territoire de l'État d'accueil. Le personnel de l'État d'envoi jouira de la même liberté de mouvement que les ressortissants de l'État d'accueil.
+2. Les Autorités de l'État d'accueil faciliteront au personnel de l'État d'envoi la libre entrée au territoire de l'État d'accueil et la libre sortie de ce territoire sur présentation d'une carte d'identité et d'un ordre de mission individuel ou collectif. Le personnel de l'État d'envoi sera exempté des réglementations relatives aux passeports et aux visas, du contrôle de l'immigration, des taxes d'entrée au territoire et de sortie de celui-ci, des droits et de toute autre exigence en matière d'entrée ou de sortie.
+3. L'État d'accueil fournira un personnel de liaison pour des services de conseil.

@@ -1,0 +1,3 @@
+# E. Maritime corruption
+1.9bis. Standard. Contracting Governments shall encourage public authorities to assess the risks of corruption associated with the ship-shore interface in ports and address them by developing and implementing preventive measures to strengthen integrity, transparency and accountability. Public authorities shall also coordinate efforts to detect, investigate and sanction corruption related to ships' calls in the port, through national and international cooperation.
+1.10. Standard. Where, as part of cooperation arrangements, public authorities, shipowners and other parties concerned are provided access to sensitive commercial and other information, the information shall be treated confidentially.

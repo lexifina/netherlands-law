@@ -1,0 +1,7 @@
+# Artikel 8a
+1. Indien een in artikel 8 strafbaar gesteld feit wordt begaan door of vanwege een rechtspersoon, een vennootschap, enige andere vereniging van personen of een doelvermogen, wordt de strafvervolging ingesteld en worden de straffen uitgesproken
+– hetzij tegen die rechtspersoon, die vennootschap, die vereniging of dat doelvermogen,
+– hetzij tegen hen, die tot het feit opdracht hebben gegeven of feitelijk leiding hebben gehad bij het verboden handelen of nalaten,
+– hetzij tegen beiden.
+2. Een in artikel 8 strafbaar gesteld feit wordt onder meer begaan door of vanwege een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, indien het begaan wordt door personen, die, hetzij uit hoofde van een dienstbetrekking, hetzij uit andere hoofde handelen in de sfeer van de rechtspersoon, de vennootschap, de vereniging of het doelvermogen, ongeacht of deze personen ieder afzonderlijk het strafbare feit hebben begaan dan wel bij hen gezamenlijk de elementen van dat feit aanwezig zijn.
+3. Indien een straf vervolging wordt ingesteld tegen een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, wordt deze tijdens de vervolging vertegenwoordigd door de bestuurder en, indien er meer bestuurders zijn, door één dezer. De vertegenwoordiger kan bij gemachtigde verschijnen. De rechter kan de persoonlijke verschijning van een bepaalde bestuurder bevelen; hij kan alsdan zijn medebrenging gelasten.

@@ -1,0 +1,2 @@
+# Artikel V
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Indien de staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 30 september 2006, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 oktober 2006.

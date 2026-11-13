@@ -1,0 +1,3 @@
+# Article VI
+1. The present Protocol shall enter into force on the ninetieth day following the date on which fifteen States have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization, provided however that the present Protocol shall not enter into force before the Convention referred to in Article II has entered into force.
+2. For each State which subsequently ratifies, accepts, approves or accedes to it, the present Protocol shall enter into force on the ninetieth day after the deposit by such State of the appropriate instrument.

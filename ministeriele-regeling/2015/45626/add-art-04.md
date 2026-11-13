@@ -1,0 +1,3 @@
+# Artikel IV
+1. De kapitein of, in het geval van een vissersvaartuig, de schipper draagt er zorg voor dat de medische uitrusting uiterlijk op het moment van de eerstvolgende inspectie van die uitrusting in overeenstemming is met bijlage 2 bij de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen, indien die regeling van toepassing is.
+2. Tot het in het eerste lid bedoelde moment mogen schepen uitgerust blijven met medische uitrusting, voorgeschreven in de Regeling medische uitrusting aan boord van zeeschepen, onderscheidenlijk de Regeling medische uitrusting aan boord van vissersvaartuigen, zoals die regeling luidde voor de inwerkingtreding van deze regeling.

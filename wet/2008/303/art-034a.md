@@ -1,0 +1,4 @@
+# Artikel 34a
+1. Persoonsgegevens, verzameld op grond van deze wet, worden door een instelling alleen verwerkt met het oog op het voorkomen van witwassen en financieren van terrorisme en worden niet verder verwerkt voor commerciële doeleinden of andere doeleinden die niet verenigbaar zijn met dat doel.
+2. Een instelling verstrekt, alvorens een zakelijke relatie aan te gaan of een incidentele transactie te verrichten, informatie aan een cliënt over de krachtens deze wet geldende verplichtingen ter zake van de verwerking van persoonsgegevens met het oog op het voorkomen van witwassen en financieren van terrorisme.
+3. Een instelling vernietigt de persoonsgegevens die zij uit hoofde van deze wet heeft verkregen onmiddellijk na het verstrijken van de termijn, bedoeld in artikel 33, derde lid, en 34, tenzij bij wettelijk voorschrift anders is bepaald.

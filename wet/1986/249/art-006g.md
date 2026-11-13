@@ -1,0 +1,3 @@
+# Artikel 6g
+1. Onze Minister verstrekt op grond van Richtlijn 2011/16/EU de bevoegde autoriteit van de lidstaat waarvan de te rapporteren verkoper een ingezetene is als bedoeld in bijlage V, deel II, onderdeel D, van Richtlijn 2011/16/EU en, indien de te rapporteren verkoper onroerende zaken verhuurt, in ieder geval aan de bevoegde autoriteit van de lidstaat waarin de onroerende zaak is gelegen, automatisch de gegevens en inlichtingen, bedoeld in de artikelen 10j, tweede, derde, vijfde en negende lid, en 10l, derde en vijfde lid.
+2. Onze Minister verstrekt de gegevens en inlichtingen uiterlijk twee maanden na het einde van de rapportageperiode waarop de op de rapporterende platformexploitant toepasselijke rapportageverplichtingen betrekking hebben.

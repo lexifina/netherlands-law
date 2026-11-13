@@ -1,0 +1,9 @@
+# Artikel 11a
+1. Een autoriteit voor havenveiligheid voert ten minste elke vijf jaar een havenveiligheidsbeoordeling uit voor de desbetreffende haven en het desbetreffende havengerelateerde gebied.
+2. Indien een haven of een havengerelateerd gebied zich over meerdere gemeenten uitstrekt, kunnen de autoriteiten voor havenveiligheid gezamenlijk een havenveiligheidsbeoordeling voor de desbetreffende havens en havengerelateerde gebieden uitvoeren.
+3. Een havenveiligheidsbeoordeling wordt uitgevoerd overeenkomstig artikel 6, eerste en tweede lid, van de richtlijn.
+4. Een autoriteit voor havenveiligheid kan het uitvoeren van een havenveiligheidsbeoordeling opdragen aan een op grond van artikel 4e aangewezen veiligheidsorganisatie.
+5. Een autoriteit voor havenveiligheid of een veiligheidsorganisatie waaraan het uitvoeren van een havenveiligheidsbeoordeling is opgedragen, is ten behoeve van een havenveiligheidsbeoordeling bevoegd aan een ieder die in de desbetreffende haven zeggenschap heeft over een werk of een voorziening ten behoeve van het commercieel vervoer over zee, of die zeggenschap heeft over havengerelateerd gebied, met betrekking tot dat werk, die voorziening of dat havengerelateerd gebied de inlichtingen te vragen die betrekking hebben op de in Bijlage I van de richtlijn bedoelde elementen van een havenveiligheidsbeoordeling, voor zover die van belang zijn voor de veiligheid van de werken en voorzieningen ten behoeve van het commercieel vervoer over zee.
+6. Een ieder aan wie op grond van het vijfde lid inlichtingen worden gevraagd, is verplicht die inlichtingen te verstrekken.
+7. Het resultaat van een havenveiligheidsbeoordeling behoeft de instemming van Onze Minister.
+8. Na de instemming, bedoeld in het zevende lid, wordt de havenveiligheidsbeoordeling ter kennisgeving gezonden aan het bestuur van de veiligheidsregio.

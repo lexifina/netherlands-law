@@ -1,0 +1,6 @@
+# Artikel 12bis. Belastbare winst uit onderneming; privégebruik auto
+1. Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in artikel 3.20, zesde lid, van de wet, geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.
+2. De belastingplichtige is gehouden voordat met de bestelauto waarop de verklaring, bedoeld in het eerste lid, betrekking heeft voor privédoeleinden wordt gereden, mede te delen dat hij de verklaring intrekt.
+3. De mededeling, bedoeld in het tweede lid, geschiedt door het toezenden van het daartoe langs elektronische weg ter beschikking gestelde modelformulier aan de inspecteur.
+4. Het niet of niet tijdig doen van de mededeling, bedoeld in het tweede lid, en het niet doen van die mededeling op de in het derde lid voorgeschreven wijze worden aangemerkt als een overtreding.
+5. De bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het vierde lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de verplichting tot het doen van de mededeling, bedoeld in het tweede lid, is ontstaan.

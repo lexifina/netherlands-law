@@ -1,0 +1,2 @@
+# Artikel XXIV
+Indien een wijziging van de meest gevraagde prijsklasse van sigaretten onderscheidenlijk rooktabak als bedoeld in artikel 35a van de Wet op de accijns in het kalenderjaar 2007 heeft plaatsgevonden, treedt in afwijking van het vierde lid van artikel 35a van de Wet op de accijns de in het eerste lid van artikel 35a van de Wet op de accijns bedoelde ministeriële regeling tot aanpassing van de tarieven in werking met ingang van 1 juli 2008.

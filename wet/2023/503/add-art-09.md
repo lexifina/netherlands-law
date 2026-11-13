@@ -1,0 +1,6 @@
+# Artikel IX
+1. Indien de bewijzen van deelgerechtigdheid die worden vervreemd in het kader van een aandelenfusie als bedoeld in artikel VI ten grondslag liggen aan uitstel van betaling dat is verleend op grond van artikel 25, achtste lid, van de Invorderingswet 1990, kan de ontvanger het uitstel voortzetten op schriftelijk verzoek van de belastingschuldige aan wie het uitstel is verleend, in welk geval de aandelen in of winstbewijzen van de bij de aandelenfusie verkrijgende vennootschap voortaan worden geacht aan het verleende uitstel ten grondslag te liggen.
+2. De ontvanger kan aan het voortzetten van het uitstel voorwaarden stellen die betrekking hebben op de belastingschuldige, daaronder begrepen:
+a. het gedurende de looptijd van het uitstel jaarlijks aan de hand van schriftelijke bescheiden aannemelijk maken dat hij recht heeft op gehele of gedeeltelijke voortzetting van het uitstel;
+b. het jaarlijks aan de ontvanger verstrekken van informatie over zijn actuele adres en werkelijke verblijfplaats.
+3. Indien de belastingschuldige niet voldoet aan de voorwaarden die de ontvanger aan het voortzetten van het uitstel van betaling heeft gesteld, kan de ontvanger het uitstel van betaling intrekken.

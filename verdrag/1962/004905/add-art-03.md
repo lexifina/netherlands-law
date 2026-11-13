@@ -1,0 +1,2 @@
+# Article III
+In order to facilitate the transfer of administration to the UNTEA after the adoption of the resolution by the General Assembly, the Netherlands will invite the Secretary-General to send a representative to consult briefly with the Netherlands Governor of the territory prior to the latter's departure. The Netherlands Governor will depart prior to the arrival of the United Nations Administrator.

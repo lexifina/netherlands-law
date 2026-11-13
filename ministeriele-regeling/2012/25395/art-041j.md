@@ -1,0 +1,3 @@
+# Artikel 41j. Klimaatneutraliteitsplan
+1. De exploitant van een broeikasgasinstallatie die op grond van artikel 16.28, tweede lid, onderdeel b, een klimaatneutraliteitsplan indient doet dit overeenkomstig artikel 3 van de Uitvoeringsverordening (EU) 2023/2441 van 31 oktober 2023 van de Commissie tot vaststelling van uitvoeringsbepalingen voor Richtlijn 2003/87/EG van het Europees Parlement en de Raad wat betreft de inhoud en de vorm van de klimaatneutraliteitsplannen die nodig zijn voor de kosteloze toewijzing van emissierechten.
+2. Een klimaatneutraliteitsplan wordt opgesteld met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier.

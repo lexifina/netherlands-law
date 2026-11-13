@@ -1,0 +1,3 @@
+# Artikel V
+1. De voor een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding op 31 december 1996 geldende arbeidsduur wordt met ingang van 1 januari 1997 van rechtswege verminderd met twee achtendertigste deel en naar boven afgerond op twee decimalen.
+2. Het eerste lid is van overeenkomstige toepassing op de leden van, de gerechtsauditeurs bij en de griffiers van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven, de leden van en de gerechtsauditeurs bij het College van beroep studiefinanciering, en de gewone en plaatsvervangende leden van de Tariefcommissie.

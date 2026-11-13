@@ -1,0 +1,2 @@
+# Artikel 48d. Overgangsbepaling in verband met wijzigingen in de Wet Werk en inkomen naar arbeidsvermogen
+Ten aanzien van de persoon wiens recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen is ontstaan voor de dag van inwerkingtreding van artikel XXXII, onderdeel C, van de Wet werk en zekerheid blijft artikel 10 van toepassing zoals dat luidde op de dag voor die inwerkingtreding.

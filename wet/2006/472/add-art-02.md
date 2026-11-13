@@ -1,0 +1,3 @@
+# Artikel II
+1. Specialistentitels die vóór de inwerkingtreding van deze wet zijn aangemerkt als een wettelijk erkende specialistentitel, worden aangemerkt als een, met toepassing van het nieuwe artikel 14, eerste lid, door Onze Minister wettelijk erkende specialistentitel.
+2. Regelingen als bedoeld in artikel 14, tweede lid, onder c en d, welke door Onze Minister zijn goedgekeurd vóór de inwerkingtreding van deze wet, worden aangemerkt als een, met toepassing van het nieuwe artikel 14, vierde lid, goedgekeurde regeling. Voor zover de regelingen strijdig zijn met deze wet worden ze binnen twee jaren na inwerkingtreding van deze wet daarmee in overeenstemming gebracht.

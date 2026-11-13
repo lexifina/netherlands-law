@@ -1,0 +1,3 @@
+# Artikel IX
+(1) Elke Overeenkomstsluitende Partij waarborgt de rechtvaardige en billijke behandeling van de investeringen van onderdanen van de andere Overeenkomstsluitende Partij en belemmert niet, door ongerechtvaardigde of discriminatoire maatregelen, het beheer, de instandhouding, het gebruik, het genot of de liquidatie daarvan.
+(2) Meer inzonderheid verleent elke Overeenkomstsluitende Partij aan die investeringen dezelfde beveiliging en bescherming als die welke zij verleent hetzij aan investeringen van haar eigen onderdanen hetzij aan investeringen van derde Staten, indien deze laatste behandeling voor de investeerder gunstiger is.

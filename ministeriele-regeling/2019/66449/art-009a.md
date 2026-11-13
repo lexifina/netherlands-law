@@ -1,0 +1,2 @@
+# Artikel 9a. Vaststelling
+In afwijking van artikel 7.5, vijfde lid, van de Kaderregeling subsidies OCW, SZW en VWS, kan de subsidie worden vastgesteld op een bedrag dat maximaal 15% hoger is dan het bedrag dat bij de verlening door de Minister is genoemd, indien het aantal in het subsidiejaar verrichte basis oriënterende fertiliteitsonderzoeken en KID-behandelingen groter is dan het aantal waarvoor subsidie is verleend.

@@ -1,0 +1,2 @@
+# Artikel 54b
+Voor de toepassing van artikel 54a, eerste, tweede, derde en zesde lid, wordt onder inkomen verstaan: de gezamenlijke inkomensgegevens, bedoeld in artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen van degenen die op het adres van de woning staan ingeschreven, met uitzondering van kinderen in de zin van artikel 4 van de Algemene wet inkomensafhankelijke regelingen jonger dan 27 jaar, met dien verstande dat in het eerste lid van dat artikel voor «de belanghebbende» telkens wordt gelezen «een bewoner».

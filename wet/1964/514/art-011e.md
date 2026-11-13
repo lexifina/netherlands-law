@@ -1,0 +1,4 @@
+# Artikel 11e
+Bij de bepaling van de omvang van het loon wordt geen rekening gehouden met op de werknemer drukkende:
+a. geldboeten opgelegd door een strafrechter, geldsommen betaald aan een staat of een onderdeel daarvan ter voorkoming van strafvervolging, in het kader van een strafbeschikking of daarmee vergelijkbare buitenlandse wijze van bestraffing, dan wel ter voldoening aan een voorwaarde verbonden aan een besluit tot gratieverlening, bestuurlijke boeten en daarmee vergelijkbare buitenlandse boeten, geldboeten opgelegd op basis van bij wet geregeld tuchtrecht, geldboeten opgelegd door een instelling van de Europese Unie, alsmede kosten als bedoeld in de artikelen 234, vijfde lid, en 235, derde lid, van de Gemeentewet;
+b. dwangsommen als bedoeld in afdeling 5.3.2 van de Algemene wet bestuursrecht en daarmee vergelijkbare buitenlandse dwangsommen.

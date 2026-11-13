@@ -1,0 +1,2 @@
+# Artikel 7, tweede lid
+Deze bepaling vormt voor Partijen geen beletsel om in hun wetgeving te bepalen dat jeugdige personen die de vastgestelde minimumleeftijd nog niet hebben bereikt werkzaamheden mogen verrichten voor zover deze absoluut noodzakelijk zijn voor hun vakopleiding wanneer dergelijke werkzaamheden worden uitgevoerd overeenkomstig de door de bevoegde autoriteit vastgestelde voorwaarden en wanneer maatregelen worden getroffen om de gezondheid en veiligheid van deze jeugdige personen te beschermen.

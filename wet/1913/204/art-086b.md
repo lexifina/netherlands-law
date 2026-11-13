@@ -1,0 +1,2 @@
+# Artikel 86b
+De artikelen 19a, derde lid, 19b, tweede lid, 33, eerste lid, 44 en 47a, tweede lid, onderdeel c, zoals die luidden op de dag voorafgaand aan de inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, blijven van toepassing op de persoon wiens eerste werkdag waarop door hem wegens ziekte niet is gewerkt of het werken tijdens de werktijd is gestaakt, is gelegen voor of op die dag.

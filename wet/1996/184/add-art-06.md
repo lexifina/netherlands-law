@@ -1,0 +1,2 @@
+# Artikel VI
+Op besluiten tot het invoeren, wijzigen of afschaffen van gemeentelijke, provinciale en waterschapsbelastingen die zijn genomen voor de inwerkingtreding van deze wet, blijven de artikelen 218 tot en met 218b van de Gemeentewet, artikel 112 van de Waterschapswet, artikel 4, onder B, C en D van de Wet D'gemeenten en D'provincies en artikel 220 van de Provinciewet van toepassing, zoals die luidden voor de inwerkingtreding van deze wet. Artikel 13 van de Wet D'gemeenten en D'provincies is niet van toepassing.

@@ -1,2 +1,0 @@
-# Artikel 44b
-Indien naar het aanvankelijk oordeel van den procureur-fiscaal in een zaak als hoofdstraf gevangenisstraf van ten hoogste zes jaren, hechtenis of geldboete dient te worden opgelegd en de zaak naar zijn aanvankelijk oordeel voor vereenvoudigde gerechtelijke afdoening in aanmerking komt, stelt hij de stukken, al dan niet vergezeld van een schriftelijke vordering tot oplegging van een bepaalde straf, te dien einde in handen van den raadsheer.

@@ -1,0 +1,4 @@
+# Artikel 2.34ter. Reglement inzake gebruik van een collectief merk
+1. De aanvrager van een collectief merk moet bij de aanvraag het reglement inzake het gebruik daarvan indienen.
+2. Indien het evenwel gaat om een internationale aanvraag kan de aanvrager dit reglement nog indienen gedurende een termijn van zes maanden te rekenen vanaf de in artikel 3, sub (4), van de Overeenkomst en het Protocol van Madrid bedoelde kennisgeving van de internationale inschrijving.
+3. Het reglement bepaalt ten minste welke personen het merk mogen gebruiken, onder welke voorwaarden iemand tot de vereniging behoort en onder welke voorwaarden, met inbegrip van sancties, het merk kan worden gebruikt. Het reglement van een in artikel 2.34bis, lid 2, bedoeld merk stelt het lidmaatschap van de vereniging die houder is van dat merk, open voor eenieder wiens waren of diensten uit het betrokken geografische gebied afkomstig zijn, mits hij aan alle andere voorwaarden van het reglement voldoet.

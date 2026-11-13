@@ -1,0 +1,4 @@
+# Artikel II
+De Belgische Staat zal aan de Staat der Nederlanden een forfaitair bedrag te betalen van BF. 1.800.000,— (een miljoen achthonderdduizend Belgische frank) voor de schaden, in België veroorzaakt door troepen of militairen onder geallieerd bevel ten nadele van Nederlandse onderdanen die niet in België verblijven.
+Met de aanvaarding van deze forfaitaire afdoening verplicht de Staat der Nederlanden zich om uit het vermelde bedrag de in de voorgaande alinea vermelde schaden te vergoeden.
+De hierboven bedoelde betaling wordt door de Belgische Staat gedaan op basis van wederkerigheid, waarbij de Staat der Nederlanden van zijn kant zich verplicht om voor zijn rekening de vergoeding te voltooien van schaden die in Nederland zijn veroorzaakt door troepen of militairen onder geallieerd bevel ten nadele van Belgische onderdanen die niet in Nederland verblijven, welke vergoeding reeds bijna geheel door de Staat der Nederlanden is uitbetaald.

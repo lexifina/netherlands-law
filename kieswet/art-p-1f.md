@@ -1,7 +1,0 @@
-# Artikel P 1f
-1. Tenzij het betreft de verkiezing van de leden van de gemeenteraad, het algemeen bestuur of provinciale staten van een provincie die één kieskring vormt, stelt het centraal stembureau een corrigendum vast bij het proces-verbaal van een hoofdstembureau indien het nader onderzoek door een gemeentelijk stembureau, bedoeld in artikel P 1e, leidt tot een corrigendum bij het proces-verbaal van dat gemeentelijk stembureau.
-2. De in het corrigendum vastgelegde aantallen treden in de plaats van de aantallen zoals deze eerder door het hoofdstembureau in zijn proces-verbaal zijn opgenomen.
-3. Het corrigendum wordt ondertekend door de voorzitter van het centraal stembureau.
-4. Op het proces-verbaal van het hoofdstembureau wordt op een bij algemene maatregel van bestuur te regelen wijze aantekening gemaakt van het bestaan van het corrigendum.
-5. Het centraal stembureau brengt de inhoud van het met de programmatuur gegenereerde digitale bestand van de uitkomst van de stemming in een kieskring in overeenstemming met de processen-verbaal van het gemeentelijk stembureau en het hoofdstembureau met inachtneming van de correcties zoals deze in de corrigenda zijn opgenomen. Artikel O 6 is van overeenkomstige toepassing.
-6. Bij regeling van de Kiesraad wordt voor het corrigendum bij het proces-verbaal van het hoofdstembureau een model vastgesteld. Het door de Kiesraad vastgestelde model behoeft de goedkeuring van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.

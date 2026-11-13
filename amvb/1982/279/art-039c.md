@@ -1,0 +1,8 @@
+# Artikel 39c. Verlaging van de ontslagleeftijd wegens arbeid als militair onder bepaalde omstandigheden
+1. De voor een militair met toepassing van artikel 39, tweede lid onderdeel a, of artikel 39a, eerste tot en met vierde lid, vastgestelde datum van leeftijdsontslag wordt op aanvraag van deze militair vervroegd in verband met de buiten Nederland doorgebrachte inzet in het kader van een vredes- of humanitaire operatie, of het anderszins hebben verricht van arbeid onder omstandigheden waarbij de bepalingen van de Arbeidstijdenwet of van hoofdstuk 7 van dit besluit niet van toepassing waren.
+2. De in het eerste lid bedoelde vervroeging bedraagt ten hoogste:
+a. één derde van de tijd die vanaf 1 januari 1990 tot en met 31 december 2007 in het kader van een vredes- of humanitaire operatie buiten Nederland is doorgebracht;
+b. de helft van de tijd die vanaf 1 januari 2008 in het kader van een vredes- of humanitaire operatie buiten Nederland is doorgebracht; en
+c. de helft van de tijd vanaf 1 januari 2017 waarbij de militair voor ten minste zeven aaneengesloten dagen arbeid heeft verricht onder omstandigheden waarbij de bepalingen van de Arbeidstijdenwet of van hoofdstuk 7 van dit besluit niet van toepassing waren.
+3. Een aanvraag als bedoeld in het eerste lid wordt door de militair ten minste achttien maanden vóór de door de militair beoogde datum van leeftijdsontslag bij het bevoegde gezag ingediend.
+4. Op militairen aan wie op aanvraag leeftijdsontslag wordt verleend als bedoeld in artikel 39a, is het tweede lid, onderdeel c, niet van toepassing. De verlaging van de ontslagleeftijd voor deze militairen bedraagt maximaal twee jaren terwijl de ontslagleeftijd niet lager kan zijn dan achtenvijftig jaar.

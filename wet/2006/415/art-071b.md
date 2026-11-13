@@ -1,0 +1,4 @@
+# Artikel 71b
+1. Colleges, Jeugdregio's, jeugdhulpaanbieders, gecertificeerde instellingen en, indien het om landelijk gecontracteerde of te contracteren jeugdhulp gaat, de door gemeenten gezamenlijk in stand gehouden landelijk werkende organisatie belast met de contractering, verstrekken de zorgautoriteit gegevens en inlichtingen ter uitvoering van haar taak, bedoeld in artikel 9a.2 van de Jeugdwet.
+2. Bij ministeriële regeling bepalen Onze Minister en Onze Minister van Justitie en Veiligheid welke gegevens en inlichtingen op grond van het eerste lid verstrekt worden en of dat periodiek of incidenteel geschiedt.
+3. De gegevens, bedoeld in het tweede lid, kunnen persoonsgegevens betreffen, maar geen persoonsgegevens als bedoeld in artikel 4 van de Algemene verordening persoonsgegevens die betrekking hebben op jeugdigen als bedoeld in de Jeugdwet of hun ouders.

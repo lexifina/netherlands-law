@@ -1,0 +1,2 @@
+# Artikel V
+Inkomsten uit onroerende zaken (daaronder begrepen voordelen verkregen uit de verkoop van deze zaken, maar niet daaronder begrepen interest van vorderingen of obligaties, verzekerd door hypotheek op onroerende zaken) en royalty's ter zake van de exploitatie van mijnen, steengroeven of andere natuurlijke hulpbronnen, mogen worden belast in de Verdragsluitende Staat, waar deze zaken zijn gelegen.

@@ -1,0 +1,10 @@
+# Article V
+1. Recognition and enforcement of the award may be refused, at the request of the party against whom it is invoked, only if that party furnishes to the competent authority where the recognition and enforcement is sought, proof that:
+(a) The parties to the agreement referred to in article II were, under the law applicable to them, under some incapacity, or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of the country where the award was made; or
+(b) The party against whom the award is invoked was not given proper notice of the appointment of the arbitrator or of the arbitration proceedings or was otherwise unable to present his case; or
+(c) The award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognized and enforced; or
+(d) The composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties, or, failing such agreement, was not in accordance with the law of the country where the arbitration took place; or
+(e) The award has not yet become binding on the parties, or has been set aside or suspended by a competent authority of the country in which, or under the law of which, that award was made.
+2. Recognition and enforcement of an arbitral award may also be refused if the competent authority in the country where recognition and enforcement is sought finds that:
+(a) The subject matter of the difference is not capable of settlement by arbitration under the law of that country; or
+(b) The recognition or enforcement of the award would be contrary to the public policy of that country.

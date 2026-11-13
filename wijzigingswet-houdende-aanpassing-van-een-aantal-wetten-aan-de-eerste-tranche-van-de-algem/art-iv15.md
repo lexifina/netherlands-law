@@ -1,2 +1,0 @@
-# Artikel IV15
-[Bevat wijzigingen in andere regelgeving.]

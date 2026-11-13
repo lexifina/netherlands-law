@@ -1,0 +1,2 @@
+# Artikel 43a
+Bij toepassing van artikel 32 van de Wet op de loonbelasting 1964 is iedere inhoudingsplichtige die ingevolge het eerste lid van dat artikel samen met andere inhoudingsplichtigen als één inhoudingsplichtige wordt beschouwd hoofdelijk aansprakelijk voor de loonbelasting die deze inhoudingsplichtigen ingevolge dat artikel gezamenlijk zijn verschuldigd met betrekking tot vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, van de Wet op de loonbelasting 1964.

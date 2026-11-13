@@ -1,0 +1,6 @@
+# Artikel 2.30nonies. Reikwijdte van nietigheid en verval
+1. De nietigheid of het verval betreffen het teken, dat het merk vormt, in zijn geheel.
+2. Een vordering tot nietigverklaring of vervallenverklaring kan worden gericht tegen een deel of het geheel van de waren of diensten waarvoor het betwiste merk is ingeschreven en kan worden gebaseerd op een of meer oudere rechten, mits zij allemaal aan dezelfde houder toebehoren.
+3. Indien een grond voor nietig- of vervallenverklaring van een merk slechts bestaat voor een deel van de waren of diensten waarvoor dit merk is ingeschreven, betreft de nietig- of vervallenverklaring alleen die waren of diensten.
+4. Een ingeschreven merk wordt geacht de in dit verdrag bedoelde gevolgen niet te hebben gehad vanaf de datum van de vordering tot vervallenverklaring, voor zover de rechten van de houder vervallen zijn verklaard. In de beslissing over de vordering tot vervallenverklaring kan op verzoek van een van de partijen een vroegere datum worden vastgesteld waarop een van de gronden voor vervallenverklaring zich heeft voorgedaan.
+5. Een ingeschreven merk wordt geacht de in dit verdrag bedoelde gevolgen vanaf het begin niet te hebben gehad, voor zover het merk nietig is verklaard.

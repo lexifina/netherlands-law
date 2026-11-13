@@ -1,0 +1,67 @@
+# Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten
+
+Wtcb · 17 versions, from 2003-07-15 (latest in force: 2025-07-01) · <https://wetten.overheid.nl/BWBR0014779>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 5 | 2021-01-01 |
+| Art. 2 | [art-002.md](art-002.md) | 5 | 2021-01-01 |
+| Art. 2a | [art-002a.md](art-002a.md) | 1 | 2016-11-26 |
+| Art. 2b | [art-002b.md](art-002b.md) | 1 | 2016-11-26 |
+| Art. 2c | [art-002c.md](art-002c.md) | 1 | 2016-11-26 |
+| Art. 2d | [art-002d.md](art-002d.md) | 1 | 2016-11-26 |
+| Art. 2e | [art-002e.md](art-002e.md) | 1 | 2016-11-26 |
+| Art. 2f | [art-002f.md](art-002f.md) | 1 | 2016-11-26 |
+| Art. 2g | [art-002g.md](art-002g.md) | 2 | 2018-09-19 |
+| Art. 2h | [art-002h.md](art-002h.md) | 2 | 2021-01-01 |
+| Art. 2i | [art-002i.md](art-002i.md) | 1 | 2016-11-26 |
+| Art. 2j | [art-002j.md](art-002j.md) | 1 | 2016-11-26 |
+| Art. 2k | [art-002k.md](art-002k.md) | 1 | 2016-11-26 |
+| Art. 2l | [art-002l.md](art-002l.md) | 1 | 2016-11-26 |
+| Art. 2m | [art-002m.md](art-002m.md) | 1 | 2016-11-26 |
+| Art. 2n | [art-002n.md](art-002n.md) | 1 | 2016-11-26 |
+| Art. 2o | [art-002o.md](art-002o.md) | 1 | 2016-11-26 |
+| Art. 2p | [art-002p.md](art-002p.md) | 1 | 2016-11-26 |
+| Art. 2q | [art-002q.md](art-002q.md) | 1 | 2016-11-26 |
+| Art. 2r | [art-002r.md](art-002r.md) | 1 | 2016-11-26 |
+| Art. 3 | [art-003.md](art-003.md) | 4 | 2021-01-01 |
+| Art. 4 | [art-004.md](art-004.md) | 1 | 2013-04-01 |
+| Art. 5 | [art-005.md](art-005.md) | 4 | 2021-01-01 |
+| Art. 5a | [art-005a.md](art-005a.md) | 1 | 2016-11-26 |
+| Art. 5aa | [art-005aa.md](art-005aa.md) | 1 | 2022-07-01 |
+| Art. 5b | [art-005b.md](art-005b.md) | 1 | 2016-11-26 |
+| Art. 5c | [art-005c.md](art-005c.md) | 1 | 2016-11-26 |
+| Art. 5d | [art-005d.md](art-005d.md) | 1 | 2016-11-26 |
+| Art. 5e | [art-005e.md](art-005e.md) | 1 | 2016-11-26 |
+| Art. 5f | [art-005f.md](art-005f.md) | 1 | 2016-11-26 |
+| Art. 5g | [art-005g.md](art-005g.md) | 1 | 2016-11-26 |
+| Art. 5h | [art-005h.md](art-005h.md) | 1 | 2016-11-26 |
+| Art. 5i | [art-005i.md](art-005i.md) | 1 | 2016-11-26 |
+| Art. 5j | [art-005j.md](art-005j.md) | 1 | 2016-11-26 |
+| Art. 5k | [art-005k.md](art-005k.md) | 1 | 2021-06-07 |
+| Art. 6 | [art-006.md](art-006.md) | 2 | 2021-01-01 |
+| Art. 7 | [art-007.md](art-007.md) | 3 | 2021-01-01 |
+| Art. 8 | [art-008.md](art-008.md) | 2 | 2014-01-01 |
+| Art. 9 | [art-009.md](art-009.md) | 2 | 2014-01-01 |
+| Art. 12 | [art-012.md](art-012.md) | 3 | 2021-01-01 |
+| Art. 13 | [art-013.md](art-013.md) | 1 | 2014-01-01 |
+| Art. 14 | [art-014.md](art-014.md) | 1 | 2013-07-01 |
+| Art. 15 | [art-015.md](art-015.md) | 3 | 2021-01-01 |
+| Art. 16 | [art-016.md](art-016.md) | 2 | 2021-07-01 |
+| Art. 17 | [art-017.md](art-017.md) | 3 | 2018-09-19 |
+| Art. 17a | [art-017a.md](art-017a.md) | 1 | 2021-01-01 |
+| Art. 17b | [art-017b.md](art-017b.md) | 1 | 2021-01-01 |
+| Art. 18 | [art-018.md](art-018.md) | 2 | 2021-01-01 |
+| Art. 19 | [art-019.md](art-019.md) | 4 | 2025-07-01 |
+| Art. 22 | [art-022.md](art-022.md) | 2 | 2016-11-26 |
+| Art. 23 | [art-023.md](art-023.md) | 3 | 2021-01-01 |
+| Art. 24 | [art-024.md](art-024.md) | 3 | 2022-10-01 |
+| Art. 25 | [art-025.md](art-025.md) | 2 | 2016-11-26 |
+| Art. 25a | [art-025a.md](art-025a.md) | 5 | 2021-01-01 |
+| Art. 25b | [art-025b.md](art-025b.md) | 1 | 2016-11-26 |
+| Art. 25c | [art-025c.md](art-025c.md) | 1 | 2016-11-26 |
+| Art. 25d | [art-025d.md](art-025d.md) | 1 | 2016-11-26 |
+| Art. 26 | [art-026.md](art-026.md) | 1 | 2013-07-01 |
+| Art. 27 | [art-027.md](art-027.md) | 1 | 2013-07-01 |
+| Art. 28 | [art-028.md](art-028.md) | 1 | 2013-07-01 |
+| Art. 29 | [art-029.md](art-029.md) | 1 | 2013-07-01 |

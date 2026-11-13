@@ -1,0 +1,2 @@
+# Artikel XV. Kennisgeving der ondertekeningen, bekrachtigingen, aanvaardingen en toetredingen
+1. De Secretaris-Generaal der Verenigde Naties zal aan alle ondertekenende en toetredende Staten, en aan alle andere Staten welke hierom verzoeken, kennis geven van de ondertekeningen, bekrachtigingen en aanvaardingen van deze Overeenkomst, en van de toetredingen tot deze Overeenkomst; hij zal hun eveneens kennis geven van de datum waarop de Overeenkomst in werking zal treden en van elke mededeling welke hij heeft ontvangen krachtens artikel XII of XIII.

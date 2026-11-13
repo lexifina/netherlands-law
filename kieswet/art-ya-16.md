@@ -1,2 +1,0 @@
-# Artikel Ya 16
-In de artikelen H 10, eerste lid, I 2, eerste lid, onderdeel e, en I 6, eerste lid, onderdeel c, wordt in plaats van «het Europese deel van Nederland» telkens gelezen «het openbaar lichaam waar hij zich kandidaat stelt» en in artikel H 10, eerste lid, wordt in plaats van «in één van de openbare lichamen Bonaire, Sint Eustatius en Saba» gelezen: in Nederland, maar niet in één van de openbare lichamen Bonaire, Sint Eustatius en Saba.

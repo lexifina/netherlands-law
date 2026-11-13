@@ -1,0 +1,2 @@
+# Artikel 18a. Afwijking van de maximum toegestane aangewezen luchtsnelheid voor militaire jachtvliegtuigen
+De snelheidsbeperking in paragraaf SERA.6001, onderdelen c tot en met g, van verordening (EU) nr. 923/2012 is niet van toepassing op VFR-vluchten en IFR-vluchten die worden aangemerkt als OAT en worden uitgevoerd door militaire jachtvliegtuigen waarvan de minimum luchtsnelheid meer dan 250 kts aangewezen luchtsnelheid (IAS) bedraagt, onder de voorwaarde dat het vliegzicht, uitgezonderd binnen plaatselijke luchtverkeersleidingsgebieden, minimaal 8 km bedraagt.

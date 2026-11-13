@@ -1,0 +1,3 @@
+# Artikel VII
+1. Dit Protocol treedt in werking drie maanden na de datum van nederlegging van akten van bekrachtiging, aanvaarding, goedkeuring of toetreding door ten minste vijf Staten die Partij zijn bij het Verdrag van Wenen en vijf Staten die Partij zijn bij het Verdrag van Parijs. Voor elke Staat die dit Protocol bekrachtigt, aanvaardt of goedkeurt, dan wel hiertoe toetreedt na de nederlegging van de bovengenoemde akten treedt dit Protocol in werking drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+2. Dit Protocol blijft van kracht zolang het Verdrag van Wenen en het Verdrag van Parijs van kracht zijn.

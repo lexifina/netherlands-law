@@ -1,0 +1,3 @@
+# Rule 62a. Applications containing a plurality of independent claims
+1. If the European Patent Office considers that the claims as filed do not comply with Rule 43, paragraph 2, it shall invite the applicant to indicate, within a period of two months, the claims complying with Rule 43, paragraph 2, on the basis of which the search is to be carried out. If the applicant fails to provide such an indication in due time, the search shall be carried out on the basis of the first claim in each category.
+2. The Examining Division shall invite the applicant to restrict the claims to the subject-matter searched unless it finds that the objection under paragraph 1 was not justified.

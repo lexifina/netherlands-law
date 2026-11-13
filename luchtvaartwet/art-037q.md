@@ -1,3 +1,0 @@
-# Artikel 37q
-1. In verband met de taakuitoefening, bedoeld in artikel 37o, eerste en tweede lid, kan Onze Minister van Justitie en Veiligheid onderzoek doen naar de betrouwbaarheid van personen werkzaam voor de aanvrager van een erkenning, als bedoeld in artikel 37o, eerste en tweede lid en voor de houder van een erkenning, als bedoeld in artikel 37o, eerste lid. Hij kan daartoe inlichtingen en inzage van zakelijke gegevens en bescheiden vragen alsmede kopieën daarvan maken, alsmede politiegegevens raadplegen overeenkomstig het bepaalde bij of krachtens de Wet politiegegevens.
-2. Onze Minister van Justitie en Veiligheid kan de bevoegdheid, bedoeld in het eerste lid, mandateren aan de commandant van de Koninklijke marechaussee.

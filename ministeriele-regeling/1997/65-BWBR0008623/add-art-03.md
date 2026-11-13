@@ -1,0 +1,2 @@
+# III. SZW-subsidie
+Hier vult u het bedrag in dat volgens uw berekening door uitvoering van de SZW-regeling voor subsidie in aanmerking komt. Voor de wijze waarop dit bedrag dient te worden berekend wordt verwezen naar de toelichting bij artikel 5 van de regeling. De hoogte van het hier te vermelden bedrag wordt enerzijds begrensd door het maximale voorschot 1997 zoals vermeld onder ad I en anderzijds door het maximale subsidiebedrag zoals berekend onder II ad 4. Het laagste van deze twee bedragen is het maximale subsidiebedrag voor 1997

@@ -1,0 +1,11 @@
+# Artikel II
+In verband met een project verbindt de Regering van de Arabische Republiek Jemen zich ertoe:
+a. het Nederlandse personeel vrij te stellen van alle belastingen en andere fiscale heffingen ten aanzien van alle hun door de Nederlandse Regering betaalde vergoedingen;
+b. het Nederlandse personeel vrij te stellen van invoer- en douanerechten, zowel op nieuwe of gebruikte huishoudelijke artikelen en persoonlijke bezittingen, als op beroepsuitrusting, ingevoerd in Jemen binnen zes maanden na de aankomst van henzelf of van hun gezinsleden op het grondgebied van Jemen, mits zodanige goederen weer uit Jemen worden uitgevoerd bij vertrek of binnen de termijn die door de Regering van de Arabische Republiek Jemen zal worden toegestaan;
+c. de invoer te regelen, vrij van rechten, of de aankoop uit entrepot van één motorvoertuig door het Nederlandse personeel binnen zes maanden na de eerste aankomst van henzelf of hun gezinsleden op het grondgebied van Jemen, mits over dit motorvoertuig, indien het wordt verkocht aan iemand die niet dezelfde voorrechten geniet, passende invoerrechten worden betaald, op basis van de geschatte waarde van het voertuig op het tijdstip van de verkoop;
+d. het Nederlandse personeel vrij te stellen van invoer- en douanerechten op een redelijke hoeveelheid consumptiegoederen binnen de door de Jemenitische Minister van Buitenlandse Zaken aangegeven grenzen;
+e. de kosteloze verschaffing van inreisvisa en werkvergunningen te regelen aan het door de Nederlandse Regering bij een project te werk gestelde of te werk te stellen Nederlandse personeel;
+f. het Nederlandse personeel de gunstigste wisselfaciliteiten te verlenen, te weten rekeningen voor niet-ingezetenen, voor al hun Nederlandse vergoedingen;
+g. het Nederlandse personeel en hun gezinnen in Jemen de mogelijkheid te bieden tot repatriëring in tijden van nationale of internationale crises;
+h. het Nederlandse personeel te vrijwaren tegen rechtsvervolging op grond van enig handelen of enig gesproken of geschreven woord in hun officiële hoedanigheid;
+i. het Nederlandse personeel identiteitspapieren te verschaffen ten einde hen te verzekeren van de volledige bijstand van de desbetreffende Jemenitische autoriteiten bij de uitvoering van hun taak.

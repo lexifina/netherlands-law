@@ -1,0 +1,7 @@
+# Artikel V. Buitengewoon besluit Arbeidsverhoudingen 1945
+De volgende regelingen worden ingetrokken:
+a. Beschikking van 1 juli 1952 van de Minister van Sociale Zaken en Volksgezondheid, nr. 2206, houdende ontheffing van artikel 6, vijfde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 ten aanzien van werknemers, die in verband met enige vorm van mindere validiteit in z.g. beschutte werkplaatsen werkzaam zijn, (Stcrt. 129);
+b. Beschikking van 10 november 1952 van de Staatssecretaris van Sociale Zaken, nr. 4362, houdende ontheffing van artikel 6, eerste lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 op de beëindiging van de arbeidsverhouding gedurende een bedongen proeftijd, (Stcrt. 220);
+c. Besluit van 21 november 1972 van de Minister van Sociale Zaken, nr. NO31553, houdende ontheffing van artikel 6, vijfde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 ten aanzien van bestuurders van naamloze vennootschappen en besloten vennootschappen, (Stcrt. 234);
+d. Regeling van 9 december 1998 van de Minister van Sociale Zaken en Werkgelegenheid, nr. A&O/BS/98/39634, houdende een regeling met betrekking tot het verslag, bedoeld in artikel 6, zevende lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Regeling verslaglegging), (Stcrt. 238);
+e. Regeling van 16 juli 1999 van de Minister van Sociale Zaken en Werkgelegenheid, nr. A&O/BS/1999/41883, houdende aanwijzing van een rechtspersoon ex art. 2 Regeling verslaglegging, (Stcrt. 147).

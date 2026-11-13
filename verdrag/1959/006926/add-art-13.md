@@ -1,0 +1,7 @@
+# Article XIII
+1. The present Treaty shall be subject to ratification by the signatory States. Is shall be open for accession by any State which is a Member of the United Nations, or by any other State which may be invited to accede to the Treaty with the consent of all the Contracting Parties whose representatives are entitled to participate in the meetings provided for under Article IX of the Treaty.
+2. Ratification of or accession to the present Treaty shall be effected by each State in accordance with its constitutional processes.
+3. Instruments of ratification and instruments of accession shall be deposited with the Government of the United States of America, hereby designated as the depositary Government.
+4. The depositary Government shall inform all signatory and acceding States of the date of each deposit of an instrument of ratification or accession, and the date of entry into force of the Treaty and of any modification or amendment thereto.
+5. Upon the deposit of instruments of ratification by all the signatory States, the present Treaty shall enter into force for those States and for States which have deposited instruments of accession. Thereafter the Treaty shall enter into force for any acceding State upon the deposit of its instrument of accession.
+6. The present Treaty shall be registered by the depositary Government pursuant to Article 102 of the Charter of the United Nations.

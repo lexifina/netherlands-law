@@ -1,2 +1,0 @@
-# Artikel IX8
-[Bevat wijzigingen in andere regelgeving.]

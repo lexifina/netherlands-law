@@ -1,4 +1,0 @@
-# Artikel 10d
-Indien een distributeur van mening is, of redenen heeft om aan te nemen, dat een door hem op de markt aangeboden pyrotechnisch artikel niet in overeenstemming is met de eisen uit deze regeling:
-a. ziet hij erop toe dat de nodige corrigerende maatregelen worden genomen om dat artikel in overeenstemming te brengen of zo nodig uit de handel te nemen of terug te roepen; en
-b. brengt hij, indien het artikel een risico vertoont, de bevoegde autoriteiten van de lidstaten waar hij het artikel op de markt heeft aangeboden hiervan onmiddellijk op de hoogte. Indien hij de artikelen in Nederland op de markt heeft aangeboden, brengt hij de bevoegde autoriteit hiervan onmiddellijk op de hoogte. Bij het op de hoogte brengen van deze autoriteiten beschrijft de distributeur in het bijzonder uitvoerig de niet-conformiteit en alle genomen corrigerende maatregelen.

@@ -1,0 +1,3 @@
+# Article XXX
+Un État membre volontairement démissionnaire peut être réintégré sur sa simple demande. Il est considéré alors comme un nouvel État membre, mais le droit d'entrée n'est exigible que si sa démission date de plus de cinq ans.
+Un État membre démissionnaire d'office peut être réintégré sur sa simple demande sous réserve du règlement de ses cotisations impayées au moment de sa radiation. Ces cotisations rétroactives sont calculées sur la base des cotisations des années antérieures à sa réintégration. Il est ensuite considéré comme un nouvel État membre, mais le droit d'entrée est calculé en tenant compte, dans des proportions fixées par la Conférence, de ses cotisations antérieures.

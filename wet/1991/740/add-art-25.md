@@ -1,0 +1,6 @@
+# Artikel XXV
+1. Branders, distillateurs van de eerste klasse en houders van kredietbergplaatsen als bedoeld in hoofdstuk I, afdeling 2, van de Wet op de accijns van alcoholhoudende stoffen doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 in hun kredietpanden aanwezige hoeveelheid alcoholhoudende stoffen.
+2. De aangifte wordt gedaan in liters absolute alcohol bij een temperatuur van 20°C.
+3. De inspecteur sluit de rekening die hij houdt met de brander, distillateur van de eerste klasse of houder van de kredietbergplaats af overeenkomstig de bepalingen van Hoofdstuk I, afdeling 5, van de Wet op de accijns van alcoholhoudende stoffen. De in het eerste lid bedoelde aangifte wordt aangemerkt als een peilbewijs in de zin van de vorenbedoelde afdeling 5.
+4. Van een bevonden ondermaat wordt de accijns voldaan overeenkomstig artikel 44 van de Wet op de accijns van alcoholhoudende stoffen.
+5. De aan het eind van 31 december 1991 volgens de afsluiting van de rekening aanwezige hoeveelheid alcoholhoudende stoffen, met inbegrip van de eventueel bevonden overmaat, wordt aangemerkt als te zijn uitgeslagen uit het kredietpand van de brander, distillateur van de eerste klasse, of houder van een kredietbergplaats en te zijn ingeslagen in zijn accijnsgoederenplaats. Ter zake van deze uitslag wordt de rekening gezuiverd.

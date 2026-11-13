@@ -1,0 +1,5 @@
+# Artikel VIII
+1. Deze Overeenkomst treedt in werking op de dag waarop de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Tunesië elkaar schriftelijk ervan in kennis stellen dat in hun beide landen aan de vereiste grondwettelijke procedures is voldaan.
+2. Deze Overeenkomst geldt voor een periode van vijf jaar. Zij wordt geacht stilzwijgend te zijn verlengd, telkens voor een periode van drie jaar, indien zij niet door een der Partijen schriftelijk is opgezegd uiterlijk zes maanden voor het einde van de lopende periode.
+3. In geval van opzegging behouden de deskundigen, leerkrachten en specialisten hun bijzondere positie tot het einde van het lopende jaar. Zij die een studiebeurs hebben of een stage lopen, blijven, indien zij met succes examens hebben afgelegd, vallen onder de bepalingen van deze Overeenkomst tot het normale einde van de studie of de opleiding waarvoor de beurs is verleend.
+4. De beide Partijen zullen overleg plegen over de voltooiing der projecten waarmede ingevolge deze Overeenkomst een begin is gemaakt.

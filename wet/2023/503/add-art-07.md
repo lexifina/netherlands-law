@@ -1,0 +1,2 @@
+# Artikel VII
+Indien een lichaam als gevolg van de inwerkingtreding van artikel II, onderdeel B, niet langer kwalificeert als vrijgestelde beleggingsinstelling als bedoeld in artikel 6a van de Wet op de vennootschapsbelasting 1969 en het boekjaar van dat lichaam niet gelijk is aan het kalenderjaar, wordt dat lichaam, in afwijking in zoverre van artikel 6a, zesde lid, van die wet, met ingang van het tijdstip van inwerkingtreding van artikel II, onderdeel B, niet langer als vrijgestelde beleggingsinstelling aangemerkt.

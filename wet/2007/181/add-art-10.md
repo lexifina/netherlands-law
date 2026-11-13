@@ -1,0 +1,2 @@
+# Artikel X
+Ten aanzien van de voor het tijdstip van inwerkingtreding van artikel IX overeenkomstig artikel 3, onderscheidenlijk artikel 13, eerste lid, van de Wet milieugevaarlijke stoffen gedane kennisgevingen, onderscheidenlijk meldingen, en overeenkomstig artikel 14, eerste lid, of 15, eerste lid, van die wet verstrekte gegevens, blijven de bij of krachtens die wet gestelde regels, zoals die onmiddellijk voorafgaand aan dat tijdstip luidden, van toepassing tot het tijdstip waarop twee maanden na dat tijdstip datum zijn verstreken.

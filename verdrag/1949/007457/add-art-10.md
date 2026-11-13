@@ -1,0 +1,4 @@
+# Article X
+Chaque Partie Contractante pourra à tout moment notifier à l'autre Partie Contractante son désir de dénoncer le présent Accord. Une telle dénonciation doit être faite en même temps à l'Organisation de l'Aviation Civile Internationale.
+Le présent Accord cessera d'avoir effet dès la date communiquée dans ladite notification, mais en tout cas, douze mois au moins à partir du jour où la deuxième Partie Contractante en aura reçu communication. Cette communication de dénonciation pourra être remplacée par un accord ultérieur passé avant l'échéance du délai susdit.
+Au cas où l'autre Partie Contractante omettrait d'en accuser réception, on considérera la communication comme parvenue à son adresse 14 jours après la réception de la même communication par l'Organisation de l'Aviation Civile Internationale.

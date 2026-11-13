@@ -1,0 +1,4 @@
+# Artikel 333ha
+1. In afwijking van artikel 316 lid 2, eerste zin, kan iedere schuldeiser tot drie maanden nadat alle te fuseren vennootschappen de nederlegging of openbaarmaking van het fusievoorstel hebben aangekondigd door het indienen van een verzoek bij de rechtbank tegen dit voorstel in verzet komen met vermelding van de waarborg die wordt verlangd.
+2. De op grond van artikel 316 aan de schuldeiser toegekende waarborgen zijn afhankelijk van de voorwaarde dat de fusie van kracht wordt.
+3. In afwijking van artikel 316 leden 4 en 5 mag, indien tijdig verzet is gedaan, de verklaring in de zin van artikel 333i lid 3 door de notaris eerst worden afgegeven, zodra het verzet is ingetrokken of de opheffing van het verzet uitvoerbaar is. Indien de verklaring al is afgegeven, kan de rechter op een ingesteld rechtsmiddel het stellen van een door hem omschreven waarborg bevelen en daaraan een dwangsom verbinden.

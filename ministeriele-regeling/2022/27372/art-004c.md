@@ -1,0 +1,3 @@
+# Artikel 4c
+1. De Head of Operations – Iran, Iraq, Kuwait and Lebanon van VFS Global in Erbil is ten behoeve van het VFS Global Office in Erbil bevoegd tot het in ontvangst nemen van vervolgaanvragen voor en het uitreiken van nationale paspoorten, Nederlandse identiteitskaarten en tweede paspoorten naar aanleiding van die aanvragen, bedoeld in artikel 1, eerste lid, onder a, b en f.
+2. De Head of Operations – Iran, Iraq, Kuwait and Lebanon van VFS Global in Erbil kan met betrekking tot zijn bevoegdheden, bedoeld in het eerste lid, machtiging verlenen aan één of meer onder hem ressorterende medewerkers.

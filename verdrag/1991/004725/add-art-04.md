@@ -1,0 +1,2 @@
+# IV. Ad Articles 5, 6, 13 and 23
+It is understood that exploration and exploitation rights of the sea-bed and its subsoil and their natural resources shall be regarded as immovable property situated in the Contracting State the sea-bed and subsoil of which they are related to, and that these rights shall be deemed to pertain to the property of a permanent establishment in that State. Furthermore, it is understood that the afore-mentioned rights include rights to interests in, or to benefits of, assets to be produced by such exploration or exploitation.

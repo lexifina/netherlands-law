@@ -1,0 +1,15 @@
+# Artikel 4a. Toerekening afgezonderd particulier vermogen
+1. Degene die als begunstigde een juridisch afdwingbaar recht heeft ten laste van een afgezonderd particulier vermogen, wordt in zoverre in de belastingheffing betrokken.
+2. Indien aan twee of meer personen de bezittingen en schulden alsmede de opbrengsten en uitgaven van een afgezonderd particulier vermogen worden toegerekend, wordt bij deze toerekening aangesloten bij de waarde van hetgeen ten tijde van de afzondering door ieder van de bedoelde personen of hun rechtsvoorgangers is afgezonderd in de zin van artikel 2.14a, derde lid, van de wet. Met uitkeringen uit het vermogen van het afgezonderd particulier vermogen wordt op overeenkomstige wijze rekening gehouden.
+3. Ingeval bij een afzondering van vermogen in een afgezonderd particulier vermogen niet bekend is welk vermogen door iemand is afgezonderd, vindt toerekening van dit vermogen plaats naar rato van het aantal personen dat vermogen daarin heeft afgezonderd.
+4. Onder het onder in het maatschappelijk verkeer ongebruikelijke voorwaarden rechtens dan wel in feite, direct of indirect, afzonderen van vermogensbestanddelen in een afgezonderd particulier vermogen, bedoeld in artikel 2.14a, derde lid, onderdeel a, van de wet, wordt mede verstaan:
+a. het vervreemden van vermogensbestanddelen aan een afgezonderd particulier vermogen tegen een prijs die afwijkt van de waarde in het economische verkeer;
+b. het bedingen van voorwaarden bij het vervreemden van vermogensbestanddelen aan een afgezonderd particulier vermogen die niet overeenkomen met voorwaarden die in het maatschappelijk verkeer gebruikelijk zijn;
+c. het inbrengen van vermogensbestanddelen in een afgezonderd particulier vermogen waarbij de inbreng en daarmee samenhangende rechtshandelingen gericht zijn op of direct of indirect verband houden met het ontgaan of uitstellen van de toerekening, bedoeld in artikel 2.14a, eerste lid, van de wet.
+5. Bezittingen en schulden van een afgezonderd particulier vermogen worden in aanmerking genomen naar de waarde in het economisch verkeer die zou gelden als deze bezittingen en schulden deel zouden uitmaken van het vermogen van degene aan wie de bezittingen en schulden van het afgezonderd particulier vermogen worden toegerekend.
+6. De erfgenaam die gebruik wil maken van de tegenbewijsregeling, bedoeld in artikel 2.14a, zesde lid, van de wet, dient ten minste de volgende gegevens aan de inspecteur over te leggen:
+a. een beschrijving van het soort afgezonderd particulier vermogen en land van vestiging;
+b. de oprichtingsakte van het afgezonderd particulier vermogen inclusief bijlagen (zoals instructies, reglementen, letter of wishes, statuten);
+c. de meest actuele jaarstukken van het afgezonderd particulier vermogen over minimaal drie jaren;
+d. naam- en adresgegevens van de inbrenger van het vermogen en van de overige erfgenamen;
+e. alle overige stukken waaruit blijkt dat de bedoelde erfgenaam geen begunstigde is van het afgezonderd particulier vermogen en dit in de toekomst ook nooit kan worden.

@@ -1,0 +1,2 @@
+# Artikel XXIV
+Artikel 3.119a, vijfde lid, onderdeel c, van de Wet inkomstenbelasting 2001, zoals dit luidde op 31 december 2009, blijft van toepassing op eigenwoningreserves als bedoeld in artikel 3.119a, vierde lid, van de Wet inkomstenbelasting 2001 die als gevolg van de toepassing van artikel 3.119a, tweede lid, van die wet, zoals dit luidde op 31 december 2009, of als gevolg van de toepassing van artikel XXVIB van de Fiscale vereenvoudigingswet 2010, zijn blijven bestaan.

@@ -1,0 +1,4 @@
+# Article 1er
+1. Les entreprises établies aux Pays-Bas ou au Portugal sont autorisées à effectuer des transports de voyageurs ou de marchandises au moyen de véhicules immatriculés dans l'un ou l'autre des deux Pays, soit entre les territoires des deux Parties Contractantes, soit en transit sur le territoire de l'une ou l'autre des Parties Contractantes, dans les conditions définies par le présent Accord.
+2. Sont interdits les transports internes de voyageurs ou de marchandises, effectués entre deux lieux situés sur le territoire d'une Partie Contractante, au moyen d'un véhicule immatriculé dans le territoire de l'autre Partie Contractante.
+3. En ce qui concerne le transport de marchandises, les Parties Contractantes pourront s'accorder pour permettre des transports vers un pays tiers, conformément aux conditions stipulées dans le Protocole mentionné à l'article 19 du présent Accord.

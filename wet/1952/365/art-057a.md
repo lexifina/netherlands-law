@@ -1,0 +1,2 @@
+# Artikel 57a
+Indien het hof van discipline bij oplegging van de maatregel van schorsing beslist dat deze, overeenkomstig het in artikel 48a bepaalde, geheel of gedeeltelijk niet ten uitvoer zal worden gelegd, wordt de beslissing over de tenuitvoerlegging overgelaten aan de raad van discipline die in eerste aanleg over de klacht heeft geoordeeld. De artikelen 48b tot en met 48g zijn van overeenkomstige toepassing.

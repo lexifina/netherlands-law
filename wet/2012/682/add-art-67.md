@@ -1,0 +1,2 @@
+# Artikel LXVII
+[Vervallen]

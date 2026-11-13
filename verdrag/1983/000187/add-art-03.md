@@ -1,0 +1,6 @@
+# Artikel III
+Meerekenbaar zijn:
+a) Voorraden gelegen in Nederland in opslagruimten die niet toebehoren aan, noch gehuurd zijn door, noch uit andere titel in gebruik zijn bij in Nederland voorraadplichtigen of ondernemingen die in een groep met Nederlandse voorraadplichtigen verbonden zijn dan wel ondernemingen waarin Nederlandse voorraadplichtigen een belangrijke zeggenschap hebben en ten aanzien waarvan Luxemburgse voorraadplichtigen beschikkingsbevoegd zijn.
+Toestemming tot meerekenen van deze voorraden dient vooraf te worden verleend door de Luxemburgse Minister welke verantwoordelijk is voor de aardolieprodukten. Voor het aanhouden van deze voorraden is in het kader van deze Overeenkomst van de Nederlandse Minister van Economische Zaken geen toestemming vereist.
+b) Voorraden, gelegen in Nederland in opslagruimten die toebehoren aan, gehuurd zijn door, of uit andere titel in gebruik zijn bij Nederlandse voorraadplichtigen of ondernemingen die met Nederlandse voorraadplichtigen in een groep verbonden zijn dan wel ondernemingen waarin Nederlandse voorraadplichtigen een belangrijke zeggenschap hebben.
+Toestemming tot het aanhouden van deze voorraden door Nederlandse voorraadplichtigen en tot het meerekenen ervan door Luxemburgse voorraadplichtigen dient vooraf te worden gevraagd bij de Nederlandse Minister van Economische Zaken.

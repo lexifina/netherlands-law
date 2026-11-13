@@ -1,0 +1,3 @@
+# Artikel 75a
+1. Het bureau schrijft het processtuk waarbij een rechtsvordering tot vernietiging van een Europees octrooi bij het Eengemaakt Octrooigerecht wordt ingeleid, op verzoek van degene die de rechtsvordering heeft ingesteld, in in het octrooiregister.
+2. Het bureau tekent de eindbeslissing van het Eengemaakt Octrooigerecht aangaande een vordering tot vernietiging van een Europees octrooi, die in kracht van gewijsde is gegaan, op verzoek van de partij die de eindbeslissing ter aantekening in het octrooiregister heeft aangeboden, dan wel na toezending van de eindbeslissing door het Eengemaakt Octrooigerecht, aan in het octrooiregister.

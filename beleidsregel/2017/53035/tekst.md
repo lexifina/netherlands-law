@@ -1,0 +1,80 @@
+# Tekst
+De Staatssecretaris van Financiën heeft het volgende besloten.
+Dit besluit is een actualisering van het besluit van 6 februari 2010, nr. DGB2010/270M. Het besluit is aangepast aan jurisprudentie van het Hof van Justitie (onderdelen 3.1, en 3.3). Ook is het begrip 'verzorgingsflat' in onderdeel 3.1 verduidelijkt. In onderdeel 3.2 is de reikwijdte van de vrijstelling voor prestaties die nauw samenhangen met de verzorging en verpleging van in een inrichting opgenomen personen verduidelijkt. Dit besluit bevat ook beleidswijzigingen (onderdeel 4.1). In onderdeel 4.1 is de goedkeuring voor commerciële verpleeg- en verzorgingsinrichtingen aangepast. Deze geldt nu ook voor het verstrekken van spijzen en dranken. Ook is aangegeven dat commerciële verpleeg- en/of zorginstellingen die ervoor kiezen geen gebruik (meer) te maken van de goedkeuring op die keuze niet kunnen terugkomen. Onderdeel 4.3 is gewijzigd naar aanleiding van de met ingang van 1 januari 2014 in werking getreden gewijzigde tekst van Bijlage B, post 23 behorende bij het Uitvoeringsbesluit omzetbelasting 1968. Als gevolg hiervan is de term 'andere instellingen' in post 23 komen te vervallen. De goedkeuring voor de dienstverlening door apothekers in onderdeel 4.4 van het besluit van 6 februari 2010, DGB2010/270M is ingetrokken. De goedkeuring is overbodig omdat apothekers die adviseren over het individuele medicijnverbruik van in een inrichting opgenomen personen (ook als de apotheker deze medicijnen niet levert) diensten verrichten die als gezondheidskundige verzorging zijn aan te merken en daarom al zijn vrijgesteld op grond van artikel 11, eerste lid, onderdeel g, ten 1e, van de Wet op de omzetbelasting 1968. Daarnaast werd in de praktijk een (niet gewenste) ruimere uitleg aan de goedkeuring gegeven doordat de goedkeuring bijvoorbeeld ook wel werd toegepast op het samenstellen van protocollen voor de medicijnverstrekking.
+Dit besluit werd gewijzigd bij besluit van 14 december 2018, nr. 2018-12854 (Stcrt. 72654). De wijziging betrof de intrekking van de tweede alinea van onderdeel 3.2. In die alinea ging het over het ter beschikking stellen van personeel als nauw samenhangende prestatie bij het verzorgen en verplegen van in een inrichting opgenomen personen. Dat onderwerp is nu opgenomen in het besluit Omzetbelasting. Ter beschikking stelling van personeel.
+## 1 Inleiding.
+De wet bevat een vrijstelling van btw voor prestaties die zien op het verzorgen en verplegen van de in een inrichting opgenomen personen en handelingen die daarmee nauw samenhangen (artikel 11, eerste lid, onderdeel c, van de Wet op de omzetbelasting 1968). Voorwaarde voor de vrijstelling is dat met de prestaties geen winst mag worden beoogd.
+Als de (zorg)inrichting ook andere prestaties verricht, dan kan op die prestaties een andere vrijstelling van toepassing zijn. De belangrijkste zijn de medische vrijstelling (artikel 11, eerste lid, onderdeel g, van de Wet op de omzetbelasting 1968) en de sociaal-culturele vrijstelling (artikel 11, eerste lid, onderdeel f, van de Wet op de omzetbelasting 1968 in verbinding met artikel 7, van het Uitvoeringsbesluit omzetbelasting 1968 en de bij dat besluit behorende Bijlage B, onderdeel b, post 9, 13 en 23). Een voorwaarde voor de toepassing van de vrijstelling van artikel 11, eerste lid, onderdeel f, van de Wet op de omzetbelasting 1968 is dat met de prestaties geen winst wordt beoogd.
+Onderdeel 3 van dit besluit gaat in op de reikwijdte van de vrijstelling. Onderdeel 4 bevat enkele goedkeuringen. In onderdeel 5 zijn de besluiten opgenomen die bij de inwerkingtreding van dit besluit worden ingetrokken. Onderdeel 6 regelt de inwerkingtreding van dit besluit.
+## 1.1 Gebruikte begrippen en afkortingen.
+Btw: Omzetbelasting
+wet: Wet op de omzetbelasting 1968
+besluit: Uitvoeringsbesluit omzetbelasting 1968
+beschikking: Uitvoeringsbeschikking omzetbelasting 1968
+btw-richtlijn: Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347 van 11 december 2006)
+HvJ: Hof van Justitie van de Europese Unie
+## 2 Juridisch kader.
+Van de heffing van btw zijn vrijgesteld het verzorgen en het verplegen van in een inrichting opgenomen personen en de handelingen die daarmee nauw samenhangen, waaronder het verstrekken van spijzen en dranken, geneesmiddelen en verbandmiddelen aan die personen (artikel 11, eerste lid, onderdeel c, van de wet). Deze vrijstelling is alleen van toepassing als met de genoemde prestaties geen winst wordt beoogd (artikel 11, tweede lid, van de wet). De vrijstelling is gebaseerd op artikel 132, lid 1, punten b en g, van de btw-richtlijn.
+## 3 Reikwijdte van de vrijstelling.
+## 3.1 Verzorgen en verplegen in een inrichting.
+Het begrip inrichting ziet allereerst op ziekenhuizen, verpleeginrichtingen, psychiatrische inrichtingen en dergelijke inrichtingen. Onder dit begrip vallen ook internaten die de daarin geplaatste minderjarigen volledig verzorgen en verzorgingsflats. Onder verzorgingsflats worden verstaan woonvormen die naar maatschappelijke opvattingen als zodanig kwalificeren. Het betreft dan woonvormen waarbij naast de verhuur en de daarmee nauw samenhangende prestaties ook nog andere (verzorgende) prestaties worden verricht die naast substantieel en kenmerkend voor dergelijke prestaties tevens onderscheidend zijn ten opzichte van de enkele verhuur. Te denken valt dan aan:
+– het verlenen van huishoudelijke hulp;
+– de (verpleegkundige) verzorging bij ziekte van de bewoners; of
+– het eventuele gebruik van gemeenschappelijke recreatieruimten en het verhuren van logeerkamers aan gasten van de bewoners.
+De diensten van derden die op zichzelf bezien btw-belast zijn, delen in de vrijstelling als die diensten een wezenlijk, inherent en onafscheidbaar deel zijn van de door een inrichting verrichte gezondheidskundige behandeling van de mens met een therapeutisch doel. Een dienst is enkel wezenlijk, inherent en onafscheidbaar als het een onderdeel is van de gezondheidskundige behandeling waarvan de ene fase niet kan slagen zonder de andere. Hierbij is niet van belang of de derde een medisch dienstverlener is.
+## 3.2 Nauw samenhangende prestaties.
+De wet kent naast de vrijstelling voor het verzorgen en het verplegen van in een inrichting opgenomen personen (artikel 11, eerste lid, onderdeel c, van de wet) ook een vrijstelling voor de nauw met die prestatie samenhangende handelingen. Van nauw samenhangende prestaties is in elk geval geen sprake als het handelingen betreft die:
+a. niet onontbeerlijk zijn voor het verrichten van de vrijgestelde handelingen; en
+b. in hoofdzaak ertoe strekken aan de instelling extra opbrengsten te verschaffen door de uitvoering van handelingen welke worden verricht in rechtstreekse mededinging met aan de heffing van btw onderworpen handelingen van commerciële ondernemingen.
+Ook het beheer van zogenoemde bewonersgelden kan onder omstandigheden onder begrip nauw samenhangende handelingen vallen. Hierbij gaat het om het door de inrichting tegen vergoeding verrichten van gebruikelijke werkzaamheden van het financiële beheer van gelden van in die (zorg)inrichting verblijvende personen die zelf niet in staat zijn hun vermogensrechtelijke belangen te behartigen. De hiervoor bedoelde werkzaamheden bestaan onder meer uit het aanvragen en innen van uitkeringen, het betalen van kosten (zoals verzekeringen) en het uitbetalen van kleed- en zakgeld. Het beheren vereist de goedkeuring van de voor de bewoner benoemde curator of bewindvoerder. Het beheren van bewonersgelden ligt in het verlengde van de reguliere verpleging en verzorging van de in de inrichting verblijvende personen door de (zorg)inrichting.
+Het komt voor dat het beheer van bewonersgelden formeel is ondergebracht bij een afzonderlijke stichting maar dat de zorginrichting de feitelijke beheerswerkzaamheden verricht. Uit praktische overwegingen keur ik op grond van artikel 63 AWR het volgende goed.
+Goedkeuring
+Ik keur goed dat de vrijstelling van toepassing is op het beheer van de bewonersgelden als dit beheer formeel is ondergebracht bij een afzonderlijke stichting.
+Voorwaarde
+Aan deze goedkeuring verbind ik de voorwaarde dat de feitelijke beheerswerkzaamheden door de (zorg)inrichting worden verricht.
+Voorbeelden van prestaties die niet nauw samenhangen met het verzorgen en verplegen van in een inrichting opgenomen personen zijn:
+– Het tegen vergoeding beleggen van het vermogen van in een inrichting opgenomen personen.
+– De levering van medicijnen door een (zorg)inrichting aan patiënten die niet in de inrichting zijn opgenomen.
+## 3.3 Laboratoria.
+Medische analyses met het oog op de preventieve observatie en het preventief onderzoek van de patiënt worden gerekend tot de gezondheidskundige verzorging van de mens.
+Daartoe behoren ook de medische analyses die een zelfstandig functionerend laboratorium op voorschrift van bijvoorbeeld een zorginrichting of een huisarts verricht. Een zodanig laboratorium is een inrichting van dezelfde aard als een ziekenhuis of een centrum voor medische verzorging en diagnose als genoemd in artikel 132, lid 1, punt b, van de btw-richtlijn.
+Onder medische analyses wordt mede verstaan het analyseren door laboratoria van cardiologische gegevens die zijn verkregen via een zogenoemde holter of een vergelijkbaar apparaat. De vrijstelling geldt ook voor het advies waarvan de laboratoria de analyse zo nodig voorzien. De vrijstelling is ook van toepassing op prestaties die laboratoria verrichten als zij worden ingeschakeld ten behoeve van de feitelijke bestrijding van infectieziekten in het kader van de publieke gezondheidszorg.
+## 4 Goedkeuringen.
+In dit onderdeel tref ik (onder voorwaarden) verschillende goedkeuringen. Een voorwaarde die daarbij steeds geldt, is dat de ondernemer afziet van de aftrek van btw die is toe te rekenen aan die prestaties.
+## 4.1 Commerciële verpleeg- en verzorgingsinrichtingen.
+Commerciële verpleeg- en/of verzorgingsinrichtingen beogen winst en vallen daarom niet onder de vrijstelling van artikel 11, eerste lid, onderdeel c of artikel 11, eerste lid, onderdeel f van de wet. Commerciële verpleeg- en/of verzorgingsinrichtingen zijn bijvoorbeeld particuliere verzorgingstehuizen, particuliere verpleegtehuizen en particuliere tehuizen voor de opvang van hulpbehoevende gehandicapten, zoals de zogenoemde Thomashuizen. Vooruitlopend op wetswijziging keur ik het volgende goed.
+Goedkeuring
+Ik keur goed dat commerciële zorginrichtingen voor de verzorging en verpleging van de in die inrichtingen opgenomen personen gebruik maken van de vrijstelling. De goedkeuring geldt ook voor het verstrekken van spijzen en dranken aan de in de commerciële zorginrichting opgenomen personen.
+Voorwaarden
+Aan deze goedkeuring verbind ik de volgende voorwaarden:
+– aan de inrichting is een BIG-gediplomeerd verpleegkundige verbonden;
+– in de inrichting zijn hulpbehoevende personen opgenomen die in meer of mindere mate verpleging nodig hebben;
+– commerciële verpleeg- en/of zorginrichtingen die ervoor kiezen geen gebruik (meer) te maken van deze goedkeuring kunnen niet meer op die gemaakte keuze terugkomen.
+## 4.2 Verstrekken van spijzen en dranken aan anderen dan in de inrichting opgenomen personen.
+Het verstrekken van spijzen en dranken aan personeel en aan bezoekers is in beginsel belast met btw. Het komt echter voor dat die prestaties niet gescheiden plaatsvinden van de verstrekking van spijzen en dranken aan de in de inrichting opgenomen personen. Uit praktische overwegingen keur ik op grond van artikel 63 AWR het volgende goed.
+Goedkeuring
+Ik keur goed dat de vrijstelling van toepassing is op het verstrekken van spijzen en dranken aan personeel en bezoekers.
+Voorwaarde
+Aan deze goedkeuring verbind ik de voorwaarde dat de verstrekking van spijzen en dranken aan het personeel en de bezoekers niet gescheiden plaatsvindt van de verstrekking aan de in de inrichting opgenomen personen.
+## 4.3 Verstrekken van maaltijden.
+De wet bevat een vrijstelling van btw voor bepaalde prestaties ten behoeve van bejaarden. Het moet gaan om prestaties die zijn gericht op het handhaven of bevorderen van de mogelijkheid voor bejaarden om zo lang mogelijk zelfstandig te blijven wonen. Tot deze prestaties wordt ook gerekend het verstrekken van spijzen en dranken in het kader van de extramurale zorg ten behoeve van zelfstandig wonende bejaarden. De prestaties moeten worden verricht door instellingen op het gebied van de bejaardenzorg (artikel 11, eerste lid, onderdeel f, van de wet, in verbinding met artikel 7, eerste lid, van het besluit en onderdeel b, punt 23, van de bij dit besluit behorende bijlage B). Voorwaarde voor toepassing van de vrijstelling is dat de inrichting voor het geheel van haar prestaties geen winst beoogt.
+Het komt voor dat de maaltijden aan bejaarden worden verstrekt door andere ondernemers dan instellingen op het gebied van de bejaardenzorg. Ook komt het voor dat deze andere ondernemers, maar ook instellingen op het gebied van bejaardenzorg maaltijden verstrekken aan instellingen op het gebied van de bejaardenzorg. Op grond van artikel 63 AWR, keur ik het volgende goed.
+Goedkeuring
+Ik keur goed dat de vrijstelling van toepassing is op het verstrekken van spijzen en dranken (maaltijden) door andere ondernemers dan instellingen op het gebied van de bejaardenzorg aan zelfstandig wonende bejaarden.
+Goedkeuring
+Ik keur goed dat de vrijstelling van toepassing is op het verstrekken van spijzen en dranken (maaltijden) bestemd voor bejaarden door andere ondernemers dan instellingen op het gebied van de bejaardenzorg en door instellingen op het gebied van de bejaardenzorg aan instellingen op het gebied van de bejaardenzorg.
+Voorwaarde
+Aan deze goedkeuring verbind ik de voorwaarde dat de betreffende ondernemers voor het geheel van hun prestaties geen winst beogen.
+## 5 Ingetrokken regelingen.
+Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
+− het besluit van 6 februari 2010, nr. DGB2010/270M
+## 6 Inwerkingtreding.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+Dit besluit wordt in de Staatscourant gepubliceerd
+Den Haag
+6 september 2017
+De Staatssecretaris van Financiën,
+namens deze
+J. de
+Blieck
+lid van het managementteam Belastingdienst

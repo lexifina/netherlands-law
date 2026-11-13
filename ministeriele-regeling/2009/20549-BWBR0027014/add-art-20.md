@@ -1,0 +1,2 @@
+# Artikel XX
+Artikel 3 van de Uitvoeringsregeling Invorderingswet 1990, zoals dat artikel luidde op 31 december 2009, blijft van toepassing met betrekking tot belastingaanslagen ter zake van inkomstenbelasting wegens een schenking van tot een aanmerkelijk belang behorende aandelen of winstbewijzen die voor 1 januari 2010 heeft plaatsgevonden, met dien verstande dat het vijfde lid van artikel 3 van de Uitvoeringsregeling Invorderingswet 1990 zoals dat artikel luidt met ingang van 1 januari 2010, eveneens van toepassing is.

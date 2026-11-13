@@ -1,0 +1,4 @@
+# Artikel 226n
+1. De rechter-commissaris beveelt hetzij ambtshalve, hetzij op de vordering van de officier van justitie of op het verzoek van de verdachte of van de getuige, dat ter gelegenheid van het verhoor van de afgeschermde getuige diens identiteit verborgen wordt gehouden, indien een zwaarwegend belang van de getuige of een ander dan wel het belang van de staatsveiligheid dat vereist. In dat geval stelt hij zich voorafgaand aan het verhoor van de afgeschermde getuige op de hoogte van diens identiteit en vermeldt hij in het proces-verbaal dit te hebben gedaan.
+2. De getuige wordt overeenkomstig artikel 216 beëdigd of aangemaand.
+3. Indien de rechter-commissaris het in het eerste lid omschreven bevel geeft, hoort hij de afgeschermde getuige op een zodanige wijze dat zijn identiteit verborgen blijft.

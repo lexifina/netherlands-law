@@ -1,0 +1,2 @@
+# Artikel 6b
+Rechters, rechterlijke ambtenaren in opleiding, gerechtsambtenaren, buitengriffiers en de directeur bedrijfsvoering zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun taak de beschikking krijgen en waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden, behoudens zover enig wettelijk voorschrift tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.

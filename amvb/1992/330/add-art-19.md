@@ -1,0 +1,11 @@
+# Artikel XIX
+De volgende besluiten worden ingetrokken:
+- het Besluit van 11 augustus 1947 (Stb. H 300) houdende aanwijzing van Doetinchem als plaats, waar in het kanton Terborg ook buiten de hoofdplaats van dit kanton terechtzittingen zullen worden gehouden;
+- het Besluit van 21 juni 1948 (Stb. I 246) houdende nadere regeling betreffende het houden van terechtzittingen van enkelvoudige kamers van enige arrondissements-rechtbanken ook buiten de hoofdplaats van het arrondissement;
+- het Besluit van 3 juli 1948 (Stb. I 281) houdende aanwijzing van de gemeente Tholen als plaats, waar in het kanton Zierikzee, ook buiten de hoofdplaats van dit kanton terechtzittingen zullen worden gehouden;
+- het Besluit van 10 augustus 1951 (Stb. 371) houdende aanwijzing van de gemeente Dokkum als plaats, waar in het kanton Leeuwarden, ook buiten de hoofdplaats van dit kanton terechtzittingen zullen worden gehouden;
+- het Besluit van 17 juni 1953 (Stb. 291) houdende aanwijzing van de gemeente Vianen als plaats, waar in het kanton Gorinchem ook buiten de hoofdplaats van dit kanton terechtzittingen zullen worden gehouden;
+- het Besluit van 13 januari 1955 (Stb. 21) houdende aanwijzing van Hoofddorp (gemeente Haarlemmermeer) als plaats, waar in het kanton Haarlem ook buiten de hoofdplaats van dit kanton terechtzittingen zullen kunnen worden gehouden;
+- het Besluit van 26 november 1956 (Stb. 539) houdende aanwijzing van Kampen als plaats, waarin in het kanton Zwolle ook buiten de hoofdplaats van het kanton terechtzittingen zullen kunnen worden gehouden;
+- het Besluit van 22 november 1982 (Stb. 647) houdende aanwijzing van de gemeente Lelystad als plaats waar het kantongerecht te Harderwijk buiten de hoofdplaats van het kanton terechtzitting zal houden;
+- het Besluit van 13 november 1989 (Stb. 527), tot aanwijzing van de gemeente Purmerend als plaats waar het kantongerecht te Alkmaar buiten de hoofdplaats van het kanton terechtzitting kan houden en wijziging van het koninklijk besluit van 21 juni 1948 (Stb. I 246), houdende nadere regeling betreffende het houden van terechtzittingen van enkelvoudige kamers van enige arrondissements-rechtbanken ook buiten de hoofdplaats van het arrondissement.

@@ -1,2 +1,0 @@
-# Artikel V
-Deze regeling treedt in werking de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.

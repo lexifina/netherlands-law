@@ -1,3 +1,0 @@
-# Inhoud
-## Hoofdstuk 1. FINANCIËLE MIDDELEN
-## Hoofdstuk II. UITVOERING EN SLOTBEPALINGEN

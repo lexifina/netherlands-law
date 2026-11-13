@@ -1,0 +1,10 @@
+# Article I
+1. In this Agreement the expression:
+(a) "force" means the personnel belonging to the land, sea or air armed services of one Contracting Party when in the territory of another Contracting Party in the North Atlantic Treaty area in connexion with their official duties, provided that the two Contracting Parties concerned may agree that certain individuals, units or formations shall not be regarded as constituting or included in a "force" for the purposes of the present Agreement;
+(b) "civilian component" means the civilian personnel accompanying a force of a Contracting Party who are in the employ of an armed service of that Contracting Party, and who are not stateless persons, nor nationals of any State which is not a Party to the North Atlantic Treaty, nor nationals of, nor ordinarily resident in, the State in which the force is located;
+(c) "dependent" means the spouse of a member of a force or of a civilian component, or a child of such member depending on him or her for support;
+(d) "sending State" means the Contracting Party to which the force belongs;
+(e) "receiving State" means the Contracting Party in the territory of which the force or civilian component is located, whether it be stationed there or passing in transit;
+(f) "military authorities of the sending State" means those authorities of a sending State who are empowered by its law to enforce the military law of that State with respect to members of its forces or civilian components;
+(g) "North Atlantic Council" means the Council established by Article 9 of the North Atlantic Treaty or any of its subsidiary bodies authorised to act on its behalf.
+2. This Agreement shall apply to the authorities of political subdivisions of the Contracting Parties, within their territories to which the Agreement applies or extends in accordance with Article XX, as it applies to the central authorities of those Contracting Parties, provided, however, that property owned by political sub-divisions shall not be considered to be property owned by a Contracting Party within the meaning of Article VIII.

@@ -1,0 +1,3 @@
+# Artikel IX. Samenloop van artikel IV met de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533)
+[Wijzigt de Wijzigingswet enkele onderwijswetten (herziening organisatie en financiering van ondersteuning leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs).]
+[Wijzigt de Wet op het onderwijstoezicht.]

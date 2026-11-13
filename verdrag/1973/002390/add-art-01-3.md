@@ -1,0 +1,3 @@
+# Artikel I. Meldingsplicht
+(1) De gezagvoerder of een andere persoon, belast met het bevel over een schip dat betrokken is bij een in artikel II van dit Protocol bedoeld voorval, dient de bijzonderheden van dit voorval onverwijld en zo volledig mogelijk te melden in overeenstemming met de bepalingen van dit Protocol.
+(2) Indien het schip, bedoeld in het eerste lid van dit artikel, wordt verlaten, of indien een melding van dit schip onvolledig of niet verkrijgbaar is, neemt de eigenaar, de bevrachter, de beheerder of de exploitant, dan wel diens vertegenwoordiger, zoveel mogelijk de verplichtingen van de gezagvoerder op zich krachtens de bepalingen van dit Protocol.

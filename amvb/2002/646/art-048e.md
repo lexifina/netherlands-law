@@ -1,0 +1,5 @@
+# Artikel 48e. Overgangsrecht in verband met invoering objectvrijstelling voor buitenlandse ondernemingswinsten per 1 januari 2012
+1. Bij de toepassing van artikel 33b, vijfde lid, van de wet, blijft artikel 35, derde lid, zoals dat luidde op 31 december 2011, van toepassing.
+2. Artikel 46, zoals dat luidde op 31 december 2011, blijft van toepassing voor zover, in geval van ontvoeging van een maatschappij, ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen positieve of negatieve buitenlandse winsten van de fiscale eenheid aanwezig zijn.
+3. Artikel 48, zoals dat luidde op 31 december 2011, blijft van toepassing voor zover, in geval van ontvoeging van een maatschappij, ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen negatieve passieve winst uit buitenlandse onderneming aanwezig is.
+4. Bij de toepassing van het tweede of derde lid blijft artikel 41, zoals dat luidde op 31 december 2011, van toepassing.

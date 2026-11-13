@@ -1,0 +1,9 @@
+# Artikel 193f. Regierol en taak college burgemeester en wethouders
+1. Het college van burgemeester en wethouders maakt ter uitvoering van het besluit, bedoeld artikel 193e, eerste lid, onverwijld afspraken met de bevoegde gezagen van alle basisscholen in de gemeente over de inrichting van een tijdelijke nieuwkomersvoorziening.
+2. Indien op grond van artikel 193e, derde lid, het bevoegd gezag van een basisschool in een aangrenzende gemeente is aangewezen, maakt:
+a. het college van burgemeester en wethouders van de gemeente, bedoeld in artikel 193e, eerste lid, onverwijld afspraken met het college van burgemeester en wethouders van de aangrenzende gemeente en met alle betrokken bevoegde gezagen over de verdeling van de leerlingen tussen de gemeenten en tussen de scholen;
+b. het college van burgemeester en wethouders van de aangrenzende gemeente onverwijld afspraken met het bevoegd gezag van de aangewezen school in die gemeente over de inrichting van een tijdelijke nieuwkomersvoorziening indien dat noodzakelijk is ter uitvoering van de afspraken, bedoeld in onderdeel a.
+3. In het geval de afspraken bedoeld in het eerste lid en tweede lid, onderdeel b, niet tot stand komen, wijst het college van burgemeester en wethouders een bevoegd gezag aan, niet zijnde het college van burgermeester en wethouders, dat onverwijld een tijdelijke nieuwkomersvoorziening inricht voor een school die het bevoegd gezag in de gemeente in stand houdt.
+4. Het eerste lid is van overeenkomstige toepassing op de toestemming, bedoeld in artikel 193d, eerste lid.
+5. Een tijdelijke nieuwkomersvoorziening kan niet worden verbonden aan een school waarvan de kwaliteit van het onderwijs zeer zwak is als bedoeld in artikel 10a, eerste en vierde lid.
+6. Alle partijen werken mee aan de totstandkoming van de afspraken, bedoeld in het eerste en tweede lid, en de uitvoering van de afspraken.

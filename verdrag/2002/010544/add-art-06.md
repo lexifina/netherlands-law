@@ -1,0 +1,2 @@
+# Article VI. The Team-leader
+The Team-leader shall be responsible to the Netherlands Executive Authority for the correct implementation of the Netherlands contribution. The Team-leader shall act in close consultation with the Yemeni Executive Authority and respect the operational instructions given by the said Authority to the Yemeni personnel. The Yemeni Executive Authority shall provide the Team-leader with any information that may be considered necessary for the execution of the Programme.

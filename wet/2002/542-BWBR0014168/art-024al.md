@@ -1,0 +1,9 @@
+# Artikel 24al
+1. Indien de in de aanvraag aangegeven aardlagen zich geheel of gedeeltelijk bevinden onder een gebied dat is aangewezen voor de winning van drinkwater uit grondwater, verbindt Onze Minister aan een vervolgvergunning aardwarmte voorschriften of beperkingen in verband met het stellen van financiële zekerheid, anders dan bedoeld in de artikelen 46 en 47, ter dekking van de aansprakelijkheid voor de schade door verontreiniging van grondwater of bodem in verband met de opsporing en winning van aardwarmte.
+2. Onze Minister verbindt aan een vervolgvergunning aardwarmte voorschriften of beperkingen in verband met het voorkomen van nadelige gevolgen voor het milieu als gevolg van de wijze van winning en de wijze waarop de putintegriteit wordt geborgd.
+3. Onze Minister kan aan een vervolgvergunning aardwarmte voorschriften of beperkingen verbinden in verband met:
+a. de veiligheid van omwonenden of het voorkomen van schade aan gebouwen of infrastructurele werken of de functionaliteit daarvan;
+b. het belang van de planmatige ontwikkeling of het beheer van delfstoffen, aardwarmte, andere natuurlijke rijkdommen, waaronder grondwater met het oog op de winning van drinkwater, of mogelijkheden tot het opslaan van stoffen;
+c. de financiële mogelijkheden van de aanvrager om de kosten in verband met de winning en de hierbij behorende aansprakelijkheden, anders dan bedoeld in het eerste lid, te dragen;
+d. de financiële mogelijkheden van de aanvrager om de kosten in verband met het geheel of gedeeltelijk buiten gebruik stellen van een boorgat tijdens of na afloop van de vervolgvergunning te dragen.
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld inzake de gronden, bedoeld in het tweede lid, en kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste en derde lid.

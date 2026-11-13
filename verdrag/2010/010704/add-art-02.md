@@ -1,0 +1,2 @@
+# II. Ad Article 2
+In this Agreement, the terms "Hong Kong Special Administrative Region tax" and "Netherlands tax" do not include any penalty or interest (including, in the case of the Hong Kong Special Administrative Region, any sum added to the Hong Kong Special Administrative Region tax by reason of default and recovered therewith and "additional tax" under Section 82A of the Inland Revenue Ordinance) imposed under the laws of either Contracting Party relating to the taxes to which this Agreement applies by virtue of Article 2.

@@ -1,0 +1,2 @@
+# Artikel 85a
+Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als bedoeld in artikel 35, derde lid, geschiedt door de geneeskundige commissie, bedoeld in artikel 14, derde lid, onderdeel a, van de Pensioenwet ambtenaren BES, en in andere gevallen door een of meer geneeskundigen, aan te wijzen door Onze Minister. De nadere regels, bedoeld in het vierde lid van het laatstgenoemde artikel, zijn van toepassing.

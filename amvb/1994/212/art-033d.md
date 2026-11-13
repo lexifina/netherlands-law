@@ -1,0 +1,5 @@
+# Artikel 33d
+1. Indien het belang van de dienst zich er niet tegen verzet, kan op verzoek van de rechterlijk ambtenaar door Onze Minister of, indien het een bij een gerechtshof of rechtbank werkzame rechterlijk ambtenaar betreft, het gerechtsbestuur eenmaal per kalenderjaar de voor die rechterlijk ambtenaar ingevolge artikel 33b, vierde tot en met zesde lid, geldende aanspraak op de bovenwettelijke vakantie-uren worden verlaagd.
+2. Het in het eerste lid bedoelde gezag stelt vast voor welke datum verzoeken als bedoeld in het eerste lid kunnen worden ingediend en beslist op of na die datum gelijktijdig op de voor die datum ingediende verzoeken.
+3. De rechterlijk ambtenaar ontvangt voor elk uur vakantie waarmee zijn aanspraak op bovenwettelijke vakantie-uren overeenkomstig het eerste lid wordt verlaagd, een vergoeding ten bedrage van het salaris per uur dat hij geniet op de in het tweede lid bedoelde datum.
+4. Op een verzoek als bedoeld in het eerste lid beslist Onze Minister niet dan nadat hij hierover het advies heeft ingewonnen van de functionele autoriteit.

@@ -1,0 +1,3 @@
+# Artikel IX. Toegevoegde leden
+1. Bevoegde personen, bedrijven en instellingen die deelnemen in de ontwikkeling van de koude-wetenschap of de koude-industrie en periodiek contributie bijdragen, waarvan de grootte en de wijze van betaling worden vastgesteld door het Besturend Comité, kunnen door dit Comité tot toegevoegd lid van het Instituut worden benoemd.
+2. Overeenkomstig de voorwaarden, vervat in het Algemeen Reglement voor de toepassing van dit Verdrag, ontvangen de toegevoegde leden de periodiek verschijnende publikaties van het Instituut en kunnen zij deelnemen aan de werkzaamheden van de Commissies en aan de Congressen, terwijl zij eveneens de bibliotheek van het Instituut kunnen raadplegen.

@@ -1,2 +1,0 @@
-# ARTIKEL XVII
-[Wijzigt de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag.]

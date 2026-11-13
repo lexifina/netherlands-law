@@ -1,0 +1,4 @@
+# Article XVII. Privileges and immunities
+1. The Institute shall conclude with the Government a Headquarters Agreement relating to the facilities, privileges and immunities which the Institute, the members of the Board of Trustees, the Director and staff of the Institute, and the experts performing missions on behalf of the Institute, will receive while in Korea for the purpose of exercising official duties.
+2. The Institute may conclude with other states an agreement relating to the facilities, privileges and immunities which the Institute, the members of its Board of Trustees, the Director and staff of the Institute, and the experts performing missions on behalf of the Institute, will receive while in their territories for the purpose of exercising official duties.
+3. The privileges and immunities are granted in the interest of the Institute and not for personal benefit. The Board of Trustees shall have the right to waive the privileges and immunities.

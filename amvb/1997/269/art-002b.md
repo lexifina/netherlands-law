@@ -1,0 +1,9 @@
+# Artikel 2b
+1. Op verzoek blijven bij de toepassing van artikel 7, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen voor zover het betreft het toekennen van een huurtoeslag, de navolgende bestanddelen van het toetsingsinkomen buiten beschouwing:
+a. afkoopsommen van ouderdoms- of nabestaandenpensioen die in het berekeningsjaar niet meer bedragen dan het bedrag dat is opgenomen in artikel 66, eerste lid, van de Pensioenwet en artikel 78, eerste lid, van de Wet verplichte beroepspensioenregeling;
+b. nabetalingen van inkomsten als bedoeld in afdeling 3.3 en 3.5 van de Wet inkomstenbelasting 2001;
+c. wezenuitkeringen die met toepassing van artikel 49 van de Algemene nabestaandenwet aan een ander dan de wettelijke vertegenwoordiger van het kind betaalbaar zijn gesteld;
+d. afkoopsommen op grond van de Liquidatiewet ongevallenwetten;
+e. verhogingen op grond van artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 2:51 of 3:9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten of artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering voorzover het bedrag van de verhoging niet hoger is dan het in artikel 6.20, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 genoemde drempelbedrag voor uitgaven voor specifieke zorgkosten.
+2. Indien sprake is van een nabetaling die over de berekeningsjaren waarop deze nabetaling betrekking heeft gemiddeld meer dan € 2300 per jaar bedraagt, vindt het eerste lid, onderdeel b, uitsluitend toepassing indien over de berekeningsjaren waarop de nabetaling betrekking heeft minder huurtoeslag zou worden genoten dan indien de betrokken inkomsten niet als nabetaling zouden zijn uitbetaald.
+3. Indien de belanghebbende gedurende het gehele berekeningsjaar een partner heeft, wordt het in het eerste lid, onderdeel e, bedoelde drempelbedrag voor uitgaven voor specifieke zorgkosten verdubbeld.

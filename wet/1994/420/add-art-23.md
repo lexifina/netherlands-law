@@ -1,0 +1,5 @@
+# Artikel XXIII
+1. Deze wet treedt in werking op 1 januari van het jaar volgend op de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+2. In afwijking van het eerste lid treden de onderdelen C en D van artikel III in werking op de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, doch niet eerder dan het tijdstip waarop de Gemeentewet in werking treedt.
+3. In afwijking van het eerste lid treden de onderdelen G, I en J van artikel III in werking op de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, doch niet eerder dan het tijdstip waarop de Wet aanpassing administratieve verplichtingen in werking treedt.
+4. Indien deze wet op hetzelfde tijdstip in werking treedt als de Gemeentewet, treden artikel III, onderdelen C en D, artikel XV, derde lid, artikel XVII, tweede lid, en artikel XVIII, van deze wet niet in werking. Indien deze wet niet op hetzelfde tijdstip in werking treedt als de Gemeentewet, treedt artikel III, onderdeel M, en artikel XVI, eerste lid, van deze wet niet in werking.

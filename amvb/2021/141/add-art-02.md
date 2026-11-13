@@ -1,0 +1,2 @@
+# Artikel II
+Het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet is niet van toepassing op de uitkomsten van controle en onderzoek die zijn vastgesteld naar een melding als bedoeld in artikel 11, eerste lid, onder a, van de Wet kwaliteit, klachten en geschillen zorg, of naar aanleiding van een melding als bedoeld in artikel 4.1.8, eerste lid, onderdeel a, van de Jeugdwet voor zover het uitkomsten van controle en onderzoek betreft naar meldingen die zijn gedaan voor de inwerkingtreding van dit besluit.

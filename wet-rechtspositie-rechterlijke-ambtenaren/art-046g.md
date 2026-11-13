@@ -1,3 +1,0 @@
-# Artikel 46g
-1. De Hoge Raad kan bij de beslissing, waarbij de rechterlijk ambtenaar wordt geschorst, bepalen dat tijdens de duur van de schorsing de bezoldiging geheel of gedeeltelijk zal worden ingehouden.
-2. Indien de schorsing anders dan door ontslag eindigt, kan de Hoge Raad beslissen dat de niet genoten bezoldiging alsnog geheel of gedeeltelijk zal worden uitbetaald. Op de alsnog uit te betalen bezoldiging worden in mindering gebracht de inkomsten, die de rechterlijk ambtenaar heeft genoten uit arbeid die hij tijdens de schorsing heeft verricht, tenzij zulks naar het oordeel van de Hoge Raad onredelijk of onbillijk is.

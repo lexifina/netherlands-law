@@ -1,0 +1,2 @@
+# Artikel III
+De Verdragsluitende Regeringen nemen de verplichting op zich samen te werken bij het tot stand brengen van een zo groot mogelijke uniformiteit in de formaliteiten, vereiste documenten en procedures in alle aangelegenheden waarbij deze uniformiteit leidt tot vergemakkelijking en verbetering van het internationale verkeer ter zee, alsmede tot een zo groot mogelijke beperking van eventuele wijzigingen in formaliteiten, vereiste documenten en procedures die nodig zijn om aan bijzondere eisen van binnenlandse aard te kunnen voldoen.

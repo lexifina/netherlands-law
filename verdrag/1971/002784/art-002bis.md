@@ -1,0 +1,4 @@
+# Article 2bis
+(1) It shall be a matter for legislation in the countries of the Union to exclude, wholly or in part, from the protection provided by the preceding Article political speeches and speeches delivered in the course of legal proceedings.
+(2) It shall also be a matter for legislation in the countries of the Union to determine the conditions under which lectures, addresses and other works of the same nature which are delivered in public may be reproduced by the press, broadcast, communicated to the public by wire and made the subject of public communication as envisaged in Article 11bis (1) of this Convention, when such use is justified by the informatory purpose.
+(3) Nevertheless, the author shall enjoy the exclusive right of making a collection of his works mentioned in the preceding paragraphs.

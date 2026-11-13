@@ -1,0 +1,4 @@
+# Artikel 14c
+1. Bij de behandeling van verzoeken als bedoeld in artikelen 14a en 14b, draagt Onze Minister van Justitie zorg voor een deugdelijke vaststelling van de identiteit van de verzoeker.
+2. De verzoeken worden ten aanzien van minderjarigen die de leeftijd van zestien jaren nog niet hebben bereikt, en ten aanzien van onder curatele gestelden gedaan door hun wettelijke vertegenwoordigers. De betrokken mededeling geschiedt eveneens aan de wettelijke vertegenwoordigers.
+3. De verzoeken kunnen tevens worden gedaan door een advocaat aan wie de betrokkene een bijzondere machtiging heeft verleend met het oog op de uitoefening van zijn rechten krachtens deze wet en die het verzoek uitsluitend doet met de bedoeling de belangen van zijn cliënt te behartigen. De betrokken mededeling geschiedt aan de advocaat. Bij ministeriële regeling kunnen aan de bijzondere machtiging nadere eisen worden gesteld.

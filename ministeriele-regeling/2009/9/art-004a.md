@@ -1,0 +1,2 @@
+# Artikel 4a. Toerekening kindgebonden budget
+Indien de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind en voor een of meer van die kinderen voor de toepassing van de Algemene Kinderbijslagwet een ander land dan een van de in artikel 1, onder a tot en met d, bedoelde landen als woonland in aanmerking wordt genomen, is artikel 2 van de Regeling woonlandbeginsel in de sociale zekerheid 2012 van overeenkomstige toepassing voor de bepaling van het bedrag aan kindgebonden budget per kind.

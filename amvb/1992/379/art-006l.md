@@ -1,0 +1,2 @@
+# Artikel 6l
+Instellingen die op het tijdstip waarop artikel II, eerste, derde en vierde lid, van de Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet (Stb. 557) in werking treedt, door Onze Minister krachtens artikel 20 van de Arbeidsomstandighedenwet zijn aangewezen om de keuringen, bedoeld in artikel 6d, uit te voeren, worden aangemerkt als aangewezen instellingen.

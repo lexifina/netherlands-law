@@ -1,0 +1,2 @@
+# Artikel IV
+Hoofdspoorweginfrastructuur anders dan bedoeld in artikel 121 van de Spoorwegwet, die voor de inwerkingtreding van deze wet in gebruik is genomen en voldoet aan het bepaalde bij of krachtens artikel 6, eerste lid, en artikel 7 van de Spoorwegwet zoals dat luidde op de dag voorafgaand aan de dag van de inwerkingtreding van artikel I, onderdelen B en C van deze wet, wordt aangemerkt als in overeenstemming met artikel 6, eerste lid, van de Spoorwegwet.

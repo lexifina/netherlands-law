@@ -1,0 +1,3 @@
+# Artikel V
+1. Artikel 38 van de Wet op de Ruimtelijke Ordening, zoals dat luidde onmiddellijk vóór het tijdstip waarop de bij deze wet voorziene wijziging van dat artikel in werking is getreden, en in samenhang daarmee artikel 39 van die wet, zoals dat op dat tijdstip luidde, blijven van toepassing ten aanzien van besluiten als bedoeld in dat artikel 38, die vóór dat tijdstip zijn genomen.
+2. Artikel 65 van de Wet op de Ruimtelijke Ordening, zoals dat luidde onmiddellijk vóór het tijdstip waarop de bij deze wet voorziene wijziging van dat artikel in werking is getreden, blijft van toepassing ten aanzien van besluiten als bedoeld in dat artikel die vóór dat tijdstip zijn genomen.

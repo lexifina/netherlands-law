@@ -1,0 +1,2 @@
+# Artikel VI
+De Directeur-Generaal houdt de bedragen die de Overeenkomstsluitende Lid-Staten en geassocieerde leden van de Unesco gestort hebben ter uitvoering van deze Overeenkomst te hunner beschikking in geval de Regering van de Verenigde Arabische Republiek de overeenkomst betreffende de werkzaamheden omschreven in het door het Ministerie van Cultuur opgemaakte bestek (Behoud van de tempels van Philae) niet mocht sluiten.

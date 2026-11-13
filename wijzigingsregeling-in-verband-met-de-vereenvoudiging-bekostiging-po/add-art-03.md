@@ -1,2 +1,0 @@
-# Artikel III. Wijziging Kaderregeling subsidies OCW, SZW en VWS
-[Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.]

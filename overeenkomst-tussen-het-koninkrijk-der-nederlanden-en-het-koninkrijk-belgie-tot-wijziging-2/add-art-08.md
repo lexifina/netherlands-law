@@ -1,2 +1,0 @@
-# Artikel VIII
-Wat het Koninkrijk der Nederlanden betreft geldt deze Overeenkomst alleen voor het Rijk in Europa.

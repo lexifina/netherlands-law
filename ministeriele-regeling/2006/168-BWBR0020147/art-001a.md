@@ -1,0 +1,2 @@
+# Artikel 1a
+In uitzondering op artikel 1, gebruikt een bevoegd gezag voor de opgave van een geïndiceerde leerling als bedoeld in artikel 28c van de Wet op de Expertisecentra, niet het formulier als bedoeld in het eerste lid, indien de minister van oordeel is dat een bevoegd gezag heeft aangetoond in staat te zijn de leerlinggegevens te leveren op de grond van de in artikel 12 van de Wet register onderwijsdeelnemers bedoelde wijze.

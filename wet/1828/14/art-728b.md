@@ -1,0 +1,2 @@
+# Artikel 728b
+Indien het beslag is gelegd op een schip dat te boek staat in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek en de eis in hoofdzaak niet binnen de overeenkomstig artikel 700, derde lid, bepaalde termijn is ingesteld, is de beslaglegger verplicht de waardeloosheid van de inschrijving van het beslag onverwijld te doen inschrijven op straffe van schadevergoeding.

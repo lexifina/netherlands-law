@@ -1,0 +1,2 @@
+# Artikel 33c
+Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de artikelen 10, eerste tot en met derde lid, 11, tweede en derde lid, 12, eerste, tweede en vierde lid, 13, 16, eerste, tweede, vierde en vijfde lid, en 33, tweede en derde lid, van deze wet alsmede de artikelen 3, eerste tot en met vijfde lid, 4, eerste, tweede, vierde en zesde lid, 5, eerste tot en met derde lid, 6, onderdelen a tot en met e, 9, tweede lid, en 11, dertiende lid, van Verordening (EU) 2017/1369.

@@ -1,5 +1,0 @@
-# Artikel 44d
-Aan de persoon op wie artikel 4a van toepassing wordt als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie, wordt, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op toeslag, in afwijking van artikel 4a:
-1°. vanaf de datum van die opzegging of beëindiging tot en met een jaar na het tijdstip hiervan het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen;
-2°. gedurende het tweede jaar na de datum van die opzegging of beëindiging twee derden van het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen; en
-3°. gedurende het derde jaar na de datum van die opzegging of beëindiging een derde van het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen.

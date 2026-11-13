@@ -1,0 +1,2 @@
+# Artikel II
+Kentekenbewijzen volgens de modellen 1.1, 2.1 en 5.1 tot en met 10.1, overschrijvingsbewijzen en registratiebewijzen volgens de modellen 13.1, 14.1 en 17.1, alsmede ontvangstbewijzen volgens model C.1, afgegeven op grond van de Regeling kentekenbewijzen zoals deze luidde vóór 1 april 1998, behouden hun geldigheid tot het moment waarop zij op basis van de Wegenverkeerswet 1994 hun geldigheid verliezen.

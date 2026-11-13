@@ -1,0 +1,2 @@
+# Artikel II
+De bevoegdheid tot behandeling van zaken die direct voor het tijdstip van inwerkingtreding van artikel I, onderdeel A, van dit besluit aanhangig waren bij de regionale tuchtcolleges te Den Haag, Eindhoven en Groningen, gaat bij inwerkingtreding van dat artikel over op de colleges van respectievelijk Amsterdam, 's‑Hertogenbosch en Zwolle, bij welke colleges de behandeling van de zaak wordt voortgezet in de stand van de procedure waarin deze zich bevindt.

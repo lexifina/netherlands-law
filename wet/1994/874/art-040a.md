@@ -1,0 +1,4 @@
+# Artikel 40a
+1. Bij algemene maatregel van bestuur worden derden aangewezen die het waardegegeven of de daarbij behorende temporele en meta-kenmerken van een bepaalde onroerende zaak die in hoofdzaak tot woning dient op hun verzoek verstrekt kunnen krijgen via de landelijke voorziening WOZ en bevoegd zijn tot gebruik van dat waardegegeven of de daarbij behorende temporele en meta-kenmerken ten behoeve van de bij die algemene maatregel van bestuur aan te wijzen doeleinden.
+2. De bij de algemene maatregel van bestuur, bedoeld in het eerste lid, aangewezen derde gebruikt een waardegegeven of de daarbij behorende temporele en meta-kenmerken uitsluitend bij de uitoefening van de hem verleende bevoegdheid.
+3. De bij de algemene maatregel van bestuur, bedoeld in het eerste lid, aangewezen derde is niet bevoegd een waardegegeven of de daarbij behorende temporele en meta-kenmerken verder bekend te maken dan noodzakelijk voor de uitoefening van de hem verleende bevoegdheid.

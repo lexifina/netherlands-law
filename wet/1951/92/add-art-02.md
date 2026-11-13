@@ -1,0 +1,3 @@
+# Artikel II
+1. Elke plaats, waar krachtens overeenkomst met de staat werkzaamheden worden verricht of goederen worden bewaard, die van belang zijn voor de veiligheid van de staat, kan ter bescherming van gegevens als bedoeld in artikel I voor het tijdvak, waarin de werkzaamheden worden verricht of de goederen worden bewaard, door Ons als verboden plaats worden aangewezen.
+2. Een aanwijzing als bedoeld in het voorgaande lid vindt buiten de in artikel III, eerste lid, bedoelde buitengewone omstandigheden niet plaats, tenzij het voornemen daartoe vóór het tot stand komen van de overeenkomst van regeringswege aan de wederpartij is medegedeeld dan wel de wederpartij na het tot stand komen van de overeenkomst verklaart tegen zodanige aanwijzing geen bezwaar te hebben.

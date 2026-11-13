@@ -1,0 +1,5 @@
+# Article 12 bis. Model standardized forms
+1. To facilitate international roadside checks, model standardized forms will be introduced, for use when required, in the Annex to this Agreement, which will be supplemented accordingly by a new Appendix 3. These forms will be introduced or amended in accordance with the procedure defined in article 22 ter.
+2. The model forms shown in Appendix 3 are in no way binding. However, if they are used, they shall respect the contents as defined, in particular the numbering, order and titles of items.
+3. Contracting Parties may supplement these data with additional information to satisfy national or regional requirements. This additional information must under no circumstances be required for transport originating in another Contracting Party or third country. For this purpose, it shall appear on the form totally separated from data defined for international traffic.
+4. These forms shall be accepted at any roadside check carried out in the territory of Contracting Parties to this Agreement.

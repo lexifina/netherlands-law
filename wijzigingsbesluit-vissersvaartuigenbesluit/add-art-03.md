@@ -1,2 +1,0 @@
-# Artikel III. Inwerkingtreding
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor elk der landen van het Koninkrijk verschillend kan worden bepaald.

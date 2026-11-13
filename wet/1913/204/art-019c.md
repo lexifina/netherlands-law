@@ -1,0 +1,3 @@
+# Artikel 19c
+1. De verzekerde die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel heeft geen recht op ziekengeld.
+2. Indien het recht op ziekengeld op grond van het eerste lid is geëindigd dan wel niet is ontstaan wordt betrokkene vanaf de dag dat hij zich niet langer aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel onttrekt weer als verzekerde aangemerkt, indien hij op die dag aan de overige voorwaarden, bedoeld in de artikelen 19 en 19aa, voldoet. Deze verzekerde heeft aanspraak op heropening dan wel toekenning van het recht op ziekengeld voor de resterende periode, bedoeld in artikel 29, vijfde lid, dan wel artikel 29a, vierde lid, met inachtneming van de bepalingen van deze wet.

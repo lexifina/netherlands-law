@@ -1,0 +1,2 @@
+# Artikel 16b
+De zorgdrager maakt van de vervanging of vervreemding een verklaring op, die ten minste een specificatie van de vervangen of vervreemde archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervanging of vervreemding is geschied. Een exemplaar van deze verklaring wordt bewaard door het overheidsorgaan waaronder de archiefbescheiden zouden berusten, indien zij niet waren vervangen of vervreemd.

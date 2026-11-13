@@ -1,0 +1,22 @@
+# Artikel 40c
+1. De aanvraag tot instemming met een verwijderingsplan als bedoeld in artikel 44a, eerste lid van de wet bevat ten minste een beschrijving van:
+a. de aanduiding, locatie, aard en functie van het mijnbouwwerk ten tijde van de aanvraag om instemming met het verwijderingsplan;
+b. de activiteiten, bedoeld in artikel 74, eerste lid, die hebben geleid tot wijziging van de inrichting van het boorgat;
+c. de afspraken met de eigenaar van het terrein waarop het mijnbouwwerk is opgericht en andere belanghebbenden;
+d. de methode en een schatting van de kosten van het buiten gebruik stellen van een boorgat en het verwijderen van de bovengrondse installaties;
+e. de staat waarin het ondergrondse deel van het mijnbouwwerk wordt achtergelaten;
+f. de datum van indiening van het werkprogramma voor het buiten gebruik stellen van een boorgat en de planning van de uitvoering;
+g. het schoon en veilig achterlaten of verwijderen van kabels en pijpleidingen;
+h. de wijze waarop de materialen die bij het mijnbouwwerk behoren, worden afgevoerd en de bestemming ervan;
+i. de op het mijnbouwwerk aanwezige afvalstoffen als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer en de bestemming ervan;
+j. de risico's van een mijnbouwwerk dat is gebruikt voor de winning van zout na verwijdering van de bovengrondse installaties en het buiten gebruik stellen van het boorgat aan de hand van een analyse van deze risico's in een systeembenadering en de bij dat mijnbouwwerk te nemen beheersmaatregelen, waaronder een beschrijving van een uit te voeren monitoring, indien:
+1°. die beheersmaatregelen nodig zijn in het belang van de veiligheid of het milieu en
+2°. deze risico's of beheersmaatregelen niet zijn beschreven in een winningsplan als bedoeld in artikel 34, eerste lid, een opslagplan als bedoeld in artikel 39, eerste lid, van de wet, of een meetplan als bedoeld in artikel 30, derde lid;
+k. de maatregelen die worden genomen om het terrein waarop het mijnbouwwerk is opgericht en de bodem van het terrein zoveel mogelijk in de oorspronkelijke staat terug te brengen of in het geval het terrein of de bodem niet in de oorspronkelijke staat worden teruggebracht, de toestand waarin het terrein na uitvoering van het verwijderingsplan wordt achtergelaten;
+l. het beoogde gebruik van het terrein; en
+m. in geval van een gedeeltelijke verwijdering van het mijnbouwwerk voor welk doel het mijnbouwwerk wordt hergebruikt en een beschrijving daarvan.
+2. Het verwijderingsplan vermeldt binnen welke perioden de beschreven werkzaamheden beginnen en eindigen en kan in een fasering van de verwijdering voorzien.
+3. In afwijking van het eerste lid, aanhef, kan bij het overleggen van informatie als bedoeld in het eerste lid, onderdelen a tot en met k, worden volstaan met een verwijzing naar informatie die is of wordt overgelegd bij een aanvraag om een vergunning, een melding of de naleving van een verplichting tot het overleggen van gegevens en bescheiden krachtens de wet, respectievelijk de Omgevingswet, in het geval die informatie de relevante feiten bevat of zal bevatten die nodig zijn voor een besluit tot instemming met het verwijderingsplan, respectievelijk een besluit tot instemming met het verwijderingsplan onder het stellen van voorwaarden of voorschriften.
+4. Onze Minister beslist binnen dertien weken na het overleggen van een verwijderingsplan over de instemming.
+5. Van de instemming, bedoeld in het eerste lid, wordt door Onze Minister mededeling gedaan in de Staatscourant.
+6. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag tot instemming met een verwijderingsplan.

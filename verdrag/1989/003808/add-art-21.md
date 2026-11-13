@@ -1,0 +1,6 @@
+# Article XXI. Settlement of disputes
+1. Any dispute between the Parties concerning the interpretation or application of this Agreement or of any supplemental Agreement which cannot be settled amicably, shall be submitted, at the request of either Party to the dispute, to an arbitral tribunal, composed of three members. Each Party shall appoint one arbitrator and the two arbitrators thus appointed shall together appoint a third arbitrator as their chairman.
+2. If one of the Parties fails to appoint its arbitrator and has not proceeded to do so within two months after an invitation from the other Party to make such an appointment, the other Party may invite the President of the International Court of Justice to make the necessary appointment.
+3. If the two arbitrators are unable to reach agreement, in the two months following their appointment, on the choice of the third arbitrator, either Party may invite the President of the International Court of Justice to make the necessary appointment.
+4. Unless the Parties decide otherwise, the tribunal shall determine its own procedure.
+5. The tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on the Parties to the dispute.

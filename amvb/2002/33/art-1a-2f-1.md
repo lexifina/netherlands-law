@@ -1,0 +1,5 @@
+# Artikel 1A.2F.1
+1. Indien de marktdeelnemer van de markttoezichthouder verneemt dat vuurwerk of een pyrotechnisch artikel voor theatergebruik, dat weliswaar in overeenstemming is met de essentiële veiligheidseisen en overige bepalingen van dit Besluit, toch een risico vormt voor de gezondheid of veiligheid van personen of voor andere aspecten van de bescherming van algemene belangen:
+a. neemt hij alle passende maatregelen om ervoor te zorgen dat dit vuurwerk of dit pyrotechnische artikel voor theatergebruik dat risico niet meer meebrengt wanneer zij in de handel worden gebracht, of
+b. neemt hij, binnen een door de markttoezichthouder vast te stellen termijn, dit vuurwerk of dit pyrotechnische artikel voor theatergebruik uit de handel of roept hij deze terug.
+2. De marktdeelnemer zorgt ervoor dat door hem genomen corrigerende maatregelen worden toegepast op alle betrokken vuurwerk of pyrotechnische artikelen voor theatergebruik die hij in de Europese Unie op de markt heeft aangeboden.

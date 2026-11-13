@@ -1,0 +1,5 @@
+# Artikel XII
+1. De Staten, welke partij zijn bij deze Overeenkomst op de dag van haar inwerkingtreding, zullen elk alle nodige maatregelen nemen voor haar doeltreffende werking binnen een periode van zes maanden na die datum.
+2. Voor Staten, welke hun akten van bekrachtiging of aanvaarding nederleggen na de datum van inwerkingtreding dezer Overeenkomst, zullen deze maatregelen genomen worden binnen een termijn van drie maanden na de datum van nederlegging.
+3. Binnen een maand na het verstrijken van de termijnen, bedoeld in het eerste en tweede lid van dit Artikel, zullen de Overeenkomstsluitende Staten een rapport zenden aan de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur over de maatregelen, welke zij hebben genomen voor een doeltreffende werking van de Overeenkomst.
+4. De Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur zal dit rapport doen toekomen aan alle Staten, die deze Overeenkomst hebben ondertekend en aan de Internationale Handelsorganisatie (voorlopig aan haar Interim-Commissie).

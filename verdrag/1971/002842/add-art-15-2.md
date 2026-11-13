@@ -1,0 +1,4 @@
+# Artikel XV
+(1) De Overeenkomstsluitende Partijen stellen hiermede een Gemengde Commissie in, welke is samengesteld uit door hen benoemde vertegenwoordigers.
+(2) De Gemengde Commissie komt ten verzoeke van een der Overeenkomstsluitende Partijen bijeen om aangelegenheden met betrekking tot de tenuitvoerlegging dezer Overeenkomst te bespreken en om de middelen ter aanmoediging van de economische samenwerking tussen de beide landen te onderzoeken.
+(3) De Gemengde Commissie volgt daartoe de ontwikkeling van de economische betrekkingen tussen de beide landen zowel in bilateraal als in multilateraal verband. Daarnaast doet zij aanbevelingen aan de onderscheiden Regeringen in gevallen waarin het mogelijk zou zijn de doeleinden dezer Overeenkomst te bevorderen en een meerdere mate van economische samenwerking te bereiken.

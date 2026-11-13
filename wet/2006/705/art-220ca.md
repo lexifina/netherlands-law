@@ -1,0 +1,2 @@
+# Artikel 220ca. Overgangsrecht toetredingsleeftijd
+Werknemers van 18 jaar of ouder die op het tijdstip van inwerkingtreding van artikel I, onderdelen Ca en H, eerste en derde onderdeel, van de Wet toekomst pensioenen niet in de pensioenregeling van hun werkgever deelnemen, omdat zij jonger zijn dan de op basis van de pensioenregeling gehanteerde toetredingsleeftijd, verwerven pensioenaanspraken vanaf het tijdstip van inwerkingtreding van artikel I, onderdelen Ca en H, eerste en derde onderdeel, van de Wet toekomst pensioenen.

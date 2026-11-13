@@ -1,0 +1,3 @@
+# Article XIV. Entry into force and termination
+1. This Agreement shall enter into force on the first day of the second month after the date on which the Parties have notified the Depositary that they have completed the necessary domestic requirements for entry into force of this Agreement.
+2. This Agreement shall remain in force unless terminated by the mutual written consent of the Parties or by any Party giving not less than 180 days' notice in writing to the Depositary of its intent to terminate. Notwithstanding termination of this Agreement, all reimbursement obligations incurred pursuant to its terms shall remain binding on the responsible Party until satisfied.

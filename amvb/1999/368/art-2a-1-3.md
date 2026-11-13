@@ -1,0 +1,2 @@
+# Artikel 2a.1.3. Vaststelling omvang landelijk beschikbaar budget voortgezet algemeen volwassenenonderwijs
+Binnen het raam van de door de begrotingswetgever voor het desbetreffende kalenderjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang vast van het landelijk beschikbare budget voor de exploitatiekosten en huisvestingskosten voor het voortgezet algemeen volwassenenonderwijs.

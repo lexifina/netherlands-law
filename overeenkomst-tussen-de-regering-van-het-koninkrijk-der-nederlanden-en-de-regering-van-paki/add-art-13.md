@@ -1,2 +1,0 @@
-# Article XIII
-In the event of the conclusion of a multilateral convention or agreement concerning air transport to which both Contracting Parties adhere, this Agreement shall be modified to conform with the provisions of such convention or agreement.

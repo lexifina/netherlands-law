@@ -1,0 +1,2 @@
+# Artikel 121a
+Hij die door geweld of bedreiging met geweld een vergadering van een commissie uit de beide kamers der Staten-Generaal of uit een van deze uiteenjaagt of tot het nemen of niet nemen van enig besluit dwingt of een lid, een minister of een staatssecretaris uit die vergadering verwijdert of opzettelijk verhindert die bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.

@@ -1,0 +1,5 @@
+# Artikel V
+1. Vergunningen tot vluchtuitvoering, verleend op grond van artikel 104 van de Regeling Toezicht Luchtvaart, die geldig zijn op het tijdstip van inwerkingtreding van artikel I, onderdeel D, van deze wet, worden voor de duur van die vergunning aangemerkt als AOC op grond van artikel 4.1, eerste lid, van de Wet luchtvaart.
+2. Ontheffingen, verleend op grond van artikel 102b van de Regeling Toezicht Luchtvaart, behouden gedurende een termijn van drie maanden na het tijdstip van inwerkingtreding van deze wet hun geldigheid.
+3. Indien de houder van een ontheffing als bedoeld in het tweede lid, gedurende de in dat lid genoemde termijn een aanvraag heeft ingediend voor een AOC of een ontheffing op grond van de Wet luchtvaart, behoudt de eerstgenoemde ontheffing ook na de in dat lid genoemde termijn zijn geldigheid tot het tijdstip, waarop op de aanvraag onherroepelijk is beslist.
+4. Voor de behandeling van de aanvraag, bedoeld in het derde lid, is de aanvrager geen vergoeding verschuldigd.

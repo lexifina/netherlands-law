@@ -1,0 +1,4 @@
+# Artikel 33a. Vervangingspool – aanvraag vervangingspool per 1 augustus 2016
+1. In afwijking van artikel 33, kan een bevoegd gezag bij het Vervangingsfonds een schriftelijke aanvraag indienen om per 1 augustus 2016 de vervangingspool die het al dan niet samen met andere bevoegde gezagsorganen heeft ingericht in aanmerking laten komen voor de bekostiging van de in deze vervangingspool opgenomen personeelsleden.
+2. Het bevoegd gezag dient de aanvraag, genoemd in het eerste lid, uiterlijk op 1 juli 2016 in bij het Vervangingsfonds.
+3. Indien een schoolbestuur ingevolge het eerste lid een door het Vervangingsfonds bekostigde vervangingspool heeft opgericht per 1 augustus 2016, vindt er over de periode augustus 2016 tot en met december 2016 een afrekening plaats ten aanzien van deze vervangingspool. Hierbij is artikel 37 van overeenkomstige toepassing.

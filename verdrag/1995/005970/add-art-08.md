@@ -1,0 +1,3 @@
+# VIII. Ad Article 11, paragraph 2
+1. Nothwithstanding the provisions of paragraph 2 of Article 11, as long as, under the provisions of the Netherlands taxation laws and to the future amendments thereto, the Netherlands does not levy a tax at source on interest paid to a resident of Vietnam, the percentage provided for in this paragraph shall be reduced to 7 per cent of the gross amount of the interest.
+2. If Vietnam after 1 July 1993 has signed an Agreement for the avoidance of double taxation with a member State of the Organisation for Economic Cooperation and Development which provides for a lower rate on interest (including a zero rate) then this lower rate will apply to residents of the Netherlands.

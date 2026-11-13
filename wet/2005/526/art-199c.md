@@ -1,0 +1,2 @@
+# Artikel 199c. Informatieverstrekking aan tijdelijke enquêtecommissie van het Europees Parlement
+De toezichthouder verstrekt, in afwijking van artikel 198, eerste lid, vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, aan een tijdelijke enquêtecommissie van het Europees Parlement, bedoeld in artikel 226 van het Verdrag betreffende de werking van de Europese Unie.

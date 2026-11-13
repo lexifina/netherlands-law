@@ -1,4 +1,0 @@
-# Artikel 17b
-1. Tenzij anders is overeengekomen, sluit de bevoegdheid tot openbaarmaking door uitzending van een radio- of televisieprogramma via radio of televisie, of een ander medium dat eenzelfde functie vervult niet in de bevoegdheid het werk vast te leggen.
-2. De omroeporganisatie die bevoegd is tot de openbaarmaking, bedoeld in het eerste lid, is echter gerechtigd met haar eigen middelen en uitsluitend voor uitzending van haar eigen radio- of televisieprogramma's het ter uitzending bestemde werk tijdelijk vast te leggen. De omroeporganisatie, die dientengevolge gerechtigd is tot vastlegging, is desalniettemin verplicht de rechten van de maker van het werk, bedoeld in artikel 25, te eerbiedigen.
-3. Vastleggingen die met inachtneming van het tweede lid zijn vervaardigd en een uitzonderlijke documentaire waarde bezitten, mogen in officiële archieven worden bewaard.

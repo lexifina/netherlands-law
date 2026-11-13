@@ -1,0 +1,2 @@
+# Article I
+The Participants commit themselves to undertake, under the provisions of this Arrangement, the first phase of a programme having as its objective the development, including qualification, of a satellite launcher called Ariane intended to place payloads of the order of 1500 kg in a transfer orbit and, with the assistance of a suitable apogee motor, to place satellites of the order of 750 kg in geostationary orbit. This programme comprises a second phase which will have as its objective the production of this launcher and which will be decided upon at a later date.

@@ -1,2 +1,0 @@
-# Article XII
-The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all signatory and acceding States.

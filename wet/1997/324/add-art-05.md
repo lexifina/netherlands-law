@@ -1,0 +1,2 @@
+# ARTIKEL V
+Wanneer in uiterste wilsbeschikkingen, statuten, reglementen of overeenkomsten voor de inwerkingtreding van deze wet gemaakt of aangegaan een rechtsgevolg afhankelijk is gesteld van het al dan niet gehuwd zijn of van een rechtstreeks met het huwelijk verbonden rechtsfeit, wordt met het huwelijk gelijk gesteld een geregistreerd partnerschap, tenzij in de uiterste wilsbeschikking, de statuten, het reglement of de overeenkomst van deze gelijkstelling uitdrukkelijk is afgeweken.

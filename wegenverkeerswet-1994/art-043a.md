@@ -1,4 +1,0 @@
-# Artikel 43a
-1. De gegevensverstrekking aan ontvangers, bedoeld in artikel 43 vindt plaats op door de Dienst Wegverkeer bepaalde wijze.
-2. De in artikel 43, vierde en vijfde lid, bedoelde ontvangers zijn voor de verstrekking van gegevens een door de Dienst Wegverkeer vastgesteld tarief verschuldigd. De betrokkene zelf is alleen kosten verschuldigd voor bijkomende kopieën van persoonsgegevens, waaronder mede begrepen persoonsgegevens van strafrechtelijke aard als bedoeld in paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming, alsmede voor de verstrekking van gegevens, niet zijnde persoonsgegevens.
-3. Onverminderd het tweede lid is degene die op grond van artikel 43 een aanvraag indient tot geautomatiseerde verstrekking uit het kentekenregister van gegevens in door de Dienst Wegverkeer te bepalen gevallen een door deze dienst te bepalen aansluittarief verschuldigd.

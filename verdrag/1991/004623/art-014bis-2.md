@@ -1,0 +1,3 @@
+# Artikel 14bis. Toetsing van de naleving
+1. De Partijen toetsen de naleving van de bepalingen van dit Verdrag volgens de nalevingsprocedure, die door de Vergadering van de Partijen wordt aangenomen als een non-contradictoire, op bijstand gerichte procedure. De toetsing wordt gebaseerd op, maar niet beperkt tot, regelmatige rapportage door de Partijen. De Vergadering van de Partijen bepaalt hoe vaak de door de Partijen verlangde regelmatige rapportage dient plaats te vinden en welke gegevens in deze periodieke verslagen moeten zijn opgenomen.
+2. De nalevingsprocedure kan worden toegepast op elk protocol dat uit hoofde van dit Verdrag wordt aangenomen.

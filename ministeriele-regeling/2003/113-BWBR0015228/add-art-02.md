@@ -1,0 +1,3 @@
+# Artikel II
+1. De certificatiedienstverlener die na inwerkingtreding van deze regeling geregistreerd wordt in de subcategorie 'certificatiedienstverlener die niet in het bezit is van een geldig bewijs van toetsing', wordt op diens aanvraag, indien een geldig bewijs van toetsing wordt overgelegd, geregistreerd in de subcategorie 'certificatiedienstverlener die in het bezit is van een geldig bewijs van toetsing'.
+2. In het geval, bedoeld in het eerste lid, worden niet opnieuw registratiekosten in rekening gebracht, wordt voor het jaar 2003 de vergoeding voor toezicht in rekening gebracht die hoort bij de subcategorie 'certificatiedienstverlener die in het bezit is van een geldig bewijs van toetsing', en wordt het teveel betaalde bedrag voor toezichtkosten gerestitueerd.

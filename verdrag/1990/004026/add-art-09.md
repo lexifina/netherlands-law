@@ -1,0 +1,2 @@
+# Artikel IX
+Vertegenwoordigers van de Partijen ontmoeten elkaar binnen een jaar na de datum van inwerkingtreding van deze Overeenkomst om zowel de toepassing van de bepalingen na te gaan als ter bespreking van de mogelijke wijze om een hoger niveau van veiligheid van de vaart van hun schepen en de vluchten van hun luchtvaartuigen buiten de territoriale wateren na te streven. Soortgelijk overleg wordt daarna jaarlijks gehouden of vaker naar goeddunken van Partijen.

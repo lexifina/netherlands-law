@@ -1,0 +1,2 @@
+# I. Ad artikel 1
+Het is wel te verstaan dat voor de toepassing van dit Verdrag een pensioenfonds dat als zodanig erkend is in een Verdragsluitende Staat en waarvan het inkomen in het algemeen is vrijgesteld van belasting in die Staat, wordt beschouwd als een inwoner van die Staat. Als zulk een erkend pensioenfonds zal worden beschouwd, in het geval van Vietnam, elk pensioenfonds dat volgens wettelijke bepalingen erkend is en onder toezicht staat en in het geval van Nederland elk pensioenfonds dat volgens wettelijke bepalingen erkend is en onder toezicht staat.

@@ -1,0 +1,8 @@
+# Selectielijst neerslag handelingen minister van SZW op het beleidsterrein Beheer Rijksbegroting
+
+Selectielijst neerslag handelingen minister van SZW op het beleidsterrein Beheer Rijksbegroting · 1 versions, from 1998-08-01 (latest in force: 1998-08-01) · <https://wetten.overheid.nl/BWBR0009319>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |

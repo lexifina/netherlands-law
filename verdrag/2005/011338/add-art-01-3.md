@@ -1,0 +1,2 @@
+# Artikel I. Beheer van het Fonds
+De Bank blijft beheerder van het Fonds. De Bank beheert het Fonds en verricht haar werkzaamheden in overeenstemming met het MIF II-verdrag en verleent diensten als depositaris en andere daarmee verband houdende werkzaamheden. De Bank handhaaft het kantoor van het Multilateraal Investeringsfonds als kantoor binnen de organisatie van de Bank belast met het beheren en verrichten van de werkzaamheden en programma's van het Fonds zoals bepaald in dit MIF II-beheerverdrag.

@@ -1,0 +1,2 @@
+# Artikel 7ja
+Op een waardering als bedoeld in artikel 3A:89 van de wet, die tot doel heeft als grondslag te dienen voor de vaststelling of is voldaan aan de voorwaarden voor afwikkeling, bedoeld in de artikelen 3A:85, eerste lid en tweede lid, onderdeel a, en 3A:86 van de wet, zijn de regels gesteld bij of krachtens de artikelen 3:53, 3:57, 3:67 en 3:69a van de wet van overeenkomstige toepassing.

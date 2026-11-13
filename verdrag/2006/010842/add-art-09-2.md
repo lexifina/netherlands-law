@@ -1,0 +1,3 @@
+# Artikel IX
+1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte akte ten behoeve van registratie. Deze opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
+2. Elk Lid dat niet binnen een jaar na afloop van de termijn van tien jaar bedoeld in het eerste lid van dit artikel, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na het verstrijken van elke nieuwe termijn van tien jaar onder de voorwaarden voorzien in dit artikel.

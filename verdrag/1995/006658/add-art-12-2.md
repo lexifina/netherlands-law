@@ -1,0 +1,2 @@
+# XII. Ad artikelen 23 en 24
+De bepalingen inzake de belastingheffing van vermogen in artikel 23 van het Verdrag en de bepalingen met betrekking tot de vermijding van dubbele belasting met betrekking tot vermogen in artikel 24, tweede lid, van het Verdrag, zullen uitsluitend van kracht zijn wanneer Oekraïne een belasting naar het vermogen heft en nadat de bevoegde autoriteiten na wederzijds overleg daarmee hebben ingestemd.

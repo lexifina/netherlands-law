@@ -1,0 +1,5 @@
+# Artikel 447a
+Met geldboete van de tweede categorie wordt gestraft:
+1°. hij die niet of niet behoorlijk voldoet aan enige verplichting, opgelegd in artikel 195 van Boek 8 van het Burgerlijk Wetboek in verband met de artikelen 192 en 178 derde lid van Boek 8 van het Burgerlijk Wetboek, of opgelegd in de artikelen 785 en 786 van Boek 8 van het Burgerlijk Wetboek in verband met de artikelen 782 en 178 derde lid, naast artikel 771 van Boek 8 van dat Wetboek of in de algemene maatregelen van bestuur bedoeld in de artikelen 231 en 841 van Boek 8 van het Burgerlijk Wetboek;
+2°. hij die het brandmerk, de benaming of kentekens op een teboekstaand schip, voorgeschreven in de onder 1° genoemde algemene maatregel van bestuur, verwijdert, verandert dan wel onduidelijk of onzichtbaar maakt op een andere wijze dan volgens die algemene maatregel van bestuur geoorloofd is;
+3°. hij die niet of niet behoorlijk voldoet aan de verplichting, opgelegd in artikel 1304, tweede lid, van Boek 8 van het Burgerlijk Wetboek, of aan enige verplichting, opgelegd in een algemene maatregel van bestuur, uitgevaardigd krachtens artikel 1321 van Boek 8 van het Burgerlijk Wetboek.

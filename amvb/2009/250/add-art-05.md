@@ -1,0 +1,4 @@
+# Artikel V
+1. Het bevoegd gezag draagt ervoor zorg dat vergunningen als bedoeld in artikel 8.1 van de Wet milieubeheer die voor de datum van inwerkingtreding van dit besluit zijn verleend met betrekking tot stortplaatsen als bedoeld in artikel 8.47, eerste lid, onder a, van die wet op 16 juli 2009 met dit besluit in overeenstemming zijn.
+2. Het Besluit stortplaatsen en stortverboden afvalstoffen en het Stortbesluit bodembescherming, zoals deze luidden voor de datum van inwerkingtreding van dit besluit, blijven tot 16 juli 2009 van kracht met betrekking tot stortplaatsen als bedoeld in het eerste lid.
+3. De wijzigingen ingevolge artikel II in artikel 10 van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen zijn met ingang van 16 juli 2009 van toepassing op degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door afgifte aan een persoon die een stortplaats als bedoeld in het eerste lid drijft.

@@ -1,0 +1,2 @@
+# Artikel III
+De toelating tot het voorrecht van den kosteloozen rechtsbijstand, verleend op grond van artikel één, heeft van rechtswege ten gevolge de vrijstelling van het geven van elke zekerheidsstelling of voorafgaande storting, die, onder welke benaming ook, krachtens de wetgeving van den Staat alwaar de eisch wordt ingesteld, gevorderd kan worden van de vreemdelingen die een rechtsgeding voeren tegen de onderdanen van dien Staat.

@@ -1,0 +1,3 @@
+# Artikel 14g
+1. Indien een verbetering, aanvulling, verwijdering of afscherming als bedoeld in artikel 14e is uitgevoerd, doet Onze Minister van Justitie het aan de personen of instanties, bedoeld in de artikelen 12 en 13 in het jaar voorafgaand aan het verzoek en in de sinds dat verzoek verstreken periode de betrokken inlichtingen zijn verstrekt, zo spoedig mogelijk mededeling van deze verbetering, aanvulling, verwijdering of afscherming, tenzij dit onmogelijk blijkt of een onevenredige inspanning kost.
+2. Onze Minister van Justitie deelt aan de verzoeker en voor zover van toepassing aan de wettelijk vertegenwoordiger desgevraagd mede aan wie hij de mededeling heeft gedaan.

@@ -1,0 +1,3 @@
+# ARTIKEL LXII
+1. De Stichting Pensioenfonds ABP kent aan overheidswerkgevers in de zin van artikel 1, onder m, van de Wet privatisering ABP een reductie van de door hen verschuldigde pensioenbijdrage toe, die niet van invloed is op het verhaal van een deel van die pensioenbijdrage op de overheidswerknemers in de zin van die wet.
+2. De in het eerste lid bedoelde reductie wordt door Onze Minister van Binnenlandse Zaken vastgesteld overeenkomstig artikel 43, tweede lid, van de Wet financiële voorzieningen privatisering ABP, zoals die wet luidde de dag voorafgaand aan de inwerkingtreding van deze wet.

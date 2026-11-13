@@ -1,0 +1,2 @@
+# XV. Ad artikel 23
+Het is wel te verstaan dat voor de toepassing van artikel 23 de uitdrukking „vermogen" betekent roerende goederen en onroerende zaken, en omvat (maar niet is beperkt tot) contant geld, aandelen of andere bewijzen van eigendomsrechten, promessen, obligaties of andere bewijzen van schuldplichtigheid, en octrooien, fabrieks- of handelsmerken, auteursrechten of andere soortgelijke goederen of zaken.

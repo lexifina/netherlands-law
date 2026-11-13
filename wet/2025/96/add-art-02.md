@@ -1,0 +1,2 @@
+# Artikel II
+Deze wet blijft buiten toepassing indien Onze Minister van Justitie en Veiligheid vóór de datum van inwerkingtreding van deze wet niet binnen de wettelijke termijn heeft beslist op een aanvraag op grond van de Vreemdelingenwet 2000 en hij vóór die datum van de aanvrager een schriftelijke ingebrekestelling als bedoeld in artikel 4:17, derde lid of 6:12, tweede lid, onder b, van de Algemene wet bestuursrecht heeft ontvangen.

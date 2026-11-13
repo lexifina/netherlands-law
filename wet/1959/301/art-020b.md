@@ -1,0 +1,2 @@
+# Artikel 20b
+In afwijking van hoofdstuk VA wordt de rente ter zake van op grond van een terugvorderingsbesluit als bedoeld in artikel 20a, eerste lid, terug te vorderen staatssteun berekend overeenkomstig het bepaalde bij of krachtens de artikelen 16, tweede lid, en 33, onderdeel e, van Verordening (EU) 2015/1589 van de Raad van 13 juli 2015 tot vaststelling van nadere bepalingen voor de toepassing van artikel 108 van het Verdrag betreffende de werking van de Europese Unie (PbEU 2015, L 248).

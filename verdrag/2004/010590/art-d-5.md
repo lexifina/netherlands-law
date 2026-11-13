@@ -1,0 +1,10 @@
+# Regulation D-5. Review of Standards by the Organization
+1. At a meeting of the Committee held no later than three years before the earliest effective date of the standard set forth in regulation D-2, the Committee shall undertake a review which includes a determination of whether appropriate technologies are available to achieve the standard, an assessment of the criteria in paragraph 2, and an assessment of the socio-economic effect(s) specifically in relation to the developmental needs of developing countries, particularly small island developing States. The Committee shall also undertake periodic reviews, as appropriate, to examine the applicable requirements for ships described in regulation B-3.1 as well as any other aspect of Ballast Water Management addressed in this Annex, including any Guidelines developed by the Organization.
+2. Such reviews of appropriate technologies shall also take into account:
+.1 safety considerations relating to the ship and the crew;
+.2 environmental acceptability, i.e., not causing more or greater environmental impacts than they solve;
+.3 practicability, i.e., compatibility with ship design and operations;
+.4 cost effectiveness, i.e., economics; and
+.5 biological effectiveness in terms of removing, or otherwise rendering not viable, Harmful Aquatic Organisms and Pathogens in Ballast Water.
+3. The Committee may form a group or groups to conduct the review(s) described in paragraph 1. The Committee shall determine the composition, terms of reference and specific issues to be addressed by any such group formed. Such groups may develop and recommend proposals for amendment of this Annex for consideration by the Parties. Only Parties may participate in the formulation of recommendations and amendment decisions taken by the Committee.
+4. If, based on the reviews described in this regulation, the Parties decide to adopt amendments to this Annex, such amendments shall be adopted and enter into force in accordance with the procedures contained in Article 19 of this Convention.

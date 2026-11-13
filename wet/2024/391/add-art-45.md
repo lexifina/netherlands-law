@@ -1,0 +1,11 @@
+# Artikel XLV. Inwerkingtreding
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. In afwijking van het eerste lid, treden de artikelen I, onderdelen A, C, E, F, G, I en K, X, onderdeel F, XI, XV, onderdeel B, XXI, onderdeel B en XXII in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt ten aanzien van:
+a. artikel I, onderdelen A, C, E, F, G, I en K, terug tot en met 1 juli 2022;
+b. artikel X, onderdeel F, en artikel XXI, onderdeel B, terug tot en met 1 januari 2023;
+c. artikel XI, onderdelen A en C, terug tot en met 1 januari 2021;
+d. artikel XV, onderdeel B, terug tot 1 april 2023;
+e. artikel XXII terug tot en met 1 januari 2020.
+3. In afwijking van het eerste lid, treden de artikelen V, onderdelen D en E, X, onderdelen C en D, en XIV, onderdeel B, in werking op 1 januari 2024. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2023, treden zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werken zij terug tot en met het tijdstip, bedoeld in de eerste volzin.
+4. In afwijking van het eerste lid, treedt artikel II in werking op het tijdstip waarop artikel I, onderdeel Ra, van de Wet aanpassing Appa en enkele andere wetten 2021 in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip, bedoeld in de eerste volzin, treedt artikel II in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip, bedoeld in de eerste volzin.
+5. In afwijking van het eerste lid, treedt artikel XXI, onderdeel A, in werking op het tijdstip waarop het bepaalde in artikel 16, derde lid, van de Wet herstel voorzieningen Sint Eustatius in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip, bedoeld in de eerste volzin, treedt artikel XXI, onderdeel A, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip, bedoeld in de eerste volzin.

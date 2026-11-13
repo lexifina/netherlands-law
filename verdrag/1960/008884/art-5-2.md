@@ -1,0 +1,7 @@
+# § 5. Rammelbeek
+Normalisering van de beek:
+Tussen de grensstenen 41XIV en 48 wordt de Rammelbeek binnen zes jaar na de inwerkingtreding van dit Verdrag door de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden volgens een gezamenlijk plan genormaliseerd, waardoor haar loop wordt gewijzigd zoals in de bijgevoegde kaart is aangegeven.
+Toekomstig verloop van de grens:
+Na de uitvoering van de hierboven bedoelde normalisering zal de grens, die vóór de drooglegging van de oude Rammelbeek in het midden van deze waterloop liep en tegenwoordig door de grensstenen 41IV tot en met 41XIV is aangegeven, van grenssteen 41IVaf de zuidoostzijde van het kanaal Almelo-Nordhorn volgen tot de instromingsopening van de duiker, van hier het kanaal loodrecht kruisen tot de uitstromingsopening van de duiker en van hier in het midden van de huidige Rammelbeek lopen tot ter hoogte van grenssteen 41XIV. Van hier zal de grens in het midden van de genormaliseerde Rammelbeek lopen tot grenssteen 48.
+Bijzondere bepalingen:
+Na de hierboven bedoelde grenswijziging zal het Koninkrijk der Nederlanden de instandhouding toestaan van de weg aan de zuidoostzijde van het kanaal Almelo-Nordhorn tussen grenssteen 41IV en de instromingsopening van de duiker. De Duitse eigenaren van de langs deze weg gelegen percelen zullen bevoegd zijn tot het gebruik van deze weg overeenkomstig § 2 van Bijlage A bij dit Verdrag alsmede tot het treffen van alle noodzakelijke maatregelen ten behoeve van het kanaal Almelo-Nordhorn en van de bewerking van het land.

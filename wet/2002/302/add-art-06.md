@@ -1,0 +1,2 @@
+# Artikel VI. Inwerkingtreding
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en waarbij artikel I, onderdelen H, voor wat betreft artikel 6.3, en O, kan terugwerken tot en met 12 september 2002 en artikel I, onderdeel O, eerst van toepassing kan zijn op opleidingen die starten met ingang van het studiejaar 2004–2005.

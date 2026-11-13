@@ -1,0 +1,9 @@
+# Artikel 34e
+1. De hoogte en de samenstelling van de beloning van de personen die het dagelijks beleid bepalen van de accountantsorganisatie en, indien het stelsel van intern onafhankelijk toezicht overeenkomstig artikel 22a, tweede lid, van de wet is ingericht, van het hiërarchisch hoogste netwerkonderdeel, bedoeld in artikel 22a, tweede lid, van de wet, wordt vastgesteld door het orgaan belast met het interne toezicht.
+2. Het orgaan belast met het interne toezicht doet een voorstel voor het beloningsbeleid voor de personen die het dagelijks beleid bepalen van de accountantsorganisatie en, indien het stelsel van intern onafhankelijk toezicht overeenkomstig artikel 22a, tweede lid, van de wet is ingericht, van het hiërarchisch hoogste netwerkonderdeel, bedoeld in artikel 22a, tweede lid, van de wet.
+3. Aan de goedkeuring van het orgaan belast met het interne toezicht zijn ten minste onderworpen besluiten van personen die het dagelijks beleid bepalen van de accountantsorganisatie, of van het hiërarchisch hoogste netwerkonderdeel, bedoeld in artikel 22a, tweede lid, van de wet omtrent:
+a. het beleid ten aanzien van het stelsel van kwaliteitsbeheersing, bedoeld in artikel 8, eerste lid;
+b. de benoeming, schorsing en het ontslag van bij de accountantsorganisatie werkzame externe accountants;
+c. de benoeming, schorsing, beoordeling en het ontslag van de persoon, bedoeld in artikel 23, eerste lid;
+d. de jaarlijkse begroting van de accountantsorganisatie.
+4. Het ontbreken van de goedkeuring van het orgaan belast met het interne toezicht op een besluit als bedoeld in het derde lid tast de vertegenwoordigingsbevoegdheid niet aan van personen die het dagelijks beleid bepalen van de accountantsorganisatie, of van het hiërarchisch hoogste netwerkonderdeel, bedoeld in artikel 22a, tweede lid, van de wet.

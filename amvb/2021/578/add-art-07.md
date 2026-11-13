@@ -1,0 +1,2 @@
+# Artikel VII. Besluit van 26 januari 2021, houdende wijziging van de ambtsinstructie voor de politie, de koninklijke marechaussee en andere opsporingsambtenaren, het besluit bewapening en uitrusting politie en het besluit reis-, verblijf- en verhuiskosten politie in verband met de wijziging en invoering van voorschriften omtrent het gebruik van geweldmiddelen en vrijheidsbeperkende middelen
+[Wijzigt het Wijzigingsbesluit ambtsinstructie voor de politie, enz (wijziging en invoering van voorschriften omtrent het gebruik van geweldmiddelen en vrijheidsbeperkende middelen).]

@@ -1,0 +1,2 @@
+# Artikel VIII
+Artikel 91 van de Gemeentewet zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van artikel I, onderdeel TT, blijft van toepassing op vaste commissies van advies aan het college van burgemeester en wethouders of aan de burgemeester die zijn ingesteld voor deze datum, tot de dag van eerste samenkomst van de bij de periodieke verkiezing van 2002 gekozen leden van de raad.

@@ -1,0 +1,3 @@
+# Artikel II
+1. Teneinde de doelstellingen dezer Overeenkomst te verwezenlijken verbindt elke Overeenkomstsluitende Partij zich om, binnen de grenzen harer wetten, regelingen en voorschriften, haar onderdanen, op daartoe gedaan verzoek, te machtigen tot het leveren van kapitaalgoederen aan, en het uitvoeren van openbare werken ten behoeve van, Overheids- en particuliere ondernemingen op het grondgebied van de andere Overeenkomstsluitende Partij, tegen overeengekomen betalingen.
+2. Elke Overeenkomstsluitende Partij waarborgt binnen de grenzen harer wetten, regelingen en voorschriften het telkens op de vervaldag overmaken uit haar grondgebied van de bedragen verschuldigd aan crediteuren die onderdanen zijn van de andere Overeenkomstsluitende Partij.

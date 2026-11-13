@@ -1,0 +1,2 @@
+# Artikel 2b
+Met inachtneming van artikel 2, negende lid, is de rechtzoekende ingeval van een opvolgend deskundigenoordeel opnieuw een eigen bijdrage verschuldigd die gelijk is aan de eigen bijdrage die de rechtzoekende verschuldigd is ten behoeve van de toevoeging, tenzij het bestuur op grond van artikel 6, eerste of tweede lid, geen eigen bijdrage heeft opgelegd. In laatstgenoemde gevallen is artikel 6, derde lid van toepassing.

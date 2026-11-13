@@ -1,0 +1,3 @@
+# Artikel IV
+1. Een verklaring van vakbekwaamheid als bedoeld in artikel 54, eerste lid, van de Wet op het accountantsberoep die is afgegeven voor de inwerkingtreding van artikel III, onderdeel E, wordt aangemerkt als een verklaring van vakbekwaamheid, afgegeven door de Nederlandse beroepsorganisatie van accountants.
+2. Een aanvraag om een verklaring van vakbekwaamheid als bedoeld in artikel 54, eerste lid, van de Wet op het accountantsberoep, die voor de inwerking van artikel III, onderdeel E, is ingediend bij de Commissie eindtermen accountantsopleiding en waarop ten tijde van de inwerkingtreding van artikel III, onderdeel E, nog niet is beslist, wordt aangemerkt als een aanvraag die is ingediend bij de Nederlandse beroepsorganisatie van accountants.

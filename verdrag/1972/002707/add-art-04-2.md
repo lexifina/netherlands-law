@@ -1,0 +1,6 @@
+# Artikel IV. Beproeving, inspectie, goedkeuring en onderhoud
+1. Voor het doen naleven van de bepalingen van Bijlage I dient elke Administratie een doeltreffende procedure vast te stellen voor het beproeven, inspecteren en goedkeuren van containers overeenkomstig de in deze Overeenkomst vastgelegde normen, met dien verstande evenwel dat een Administratie dit beproeven, inspecteren en goedkeuren mag toevertrouwen aan daartoe naar behoren gemachtigde organisaties.
+2. Een Administratie die dit beproeven, inspecteren en goedkeuren toevertrouwt aan een organisatie, geeft hiervan kennis aan de Secretaris-Generaal van de Intergouvernementele Maritieme Consultatieve Organisatie ter mededeling aan de Overeenkomstsluitende Partijen.
+3. Aanvragen voor goedkeuring kunnen worden gericht tot de Administratie van elke Overeenkomstsluitende Partij.
+4. Elke container dient in een veilige staat te worden gehouden overeenkomstig de bepalingen van Bijlage I.
+5. Indien een goedgekeurde container in feite niet voldoet aan de voorschriften van de Bijlagen I en II, dient de betrokken Administratie de door haar noodzakelijk geachte maatregelen te nemen opdat de container alsnog gaat voldoen aan die voorschriften, of de goedkeuring in te trekken.

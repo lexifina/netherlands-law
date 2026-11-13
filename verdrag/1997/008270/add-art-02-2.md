@@ -1,0 +1,2 @@
+# Artikel II
+Onverminderd de rechten van NAVO-lidstaten of Partnerschapsstaten die geen Partij zijn bij dit Protocol, passen de Partijen bij dit Protocol op de werkzaamheden van de militaire hoofdkwartieren van de NAVO en het militaire en burgerpersoneel daarvan die op het grondgebied van een Partij bij dit Protocol worden uitgevoerd, bepalingen toe die identiek zijn aan de in het Protocol van Parijs vastgelegde bepalingen, tenzij zij zijn gewijzigd bij het onderhavige Protocol.

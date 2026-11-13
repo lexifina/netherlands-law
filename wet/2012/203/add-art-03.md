@@ -1,0 +1,3 @@
+# Artikel III
+1. Indien een ondernemingspensioenfonds een schriftelijke raadpleging heeft gehouden als bedoeld in artikel 100, tweede lid, van de Pensioenwet, zoals dat artikel luidde voor de datum van inwerkingtreding van deze wet, en dit heeft niet geleid tot vertegenwoordiging van pensioengerechtigden in het bestuur, past het fonds na de inwerkingtreding van deze wet artikel 100, tweede lid, van de Pensioenwet toe.
+2. Indien de termijn voor het indienen van beroep door een deelnemersraad, bedoeld in artikel 217, tweede lid, van de Pensioenwet, is aangevangen voor het tijdstip van inwerkingtreding van deze wet, blijft ten aanzien van de mogelijkheid om beroep in te stellen het recht, zoals dat gold vóór dat tijdstip, van toepassing.

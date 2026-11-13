@@ -1,0 +1,2 @@
+# Artikel XI
+Het origineel van dit Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de depositaris, die gewaarmerkte afschriften zal toezenden aan de Verdragsluitende Partijen en de Staten die waren uitgenodigd voor de Conferentie inzake het verband tussen het Verdrag van Parijs en het Verdrag van Wenen, alsmede de Secretaris-Generaal van de Organisatie voor Economische Samenwerking en Ontwikkeling.

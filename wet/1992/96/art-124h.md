@@ -1,0 +1,2 @@
+# Artikel 124h
+Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen regels worden gesteld over de verstrekking van systematische informatie aan het provinciebestuur of, in het geval artikel 124b, eerste lid, van toepassing is, Onze Minister wie het aangaat, betreffende de uitvoering door het gemeentebestuur van de andere wet, bedoeld in artikel 124, eerste lid. Bij ministeriële regeling of bij provinciale verordening kunnen nadere regels worden gesteld omtrent de toepassing.

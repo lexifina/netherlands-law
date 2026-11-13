@@ -1,0 +1,2 @@
+# Artikel VI. Overgangsrecht
+Voor de benoeming van rechterlijke ambtenaren als bedoeld in artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie die negen tot drie maanden voor inwerkingtreding van deze wet op grond van artikel 46h, derde lid, van de Wet rechtspositie rechterlijke ambtenaren zijn ontslagen, doet het betrokken bestuur van het gerechtshof of de rechtbank in afwijking van artikel 54a, tweede lid, binnen twee weken na inwerkingtreding van deze wet een aanbeveling aan de Raad voor de rechtspraak.

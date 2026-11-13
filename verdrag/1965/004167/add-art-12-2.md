@@ -1,0 +1,2 @@
+# Artikel XII
+Drie jaar nadat dit Verdrag voor een Verdragsluitende Regering in werking is getreden, kan die Regering het opzeggen door daarvan schriftelijk kennis te geven aan de Secretaris-Generaal, die alle Verdragsluitende Regeringen kennis geeft van de inhoud en de datum van ontvangst van bedoelde kennisgeving. Deze opzegging wordt van kracht een jaar, of zoveel later als in de kennisgeving wordt vermeld, na ontvangst daarvan door de Secretaris-Generaal.

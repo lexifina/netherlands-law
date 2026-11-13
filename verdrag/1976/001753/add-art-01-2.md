@@ -1,0 +1,2 @@
+# Artikel I
+Indien beide regeringen hebben besloten samen te werken aan een bepaald project voor technische samenwerking (hierna te noemen een project), worden de bijdragen van elk der regeringen aan dit project alsmede de uitvoering daarvan in ieder afzonderlijk geval geregeld in een administratief akkoord tussen de onderscheiden bevoegde autoriteiten, overeenkomstig de in deze Overeenkomst vastgelegde beginselen.

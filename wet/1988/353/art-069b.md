@@ -1,0 +1,2 @@
+# Artikel 69b
+Artikelen 28 tot en met 44 van de Loodsenwet, zoals deze luidde voor het tijdstip van inwerkingtreding van de artikelen 28 tot en met 45 (nieuw) bij de Wet actualisatie markttoezicht registerloodsen, blijven van kracht ten aanzien van klachten die voor inwerkingtreding van de artikelen 28 tot en met 45 (nieuw) bij het tuchtcollege loodsen aanhangig zijn gemaakt en beroepen tegen uitspraken van het tuchtcollege loodsen die voor de inwerkingtreding van de genoemde artikelen bij het College van beroep voor het bedrijfsleven aanhangig zijn gemaakt.

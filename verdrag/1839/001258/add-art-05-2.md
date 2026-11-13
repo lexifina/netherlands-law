@@ -1,0 +1,2 @@
+# Artikel V
+Zijne Majesteit de Koning der Nederlanden, Groot-Hertog van Luxemburg, zal zich met het Duitsche Bondgenootschap en de agnaten van het Huis van Nassau verstaan over de toepassing der in de artikelen III en IV vervatte bepalingen, alsmede over alle de schikkingen, die gezegde artikelen, hetzij met de bovengenoemde agnaten van het Huis van Nassau, hetzij met het Duitsche Bondgenootschap, noodzakelijk zouden kunnen maken.

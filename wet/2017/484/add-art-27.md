@@ -1,0 +1,2 @@
+# Artikel XXVII. Wet van 21 november 2015 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met de totstandkoming van het personenregister kinderopvang en peuterspeelzaalwerk en de mogelijkheid te komen tot meertalige buitenschoolse opvang (Stb. 2015, 452)
+[Wijzigt de Wijzigingswet Wet kinderopvang en kwaliteitseisen peuterspeelzalen (totstandkoming van het personenregister kinderopvang en peuterspeelzaalwerk en de mogelijkheid te komen tot meertalige buitenschoolse opvang) (Stb. 2015, 452).]

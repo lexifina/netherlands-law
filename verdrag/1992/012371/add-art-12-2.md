@@ -1,0 +1,2 @@
+# Artikel XII
+Dit Verdrag gaat boven andere internationale overeenkomsten die op de datum waarop dit Verdrag is opengesteld voor ondertekening, van kracht zijn of openstaan voor ondertekening, bekrachtiging of toetreding, doch uitsluitend voor zover deze overeenkomsten daarmede in strijd zouden zijn; de bepalingen van dit Verdrag laten nochtans de uit bedoelde internationale overeenkomsten voortvloeiende verplichtingen van Verdragsluitende Staten tegenover niet-Verdragsluitende Staten onverlet.

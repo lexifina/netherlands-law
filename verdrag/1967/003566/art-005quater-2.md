@@ -1,0 +1,2 @@
+# Artikel 5quater
+Indien een voortbrengsel wordt ingevoerd in een land der Unie, waar een octrooi bestaat, dat de werkwijze om dit voortbrengsel te vervaardigen beschermt, zal de octrooihouder ten opzichte van het ingevoerde voortbrengsel alle rechten kunnen uitoefenen, welke de wetgeving van het land van invoer hem, op grond van het octrooi voor de werkwijze, ten opzichte van in het betrokken land vervaardigde voortbrengselen toekent.

@@ -1,0 +1,2 @@
+# Artikel H 1
+De formulieren voor de kandidatenlijsten, bedoeld in artikel H 1, derde lid, van de Kieswet, en voor de verklaringen, bedoeld in de artikelen H 3, vijfde lid, H 4, zevende lid, en H 9, vierde lid, van de Kieswet, zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij elke gemeente. De verklaring, bedoeld in artikel H 9, vierde lid, van de Kieswet is tevens gedurende drie weken vóór en op de dag van kandidaatstelling verkrijgbaar bij het centraal stembureau.

@@ -1,3 +1,0 @@
-# Artikel XVIII
-1. De Organisatie kan een Conferentie tot herziening of wijziging van dit Verdrag bijeenroepen.
-2. De Organisatie roept een Conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van dit Verdrag op het verzoek van ten minste een derde van de Verdragsluitende Staten.

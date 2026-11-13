@@ -1,0 +1,3 @@
+# Artikel IA. Evaluatie
+1. Onze Minister van Financiën zendt in het jaar 2005 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de Wet inkomstenbelasting 2001 in de praktijk. In dat verslag wordt afzonderlijk aandacht besteed aan de ontwikkeling van de heffingsgrondslag in het algemeen en die van het inkomen uit sparen en beleggen in het bijzonder.
+2. Onze Minister van Financiën zendt in het jaar 2003 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de artiesten- en beroepssportersregeling voor de heffing van de loonbelasting in de praktijk. In dat verslag wordt afzonderlijk aandacht besteed aan de werking van de kostenvergoedingsbeschikking in de praktijk.

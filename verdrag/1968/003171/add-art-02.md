@@ -1,0 +1,3 @@
+# Artikel II
+1. Degenen die in een verdragsluitende Staat woonplaats hebben en wegens een onopzettelijk gepleegd strafbaar feit vervolgd worden voor de gerechten van een andere verdragsluitende Staat, waarvan zij geen onderdaan zijn, zijn, onverminderd aldaar geldende gunstigere bepalingen, bevoegd zich te doen verdedigen door daartoe bevoegde personen, zelfs indien zij niet persoonlijk verschijnen.
+2. Het gerecht dat de zaak berecht kan echter de persoonlijke verschijning bevelen; indien deze niet heeft plaatsgevonden behoeft de beslissing, op de burgerlijke rechtsvordering gewezen zonder dat de betrokkene de gelegenheid heeft gehad zich te doen verdedigen, in de overige verdragsluitende Staten niet te worden erkend, noch ten uitvoer worden gelegd.

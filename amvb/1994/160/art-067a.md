@@ -1,0 +1,3 @@
+# Artikel 67a
+1. Indien de kennisgeving van een huwelijk of geregistreerd partnerschap als bedoeld in artikel 44 respectievelijk artikel 80a, derde lid, van Boek 1 van het Burgerlijk Wetboek langs elektronische weg wordt gedaan, verstrekken de aanstaande echtgenoten respectievelijk aanstaande partners aan de ambtenaar van de burgerlijke stand tevens hun burgerservicenummer.
+2. Indien de aangifte van overlijden langs elektronische weg wordt gedaan, verstrekt de persoon die de aangifte doet aan de ambtenaar van de burgerlijke stand tevens het burgerservicenummer van de overledene alsmede een verklaring van de arts die het overlijden heeft vastgesteld.

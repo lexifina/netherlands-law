@@ -1,0 +1,2 @@
+# XIII. Ad Articles 10, 11 and 12
+Applications for relief at source or the refund of the excess amount of tax have to be lodged with the competent authority of the State levying or having levied the tax, based on an official certificate of residence from the tax authorities of the other Contracting State and in conformity with the national laws and regulations of the State levying or having levied the tax.

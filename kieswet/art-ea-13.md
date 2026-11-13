@@ -1,2 +1,0 @@
-# Artikel Ea 13
-Indien de Kiesraad bij een verkiezing geen uitslagprogrammatuur ter beschikking stelt of de Kiesraad het gebruik van de uitslagprogrammatuur onderbreekt of doet onderbreken, zijn bij de vaststelling van de uitkomst van de stemming en van de uitslag van de verkiezing door de gebruiker, de artikelen in de hoofdstukken Na, O en P voor zover die betrekking hebben op het gebruik van de uitslagprogrammatuur niet van toepassing.

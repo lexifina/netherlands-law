@@ -1,0 +1,4 @@
+# Artikel 3bis
+1. Niets in dit Verdrag tast op enige wijze andere rechten, verplichtingen en verantwoordelijkheden aan van staten en individuen op grond van het internationaal recht, met name de doelstellingen en beginselen van het Handvest van de Verenigde Naties, het Verdrag inzake de internationale burgerluchtvaart en het internationaal humanitair recht.
+2. De handelingen van strijdkrachten tijdens een gewapend conflict als gedefinieerd in en onderworpen aan het internationaal humanitair recht vallen niet onder dit Verdrag, evenmin als de handelingen ondernomen door de strijdkrachten van een staat bij de uitoefening van hun officiële taken, voor zover onderworpen aan andere bepalingen van het internationaal recht.
+3. De bepalingen van het tweede lid van dit artikel mogen niet zodanig worden uitgelegd dat anderszins wederrechtelijke gedragingen zouden worden gebillijkt of gewettigd of dat vervolging op grond van andere wetten wordt belet.

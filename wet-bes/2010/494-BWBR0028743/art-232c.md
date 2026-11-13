@@ -1,0 +1,4 @@
+# Artikel 232c
+1. De centrale autoriteit is bevoegd, zo nodig ook zonder uitdrukkelijke volmacht van degene die zich met een verzoek tot haar heeft gewend, zowel in als buiten rechte ter uitvoering van haar taak namens hem op te treden.
+2. De centrale autoriteit behoeft, indien zij in rechte optreedt, niet de bijstand van een advocaat, tenzij de rechtsingang aanvangt met een dagvaarding.
+3. De centrale autoriteit draagt zelf alle kosten die aan de uitvoering van haar taak zijn verbonden, voor zover deze niet door haar teruggevorderd kunnen worden van de verzoeker.

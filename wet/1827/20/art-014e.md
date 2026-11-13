@@ -1,0 +1,3 @@
+# Artikel 14e. [Vervallen.]
+1. De Hoge Raad beslist bij een arrest, waarin hij zijn bevindingen met betrekking tot de in het verzoekschrift genoemde bezwaren opneemt en zijn oordeel uitspreekt over de gegrondheid daarvan.
+2. Een afschrift van het arrest wordt gezonden aan de verzoeker en aan de ambtenaar op wiens gedraging het verzoekschrift betrekking heeft. De Hoge Raad zendt een afschrift van het arrest aan het bestuur van het betrokken gerecht dan wel, indien de klacht gericht is tegen een rechterlijk ambtenaar met rechtspraak belast, werkzaam bij de Hoge Raad, aan de president van de Hoge Raad.

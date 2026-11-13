@@ -1,0 +1,2 @@
+# Artikel VI
+De invoer en uitvoer van apparatuur en goederen die de deskundigen nodig hebben voor het vervullen van hun taak of welke deel uitmaken van het materiaal dat beschikbaar wordt gesteld in gevallen van technische samenwerking op uitgebreidere schaal, zijn toegestaan zonder tijdslimiet en zonder een bijzondere invoervergunning of bewijs van deviezendekking zo deze mochten bestaan, en zijn vrijgesteld van consulaire rechten en douaneheffingen, belasting bij aankoop en accijnzen, belasting bij verkoop en andere soortgelijke belastingen of heffingen.

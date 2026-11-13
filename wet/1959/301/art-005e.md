@@ -1,0 +1,4 @@
+# Artikel 5e
+1. Indien tussen echtgenoten of gewezen echtgenoten een recht op of een plicht tot vergoeding bestaat op grond van artikel 87 van Boek 1 van het Burgerlijk Wetboek, wordt bij de echtgenoot, onderscheidenlijk de gewezen echtgenoot, met het vergoedingsrecht ter zake hiervan geen voor de belastingwet relevant belang bij het onderliggende goed of een bestanddeel daarvan aanwezig geacht.
+2. Onder een recht op of een plicht tot vergoeding als bedoeld in het eerste lid wordt mede begrepen een recht op of een plicht tot vergoeding waarvan het verloop op grond van de artikelen 95 en 96 van Boek 1 van het Burgerlijk Wetboek overeenkomstig artikel 87 van Boek 1 van dat wetboek wordt bepaald.
+3. Het eerste en tweede lid zijn niet van toepassing indien bij overeenkomst wordt afgeweken van artikel 87, eerste tot en met derde lid, van Boek 1 van het Burgerlijk Wetboek.

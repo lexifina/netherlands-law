@@ -1,0 +1,4 @@
+# Article I. General obligations
+1. The Parties to the present Protocol undertake to give effect to the provisions of the present Protocol and the Annexes hereto, which shall constitute an integral part of the present Protocol. Every reference to the present Protocol constitutes at the same time a reference to the Annexes hereto.
+2. As between the Parties to the present Protocol, the provisions of the International Convention on Load Lines, 1966 (hereinafter referred to as "the Convention"), except article 29, shall apply subject to the modifications and additions set out in the present Protocol.
+3. With respect to ships entitled to fly the flag of a State which is not a Party to the Convention and the present Protocol, the Parties to the present Protocol shall apply the requirements of the Convention and the present Protocol as may be necessary to ensure that no more favourable treatment is given to such ships.

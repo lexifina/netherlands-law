@@ -1,2 +1,0 @@
-# Artikel Xa 1
-De bij of krachtens deze afdeling gestelde bepalingen betreffende het begin van en de veranderingen in het lidmaatschap van provinciale staten en betreffende de beëindiging van het lidmaatschap en tijdelijke vervanging als lid, zijn, voor zover dit hoofdstuk niet anders bepaalt, van overeenkomstige toepassing op het lidmaatschap van het kiescollege, met dien verstande dat telkens in die bepalingen in plaats van «provinciale staten» en «staten» wordt gelezen: het kiescollege.

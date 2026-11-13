@@ -1,0 +1,2 @@
+# VII. Ad Article 8
+For the purposes of this Article, profits derived by an enterprise of a Contracting State from the operation in international traffic of ships and aircraft include profits derived by the enterprise from the rental on a bareboat basis of ships and aircraft if operated in international traffic as well as profits derived from the lease of containers if such rental or lease profits are supplementary or incidental to the profits described in paragraph 1.

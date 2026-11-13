@@ -1,0 +1,3 @@
+# Artikel II
+1. Beroepen, ingesteld op grond van artikel 18 van de Schepenwet, waarin voor de inwerkingtreding van artikel I, onderdeel C, nog geen uitspraak is gedaan, worden afgehandeld door de voorzitter van de Raad voor de Scheepvaart of, indien het beroep een beslissing van een ambtenaar in de Nederlandse Antillen of Aruba betreft, door de voorzitter van de Commissie van Onderzoek.
+2. Ten aanzien van beroepen als bedoeld in het eerste lid blijven de bij of krachtens de artikelen 18 tot en met 22 van de Schepenwet gestelde regels, zoals deze luidden voor de inwerkingtreding van artikel I, onderdeel C, van kracht.

@@ -1,0 +1,8 @@
+# Artikel 20a
+1. De artikelen 14 tot en met 16 en 20 zijn niet van toepassing op het doen uitgaan van vuurwapens, hun onderdelen, essentiële componenten en munitie, opgenomen in bijlage I van verordening (EU) nr. 258/2012, wanneer dat tevens is aan te merken als uitvoer.
+2. Het is verboden zonder uitvoervergunning vuurwapens, hun onderdelen, essentiële componenten en munitie, opgenomen in bijlage I van verordening (EU) nr. 258/2012, uit te voeren.
+3. Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van artikel 7, tweede lid, van verordening (EU) nr. 258/2012.
+4. Aan de uitvoervergunning wordt het voorschrift verbonden dat vuurwapens, hun onderdelen, essentiële componenten en munitie, opgenomen in bijlage I van verordening (EU) nr. 258/2012, zodanig worden verpakt dat deze niet voor onmiddellijk gebruik kunnen worden aangewend.
+5. De houder van een in Nederland afgegeven uitvoervergunning of van een in een andere lidstaat van de Europese Unie afgegeven uitvoervergunning, is verplicht vuurwapens, hun onderdelen, essentiële componenten en munitie tot aan de bestemming, respectievelijk het verlaten van het grondgebied van Nederland, te doen vergezellen van de uitvoervergunning.
+6. Onze Minister stelt bij regeling procedures vast voor de gevallen bedoeld in artikel 9, tweede lid, van verordening (EU) nr. 258/2012.
+7. Onze Minister kan met het oog op de uitvoer van geluiddempers zoals opgenomen in bijlage I van verordening (EU) nr. 258/2012, en onverminderd het bepaalde in artikel 13, tweede lid, ontheffing verlenen van een of meer verboden genoemd in artikel 13, eerste lid.

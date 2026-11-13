@@ -1,0 +1,3 @@
+# Article XI
+1. Presentation of a claim to a launching State for compensation for damage under this Convention shall not require the prior exhaustion of any local remedies which may be available to a claimant State or to natural or juridical persons it represents.
+2. Nothing in this Convention shall prevent a State, or natural or juridical persons it might represent, from pursuing a claim in the courts or administrative tribunals or agencies of a launching State. A State shall not, however, be entitled to present a claim under this Convention in respect of the same damage for which a claim is being pursued in the courts or administrative tribunals or agencies of a launching State or under another international agreement which is binding on the States concerned.

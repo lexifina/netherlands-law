@@ -1,0 +1,3 @@
+# Artikel XXIV
+Onmiddelijk na de uitwisseling der bekrachtigingen van het tusschen de beide partijen tot stand te brengen verdrag, zullen de noodige bevelen aan de bevelhebbers der wederzijdsche krijgsbenden worden toegezonden, om het grondgebied, de steden, plaatsen en oorden te ontruimen, die van heerschappij veranderen. De burgerlijke overheden zullen tevens te gelijker tijd de noodige bevelen ontvangen, om dat grondgebied, die steden, plaatsen en oorden aan de van weerszijden daartoe te benoemen commissarissen over te geven.
+Deze ontruiming en deze overgave zullen in dier voege plaats hebben, dat zij binnen den tijd van veertien dagen, of, zoo mogelijk vroeger, afgeloopen kunnen zijn.

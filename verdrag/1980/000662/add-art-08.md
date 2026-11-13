@@ -1,0 +1,3 @@
+# Artikel VIII
+1. De Overeenkomstsluitende Partijen dienen elkaar schriftelijk ervan in kennis te stellen, dat is voldaan aan de procedures constitutioneel vereist in beide landen voor het in werking treden van deze Overeenkomst. De Overeenkomst treedt 30 (dertig) dagen na de datum van de laatste kennisgeving in werking.
+2. De onderhavige Overeenkomst blijft voor onbepaalde tijd van kracht. Elke Overeenkomstsluitende Partij kan de andere schriftelijk in kennis stellen van zijn beslissing deze Overeenkomst te beëindigen. In dit geval wordt de beëindiging van kracht zes maanden na ontvangst van bedoelde kennisgeving.

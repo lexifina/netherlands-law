@@ -1,0 +1,2 @@
+# Article XVIII. Provision of Information
+The aeronautical authorities of each Contracting Party shall supply to the aeronautical authorities of the other Contracting Party, on request by the latter, information relating to the traffic carried out on the agreed services operated by the respective designated airline. Such information shall include statistics and all other information required in determining the amount of traffic carried by those airlines on the agreed services and the origins and destinations of such traffic.

@@ -1,0 +1,7 @@
+# Article VI. Withholding, Revocation and Limitation of Authorization
+1. The aeronautical authorities of each Contracting Party shall have the right to withhold the authorizations referred to in Article V of this Agreement with respect to an airline designated by the other Contracting Party, and to revoke, suspend or impose conditions on such authorizations, temporarily or permanently:
+a) in the event of failure by such airline to qualify under the laws and regulations normally applied by the aeronautical authorities of the Contracting Party granting the rights;
+b) in the event of failure by such airline to comply with the laws and regulations of the Contracting Party granting the rights;
+c) in the event that they are not satisfied that substantial ownership and effective control of the airline are vested in the Contracting Party designating the airline or its nationals or both; and
+d) in the event the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
+2. Unless immediate action is essential to prevent infringement of the laws and regulations referred to above or unless safety or security requires action in accordance with the provisions of Articles VIII or IX, the rights enumerated in paragraph 1 of this Article shall be exercised only after consultations between the aeronautical authorities in conformity with Article XXI of this Agreement.

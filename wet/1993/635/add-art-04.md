@@ -1,0 +1,2 @@
+# Artikel IV
+Indien de arbeidsverhouding of arbeidsovereenkomst, bedoeld in artikel II voor het in werking treden van deze wet is aangegaan, verstrekt de werkgever aan de werknemer, op diens verlangen schriftelijk de gegevens, bedoeld in dat artikel. De opgave wordt verstrekt binnen twee maanden na het tijdstip waarop de werkgever kennis heeft genomen van het verzoek van de werknemer. Het tweede tot en met het negende lid van artikel II zijn van overeenkomstige toepassing.

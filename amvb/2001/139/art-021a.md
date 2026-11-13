@@ -1,0 +1,12 @@
+# Artikel 21a. Bijzondere uitkering
+1. De gewezen militair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe voor 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld heeft aanspraak op een eenmalige bijzondere uitkering.
+2. Het bedrag van de bijzondere uitkering is gelijk aan een percentage van de grondslag overeenkomend met de mate van invaliditeit met dienstverband.
+3. Een mate van invaliditeit van minder dan 10% wordt voor de toekenning van de bijzondere uitkering afgerond op 5%.
+4. Op aanvraag van de rechthebbende wordt in afwijking van het tweede en derde lid het bedrag van de bijzondere uitkering vastgesteld op een percentage van de grondslag overeenkomend met de mate van arbeidsongeschiktheid met dienstverband zoals dat voor de rechthebbende voordat hij 65 jaar werd laatstelijk heeft gegolden, indien deze mate van arbeidsongeschiktheid hoger is dan de mate van invaliditeit met dienstverband.
+5. Voor de vaststelling van de bijzondere uitkering wordt de definitieve mate van invaliditeit of arbeidsongeschiktheid met dienstverband gehanteerd die op de peildatum, 1 juni 2012, na het bereiken van een medische eindtoestand is vastgesteld.
+6. De bijzondere uitkering wordt eenmalig vastgesteld. In afwijking van artikel 19 leidt een latere wijziging in de mate van invaliditeit niet tot aanpassing van een toegekende bijzondere uitkering.
+7. In voorkomend geval wordt de mate van arbeidsongeschiktheid met dienstverband bepaald op het hoogste percentage van de toepasselijke arbeidsongeschiktheidsklasse als bedoeld in artikel 21 tweede lid van de Wet op de arbeidsongeschiktheidsverzekering.
+8. De grondslag van de bijzondere uitkering is € 125.000,–.
+9. In afwijking van artikel 15 wordt de bijzondere uitkering in een keer uitbetaald.
+10. In het geval dat de gewezen militair een schadevergoeding heeft ontvangen voor zijn invaliditeit met dienstverband als bedoeld in het eerste lid bedraagt de bijzondere uitkering slechts het meerdere boven het totaal van de reeds ontvangen materiële schadevergoeding.
+11. De over de bijzondere uitkering verschuldigde belasting ingevolge de Wet inkomstenbelasting 2001, de Wet op de loonbelasting 1964 en premie voor de volksverzekeringen ingevolge de Wet financiering sociale verzekeringen komen ten laste van het Rijk.

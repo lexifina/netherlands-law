@@ -1,0 +1,4 @@
+# Artikel I
+De Staten die partij zijn bij deze Overeenkomst zullen de geheimhouding van uitvindingen waarvoor octrooiaanvragen volgens de overeengekomen procedureregeling zijn ontvangen, verzekeren en doen verzekeren in alle gevallen waarin deze uitvindingen in het belang van de nationale verdediging aan geheimhouding zijn onderworpen door de regering - hierna te noemen „regering van het land van oorsprong" - die het eerst een octrooiaanvrage die bedoelde uitvindingen bevat, ontving.
+Deze bepaling laat evenwel het recht van de regering van het land van oorsprong onverlet de indiening van een octrooiaanvrage voor bedoelde uitvinding in een of meer andere Staten die partij zijn bij deze Overeenkomst, te verbieden.
+De Staten die partij zijn bij deze Overeenkomst komen overeen die procedureregeling tot stand te brengen, die nodig is ter uitvoering van dit artikel.

@@ -1,0 +1,6 @@
+# Artikel III
+1. Degene die op het tijdstip van inwerkingtreding van artikel I van dit besluit reeds handelingen verricht met een in artikel 17a, eerste lid, van het Besluit publieke gezondheid aangewezen type poliovirus mag de betreffende handelingen voortzetten, indien:
+a. diegene zich op vorenbedoeld tijdstip reeds heeft gemeld bij de Inspectie gezondheidszorg en jeugd in haar hoedanigheid als National Authority for Containment als bedoeld in artikel 36, eerste lid, onderdeel d, van de Gezondheidswet, ten behoeve van certificering in het kader van de in die bepaling genoemde resolutie; of
+b. diegene binnen vier weken na vorenbedoeld tijdstip een aanvraag om een vergunning als bedoeld in artikel 12b, eerste lid, van de Wet publieke gezondheid indient.
+2. Degene, bedoeld in het eerste lid, mag de betreffende handelingen voortzetten totdat een besluit omtrent de verlening van een vergunning als bedoeld in artikel 12b, eerste lid, van de Wet publieke gezondheid is genomen, behoudens de in het vijfde lid van dat artikel neergelegde bevoegdheid van Onze Minister.
+3. Degene die op het tijdstip van inwerkingtreding van artikel I van dit besluit reeds handelingen verricht met in artikel 17c, eerste lid, van het Besluit publieke gezondheid aangewezen materiaal doet daarvan melding bij de inspectie binnen vier weken na vorenbedoeld tijdstip.

@@ -1,0 +1,3 @@
+# Artikel XI
+Wanneer onderdanen of goederen van onderdanen van een der Overeenkomstsluitende Partijen bij vervoer door vliegtuigen van de andere Overeenkomstsluitende Partij schade ondervinden, zullen de onderscheiden Luchtvaartautoriteiten al het mogelijke doen, opdat de verschuldigde schadeloosstellingen binnen de kortst mogelijke tijd aan de belanghebbenden of aan de rechthebbenden worden uitbetaald.
+De Luchtvaartautoriteiten van de twee Overeenkomstsluitende Partijen zullen zich met elkaar verstaan nopens de regeling van alle vraagstukken, betreffende de tenuitvoerlegging van deze Overeenkomst en haar Bijlage.

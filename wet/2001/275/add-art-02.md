@@ -1,0 +1,3 @@
+# Artikel II
+1. Regelingen in huwelijkse voorwaarden met betrekking tot de kosten van de huishouding als bedoeld in artikel 84, die vóór het tijdstip van inwerkingtreding van deze wet zijn gemaakt, kunnen na het tijdstip van inwerkingtreding van deze wet bij schriftelijke overeenkomst worden gewijzigd of ingetrokken.
+2. De artikelen 118 tot en met 120 van Boek 1 van het Burgerlijk Wetboek, zoals deze luidden voor de datum van inwerkingtreding van deze wet, blijven van toepassing op de voor dat tijdstip ingediende verzoekschriften tot verkrijging van goedkeuring voor het maken of wijzigen van huwelijkse voorwaarden staande het huwelijk als bedoeld in artikel 119 van dat boek.

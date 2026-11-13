@@ -1,0 +1,2 @@
+# Artikel 218c
+De deurwaarders zijn verplicht, op straffe van schadevergoeding, afschrift van het protest te laten, en hiervan melding in het afschrift te maken, en hetzelve, naar orde des tijds, in te schrijven in een bijzonder register, genommerd en gewaarmerkt door de kantonrechter van de rechtbank van het arrondissement waarin hun woonplaats is gelegen, en om wijders, zulks begeerd wordende, een of meer afschriften van het protest aan de belanghebbenden te leveren.

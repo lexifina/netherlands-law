@@ -1,0 +1,2 @@
+# Artikel XXXXVIII
+Archiefbescheiden van het Ministerie van Volksgezondheid, Welzijn en Sport en ZON voor zover betrekking hebbend op activiteiten die zijn vermeld op een door Onze Minister en ZON vastgestelde lijst gaan met ingang van de datum van inwerkingtreding van deze wet over op het Zorginstituut Nederland, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.

@@ -1,0 +1,2 @@
+# II. Ad artikel 3
+Het is wel verstaan dat de uitdrukkingen „Nederland" of „Estland" de exclusieve economische zone omvat waarbinnen Nederland of Estland, naar gelang van het geval, soevereine rechten mogen uitoefenen in overeenstemming met hun nationale recht en het internationale recht, indien Nederland of Estland in hun wetgeving zulk een zone hebben aangemerkt of zullen aanmerken en daarbinnen heffingsrechten uitoefenen of zullen uitoefenen.

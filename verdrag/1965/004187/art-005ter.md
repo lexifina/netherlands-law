@@ -1,0 +1,2 @@
+# Article 5ter
+La Partie Contractante sur le territoire de laquelle un ressortissant de l'autre Partie Contractante effectue ou envisage d'effectuer un investissement considérera avec bienveillance toute demande de la part de ce ressortissant en vue de soumettre, pour arbitrage ou conciliation, tout différend pouvant surgir au sujet de cet investissement au Centre institué en vertu de la Convention de Washington du 18 mars 1965 pour le règlement des différends relatifs aux investissements entre Etats et ressortissants d'autres Etats.

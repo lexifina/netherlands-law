@@ -1,0 +1,2 @@
+# Artikel 39fa
+Indien het openbaar ministerie deelneemt aan een samenwerkingsverband als bedoeld in de Wet gegevensverwerking door samenwerkingsverbanden, worden aan het samenwerkingsverband strafvorderlijke gegevens verstrekt, voor zover dit noodzakelijk is voor het doel van dat verband, tenzij naar het oordeel van de verwerkingsverantwoordelijke zwaarwegende redenen zich daartegen verzetten. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.

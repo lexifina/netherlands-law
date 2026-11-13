@@ -1,0 +1,2 @@
+# Artikel I
+Het subsidieplafond van het Reglement Stimuleringsmaatregel Filmproductie in Nederland voor filmproducties voor het kalenderjaar 2024 is € 27.500.000,– (zegge: zevenentwintig miljoen vijfhonderdduizend euro). (€ 7.700.000,– (zegge: zeven miljoen zevenhonderdduizend euro) voor de eerste aanvraagronde en € 6.600.000,– (zegge: zes miljoen zeshonderdduizend euro) per volgende aanvraagronde). Per aanvraagronde worden als eerste alle internationale coproducties gehonoreerd tot maximaal 70% van het budget.

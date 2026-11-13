@@ -1,0 +1,4 @@
+# Artikel II
+1. De Verdragsluitende Regeringen nemen de verplichting op zich, overeenkomstig de bepalingen van dit Verdrag, samen te werken bij het opstellen en uitvoeren van maatregelen voor het vergemakkelijken van de aankomst, het verblijf en het vertrek van schepen. Deze maatregelen mogen, voor zover ook maar enigszins mogelijk, niet minder gunstig zijn dan maatregelen die van toepassing zijn ten aanzien van andere internationale middelen van vervoer; wel kunnen zij, ten gevolge van bijzondere eisen, van die maatregelen verschillen.
+2. De maatregelen voor het vergemakkelijken van het internationale verkeer ter zee voorzien in dit Verdrag en de daarbij behorende Bijlage zijn zowel van toepassing op schepen van kuststaten als op die van andere dan kuststaten, voor zover de Regeringen van die landen Partij zijn bij dit Verdrag.
+3. De bepalingen van dit Verdrag zijn niet van toepassing op oorlogsschepen of plezierjachten.

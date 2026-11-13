@@ -1,0 +1,2 @@
+# Artikel II
+De bij dit besluit gewijzigde artikelen van het Uitvoeringsbesluit accijns zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van dit besluit, blijven van toepassing voor zover zij betrekking hebben op de heffing van accijns waarvan de feiten die aanleiding geven tot het ontstaan van de verschuldigdheid van die accijns zich hebben voorgedaan vóór de dag van de inwerkingtreding van dit besluit.

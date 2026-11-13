@@ -1,0 +1,2 @@
+# Artikel II
+Hoofdstuk II, afdeling 3, van de Subsidieregeling Ministerie van Buitenlandse Zaken zoals deze bij inwerkingtreding van deze regeling komt te luiden, vindt voor de eerste maal toepassing met het oog op subsidieverlening voor het subsidietijdvak dat aanvangt met ingang van 1 januari 2003. In afwijking van artikel 2.3.10 kunnen aanvragen voor dat tijdvak tot uiterlijk 1 augustus 2002 worden ingediend en beslist de minister voor 1 december 2002.

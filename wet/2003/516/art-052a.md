@@ -1,0 +1,2 @@
+# Artikel 52a
+Het CBS verleent op verzoek van de Europese Commissie bijstand bij een inspectie op grond van artikel 5, vierde lid, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).

@@ -1,0 +1,6 @@
+# Artikel 3a
+1. De organisator draagt voorafgaand aan de uitvoering van een activiteit zorg voor het treffen van voldoende maatregelen om de gezondheid en veiligheid van de mens te waarborgen. Onze Ministers kunnen aan de organisator verzoeken daartoe schriftelijke bewijsstukken te overleggen.
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het overleggen van de in het eerste lid bedoelde bewijsstukken.
+3. Voor de uitvoering van de maatregelen, bedoeld in het eerste lid, is de organisator niet afhankelijk van de ondersteuning door partijen of andere organisatoren, tenzij hij aantoont dat deze zich daartoe in een schriftelijke overeenkomst hebben verbonden.
+4. De organisator houdt een voldoende verzekering of andere financiële zekerheid aan ter dekking van de kosten die betrekking hebben op opsporings- en reddingsacties, medische zorg en evacuatie.
+5. Voor zover de activiteit plaatsvindt aan boord van een schip of een luchtvaartuig, kan de organisator volstaan met het aantonen dat de maatregelen, bedoeld in het eerste lid, en de verzekering of andere financiële zekerheid, bedoeld in het vierde lid, door een ander dan de organisator zijn getroffen respectievelijk in stand worden gehouden.

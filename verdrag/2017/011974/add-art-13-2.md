@@ -1,0 +1,2 @@
+# Artikel XIII. Telecommunicatie
+Onder voorbehoud van voorafgaande instemming door de regering van Belize mag de zendende partij gebruikmaken van alle radiofrequenties, vermogens en bandbreedtes voor radiodiensten (met inbegrip van radar) in Belize die nodig zijn voor het functioneren van het personeel van de zendende partij in Belize. Alle radiocommunicatie voldoet te allen tijde aan de bepalingen van het Internationaal Verdrag betreffende de Telecommunicatie (Treaty Series nr. 104 (1975), Cmnd 6219).

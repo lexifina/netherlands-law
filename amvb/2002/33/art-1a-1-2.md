@@ -1,0 +1,3 @@
+# Artikel 1A.1.2
+1. Een wijziging van artikel 10 van de EU-richtlijn pyrotechnische artikelen, van bijlage II bij de EU-richtlijn pyrotechnische artikelen, met uitzondering van de onderdelen, genoemd in artikel 1A.1.1, tweede lid, en van bijlage III of IV bij de EU-richtlijn pyrotechnische artikelen gaat voor de toepassing van dit besluit en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn of het betrokken wijzigingsbesluit uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+2. Onze Minister doet meteen na het van kracht worden van een wijziging als bedoeld in het eerste lid daarvan mededeling in de Staatscourant.

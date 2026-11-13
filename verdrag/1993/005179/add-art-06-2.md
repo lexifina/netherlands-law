@@ -1,0 +1,6 @@
+# Artikel VI
+1. Dit Verdrag wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de datum waarop de beide Regeringen elkaar er schriftelijk van in kennis hebben gesteld dat aan de in hun onderscheiden landen daarvoor constitutioneel vereiste procedures is voldaan.
+2. Dit Verdrag blijft van kracht voor een aanvangsperiode van twee (2) jaar. Indien geen der beide Regeringen drie maanden voordat het Verdrag afloopt, haar voornemen te kennen geeft het te beëindigen, wordt het Verdrag telkens stilzwijgend verlengd voor een nieuwe periode van twee jaar.
+3. In geval van beëindiging van dit Verdrag zullen de bepalingen van dit Verdrag van kracht blijven tot de voltooiing en/of beëindiging van de projecten waarmee voor de beëindiging een aanvang is gemaakt, en waarin gebruik wordt gemaakt van technische bijstand uit hoofde van dit Verdrag.
+4. Akkoorden of regelingen inzake technische bijstand die tussen de Partijen of hun bevoegde autoriteiten voorafgaand aan de inwerkingtreding van dit Verdrag zijn aangegaan, worden geacht te zijn aangegaan krachtens dit Verdrag, en vallen onder de bepalingen ervan.
+5. Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op het Rijk in Europa.

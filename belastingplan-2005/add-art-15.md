@@ -1,2 +1,0 @@
-# Artikel XV
-Vervallen.

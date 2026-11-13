@@ -1,0 +1,2 @@
+# Article 10 bis
+Any State Party having reason to believe that one of the offences set forth in Article 1 will be committed shall, in accordance with its national law, furnish any relevant information in its possession to those States Parties which it believes would be the States set forth in paragraphs 1 and 2 of Article 4.

@@ -1,0 +1,3 @@
+# Artikel III
+1. Op het tijdstip van inwerkingtreding van artikel I zijn de personeelsleden in dienst van het Nederlands instituut fysieke veiligheid en het Nederlands bureau brandweerexamens van wie naam en functie zijn vermeld op een door Onze Minister vastgestelde lijst, van rechtswege ontslagen en aangesteld als ambtenaar in dienst van het Instituut Fysieke Veiligheid.
+2. De overgang van de in het eerste lid bedoelde personen vindt plaats met dezelfde rechtspositie als die welke voor elk van hen gold bij het Nederlands instituut fysieke veiligheid en het Nederlands bureau brandweerexamens.

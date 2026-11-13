@@ -1,0 +1,2 @@
+# Artikel 76a
+Het praktijkexamen voor het rijbewijs E bij D1 bestaat uit het afleggen van een rijproef met een samenstel van een motorrijtuig als bedoeld in artikel 73a en een aanhangwagen waarvan de maximaal toegestane massa ten minste 2000 kg en de lengte ten minste 4,50 m bedraagt. De aanhangwagen dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif die ten minste 2,00 m breed en 2,00 m hoog is en dient met ten minste 800 kg te zijn beladen. Het samenstel dient een snelheid van ten minste 80 km per uur te kunnen bereiken.

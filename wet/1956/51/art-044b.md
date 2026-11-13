@@ -1,0 +1,2 @@
+# Artikel 44b
+De voordracht voor een algemene maatregel van bestuur krachtens de artikelen 44 en 44a wordt gedaan door Onze Minister. De voordracht wordt gedaan mede namens Onze Minister van Economische Zaken, indien de maatregel betrekking heeft op het toezicht en de uitvoering van regelgeving waarvoor die Minister tevens verantwoordelijk is. Indien de maatregel betrekking heeft op het toezicht en uitvoering van regelgeving waarvoor uitsluitend Onze Minister van Economische Zaken verantwoordelijk is, wordt de voordracht gedaan door die Minister.

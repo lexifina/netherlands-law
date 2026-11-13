@@ -1,0 +1,2 @@
+# II. Met betrekking tot het vierde lid van artikel 4 (Inwoner)
+Het is wel te verstaan dat, wanneer een lichaam inwoner is van Nederland ingevolge het eerste lid van artikel 4 (Inwoner) en dat lichaam, in verband met de toepassing van artikel 269B van de Internal Revenue Code, ingevolge het eerste lid van artikel 4 ook inwoner van de Verenigde Staten is, voor de toepassing van deze Overeenkomst onderwerp zal zijn van een onderlinge overlegprocedure geldt zoals nedergelegd in het vierde lid van artikel 4.

@@ -1,0 +1,3 @@
+# Article IX. Associate Membership
+1. Qualified individuals, firms and institutions taking part in the development of the science of refrigeration or of the industries connected with refrigeration, and making a periodic contribution, the amount and method of payment of which are laid down by the Management Committee, may, upon the decision of this Management Committee, be nominated as „Associate Members" of the Institute.
+2. Associate Members are entitled to receive the Institute's journals, to participate in the work of the Commissions and Congresses and to consult the Institute's library in accordance with the provisions set out in the General Regulations for the application of the present Agreement.

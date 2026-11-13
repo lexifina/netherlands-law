@@ -1,0 +1,2 @@
+# Artikel XVI
+Indien voor het tijdstip waarop deze wet in werking treedt, een beschikking is gegeven, houdende een waarschuwing dat bestuursdwang zal worden toegepast, dan wel een last onder dwangsom is opgelegd wegens overtreding van het bij of krachtens hoofdstuk 10 bepaalde, blijft het voor dat tijdstip ten aanzien van een zodanige beschikking geldende recht van toepassing tot het tijdstip waarop die beschikking onherroepelijk is geworden.

@@ -1,0 +1,3 @@
+# Artikel XIII
+1. Een verzoek voor een vergunning voor het met vrijstelling van belasting betrekken van limonade, als bedoeld in artikel 9, tweede lid, van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten, of van groentesap, wordt tot wederopzegging aangemerkt als te zijn toegewezen met ingang van 1 januari 1993, indien het verzoek daartoe uiterlijk 7 januari 1993 is ontvangen door de inspecteur.
+2. De inspecteur onderzoekt vóór 1 april 1993 of degenen die een in het eerste lid bedoeld verzoek hebben ingediend, voldoen aan de bij of krachtens de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten gestelde voorwaarden voor het verkrijgen van de desbetreffende vergunning.

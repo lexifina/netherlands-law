@@ -1,0 +1,5 @@
+# Artikel 213nn
+1. De Nederlandsche Bank N.V. kan de rechtbank Amsterdam verzoeken ten aanzien van een centrale tegenpartij het faillissement uit te spreken indien is voldaan aan de voorwaarden bedoeld in artikel 22, eerste lid, onderdelen a en b, van de verordening herstel en afwikkeling centrale tegenpartijen, maar een afwikkelingsmaatregel niet in het algemeen belang, bedoeld in onderdeel c van dat artikel, is.
+2. De Nederlandsche Bank N.V. zendt een afschrift van het verzoekschrift aan de centrale tegenpartij, de leden van het toezichtscollege en de leden van het afwikkelingscollege.
+3. Een ander dan De Nederlandsche Bank N.V. kan niet het faillissement van een centrale tegenpartij aanvragen.
+4. Een centrale tegenpartij kan aangifte doen van haar eigen faillissement. In dat geval stelt de rechtbank De Nederlandsche Bank N.V. in staat te worden gehoord alvorens te beslissen op de aangifte. De rechtbank spreekt het faillissement pas uit nadat is voldaan aan de voorwaarden bedoeld in artikel 75, derde lid, van de verordening herstel en afwikkeling centrale tegenpartijen.

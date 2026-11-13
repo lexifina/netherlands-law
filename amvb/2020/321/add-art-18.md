@@ -1,0 +1,2 @@
+# Artikel XVIII
+[Wijzigt het Wijzigingsbesluit Besluit langdurige zorg en Uitvoeringsbesluit Wmo 2015 (verlaging vermogensinkomensbijtelling, verkorting overgangstermijnen voor de hoge en lage eigen bijdrage, de termijn waarover het CAK een eigen bijdrage mag opleggen, introduceren van een abonnementstarief voor maatwerkvoorzieningen en een grondslag voor uitzonderen eenmalige letselschadevergoedingen van het vermogen dat meetelt voor de vermogensinkomensbijtelling).]

@@ -1,0 +1,3 @@
+# VIII. Ad Article 10
+1. Notwithstanding the provisions of paragraph 2, subparagraph a, of Article 10, as of the day that Slovenia becomes a member of the European Union, the Contracting States shall not levy a tax on the distribution of dividends if the conditions set forth in the Directive of 23 July 1990 on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States (90/435/EEC) are met.
+2. Notwithstanding the provisions of paragraph 2 of Article 10 the Contracting State of which the company is a resident shall not levy a tax on dividends paid by that company, if the beneficial owner of the dividends is a pension fund referred to in paragraph III of this Protocol.

@@ -1,0 +1,4 @@
+# Artikel 1A.2A.6
+Indien de fabrikant van mening is of redenen heeft om aan te nemen dat door hem in de handel gebracht vuurwerk of een door hem in de handel gebracht pyrotechnisch artikel voor theatergebruik niet in overeenstemming is met de eisen bij of krachtens dit besluit:
+a. neemt hij onmiddellijk alle corrigerende maatregelen die nodig zijn om het vuurwerk of pyrotechnisch artikel voor theatergebruik in overeenstemming te brengen met deze eisen of, zo nodig, uit de handel te nemen of terug te roepen, en
+b. brengt hij, indien het artikel een risico vertoont, de bevoegde autoriteiten van de lidstaten waar hij het artikel op de markt heeft aangeboden, hiervan onmiddellijk op de hoogte. Indien hij het artikel in Nederland op de markt heeft aangeboden, brengt hij de bevoegde autoriteit op de hoogte. Hierbij beschrijft hij in het bijzonder uitvoerig de niet-conformiteit en alle genomen corrigerende maatregelen.

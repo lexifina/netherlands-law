@@ -1,0 +1,2 @@
+# Artikel 10r
+Met betrekking tot de gegevens en inlichtingen die andere lidstaten ingevolge artikel 8 bis quinquies van Richtlijn 2011/16/EU hebben verstrekt, heeft Onze Minister slechts recht op gebruik van de in het gegevensbestand, bedoeld in artikel 21, vijfde lid, van Richtlijn 2011/16/EU opgeslagen informatie met betrekking tot te rapporteren gebruikers en te rapporteren personen die in Nederland verblijven.

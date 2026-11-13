@@ -1,0 +1,4 @@
+# Artikel 80c
+1. De commissie bestaat uit vijf leden onder wie de voorzitter. Voorts kunnen een plaatsvervangend voorzitter en plaatsvervangende leden worden benoemd. De plaatsvervangend voorzitter wordt uit de leden benoemd.
+2. De voorzitter en de andere leden, alsmede hun plaatsvervangers worden bij koninklijk besluit op voordracht van Onze Minister benoemd en ontslagen. Onze Minister stelt de centrales van verenigingen van ambtenaren die deel uitmaken van de Commissie voor Georganiseerd Overleg in Politie-ambtenarenzaken in de gelegenheid gesteld voorstellen te doen voor leden, alsmede hun plaatsvervangers, die deskundig zijn op het gebied van de sector Politie.
+3. De voorzitter en de andere leden, alsmede hun plaatsvervangers, worden benoemd voor een periode van ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.

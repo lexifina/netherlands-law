@@ -1,0 +1,2 @@
+# Artikel 2w
+Bij afwezigheid van een inreisstempel in het document voor grensoverschrijding wordt aangenomen dat de houder daarvan niet of niet langer voldoet aan de voorwaarden inzake de maximale verblijfsduur, tenzij de houder het tegendeel aannemelijk maakt. In dat geval vermeldt de ambtenaar belast met de grensbewaking dan wel het toezicht op vreemdelingen overeenkomstig regels te stellen bij algemene maatregel van bestuur in het document voor grensoverschrijding van de vreemdeling op welke datum en welke plaats hij de openbare lichamen is ingereisd.

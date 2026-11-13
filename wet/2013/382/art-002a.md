@@ -1,0 +1,2 @@
+# Artikel 2a
+Gelet op de gezamenlijke verantwoordelijkheid en zorgplicht voor de Friese taal en cultuur maken het Rijk en de provincie Fryslân periodiek bestuursafspraken ter uitwerking van de verantwoordelijkheid inzake de Friese taal en cultuur. Vanwege de internationale verdragsafspraken op dit terrein kunnen de bestuursafspraken ook voor de Friese taal en cultuur relevante beleidsterreinen omvatten die liggen buiten het gebruik van de Friese taal in het bestuurlijk verkeer en in het rechtsverkeer.

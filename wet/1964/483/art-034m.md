@@ -1,0 +1,5 @@
+# Artikel 34m
+1. De raad van bestuur, bedoeld in artikel 33a, en de ambtenaren en personen, bedoeld in artikel 34, eerste lid, werken samen met de instanties die in andere staten zijn belast met het toezicht op naleving van de kansspelregelgeving, voor zover dat voor het vervullen van hun taak op grond van deze wet of voor de vervulling van de taak van die toezichthoudende instantie nodig is.
+2. Ter uitvoering van het eerste lid kunnen de ambtenaren en personen, bedoeld in artikel 34, eerste lid, de bevoegdheden, bedoeld in afdeling 5.2 van de Algemene wet bestuursrecht en titel VIa van deze wet, uitoefenen, voor zover dit zich verdraagt met de Nederlandse wetgeving en de openbare orde.
+3. Tenzij uit een voor Nederland bindend verdrag of Europees recht anders voortvloeit, worden de bevoegdheden, bedoeld in het tweede lid, slechts uitgeoefend overeenkomstig een door de raad van bestuur en een toezichthoudende instantie als bedoeld in het eerste lid gesloten overeenkomst met betrekking tot die samenwerking.
+4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voorgaande leden.

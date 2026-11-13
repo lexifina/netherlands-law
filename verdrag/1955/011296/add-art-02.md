@@ -1,0 +1,2 @@
+# Artikel II
+Wanneer voor defensiedoeleinden technische inlichtingen door een der Regeringen aan de andere worden verschaft alleen om de waarde daarvan te bepalen en plannen te ontwerpen en dit bij de levering is bepaald, zal de andere Regering de technische inlichtingen behandelen als in vertrouwen medegedeeld en naar beste vermogens ervoor zorgdragen, dat de inlichtingen niet worden behandeld op een manier waardoor mogelijkerwijs de aanspraken van de eigenaar op octrooi of andere soortgelijke wettelijke bescherming zullen worden geschaad.

@@ -1,0 +1,2 @@
+# Artikel 321a
+Indien de schuldige, in de gevallen bedoeld in het tweede lid van artikel 320 of het tweede lid van artikel 321, tijdens het ongeval onder zodanige invloed van het gebruik van alcoholhoudende drank verkeerde, dat hij niet in staat moest worden geacht het motorrijtuig naar behoren te besturen, wordt hij gestraft, in het geval bedoeld bij het tweede lid van artikel 320 met gevangenisstraf van ten hoogste zes jaren, en in het geval bedoeld bij het tweede lid van artikel 321 met gevangenisstraf van ten hoogste vier jaren.

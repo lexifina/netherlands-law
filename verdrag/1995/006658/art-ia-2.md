@@ -1,0 +1,2 @@
+# IA. Ad artikel 5
+Het is wel te verstaan dat de werkzaamheden als bedoeld in artikel 5, vierde lid, letters e en f, van het Verdrag, mede omvatten voorbereidende of hulpwerkzaamheden met betrekking tot het proces van het afsluiten (waaronder begrepen slechts de ondertekening) van overeenkomsten betreffende leningen, betreffende de levering van goederen of koopwaar of betreffende de verlening van technische diensten.

@@ -1,0 +1,3 @@
+# Artikel 63d
+1. De Autoriteit Financiële Markten kan, in afwijking van artikel 63a, vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan de accountantskamer, bedoeld in artikel 31, tweede lid, of het College van Beroep voor het bedrijfsleven.
+2. De Autoriteit Financiële Markten verstrekt geen vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid indien de verstrekking van de vertrouwelijke gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen.

@@ -1,0 +1,2 @@
+# X. Publieke bewustwording
+De Partijen nemen de benodigde maatregelen om het publiek bewust te maken van de mate en aard van de bescherming van de zeehondenpopulatie, de inhoud van doelstellingen van deze Overeenkomst, en de maatregelen die zij in navolging van deze Overeenkomst nemen, met inbegrip van het plan voor behoud en beheer ter verbetering van de mate en aard van de bescherming van zeehonden.

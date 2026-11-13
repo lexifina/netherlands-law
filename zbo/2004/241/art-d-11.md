@@ -1,0 +1,2 @@
+# Artikel D.11. Duur beoordelingsstage
+De duur van de beoordelingsstage bedraagt 6 maanden bij een volledige werkweek. Bij deeltijd wordt de duur naar rato aangepast. In afwijking van het eerste lid kan de MSRC voorafgaande aan de beoordelingstage of in overleg met de opleider tussentijds bepalen dat gedurende een langere of een kortere periode een beoordelingsstage wordt gevolgd. De beoordelingsstage inclusief de eventuele verlenging genoemd in het tweede lid, duurt ten hoogste 12 maanden bij een volledige werkweek. Bij deeltijd wordt de duur naar rato aangepast.

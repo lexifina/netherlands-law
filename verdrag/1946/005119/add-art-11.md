@@ -1,0 +1,3 @@
+# Article XI
+Any Contracting Government may withdraw from this Convention on 30th June, of any year by giving notice on or before 1st January, of the same year to the depository Government, which upon receipt of such a notice shall at once communicate it to the other Contracting Governments. Any other Contracting Government may, in like manner, within one month of the receipt of a copy of such a notice from the depository Government, give notice of withdrawal, so that the Convention shall cease to be in force on 30th June, of the same year with respect to the Government giving such notice of withdrawal.
+This Convention shall bear the date on which it is opened for signature and shall remain open for signature for a period of fourteen days thereafter.

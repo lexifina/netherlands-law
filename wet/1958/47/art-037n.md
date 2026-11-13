@@ -1,0 +1,3 @@
+# Artikel 37n
+1. Met inachtneming van EG-verordening 300/2008, kan Onze Minister van Justitie en Veiligheid, ten aanzien van bepaalde categorieën vracht of post vrijstelling verlenen van het beveiligingsonderzoek, bedoeld in artikel 37j, eerste lid. Onze Minister van Justitie en Veiligheid kan in dat geval aanwijzingen geven over vervangende maatregelen. Artikel 37ac, vijfde lid, is van overeenkomstige toepassing.
+2. Met inachtneming van EG-verordening 300/2008, kan Onze Minister van Justitie en Veiligheid in bijzondere gevallen ontheffing verlenen van het beveiligingsonderzoek, bedoeld in artikel 37j, eerste lid. Artikel 37ac, vijfde lid, is van overeenkomstige toepassing.

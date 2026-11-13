@@ -1,0 +1,14 @@
+# Artikel 63cc
+1. De Autoriteit Financiële Markten kan, in afwijking van artikel 63a, eerste lid, vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan de Algemene Inlichtingen- en Veiligheidsdienst, de Belastingdienst, de Fiscale Inlichtingen- en Opsporingsdienst, de Nationale Politie, het Bureau Financieel Toezicht, de Financiële Inlichtingen Eenheid en het Openbaar Ministerie, voor zover dit dienstig is voor het versterken van de integriteit van de financiële markten of accountantsorganisaties.
+2. De Autoriteit Financiële Markten verstrekt geen gegevens of inlichtingen die herleidbaar zijn tot andere personen dan accountantsorganisaties of externe accountants.
+3. De Autoriteit Financiële Markten verstrekt geen vertrouwelijke gegevens of inlichtingen op grond van het eerste lid indien:
+a. het doel waarvoor de vertrouwelijke gegevens of inlichtingen zullen worden gebruikt onvoldoende bepaald is;
+b. het beoogde gebruik van de vertrouwelijke gegevens of inlichtingen niet past in het kader van het toezicht op financiële markten, of het toezicht op basis van deze wet;
+c. de verstrekking van de vertrouwelijke gegevens of inlichtingen zich niet zou verdragen met de Nederlandse wet of de openbare orde;
+d. de geheimhouding van de vertrouwelijke gegevens of inlichtingen niet in voldoende mate is gewaarborgd;
+e. de verstrekking van de vertrouwelijke gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen; of
+f. onvoldoende is gewaarborgd dat de vertrouwelijke gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.
+4. Voor zover de gegevens of inlichtingen, bedoeld in het eerste lid, zijn verkregen van een toezichthoudende instantie, verstrekt de Autoriteit Financiële Markten deze niet aan een andere toezichthoudende instantie, tenzij de toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.
+5. Indien een instantie als bedoeld in het eerste lid aan de Autoriteit Financiële Markten die de vertrouwelijke gegevens of inlichtingen op grond van dat lid heeft verstrekt, verzoekt om die vertrouwelijke gegevens of inlichtingen te mogen gebruiken voor een ander doel dan waarvoor zij zijn verstrekt, willigt de Autoriteit Financiële Markten dat verzoek slechts in:
+a. indien het beoogde gebruik niet in strijd is met het eerste, tweede, derde of vierde lid; en
+b. voor zover die instantie op een andere wijze dan in deze wet voorzien met inachtneming van de daarvoor geldende wettelijke procedures voor dat andere doel de beschikking over die gegevens of inlichtingen zou kunnen verkrijgen.

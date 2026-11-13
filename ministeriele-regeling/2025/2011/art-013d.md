@@ -1,0 +1,4 @@
+# Artikel 13d. Betaling en terugvordering bijzondere uitkering BES
+1. De verplichting tot betaling van een bijzondere uitkering of een voorschot wordt opgeschort met ingang van de dag waarop de Minister aan de ontvanger van de bijzondere uitkering schriftelijk kennisgeeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan artikel 13b of 13c, tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden dertien weken zijn verstreken.
+2. De Minister kan onverschuldigd betaalde bedragen van de bijzondere uitkering terugvorderen.
+3. Terugvordering van een bijzondere uitkering of een voorschot vindt niet plaats voor zover na de dag waarop de bijzondere uitkering is vastgesteld, dan wel de handeling, bedoeld in artikel 13c, eerste lid, onderdeel c, heeft plaatsgevonden, vijf jaren zijn verstreken.

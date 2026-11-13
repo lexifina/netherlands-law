@@ -1,0 +1,9 @@
+# Artikel 1a
+1. Deze wet is van toepassing op de gedragingen van de volgende bestuursorganen:
+a. Onze Ministers;
+b. bestuursorganen van provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen, tenzij voor die bestuursorganen een eigen voorziening voor de behandeling van verzoekschriften is ingesteld op grond van respectievelijk artikel 79q van de Provinciewet, artikel 81p van de Gemeentewet, artikel 107 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, artikel 51b van de Waterschapswet of artikel 10, vierde lid, artikel 41, eerste lid, onder a, artikel 50a, eerste lid, onder a, artikel 52, eerste lid, onder a, artikel 62, onder a, artikel 74, eerste lid, onder a, artikel 84, eerste lid, onder a, en artikel 126, onder b, van de Wet gemeenschappelijke regelingen;
+c. bestuursorganen aan welke bij of krachtens wettelijk voorschrift een taak met betrekking tot de politie is opgedragen, voor zover het de uitoefening van die taak betreft;
+d. bestuursorganen van provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen voor zover het de gedragingen van voor hen werkzame buitengewoon opsporingsambtenaren betreft;
+e. andere bestuursorganen, daaronder mede begrepen bestuursorganen in de openbare lichamen, voor zover niet bij algemene maatregel van bestuur uitgezonderd.
+2. Een gedraging van een ambtenaar, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van het bestuursorgaan onder wiens verantwoordelijkheid hij werkzaam is.
+3. Op een gedraging van het College, genoemd in artikel 1 van de Wet College voor de rechten van de mens, is deze wet slechts van toepassing voor zover het gaat om een gedraging van een ambtenaar die behoort tot het in artikel 18 van die wet bedoelde bureau.

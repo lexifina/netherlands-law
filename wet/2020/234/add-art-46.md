@@ -1,0 +1,2 @@
+# Artikel XLVI. Overgangsrecht
+Ten aanzien van de afwikkeling van de aanvragen voor een voorziening en beroep tegen een beslissing die op grond van de Tijdelijke regeling voorziening leermiddelen voor deelnemers uit minimagezinnen is genomen voor het tijdstip van inwerkingtreding van deze wet, is het recht zoals dat gold voorafgaand aan het tijdstip van inwerkingtreding van deze wet van toepassing.

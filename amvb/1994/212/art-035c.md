@@ -1,0 +1,3 @@
+# Artikel 35c
+1. Bij de beoordeling of er sprake is van een situatie als bedoeld in artikel 35b, tweede lid, betrekt de functionele autoriteit de uitslag van de beoordeling door het UWV van de aanvraag op grond van artikel 64 van de WIA.
+2. Indien de beoordeling, bedoeld in het eerste lid, door het UWV niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar en diens functionele autoriteit het oneens zijn over het ontslag, kan aan het UWV een oordeel als bedoeld in artikel 32, zesde lid, van de Wet Suwi worden gevraagd en betrekt de functionele autoriteit dit bij zijn beoordeling.

@@ -1,0 +1,2 @@
+# Artikel XIII. Inwerkingtreding
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.

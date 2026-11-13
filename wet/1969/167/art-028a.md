@@ -1,0 +1,3 @@
+# Artikel 28a
+1. Artikel 242a van Boek 1 blijft buiten toepassing ten aanzien van de ouder die als verdachte is aangemerkt of is veroordeeld wegens het doden van de andere ouder, vóór het tijdstip van inwerkingtreding van artikel I van de wijziging van Boek 1 van het Burgerlijk Wetboek in verband met het clausuleren van het recht op contact of omgang na partnerdoding.
+2. Artikel 377e, lid 3, van Boek 1 blijft buiten toepassing ten aanzien van het verzoek van de ouder die als verdachte is aangemerkt of is veroordeeld wegens het doden van de andere ouder, dat is ingediend vóór het tijdstip van inwerkingtreding van artikel I van de wijziging van Boek 1 van het Burgerlijk Wetboek in verband met het clausuleren van het recht op contact of omgang na partnerdoding.

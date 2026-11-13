@@ -1,0 +1,2 @@
+# Artikel XII. Terugtrekking
+Nadat dit Verdrag zeven jaar van kracht is geweest, kan een Lidstaat, met inachtneming van het bepaalde in lid 4 van artikel III, de President van de Raad er schriftelijk van in kennis stellen dat hij zich uit de Organisatie terugtrekt; een zodanige terugtrekking wordt van kracht; aan het einde van het boekjaar volgend op dat waarin van de terugtrekking kennis is gegeven, of op een daarvoor door de betrokken Lidstaat voorgesteld later tijdstip.

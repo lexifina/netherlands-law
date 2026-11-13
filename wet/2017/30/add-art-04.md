@@ -1,0 +1,3 @@
+# Artikel IV. (Overgangsrecht)
+1. Indien vóór het tijdstip van inwerkingtreding van deze wet een verzoek om ontheffing is ingediend als bedoeld in artikel 7.21 van de Wet milieubeheer, zoals dat toen luidde, blijft daarop het recht van toepassing, zoals het luidde op het tijdstip van indiening van dat verzoek, totdat de beslissing op het verzoek onherroepelijk is geworden.
+2. Een ontheffing, die voor het tijdstip van inwerkingtreding van deze wet is verleend krachtens artikel 7.21, eerste lid, van de Wet milieubeheer, zoals dat toen luidde, dan wel met toepassing van het eerste lid is verleend na dat tijdstip, wordt gelijkgesteld met een ontheffing verleend krachtens artikel 7.4 van de Wet milieubeheer, zoals dat is komen te luiden na inwerkingtreding van deze wet.

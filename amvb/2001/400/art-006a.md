@@ -1,0 +1,3 @@
+# Artikel 6a
+1. Indien het DNA-onderzoek zal worden verricht in een ander laboratorium dan het laboratorium dat het celmateriaal heeft ontvangen, zorgt het ontvangende laboratorium ervoor dat dat celmateriaal zo spoedig mogelijk in een verpakking dat voorzien is van het sporenidentificatienummer, bedoeld in artikel 6, eerste lid, onder a, en van een of meer fraudebestendige sluitzegels of een fraudebestendige afsluiting, wordt bezorgd bij het laboratorium dat het DNA-onderzoek zal verrichten.
+2. Op het ontvangende laboratorium, bedoeld in het eerste lid, is artikel 6, eerste lid, onder d, van overeenkomstige toepassing. Op het laboratorium dat het DNA-onderzoek zal verrichten, is artikel 6, eerste lid, van overeenkomstige toepassing.

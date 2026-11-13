@@ -1,0 +1,6 @@
+# Article XIII. Settlement of Disputes
+1. Any dispute between two or more Contracting Parties concerning the interpretation or application of the present Convention which cannot be settled by negotiation or other means of settlement shall, at the request of one of them, be referred to an arbitration tribunal composed as follows: each party to the dispute shall appoint an arbitrator and these two arbitrators shall appoint a third arbitrator, who shall be the Chairman. If, three months after receipt of a request, one of the parties has failed to appoint an arbitrator or if the arbitrators have failed to elect the Chairman, any of the parties may request the Secretary-General to appoint an arbitrator or the Chairman of the arbitration tribunal.
+2. The decision of the arbitration tribunal established under the provisions of paragraph 1 shall be binding on the parties to the dispute.
+3. The arbitration tribunal shall determine its own rules of procedure.
+4. Decisions of the arbitration tribunal, both as to its procedure and its place of meeting and as to any controversy laid before it, shall be taken by majority vote.
+5. Any controversy which may arise between the parties to the dispute as regards the interpretation and execution of the award may be submitted by any of the parties for judgment to the arbitration tribunal which made the award.

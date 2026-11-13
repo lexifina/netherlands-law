@@ -1,0 +1,2 @@
+# Artikel 122s. Overgangsrecht afschaffing schuldig nalatigverklaring AOW
+De SVB neemt een besluit als bedoeld in artikel 61, eerste lid, zoals dat luidde op de dag voor de datum van inwerkingtreding van de Wet van 16 oktober 2023 tot wijziging van de Algemene Ouderdomswet, de Wet financiering sociale verzekeringen en de Invorderingswet 1990 in verband met het afschaffen van de mogelijkheid om schuldig nalatig te verklaren bij het niet of niet geheel betalen van de premie voor de volksverzekeringen, niet op of na die datum van inwerkingtreding.

@@ -1,0 +1,12 @@
+# Artikel II. Regelingen met betrekking tot de financiën van gemeenten en provincies
+De volgende regelingen worden ingetrokken:
+a. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 23 januari 1998, nr. FO98/U53054 fip 98/791N (Stcrt. 1998, 221) houdende vaststelling uitkering aan provincies voor het jaar 1995;
+b. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 23 oktober 1998, nr. FO98/U53054 fip 98/791N houdende Vaststelling uitkeringen aan provincies voor het jaar 1995 en 1996;
+c. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 2 juni 1999, nr. FO99/U69338FIP1999/389M (Stcrt. 1999, 112) houdende vaststelling uitkeringen Provinciefonds 1997;
+d. Regeling van de Minister van Binnenlandse Zaken en de Staatssecretaris van Financiën van 4 maart 1997, nr. fip 97/112M (Stcrt. 1997, 49) houdende vaststelling bedragen per eenheid voor het uitkeringsjaar 1996;
+e. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 29 juni 2000, nr. FO2000/U67257 (Stcrt. 2000, 132) houdende vaststelling bedragen per eenheid provinciefonds 1999;
+f. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 8 mei 2001, nr. FO2001/U67257 (Stcrt. 2001, 96) houdende vaststelling bedragen per eenheid provinciefonds 2000;
+g. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 10 september 2002, nr. FO2002/U63623 (Stcrt. 2002, 186) houdende vaststelling bedragen per eenheid provinciefonds 2001;
+h. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 7 januari 2000, nr. FO2000/U50142 (Stcrt. 2000, 20) houdende vaststelling bedragen per eenheid voor uitkering uit het gemeentefonds;
+i. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 31 januari 2001, nr. FO2001/U54380 (Stcrt. 2001, 42) houdende vaststelling bedragen per eenheid voor uitkering uit het gemeentefonds 1999;
+j. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 14 augustus 2001, nr. FO2001/U67174 (Stcrt. 2001, 171) houdende vaststelling bedragen per eenheid gemeentefonds 2000.
