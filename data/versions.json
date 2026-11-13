@@ -770672,6 +770672,1686 @@
      "sha256": "accb01ceabdfc10c98026138d116472b5cdc2c81f91a0ae31e738323c3c3a752"
     }
    ]
+  },
+  {
+   "slug": "ziektewet",
+   "short": "ZW",
+   "title": "Ziektewet",
+   "url": "https://wetten.overheid.nl/BWBR0001888",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 158,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001888/2026-10-08_0/xml/BWBR0001888_2026-10-08_0.xml",
+     "sha256": "356ca11eb3e540ee50ebc5a8ac5c5ff8adebdb4fc6f13c5a4f834594e1ad2ee4"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanvaarding-statuut-voor-het-koninkrijk-der-nederlanden",
+   "short": "Wet aanvaarding Statuut voor het Koninkrijk der Nederlanden",
+   "title": "Wet aanvaarding Statuut voor het Koninkrijk der Nederlanden",
+   "url": "https://wetten.overheid.nl/BWBR0002153",
+   "versions": [
+    {
+     "from": "1998-10-09",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002153/1998-10-09_0/xml/BWBR0002153_1998-10-09_0.xml",
+     "sha256": "59231087405fb59568bc05039d39e25f42652bc31f45c966a5f7250d3feaef86"
+    }
+   ]
+  },
+  {
+   "slug": "wet-houdende-aanwijzing-van-een-rechter-op-grond-van-artikel-54-van-het-verdrag-van-washin",
+   "short": "Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten",
+   "title": "Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten",
+   "url": "https://wetten.overheid.nl/BWBR0003351",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003351/2015-07-01_0/xml/BWBR0003351_2015-07-01_0.xml",
+     "sha256": "9830d08163f22164f487ac79376a17fbb665c4ba8e6f697ed7c2fcbad67b96c6"
+    }
+   ]
+  },
+  {
+   "slug": "wet-stichting-lott",
+   "short": "Wet Stichting LOTT",
+   "title": "Wet Stichting LOTT",
+   "url": "https://wetten.overheid.nl/BWBR0004130",
+   "versions": [
+    {
+     "from": "1987-06-15",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0004130/1987-06-15_0/xml/BWBR0004130_1987-06-15_0.xml",
+     "sha256": "8163af0bf9140f90bf7fb4a31ba5afe9cf36959b8f48ce53158135d649d95fed"
+    }
+   ]
+  },
+  {
+   "slug": "kieswet",
+   "short": "KW",
+   "title": "Kieswet",
+   "url": "https://wetten.overheid.nl/BWBR0004627",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 596,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0004627/2026-10-01_0/xml/BWBR0004627_2026-10-01_0.xml",
+     "sha256": "9984f3fb8f3c42b1ab78e0a2a7b27046f2cfad982014521ebf8eadf221f70adc"
+    }
+   ]
+  },
+  {
+   "slug": "mededingingswet",
+   "short": "Mw",
+   "title": "Mededingingswet",
+   "url": "https://wetten.overheid.nl/BWBR0008691",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 105,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0008691/2025-09-01_0/xml/BWBR0008691_2025-09-01_0.xml",
+     "sha256": "289f60bef97bb2bb0117283c81620f294876e7dc2ea8b66e416dfa8f21fc389c"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-derde-tranche-awb-i",
+   "short": "Aanpassingswet derde tranche Awb I",
+   "title": "Aanpassingswet derde tranche Awb I",
+   "url": "https://wetten.overheid.nl/BWBR0008994",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0008994/1998-01-01_0/xml/BWBR0008994_1998-01-01_0.xml",
+     "sha256": "acc31910ff4df2be63bef0c3416f722f4b32a6970ffdf2de77ac247f6fb7f7c6"
+    }
+   ]
+  },
+  {
+   "slug": "invoeringswet-vreemdelingenwet-2000",
+   "short": "Invoeringswet Vreemdelingenwet 2000",
+   "title": "Invoeringswet Vreemdelingenwet 2000",
+   "url": "https://wetten.overheid.nl/BWBR0011824",
+   "versions": [
+    {
+     "from": "2001-04-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0011824/2001-04-01_0/xml/BWBR0011824_2001-04-01_0.xml",
+     "sha256": "2c775860713c7f03b5239f982be4a50f3ea19d6849cb9880bca1e1fb9415c3e1"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-euro",
+   "short": "Aanpassingswet euro",
+   "title": "Aanpassingswet euro",
+   "url": "https://wetten.overheid.nl/BWBR0012859",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0012859/2013-01-01_0/xml/BWBR0012859_2013-01-01_0.xml",
+     "sha256": "9fc84e1b540ddb263a0c15c4ac15a5570139196bab844cfc082034452b29fbd5"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-wetgeving-aan-herziening-van-het-procesrecht-voor-burgerlijke-zaken",
+   "short": "AW hpbz",
+   "title": "Aanpassingswet wetgeving aan herziening van het procesrecht voor burgerlijke zaken",
+   "url": "https://wetten.overheid.nl/BWBR0013098",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0013098/2002-01-01_0/xml/BWBR0013098_2002-01-01_0.xml",
+     "sha256": "73da1900304982795def599549888f7430082a58b3b0be473afb9161f20fc2f4"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-modernisering-rechterlijke-organisatie",
+   "short": "Aanpassingswet modernisering rechterlijke organisatie",
+   "title": "Aanpassingswet modernisering rechterlijke organisatie",
+   "url": "https://wetten.overheid.nl/BWBR0013101",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0013101/2011-07-01_0/xml/BWBR0013101_2011-07-01_0.xml",
+     "sha256": "9258f085da730f6dcfb92e333147db40af22df1fb5d1db697b39192d49f89003"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-vierde-tranche-awb",
+   "short": "Aanpassingswet vierde tranche Awb",
+   "title": "Aanpassingswet vierde tranche Awb",
+   "url": "https://wetten.overheid.nl/BWBR0026055",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026055/2009-07-01_0/xml/BWBR0026055_2009-07-01_0.xml",
+     "sha256": "9443d889fa66598b687f76666242be980804427d6042ce6a5435eaa16f7e953b"
+    }
+   ]
+  },
+  {
+   "slug": "wet-onderwijsondersteuning-zieke-leerlingen",
+   "short": "Wet onderwijsondersteuning zieke leerlingen",
+   "title": "Wet onderwijsondersteuning zieke leerlingen",
+   "url": "https://wetten.overheid.nl/BWBR0052650",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052650/2026-10-01_0/xml/BWBR0052650_2026-10-01_0.xml",
+     "sha256": "0db8c47282e16f9c095c072b0b375601b739d6ba2e495f46852fc49d0d98a136"
+    }
+   ]
+  },
+  {
+   "slug": "wet-invoering-tweestatusstelsel",
+   "short": "Wet invoering tweestatusstelsel",
+   "title": "Wet invoering tweestatusstelsel",
+   "url": "https://wetten.overheid.nl/BWBR0052675",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052675/2026-06-12_0/xml/BWBR0052675_2026-06-12_0.xml",
+     "sha256": "fa3cedf9f8abaa89f07da45ae15553ebecbdfd696a001274828a7b308f5fb01e"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoerings-en-implementatiewet-asiel-en-migratiepact-2026",
+   "short": "Uitvoerings- en implementatiewet Asiel- en migratiepact 2026",
+   "title": "Uitvoerings- en implementatiewet Asiel- en migratiepact 2026",
+   "url": "https://wetten.overheid.nl/BWBR0052687",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 15,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052687/2026-06-12_0/xml/BWBR0052687_2026-06-12_0.xml",
+     "sha256": "d835521c7cb95a49d0b4e8cd1902dd60607e96638438659d36865e55d5c54ca7"
+    }
+   ]
+  },
+  {
+   "slug": "wet-herziening-wettelijke-grondslagen-kerndoelen",
+   "short": "Wet herziening wettelijke grondslagen kerndoelen",
+   "title": "Wet herziening wettelijke grondslagen kerndoelen",
+   "url": "https://wetten.overheid.nl/BWBR0052698",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052698/2026-08-01_0/xml/BWBR0052698_2026-08-01_0.xml",
+     "sha256": "935dd82189a4b8ab95e396f5de9604d3ff4365159b338e60f18899289e02a6a2"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-richtlijn-op-afstand-gesloten-overeenkomsten-inzake-financiele-diensten",
+   "short": "Implementatiewet richtlijn op afstand gesloten overeenkomsten inzake financiële diensten",
+   "title": "Implementatiewet richtlijn op afstand gesloten overeenkomsten inzake financiële diensten",
+   "url": "https://wetten.overheid.nl/BWBR0052728",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052728/2026-06-25_0/xml/BWBR0052728_2026-06-25_0.xml",
+     "sha256": "d7a55eba6b8a0b0b04937d3af70260d0f94c0508cda05b1e170b502de9d6cbe8"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-richtlijn-betere-duurzaamheidsinformatie-voor-consumenten",
+   "short": "Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten",
+   "title": "Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten",
+   "url": "https://wetten.overheid.nl/BWBR0052734",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052734/2026-07-16_0/xml/BWBR0052734_2026-07-16_0.xml",
+     "sha256": "dcaf69f01255ac3dc09946d589949908b74851fbf968596b9e8ab2a4bd61d692"
+    }
+   ]
+  },
+  {
+   "slug": "wet-versterking-regie-volkshuisvesting",
+   "short": "Wet versterking regie volkshuisvesting",
+   "title": "Wet versterking regie volkshuisvesting",
+   "url": "https://wetten.overheid.nl/BWBR0052753",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052753/2026-07-01_0/xml/BWBR0052753_2026-07-01_0.xml",
+     "sha256": "d2f1dc552ad2695e15e058fb2f9efbacc0bf0fc3cd9feb6ef64df062e7203e29"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-gegevensbescherming",
+   "short": "Verzamelwet gegevensbescherming",
+   "title": "Verzamelwet gegevensbescherming",
+   "url": "https://wetten.overheid.nl/BWBR0052755",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 15,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052755/2026-09-01_0/xml/BWBR0052755_2026-09-01_0.xml",
+     "sha256": "b99d83817762ec0f420e43c9d1025af057fec98a7243b590ea653c0a1a45b515"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-europees-centraal-toegangspunt",
+   "short": "Wet implementatie Europees centraal toegangspunt",
+   "title": "Wet implementatie Europees centraal toegangspunt",
+   "url": "https://wetten.overheid.nl/BWBR0052854",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052854/2026-07-21_0/xml/BWBR0052854_2026-07-21_0.xml",
+     "sha256": "f844ec1809a3b5b849af0bc4bbff5412c25c2ae3b81499ef157a7ec9051f6773"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-verbetering-aansluiting-beroepsonderwij",
+   "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (verbetering aansluiting beroepsonderwijs-arbeidsmarkt)",
+   "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (verbetering aansluiting beroepsonderwijs-arbeidsmarkt)",
+   "url": "https://wetten.overheid.nl/BWBR0052867",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 19,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052867/2026-08-01_0/xml/BWBR0052867_2026-08-01_0.xml",
+     "sha256": "77f735143769c6fd17685ee80da031a902e0a78fb89828b691680adb94cf2f19"
+    }
+   ]
+  },
+  {
+   "slug": "wet-weerbaarheid-kritieke-entiteiten",
+   "short": "Wwke",
+   "title": "Wet weerbaarheid kritieke entiteiten",
+   "url": "https://wetten.overheid.nl/BWBR0052871",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 54,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052871/2026-08-15_0/xml/BWBR0052871_2026-08-15_0.xml",
+     "sha256": "bf0c4e2ce65ce56c602fb1917f5063fe4a45a714b65e6d1d7cd17fb81d977ed5"
+    }
+   ]
+  },
+  {
+   "slug": "cyberbeveiligingswet",
+   "short": "Cbw",
+   "title": "Cyberbeveiligingswet",
+   "url": "https://wetten.overheid.nl/BWBR0052872",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 112,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052872/2026-08-15_0/xml/BWBR0052872_2026-08-15_0.xml",
+     "sha256": "6796004172683b8ad6a15844360f9bba5f8b134161bc01b975116830373e4794"
+    }
+   ]
+  },
+  {
+   "slug": "wet-herindeling-gemeenten-hilversum-en-wijdemeren",
+   "short": "Wet herindeling gemeenten Hilversum en Wijdemeren",
+   "title": "Wet herindeling gemeenten Hilversum en Wijdemeren",
+   "url": "https://wetten.overheid.nl/BWBR0052931",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052931/2026-09-11_0/xml/BWBR0052931_2026-09-11_0.xml",
+     "sha256": "6c5b26aeb527325d8c0dc1355b8e3c455031a2db8c58d522e53f7079097ba42d"
+    }
+   ]
+  },
+  {
+   "slug": "wet-op-de-nederlandse-identiteitskaart",
+   "short": "Wet NIK",
+   "title": "Wet op de Nederlandse identiteitskaart",
+   "url": "https://wetten.overheid.nl/BWBR0052951",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 57,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052951/2026-10-01_0/xml/BWBR0052951_2026-10-01_0.xml",
+     "sha256": "8ddb7e199174cc5b58400b8033265386cc288eac9ff99c0787cac6c1f3bc8a72"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-herziening-mifid-ii-2026",
+   "short": "Implementatiewet herziening MiFID II 2026",
+   "title": "Implementatiewet herziening MiFID II 2026",
+   "url": "https://wetten.overheid.nl/BWBR0052969",
+   "versions": [
+    {
+     "from": "2026-09-26",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052969/2026-09-26_0/xml/BWBR0052969_2026-09-26_0.xml",
+     "sha256": "408d52f5adcabefb8489811e8e45e7b745915fcc247e4f6ca992d7e18ac9c943"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-noteringen-en-benchmarks",
+   "short": "Implementatiewet noteringen en benchmarks",
+   "title": "Implementatiewet noteringen en benchmarks",
+   "url": "https://wetten.overheid.nl/BWBR0052973",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052973/2026-09-29_0/xml/BWBR0052973_2026-09-29_0.xml",
+     "sha256": "16533d7eedca7fbce46382e9835ac2f9cfe36c0299c0d1fe8de7dbce5dd5f13a"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-kapitaalvereisten-2026",
+   "short": "Implementatiewet kapitaalvereisten 2026",
+   "title": "Implementatiewet kapitaalvereisten 2026",
+   "url": "https://wetten.overheid.nl/BWBR0053029",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053029/2026-09-22_0/xml/BWBR0053029_2026-09-22_0.xml",
+     "sha256": "31559fa63585d7702cc9a0c580120c69438bf3828eb44d962f4b8f0ad2fc2c97"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-regeling-dienstverlening-aan-huis",
+   "short": "Wet aanpassing Regeling dienstverlening aan huis",
+   "title": "Wet aanpassing Regeling dienstverlening aan huis",
+   "url": "https://wetten.overheid.nl/BWBR0053175",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053175/2026-10-08_0/xml/BWBR0053175_2026-10-08_0.xml",
+     "sha256": "277e67b6fd7d7e030e3b60c4b099820b73bcc39e75bed0e2342fd34ef01ca85a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-terugkeer-en-vreemdelingenbewaring",
+   "short": "Wet terugkeer en vreemdelingenbewaring",
+   "title": "Wet terugkeer en vreemdelingenbewaring",
+   "url": "https://wetten.overheid.nl/BWBR0053231",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053231/2026-10-16_0/xml/BWBR0053231_2026-10-16_0.xml",
+     "sha256": "ecc8e6b2f6af82070ea50a54876567c1801e7a762757f860dee51f541012dda1"
+    }
+   ]
+  },
+  {
+   "slug": "wet-uitvoering-eu-verordening-overbrenging-van-afvalstoffen-en-implementatie-enkele-andere",
+   "short": "Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen",
+   "title": "Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen",
+   "url": "https://wetten.overheid.nl/BWBR0053235",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053235/2026-10-22_0/xml/BWBR0053235_2026-10-22_0.xml",
+     "sha256": "099ca97fb091d2355855fd4445b5d88d28050b63ee12a652d156decb6ac9c65b"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-terugkeer-en-vreemdelingenbewaring-enz-handhaven-mogelijkheden-maatregel",
+   "short": "Wijzigingswet Wet terugkeer en vreemdelingenbewaring, enz. (handhaven mogelijkheden maatregelen ten aanzien van overlastgevende vreemdelingen, verruimen mogelijkheden ongewenstverklaring en verhogen strafmaximum van artikel 197, Wetboek van Strafrecht)",
+   "title": "Wijzigingswet Wet terugkeer en vreemdelingenbewaring, enz. (handhaven mogelijkheden maatregelen ten aanzien van overlastgevende vreemdelingen, verruimen mogelijkheden ongewenstverklaring en verhogen strafmaximum van artikel 197, Wetboek van Strafrecht)",
+   "url": "https://wetten.overheid.nl/BWBR0053236",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053236/2026-10-16_0/xml/BWBR0053236_2026-10-16_0.xml",
+     "sha256": "9b75acc98759d8efa03eb918590acc68c7abf0c0ea117f182ee2c7108aa3741f"
+    }
+   ]
+  },
+  {
+   "slug": "proclamatie-houdende-plechtige-afkondiging-van-de-nieuwe-rechtsorde-voor-het-koninkrijk",
+   "short": "Proclamatie houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk",
+   "title": "Proclamatie houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk",
+   "url": "https://wetten.overheid.nl/BWBR0002167",
+   "versions": [
+    {
+     "from": "1954-12-29",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002167/1954-12-29_0/xml/BWBR0002167_1954-12-29_0.xml",
+     "sha256": "f2a256e9a5984aee6c02e8eff45c12b9c193bacad5b5067756a39c19b43ea254"
+    }
+   ]
+  },
+  {
+   "slug": "rijkswet-op-het-nederlanderschap",
+   "short": "RWN",
+   "title": "Rijkswet op het Nederlanderschap",
+   "url": "https://wetten.overheid.nl/BWBR0003738",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 40,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003738/2026-10-01_0/xml/BWBR0003738_2026-10-01_0.xml",
+     "sha256": "ba9d584faf299f99df053f0ea516b078e36911f604e6b2de2e34a26858c3fb9d"
+    }
+   ]
+  },
+  {
+   "slug": "rijkswet-aanpassing-rijkswetten-euro",
+   "short": "Rijkswet aanpassing rijkswetten euro",
+   "title": "Rijkswet aanpassing rijkswetten euro",
+   "url": "https://wetten.overheid.nl/BWBR0012860",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0012860/2002-01-01_0/xml/BWBR0012860_2002-01-01_0.xml",
+     "sha256": "c953dc852dc67f0cfd0a95505e9f99a73505534e04b9c0651b38fbc0bafd1333"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-paspoortwet-ontvlechting-van-de-nederlandse-identiteitskaart",
+   "short": "Wijzigingswet Paspoortwet (ontvlechting van de Nederlandse identiteitskaart)",
+   "title": "Wijzigingswet Paspoortwet (ontvlechting van de Nederlandse identiteitskaart)",
+   "url": "https://wetten.overheid.nl/BWBR0052947",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052947/2026-10-01_0/xml/BWBR0052947_2026-10-01_0.xml",
+     "sha256": "8a9d87b9fa9932598fa64d3f292945b6581a933db87298bd5c9b5564606ad5a4"
+    }
+   ]
+  },
+  {
+   "slug": "wet-verhoging-aantal-eilandsraadsleden-en-eilandgedeputeerden",
+   "short": "Wet verhoging aantal eilandsraadsleden en eilandgedeputeerden",
+   "title": "Wet verhoging aantal eilandsraadsleden en eilandgedeputeerden",
+   "url": "https://wetten.overheid.nl/BWBR0052936",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052936/2026-09-15_0/xml/BWBR0052936_2026-09-15_0.xml",
+     "sha256": "63c3a905cdf909baca58e28954c2b961f22362f100adf06ce23ff242364c2184"
+    }
+   ]
+  },
+  {
+   "slug": "tweede-goedkeuringswet-bes",
+   "short": "Tweede goedkeuringswet BES",
+   "title": "Tweede goedkeuringswet BES",
+   "url": "https://wetten.overheid.nl/BWBR0053302",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053302/2026-11-05_0/xml/BWBR0053302_2026-11-05_0.xml",
+     "sha256": "96d1072c7bd89c837c94761290fe8a74eb1dab87bae7f1b729619cfdeb2e706b"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-nadere-voorschriften-toekennen-adelijke-titels-en-praedikaten",
+   "short": "Besluit nadere voorschriften toekennen adelijke titels en praedikaten",
+   "title": "Besluit nadere voorschriften toekennen adelijke titels en praedikaten",
+   "url": "https://wetten.overheid.nl/BWBR0024678",
+   "versions": [
+    {
+     "from": "1827-06-23",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0024678/1827-06-23_0/xml/BWBR0024678_1827-06-23_0.xml",
+     "sha256": "a74f12d084f5ee3b9e9ed5fda7ef3a9385120831688c319c0635793b0437582f"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-regeling-overgang-adellijke-titels-bij-regt-van-eerstgeboorte",
+   "short": "Besluit regeling overgang adellijke titels bij regt van eerstgeboorte",
+   "title": "Besluit regeling overgang adellijke titels bij regt van eerstgeboorte",
+   "url": "https://wetten.overheid.nl/BWBR0024679",
+   "versions": [
+    {
+     "from": "1868-04-19",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0024679/1868-04-19_0/xml/BWBR0024679_1868-04-19_0.xml",
+     "sha256": "5d6127feb624095c36eff89ef5e7314f82bc5e9cfd080a54c38b980fad6d5aae"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingsbesluit-vierde-tranche-awb",
+   "short": "Aanpassingsbesluit vierde tranche Awb",
+   "title": "Aanpassingsbesluit vierde tranche Awb",
+   "url": "https://wetten.overheid.nl/BWBR0026027",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026027/2009-07-01_0/xml/BWBR0026027_2009-07-01_0.xml",
+     "sha256": "c8f89dc235a9aad58a9699eebdda928852b233b0158a01c0dc79b8d6ab52382d"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingsbesluit-bouwbesluit-2012",
+   "short": "Aanpassingsbesluit Bouwbesluit 2012",
+   "title": "Aanpassingsbesluit Bouwbesluit 2012",
+   "url": "https://wetten.overheid.nl/BWBR0031388",
+   "versions": [
+    {
+     "from": "2012-04-24",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031388/2012-04-24_0/xml/BWBR0031388_2012-04-24_0.xml",
+     "sha256": "215da252359277ecefe269f02842a0bbd28be7d8843d3af94e16e6cb59ecc7eb"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-aanwijzing-twee-leden-college-van-toezicht-inzake-uitoefening-ouderlijk-gezag-over",
+   "short": "Besluit aanwijzing twee leden College van Toezicht inzake uitoefening ouderlijk gezag over de minderjarige Koning",
+   "title": "Besluit aanwijzing twee leden College van Toezicht inzake uitoefening ouderlijk gezag over de minderjarige Koning",
+   "url": "https://wetten.overheid.nl/BWBR0035430",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035430/2014-09-01_0/xml/BWBR0035430_2014-09-01_0.xml",
+     "sha256": "600c0412eb87b81f4bb6eece1c7916583d952cf3ebeddfd5a7b66fa5b9d54d3d"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-verhoging-grens-status-organisatie-van-openbaar-belang-woningcorporaties",
+   "short": "Besluit verhoging grens status organisatie van openbaar belang woningcorporaties",
+   "title": "Besluit verhoging grens status organisatie van openbaar belang woningcorporaties",
+   "url": "https://wetten.overheid.nl/BWBR0052628",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052628/2026-05-20_0/xml/BWBR0052628_2026-05-20_0.xml",
+     "sha256": "68a6bb6840131cb5128b9092982c57826c808fafd5afd6ed54a5806c7e5c43f4"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-implementatie-gewijzigde-aifm-richtlijn-en-icbe-richtlijn",
+   "short": "Besluit implementatie gewijzigde AIFM-richtlijn en icbe-richtlijn",
+   "title": "Besluit implementatie gewijzigde AIFM-richtlijn en icbe-richtlijn",
+   "url": "https://wetten.overheid.nl/BWBR0052655",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052655/2026-05-29_0/xml/BWBR0052655_2026-05-29_0.xml",
+     "sha256": "9477dfdc2b6f7a4d5fb910a367c43fa9e7cbf8059d4f89af538f1eaeca91d2be"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-gegevensverstrekking-douane-voor-uitvoering-van-politie-en-toezichtstaken",
+   "short": "Besluit gegevensverstrekking douane voor uitvoering van politie- en toezichtstaken",
+   "title": "Besluit gegevensverstrekking douane voor uitvoering van politie- en toezichtstaken",
+   "url": "https://wetten.overheid.nl/BWBR0052674",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052674/2026-07-01_0/xml/BWBR0052674_2026-07-01_0.xml",
+     "sha256": "8bfa75d94316851abad705bf1a8deb762b16d8b02f54f010c6bc78b8b4345b74"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoerings-en-implementatiebesluit-asiel-en-migratiepact-2026",
+   "short": "Uitvoerings- en implementatiebesluit Asiel- en migratiepact 2026",
+   "title": "Uitvoerings- en implementatiebesluit Asiel- en migratiepact 2026",
+   "url": "https://wetten.overheid.nl/BWBR0052697",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052697/2026-06-12_0/xml/BWBR0052697_2026-06-12_0.xml",
+     "sha256": "892358dc75ef4428efd084261e8846a182da5854682a4419db6f4cfddd6f064c"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelbesluit-omgevingswet-lvvn-en-kgg-2026",
+   "short": "Verzamelbesluit Omgevingswet LVVN en KGG 2026",
+   "title": "Verzamelbesluit Omgevingswet LVVN en KGG 2026",
+   "url": "https://wetten.overheid.nl/BWBR0052747",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052747/2026-07-01_0/xml/BWBR0052747_2026-07-01_0.xml",
+     "sha256": "63834a0357a42c0e793875c7e1a89cdd75421e99e1d0405bd4ed0c978e4a7f2c"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-actualisatie-beleidslijn-grote-rivieren",
+   "short": "Besluit actualisatie Beleidslijn grote rivieren",
+   "title": "Besluit actualisatie Beleidslijn grote rivieren",
+   "url": "https://wetten.overheid.nl/BWBR0052752",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052752/2026-07-01_0/xml/BWBR0052752_2026-07-01_0.xml",
+     "sha256": "93444edc71cf5b9607b5c539de795a7d8109c4359a73fadbb379c3ea120ef157"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelbesluit-omgevingswet-ienw-bodem-en-water-2026",
+   "short": "Verzamelbesluit Omgevingswet IENW Bodem en Water 2026",
+   "title": "Verzamelbesluit Omgevingswet IENW Bodem en Water 2026",
+   "url": "https://wetten.overheid.nl/BWBR0052756",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052756/2026-10-01_0/xml/BWBR0052756_2026-10-01_0.xml",
+     "sha256": "d8f55855dc7782537c38437de9a0a9fbb4e71bff9921a90b97815ee639a75db3"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-veilige-jaarwisseling",
+   "short": "Besluit veilige jaarwisseling",
+   "title": "Besluit veilige jaarwisseling",
+   "url": "https://wetten.overheid.nl/BWBR0052763",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052763/2026-08-01_0/xml/BWBR0052763_2026-08-01_0.xml",
+     "sha256": "c1a2efceb5d81c00ca16bc3c6a1553ea09b1ee020dc77e60f3276d4ed4be45d8"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-besluit-activiteiten-leefomgeving-enz-bescherming-wolf-en-goudjakhals",
+   "short": "Wijzigingsbesluit Besluit activiteiten leefomgeving enz. (bescherming wolf en goudjakhals)",
+   "title": "Wijzigingsbesluit Besluit activiteiten leefomgeving enz. (bescherming wolf en goudjakhals)",
+   "url": "https://wetten.overheid.nl/BWBR0052822",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052822/2026-07-11_0/xml/BWBR0052822_2026-07-11_0.xml",
+     "sha256": "febbb2cb95479f3c93c975c9faf88e4a5aa3c7410e670b67c98bec84c83d953d"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-deeltijdverlof-militairen",
+   "short": "Wijzigingsbesluit deeltijdverlof militairen",
+   "title": "Wijzigingsbesluit deeltijdverlof militairen",
+   "url": "https://wetten.overheid.nl/BWBR0052842",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052842/2026-07-16_0/xml/BWBR0052842_2026-07-16_0.xml",
+     "sha256": "bcb8b1dde7f383cafa22d59a0673e7110c2789383678c5ef0351aed44415d9ae"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-kerndoelen-primair-en-speciaal-onderwijs-2026",
+   "short": "Besluit kerndoelen primair en speciaal onderwijs 2026",
+   "title": "Besluit kerndoelen primair en speciaal onderwijs 2026",
+   "url": "https://wetten.overheid.nl/BWBR0052864",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052864/2026-08-01_0/xml/BWBR0052864_2026-08-01_0.xml",
+     "sha256": "242050786bb77af07b15dcdf045169028541ef2d1e4509e4b977a627a9e242eb"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vernieuwde-kerndoelen-nederlands-en-rekenen-en-wiskunde",
+   "short": "Besluit vernieuwde kerndoelen Nederlands en rekenen en wiskunde",
+   "title": "Besluit vernieuwde kerndoelen Nederlands en rekenen en wiskunde",
+   "url": "https://wetten.overheid.nl/BWBR0052866",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052866/2026-08-01_0/xml/BWBR0052866_2026-08-01_0.xml",
+     "sha256": "31e07f43e51202b83676b6340137fd13b0f3f4b8a88bfd9256e7f4fac2dc4f9d"
+    }
+   ]
+  },
+  {
+   "slug": "tijdelijk-sanctiebesluit-onrechtmatige-nederzettingen-in-de-door-israel-bezette-gebieden",
+   "short": "Tijdelijk sanctiebesluit onrechtmatige nederzettingen in de door Israël bezette gebieden",
+   "title": "Tijdelijk sanctiebesluit onrechtmatige nederzettingen in de door Israël bezette gebieden",
+   "url": "https://wetten.overheid.nl/BWBR0052870",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052870/2026-09-22_0/xml/BWBR0052870_2026-09-22_0.xml",
+     "sha256": "b5318621304ae5fd75717459214449c0252e4bd587ac892f740b6664580600ca"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-weerbaarheid-kritieke-entiteiten",
+   "short": "Bwke",
+   "title": "Besluit weerbaarheid kritieke entiteiten",
+   "url": "https://wetten.overheid.nl/BWBR0052874",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 21,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052874/2026-08-15_0/xml/BWBR0052874_2026-08-15_0.xml",
+     "sha256": "eb6bee95d4dc88f7ddd12332759cbcbc99065698af3a487e0ad5d0ef4ad7a4ff"
+    }
+   ]
+  },
+  {
+   "slug": "cyberbeveiligingsbesluit",
+   "short": "Cbb",
+   "title": "Cyberbeveiligingsbesluit",
+   "url": "https://wetten.overheid.nl/BWBR0052875",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 37,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052875/2026-08-15_0/xml/BWBR0052875_2026-08-15_0.xml",
+     "sha256": "06e429c1580d7f44f11467d9129050c71bb0260a512d96363083cf5011daa8ac"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-financiele-markten-2026",
+   "short": "Wijzigingsbesluit financiële markten 2026",
+   "title": "Wijzigingsbesluit financiële markten 2026",
+   "url": "https://wetten.overheid.nl/BWBR0052889",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052889/2026-07-24_0/xml/BWBR0052889_2026-07-24_0.xml",
+     "sha256": "c91a2b4bf8a2fb164ba253f93ca0c4d7ec131517bf1116e9daf4d96e139d0394"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-procedurele-versnellingen-elektriciteitsprojecten",
+   "short": "Besluit procedurele versnellingen elektriciteitsprojecten",
+   "title": "Besluit procedurele versnellingen elektriciteitsprojecten",
+   "url": "https://wetten.overheid.nl/BWBR0052910",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052910/2026-10-01_0/xml/BWBR0052910_2026-10-01_0.xml",
+     "sha256": "6953f38ff545dfdb3e1e209ac979d32d2801c43512f54ddb5c93d89c0e30241c"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringsbesluit-datagovernanceverordening",
+   "short": "Uitvoeringsbesluit datagovernanceverordening",
+   "title": "Uitvoeringsbesluit datagovernanceverordening",
+   "url": "https://wetten.overheid.nl/BWBR0053040",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053040/2026-08-19_0/xml/BWBR0053040_2026-08-19_0.xml",
+     "sha256": "d6dd00e2087cba34851283d3d8a594f1aa780a5778f4ea51ddb6d3cac02a1d92"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-arbeidsvoorwaardenakkoorden-defensie-hoofdstuk-2-van-20212023-2024-en-20",
+   "short": "Wijzigingsbesluit arbeidsvoorwaardenakkoorden Defensie hoofdstuk 2 van 2021–2023, 2024 en 2025–2026",
+   "title": "Wijzigingsbesluit arbeidsvoorwaardenakkoorden Defensie hoofdstuk 2 van 2021–2023, 2024 en 2025–2026",
+   "url": "https://wetten.overheid.nl/BWBR0053053",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 16,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053053/2026-08-26_0/xml/BWBR0053053_2026-08-26_0.xml",
+     "sha256": "91fee304e64fed9581c29ba5998be01cd87fc9c1b2ce245210659e2079932f17"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiebesluit-richtlijn-op-afstand-gesloten-overeenkomsten-inzake-financiele-dienst",
+   "short": "Implementatiebesluit richtlijn op afstand gesloten overeenkomsten inzake financiële diensten",
+   "title": "Implementatiebesluit richtlijn op afstand gesloten overeenkomsten inzake financiële diensten",
+   "url": "https://wetten.overheid.nl/BWBR0053058",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053058/2026-08-28_0/xml/BWBR0053058_2026-08-28_0.xml",
+     "sha256": "3574ab72eaa2c6c89c930b67192252d42facb210c86e9bc62cf888aa35446883"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringsbesluit-hoofdstuk-viii-eu-verordening-batterijen",
+   "short": "Uitvoeringsbesluit Hoofdstuk VIII EU-verordening batterijen",
+   "title": "Uitvoeringsbesluit Hoofdstuk VIII EU-verordening batterijen",
+   "url": "https://wetten.overheid.nl/BWBR0053099",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 20,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053099/2026-09-12_0/xml/BWBR0053099_2026-09-12_0.xml",
+     "sha256": "677cf9f2987dab5ffde2d695b40cb919dcc287914dc5144f519e4e688786a93b"
+    }
+   ]
+  },
+  {
+   "slug": "warenwetbesluit-machines-2026",
+   "short": "Warenwetbesluit machines 2026",
+   "title": "Warenwetbesluit machines 2026",
+   "url": "https://wetten.overheid.nl/BWBR0053112",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053112/2026-09-17_0/xml/BWBR0053112_2026-09-17_0.xml",
+     "sha256": "dfb8318f9d54579529a2e5ee4779a0c7eb6cab899461447225f9ed85b32e3753"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiebesluit-kapitaalvereisten-2026",
+   "short": "Implementatiebesluit kapitaalvereisten 2026",
+   "title": "Implementatiebesluit kapitaalvereisten 2026",
+   "url": "https://wetten.overheid.nl/BWBR0053115",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053115/2026-09-22_0/xml/BWBR0053115_2026-09-22_0.xml",
+     "sha256": "8afd036b3f34b12a13374c5959fe37ce70a8b8306ff371efee9d91dbe256489b"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-nederlandse-identiteitskaart",
+   "short": "Besluit NIK",
+   "title": "Besluit Nederlandse identiteitskaart",
+   "url": "https://wetten.overheid.nl/BWBR0053130",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 32,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053130/2026-10-01_0/xml/BWBR0053130_2026-10-01_0.xml",
+     "sha256": "00042864937d08fb84c42cef2964839b66b5eadcfbc2d49ca2647d7264bead85"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiebesluit-herziening-mifid-ii-en-mifir-2026",
+   "short": "Implementatiebesluit herziening MiFID II en MiFIR 2026",
+   "title": "Implementatiebesluit herziening MiFID II en MiFIR 2026",
+   "url": "https://wetten.overheid.nl/BWBR0053137",
+   "versions": [
+    {
+     "from": "2026-09-26",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053137/2026-09-26_0/xml/BWBR0053137_2026-09-26_0.xml",
+     "sha256": "bbebbccc991ea83664447379a1a839b6be13e48b33a388604511768a1ef4e97b"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiebesluit-richtlijn-noteringen-en-benchmarks",
+   "short": "Implementatiebesluit richtlijn noteringen en benchmarks",
+   "title": "Implementatiebesluit richtlijn noteringen en benchmarks",
+   "url": "https://wetten.overheid.nl/BWBR0053159",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053159/2026-09-29_0/xml/BWBR0053159_2026-09-29_0.xml",
+     "sha256": "4b485a611facd75e1940cf5709ad22383832e12de99df6a54543890272369035"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-eu-verordeningen-wft-2026",
+   "short": "Wijzigingsbesluit EU-verordeningen Wft 2026",
+   "title": "Wijzigingsbesluit EU-verordeningen Wft 2026",
+   "url": "https://wetten.overheid.nl/BWBR0053204",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053204/2026-10-16_0/xml/BWBR0053204_2026-10-16_0.xml",
+     "sha256": "030d0b9ab7b875cc4aa45c5b4c1212511c111d7aa33e99773b769918b099b59f"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-toegang-ubo-registers-voor-bestuursorganen-en-rechtspersonen-met-een-ove",
+   "short": "Wijzigingsbesluit toegang UBO-registers voor bestuursorganen en rechtspersonen met een overheidstaak",
+   "title": "Wijzigingsbesluit toegang UBO-registers voor bestuursorganen en rechtspersonen met een overheidstaak",
+   "url": "https://wetten.overheid.nl/BWBR0053237",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053237/2026-10-24_0/xml/BWBR0053237_2026-10-24_0.xml",
+     "sha256": "f80a5f62d9b3b9a52ebddbc2f374f95c08098d79827c0a4792383e8733548789"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-luchthavenverkeerbesluit-schiphol-enz-invoering-regels-preferentieel-baa",
+   "short": "Wijzigingsbesluit Luchthavenverkeerbesluit Schiphol, enz. (invoering regels preferentieel baangebruik, wijziging handhavingspunten geluidsbelasting en de maximum aantallen vliegtuigbewegingen)",
+   "title": "Wijzigingsbesluit Luchthavenverkeerbesluit Schiphol, enz. (invoering regels preferentieel baangebruik, wijziging handhavingspunten geluidsbelasting en de maximum aantallen vliegtuigbewegingen)",
+   "url": "https://wetten.overheid.nl/BWBR0053246",
+   "versions": [
+    {
+     "from": "2026-11-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053246/2026-11-01_0/xml/BWBR0053246_2026-11-01_0.xml",
+     "sha256": "ea80c226fcaa9e6d8fcb06a1293b9c536f6affbfe8373c7b742b4f3914a0e467"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-decentralisatie-en-integratie-uitkeringen-2021",
+   "short": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2021",
+   "title": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2021",
+   "url": "https://wetten.overheid.nl/BWBR0053249",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053249/2026-10-29_0/xml/BWBR0053249_2026-10-29_0.xml",
+     "sha256": "8c7e23b1cf453e92e375708f9a2102f3c56c999356a28fc5db6bbd13e4a2fd80"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-kadasterbesluit-verstrekkingsbeperking-persoonsgegevens-via-ontsluiting",
+   "short": "Wijzigingsbesluit Kadasterbesluit (verstrekkingsbeperking persoonsgegevens via ontsluiting op naam en stellen van regels voor afschermen van persoonsgegevens)",
+   "title": "Wijzigingsbesluit Kadasterbesluit (verstrekkingsbeperking persoonsgegevens via ontsluiting op naam en stellen van regels voor afschermen van persoonsgegevens)",
+   "url": "https://wetten.overheid.nl/BWBR0053253",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 2,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053253/2026-10-29_0/xml/BWBR0053253_2026-10-29_0.xml",
+     "sha256": "527bf449f40434809cd2cc7636f389dd0b936347d3a481cb1b68ed82f8936ca2"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-implementatie-europees-centraal-toegangspunt",
+   "short": "Besluit implementatie Europees centraal toegangspunt",
+   "title": "Besluit implementatie Europees centraal toegangspunt",
+   "url": "https://wetten.overheid.nl/BWBR0053268",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053268/2026-10-30_0/xml/BWBR0053268_2026-10-30_0.xml",
+     "sha256": "bd7fd1023eb68f3b9e0c804fc36ffea9b0107c9382c2ad62898410af5eb52fb6"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingsbesluit-schepenbesluit-2004-aanpassen-bepalingen-betreffende-het-nationaal-veili",
+   "short": "Wijzigingsbesluit Schepenbesluit 2004 (aanpassen bepalingen betreffende het nationaal veiligheidscertificaat en enige andere wijzigingen)",
+   "title": "Wijzigingsbesluit Schepenbesluit 2004 (aanpassen bepalingen betreffende het nationaal veiligheidscertificaat en enige andere wijzigingen)",
+   "url": "https://wetten.overheid.nl/BWBR0052660",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052660/2026-07-01_0/xml/BWBR0052660_2026-07-01_0.xml",
+     "sha256": "be751595a0438c975c1a0e75eddc712a067be01ea322f0359845be74258a1324"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-ter-uitvoering-van-artikel-5-eerste-lid-van-de-faillissementswet-bes",
+   "short": "Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES",
+   "title": "Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES",
+   "url": "https://wetten.overheid.nl/BWBR0028299",
+   "versions": [
+    {
+     "from": "2010-10-10",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0028299/2010-10-10_0/xml/BWBR0028299_2010-10-10_0.xml",
+     "sha256": "01b59c9114663ac709a51e0d54f57c08f66faac215d3adde9115b6a208136070"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-tijdstip-ex-artikel-1-6-derde-lid-wet-maatregelen-huurwoningmarkt-car",
+   "short": "Besluit vaststelling tijdstip ex artikel 1.6, derde lid, Wet maatregelen huurwoningmarkt Caribisch Nederland voor het openbaar lichaam Bonaire",
+   "title": "Besluit vaststelling tijdstip ex artikel 1.6, derde lid, Wet maatregelen huurwoningmarkt Caribisch Nederland voor het openbaar lichaam Bonaire",
+   "url": "https://wetten.overheid.nl/BWBR0047814",
+   "versions": [
+    {
+     "from": "2023-01-24",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0047814/2023-01-24_0/xml/BWBR0047814_2023-01-24_0.xml",
+     "sha256": "65bddf30d190496f770f26923160b0a188979a1131408b6d0d103a16fbb23a32"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-instelling-departementen-van-onderwijs-kunsten-en-wetenschappen-en-van-arbeid",
+   "short": "Biokwa",
+   "title": "Besluit instelling departementen van onderwijs, kunsten en wetenschappen en van arbeid",
+   "url": "https://wetten.overheid.nl/BWBR0001894",
+   "versions": [
+    {
+     "from": "1918-09-27",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001894/1918-09-27_0/xml/BWBR0001894_1918-09-27_0.xml",
+     "sha256": "58830d9e120dba1962c084d56e3e9f0bec29685c368c7ab4a836a861a8a1a1a1"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-ex-artikel-6-faillissementswet",
+   "short": "Besl.art. 6 FW",
+   "title": "Besluit ex artikel 6 Faillissementswet",
+   "url": "https://wetten.overheid.nl/BWBR0001932",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001932/2013-01-01_0/xml/BWBR0001932_2013-01-01_0.xml",
+     "sha256": "f4081c40f5178f02aa44b62b4be7d18904068b0cc3e7d3f86cbf81f98e5ae864"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-instelling-ministerie-van-algemene-zaken",
+   "short": "BIMAZ",
+   "title": "Besluit instelling Ministerie van Algemene Zaken",
+   "url": "https://wetten.overheid.nl/BWBR0002033",
+   "versions": [
+    {
+     "from": "1947-10-13",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002033/1947-10-13_0/xml/BWBR0002033_1947-10-13_0.xml",
+     "sha256": "72c0ff87933a760aa72a2cfb764e6c348a2ef26177fdd9d47b147d52ea1a2437"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-wijziging-taak-departementen-van-economische-zaken-en-buitenlandse-zaken",
+   "short": "BtaakEZBZ",
+   "title": "Besluit wijziging taak Departementen van Economische Zaken en Buitenlandse Zaken",
+   "url": "https://wetten.overheid.nl/BWBR0002100",
+   "versions": [
+    {
+     "from": "1952-11-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002100/1952-11-01_0/xml/BWBR0002100_1952-11-01_0.xml",
+     "sha256": "c00d162b6688cfd4c021a74b1ddbb8957ef20c5c44c72ccf80ae6fc68033df10"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-wijziging-taakverdeling-samenvoeging-en-naamswijziging-van-departementen",
+   "short": "Btsndep",
+   "title": "Besluit wijziging taakverdeling, samenvoeging en naamswijziging van departementen",
+   "url": "https://wetten.overheid.nl/BWBR0002317",
+   "versions": [
+    {
+     "from": "1959-06-18",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002317/1959-06-18_0/xml/BWBR0002317_1959-06-18_0.xml",
+     "sha256": "a861ed743037592a059dae39099f3af0acc8da96fef093b4ea5bfbfc4b7e91ae"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overdracht-bevoegdheden-ingevolge-de-wet-buitengewoon-pensioen-zeeliedenoorlogssla",
+   "short": "BoWbpz",
+   "title": "Besluit overdracht bevoegdheden ingevolge de Wet buitengewoon pensioen zeeliedenoorlogsslachtoffers van de Minister van Verkeer en Waterstaat aan de Minister van Maatschappelijk Werk",
+   "url": "https://wetten.overheid.nl/BWBR0002348",
+   "versions": [
+    {
+     "from": "1960-10-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002348/1960-10-01_0/xml/BWBR0002348_1960-10-01_0.xml",
+     "sha256": "bce10161b4711f98708dd5082b66e4e4c26e4e28f840c69ce07ea06479b8a734"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-wijziging-taak-departementen-van-volkshuisvesting-en-bouwnijverheid-en-van-verkeer",
+   "short": "BtaakVBVW",
+   "title": "Besluit wijziging taak departementen van Volkshuisvesting en Bouwnijverheid en van Verkeer en Waterstaat",
+   "url": "https://wetten.overheid.nl/BWBR0002446",
+   "versions": [
+    {
+     "from": "1964-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002446/1964-07-01_0/xml/BWBR0002446_1964-07-01_0.xml",
+     "sha256": "69aefe000a2713ae684f8cbbfda73c182716ca2a0c2160d205004441aa83f1f6"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-wijziging-taak-departementen-van-cultuur-recreatie-en-maatschappelijk-werk-en-van",
+   "short": "BtaakCRMWVRO",
+   "title": "Besluit wijziging taak departementen van Cultuur, Recreatie en Maatschappelijk Werk en van Volkshuisvesting en Ruimtelijke Ordening",
+   "url": "https://wetten.overheid.nl/BWBR0002492",
+   "versions": [
+    {
+     "from": "1965-06-15",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002492/1965-06-15_0/xml/BWBR0002492_1965-06-15_0.xml",
+     "sha256": "50f4fe75e46f6f734fbbf97520e7cfa0bbcfc30176158ac7aad6a7d249a76645"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overbrenging-aangelegenheden-betreffende-de-doelmatige-organisatie-in-de-rijksdien",
+   "short": "Boado",
+   "title": "Besluit overbrenging aangelegenheden betreffende de doelmatige organisatie in de rijksdienst van het departement van Financiën naar het departement van Binnenlandse Zaken",
+   "url": "https://wetten.overheid.nl/BWBR0002498",
+   "versions": [
+    {
+     "from": "1965-09-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002498/1965-09-01_0/xml/BWBR0002498_1965-09-01_0.xml",
+     "sha256": "debfdc316d2701306ebc817afa3cd43d79307aefe2b57f1678262befa26cfe54"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overbrenging-aangelegenheden-betreffende-enige-instellingen-van-het-departement-va",
+   "short": "Boaei",
+   "title": "Besluit overbrenging aangelegenheden betreffende enige instellingen van het Departement van Cultuur, Recreatie en Maatschappelijk Werk naar het Departement van Onderwijs en Wetenschappen",
+   "url": "https://wetten.overheid.nl/BWBR0002549",
+   "versions": [
+    {
+     "from": "1967-03-15",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002549/1967-03-15_0/xml/BWBR0002549_1967-03-15_0.xml",
+     "sha256": "db3ed44ea63d3d482222d98b3e0d0c7d972b8f1a24e50834b01f5a538fd5bc52"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overbrenging-aangelegenheden-woonschepen-naar-het-departement-van-volkshuisvesting",
+   "short": "Boaws",
+   "title": "Besluit overbrenging aangelegenheden woonschepen naar het departement van Volkshuisvesting en Ruimtelijke Ordening",
+   "url": "https://wetten.overheid.nl/BWBR0002736",
+   "versions": [
+    {
+     "from": "1971-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002736/1971-01-01_0/xml/BWBR0002736_1971-01-01_0.xml",
+     "sha256": "7eb94b26cbea9ad7fcf2cbdc1cc0089df71594b91d223a351b19b3bddce580b3"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overgang-dienst-van-het-kadaster-en-de-openbare-registers-van-het-ministerie-van-f",
+   "short": "BoKad",
+   "title": "Besluit overgang dienst van het Kadaster en de Openbare Registers van het Ministerie van Financiën naar het Ministerie van Volkshuisvesting en Ruimtelijke Ordening",
+   "url": "https://wetten.overheid.nl/BWBR0002885",
+   "versions": [
+    {
+     "from": "1973-06-21",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002885/1973-06-21_0/xml/BWBR0002885_1973-06-21_0.xml",
+     "sha256": "e852bb7c40fec5cb49d145f9f67a84180ff480ecb1542faac4f226518d56382f"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overbrenging-zorg-huisvesting-woonwagenbevolking-van-departement-van-cultuur-recre",
+   "short": "Bozhwb",
+   "title": "Besluit overbrenging zorg huisvesting woonwagenbevolking van departement van Cultuur, Recreatie en Maatschappelijk Werk naar departement van Volkshuisvesting en Ruimtelijke Ordening",
+   "url": "https://wetten.overheid.nl/BWBR0003335",
+   "versions": [
+    {
+     "from": "1980-09-24",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003335/1980-09-24_0/xml/BWBR0003335_1980-09-24_0.xml",
+     "sha256": "77a678dfcfb8f6aaeeb07a2f0f6ca1f9a4ba7dbdf3716a20dbb939260824424e"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overdracht-centrale-organisatie-toegepast-natuurwetenschappelijk-onderzoek",
+   "short": "Botno",
+   "title": "Besluit overdracht centrale organisatie toegepast natuurwetenschappelijk onderzoek",
+   "url": "https://wetten.overheid.nl/BWBR0003380",
+   "versions": [
+    {
+     "from": "1981-07-21",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003380/1981-07-21_0/xml/BWBR0003380_1981-07-21_0.xml",
+     "sha256": "b7336994c1bcf75ebed76c2733db529de1e26375b809633a7c5835db58de0943"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-vormgeving-verzetsherdenkingskruis",
+   "short": "Besluit vaststelling vormgeving Verzetsherdenkingskruis",
+   "title": "Besluit vaststelling vormgeving Verzetsherdenkingskruis",
+   "url": "https://wetten.overheid.nl/BWBR0003393",
+   "versions": [
+    {
+     "from": "1981-07-15",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003393/1981-07-15_0/xml/BWBR0003393_1981-07-15_0.xml",
+     "sha256": "cc003e20787c3a20e558ad6180d9c40499abc7636373440f5c3ec2cb08e58108"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overdracht-coordinatie-emancipatiebeleid-van-het-ministerie-van-cultuur-recreatie",
+   "short": "BoCRMW",
+   "title": "Besluit overdracht coördinatie emancipatiebeleid van het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk aan het Ministerie van Sociale Zaken en Werkgelegenheid",
+   "url": "https://wetten.overheid.nl/BWBR0003466",
+   "versions": [
+    {
+     "from": "1981-09-11",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003466/1981-09-11_0/xml/BWBR0003466_1981-09-11_0.xml",
+     "sha256": "ee6badcbce06e4ca138f113072d3530e4e48a4c26b22027292dfdf3cdf79a275"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overbrenging-zorg-voordeel-woonwagenwet-van-ministerie-van-volkshuisvesting-ruimte",
+   "short": "BoWw",
+   "title": "Besluit overbrenging zorg voordeel Woonwagenwet van Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer naar Ministerie van Binnenlandse Zaken",
+   "url": "https://wetten.overheid.nl/BWBR0003796",
+   "versions": [
+    {
+     "from": "1985-05-15",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003796/1985-05-15_0/xml/BWBR0003796_1985-05-15_0.xml",
+     "sha256": "5599fd3490ba22de51c292c8577132757fcc08e700a6215effc56f40455a8893"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-overdracht-departementale-taak-spoorwegpensioenwet",
+   "short": "BoSPW",
+   "title": "Besluit overdracht departementale taak Spoorwegpensioenwet",
+   "url": "https://wetten.overheid.nl/BWBR0006104",
+   "versions": [
+    {
+     "from": "1993-06-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0006104/1993-06-01_0/xml/BWBR0006104_1993-06-01_0.xml",
+     "sha256": "1c3d1b719806fa01c6eabcc42c1c7ef3004bd3c43569c39ea514bd809ba40c99"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-instemming-landsverordening-nederlandse-antillen",
+   "short": "Besluit instemming landsverordening Nederlandse Antillen",
+   "title": "Besluit instemming landsverordening Nederlandse Antillen",
+   "url": "https://wetten.overheid.nl/BWBR0007361",
+   "versions": [
+    {
+     "from": "1995-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0007361/1995-07-01_0/xml/BWBR0007361_1995-07-01_0.xml",
+     "sha256": "6cb636f4c646395d3b9cfc962d63953b870f1b5ae227c2246d9dc4fc869add35"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-houdende-overdracht-van-de-zorg-voor-de-kernenergiewet",
+   "short": "BoKEW",
+   "title": "Besluit houdende overdracht van de zorg voor de Kernenergiewet",
+   "url": "https://wetten.overheid.nl/BWBR0010533",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0010533/1999-07-01_0/xml/BWBR0010533_1999-07-01_0.xml",
+     "sha256": "fabb7e2080ae3434c94cd34eab7219a4dc59439968b3de7b5a3a6b38f391fd44"
+    }
+   ]
+  },
+  {
+   "slug": "vaststellingsbesluit-tijdstip-aanvang-fase-2-en-fase-3-wet-overheidspersoneel-onder-de-wer",
+   "short": "Vaststellingsbesluit tijdstip aanvang fase 2 en fase 3 Wet overheidspersoneel onder de werknemersverzekeringen",
+   "title": "Vaststellingsbesluit tijdstip aanvang fase 2 en fase 3 Wet overheidspersoneel onder de werknemersverzekeringen",
+   "url": "https://wetten.overheid.nl/BWBR0010615",
+   "versions": [
+    {
+     "from": "2002-09-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0010615/2002-09-01_0/xml/BWBR0010615_2002-09-01_0.xml",
+     "sha256": "353501d000f9b86d92501d6ab69ca1b8636a8c28f31a4fde0ce94ebfadcd2da1"
+    }
+   ]
+  },
+  {
+   "slug": "vaststellingsbesluit-tijdstip-van-inwerkingtreding-van-de-wijzigingswet-pensioen-en-spaarf",
+   "short": "Vaststellingsbesluit tijdstip van inwerkingtreding van de Wijzigingswet Pensioen- en spaarfondsenwet (recht van keuze voor ouderdomspensioen i.p.v. nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)",
+   "title": "Vaststellingsbesluit tijdstip van inwerkingtreding van de Wijzigingswet Pensioen- en spaarfondsenwet (recht van keuze voor ouderdomspensioen i.p.v. nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)",
+   "url": "https://wetten.overheid.nl/BWBR0013073",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0013073/2001-12-13_0/xml/BWBR0013073_2001-12-13_0.xml",
+     "sha256": "605c9b31602cc00a0d12b28e78415c74d9e940230b87f3c5c5412645661029fc"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-houdende-vaststelling-tijdstip-van-inwerkingtreding-van-de-wet-dualisering-gemeent",
+   "short": "Besluit houdende vaststelling tijdstip van inwerkingtreding van de Wet dualisering gemeentebestuur",
+   "title": "Besluit houdende vaststelling tijdstip van inwerkingtreding van de Wet dualisering gemeentebestuur",
+   "url": "https://wetten.overheid.nl/BWBR0013463",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0013463/2002-03-07_0/xml/BWBR0013463_2002-03-07_0.xml",
+     "sha256": "4226aa87bbe60669f0ce119e3abd7f5403f768c83d10858b30c3d59b92d8531b"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-aanwijzing-vijfde-mei-als-nationale-feestdag",
+   "short": "Besluit aanwijzing vijfde mei als nationale feestdag",
+   "title": "Besluit aanwijzing vijfde mei als nationale feestdag",
+   "url": "https://wetten.overheid.nl/BWBR0031337",
+   "versions": [
+    {
+     "from": "1990-12-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031337/1990-12-01_0/xml/BWBR0031337_1990-12-01_0.xml",
+     "sha256": "fd51c97e4024d2c1ed04390b7c76f26a6ddf35f2c406a72b897103f8b90e736d"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-koninklijk-distinctief",
+   "short": "Besluit vaststelling Koninklijk Distinctief",
+   "title": "Besluit vaststelling Koninklijk Distinctief",
+   "url": "https://wetten.overheid.nl/BWBR0033442",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0033442/2013-07-01_0/xml/BWBR0033442_2013-07-01_0.xml",
+     "sha256": "9b802bda21e912e94855d0bb44890761c2290fd0fbeca8b5e976d937f0b26c79"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-tijdstip-recht-verzekerde-met-modulair-pakket-op-schoonhouden-woonrui",
+   "short": "Besluit vaststelling tijdstip recht verzekerde met modulair pakket op schoonhouden woonruimte thuis ex Wet langdurige zorg",
+   "title": "Besluit vaststelling tijdstip recht verzekerde met modulair pakket op schoonhouden woonruimte thuis ex Wet langdurige zorg",
+   "url": "https://wetten.overheid.nl/BWBR0038914",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038914/2017-02-01_0/xml/BWBR0038914_2017-02-01_0.xml",
+     "sha256": "978190a7497f677199987ec28ca661e9c56c573d27e8be2c90eb8338022e0fd3"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-verlening-concessie-stichting-regionale-publieke-omroep-voor-de-periode-20192025",
+   "short": "Besluit verlening concessie Stichting Regionale Publieke Omroep voor de periode 2019–2025",
+   "title": "Besluit verlening concessie Stichting Regionale Publieke Omroep voor de periode 2019–2025",
+   "url": "https://wetten.overheid.nl/BWBR0041580",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041580/2019-01-01_0/xml/BWBR0041580_2019-01-01_0.xml",
+     "sha256": "5518ddaf2d8857ea6a4b1b516168d542d20a19e7d51becef39ca2a88671381b8"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-van-de-tijdstippen-bedoeld-in-de-artikelen-12-24-12-25-en-12-26-van-d",
+   "short": "Besluit vaststelling van de tijdstippen, bedoeld in de artikelen 12.24, 12.25 en 12.26 van de Wet studiefinanciering 2000 en 9.4 van de Wet studiefinanciering BES",
+   "title": "Besluit vaststelling van de tijdstippen, bedoeld in de artikelen 12.24, 12.25 en 12.26 van de Wet studiefinanciering 2000 en 9.4 van de Wet studiefinanciering BES",
+   "url": "https://wetten.overheid.nl/BWBR0042258",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042258/2019-07-01_0/xml/BWBR0042258_2019-07-01_0.xml",
+     "sha256": "0a9600ad49e1783b8d6d1cfc349d304f774a8967dcd1dffc31713dd516bd2922"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-tijdstip-recht-verzekerde-met-verblijf-zonder-behandeling-op-mobilite",
+   "short": "Besluit vaststelling tijdstip recht verzekerde met verblijf zonder behandeling op mobiliteitshulpmiddelen ex Wet langdurige zorg",
+   "title": "Besluit vaststelling tijdstip recht verzekerde met verblijf zonder behandeling op mobiliteitshulpmiddelen ex Wet langdurige zorg",
+   "url": "https://wetten.overheid.nl/BWBR0042876",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042876/2020-02-01_0/xml/BWBR0042876_2020-02-01_0.xml",
+     "sha256": "c5fa22824d1adc53eeb794ed3cd80a8b989bd53c7bf5979190ee92cda15d834c"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-verlening-concessie-aan-stichting-nederlandse-publieke-omroep-voor-de-periode-2022",
+   "short": "Besluit verlening concessie aan Stichting Nederlandse Publieke Omroep voor de periode 2022–2031",
+   "title": "Besluit verlening concessie aan Stichting Nederlandse Publieke Omroep voor de periode 2022–2031",
+   "url": "https://wetten.overheid.nl/BWBR0045991",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045991/2022-01-01_0/xml/BWBR0045991_2022-01-01_0.xml",
+     "sha256": "cf90735f6cf864df4db19a733fc34e9598fe036489bc443e166444554372818e"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-verlening-concessie-stichting-regionale-publieke-omroep-voor-de-periode-20262035",
+   "short": "Besluit verlening concessie Stichting Regionale Publieke Omroep voor de periode 2026–2035",
+   "title": "Besluit verlening concessie Stichting Regionale Publieke Omroep voor de periode 2026–2035",
+   "url": "https://wetten.overheid.nl/BWBR0051810",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051810/2026-01-01_0/xml/BWBR0051810_2026-01-01_0.xml",
+     "sha256": "bd88f14741f9f14e937ac1f97f98c6fa96b01435c5e9a22255fd38fe8e189ecf"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-tot-vaststelling-tijdstip-uiterste-aanvraagdatum-aanvullende-compensatie-of-tegemo",
+   "short": "Besluit tot vaststelling tijdstip uiterste aanvraagdatum aanvullende compensatie of tegemoetkoming voor werkelijke schade Wet hersteloperatie toeslagen",
+   "title": "Besluit tot vaststelling tijdstip uiterste aanvraagdatum aanvullende compensatie of tegemoetkoming voor werkelijke schade Wet hersteloperatie toeslagen",
+   "url": "https://wetten.overheid.nl/BWBR0052292",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052292/2026-04-01_0/xml/BWBR0052292_2026-04-01_0.xml",
+     "sha256": "c3af422542b625c3f5c05543f6c11c4025d7dcaf840d7fb266f4b7d4a843976f"
+    }
+   ]
+  },
+  {
+   "slug": "instellingsbesluit-productiviteitsraad",
+   "short": "Instellingsbesluit Productiviteitsraad",
+   "title": "Instellingsbesluit Productiviteitsraad",
+   "url": "https://wetten.overheid.nl/BWBR0052682",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052682/2026-09-05_0/xml/BWBR0052682_2026-09-05_0.xml",
+     "sha256": "ff7afe9257c4e857f09203a1eae671fbaa85536f2d9a8bf194f42869ff37127d"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-bestanddelen-beeldenaar-van-munten-van-vijf-en-tien-euro-die-in-2026",
+   "short": "Besluit vaststelling bestanddelen beeldenaar van munten van vijf en tien euro die in 2026 worden uitgegeven ter gelegenheid van 25 jaar openstelling van het huwelijk",
+   "title": "Besluit vaststelling bestanddelen beeldenaar van munten van vijf en tien euro die in 2026 worden uitgegeven ter gelegenheid van 25 jaar openstelling van het huwelijk",
+   "url": "https://wetten.overheid.nl/BWBR0052700",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052700/2026-06-17_0/xml/BWBR0052700_2026-06-17_0.xml",
+     "sha256": "bf92642985e8ff127614bf32e34e5e7fc10f99ae23cf32579778d3a5c881b745"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-aanvulling-opschriften-in-vaandel-regiment-genietroepen",
+   "short": "Besluit aanvulling opschriften in vaandel Regiment Genietroepen",
+   "title": "Besluit aanvulling opschriften in vaandel Regiment Genietroepen",
+   "url": "https://wetten.overheid.nl/BWBR0052722",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 2,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052722/2026-06-23_0/xml/BWBR0052722_2026-06-23_0.xml",
+     "sha256": "429eb36b63de0833ff53b696a7879a4f65e37f4dbc70a6dfac5ff879da1c3887"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-herinneringsmedaille-voor-inzet-op-afstand-2026",
+   "short": "Besluit Herinneringsmedaille voor Inzet op Afstand 2026",
+   "title": "Besluit Herinneringsmedaille voor Inzet op Afstand 2026",
+   "url": "https://wetten.overheid.nl/BWBR0053117",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053117/2026-09-24_0/xml/BWBR0053117_2026-09-24_0.xml",
+     "sha256": "fd999622a9fdf4391092cee32ba12569b1f2b69bcbe7a02e827b2f78f634bccb"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-vaststelling-bestanddelen-beeldenaar-munten-van-vijf-en-tien-euro-met-thema-eise-e",
+   "short": "Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro met thema Eise Eisinga Planetarium in de serie UNESCO Werelderfgoed",
+   "title": "Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro met thema Eise Eisinga Planetarium in de serie UNESCO Werelderfgoed",
+   "url": "https://wetten.overheid.nl/BWBR0053309",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053309/2026-11-06_0/xml/BWBR0053309_2026-11-06_0.xml",
+     "sha256": "c2c03895edbb7fa00c5e57c92de661b5fdd73ed5cee2eb490b4c04aa9f3ab3a4"
+    }
+   ]
+  },
+  {
+   "slug": "besluit-achtste-verlenging-samenwerkingsregeling-waarborging-plannen-van-aanpak-landstaken",
+   "short": "Besluit achtste verlenging Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten",
+   "title": "Besluit achtste verlenging Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten",
+   "url": "https://wetten.overheid.nl/BWBR0052925",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 2,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052925/2026-10-10_0/xml/BWBR0052925_2026-10-10_0.xml",
+     "sha256": "7ad7e4f4c2cae901f9235fb831711868df68cbfe68b7038969d4662767d1591c"
+    }
+   ]
+  },
+  {
+   "slug": "vaststelling-richtlijnen-1986-voor-beoordelen-oprichtingen-en-statutenwijzigingen-van-n-v",
+   "short": "Vaststelling Richtlijnen 1986 voor beoordelen oprichtingen en statutenwijzigingen van n.v.'s en b.v.'s met beperkte aansprakelijkheid",
+   "title": "Vaststelling Richtlijnen 1986 voor beoordelen oprichtingen en statutenwijzigingen van n.v.'s en b.v.'s met beperkte aansprakelijkheid",
+   "url": "https://wetten.overheid.nl/BWBR0003881",
+   "versions": [
+    {
+     "from": "1998-10-15",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003881/1998-10-15_0/xml/BWBR0003881_1998-10-15_0.xml",
+     "sha256": "64e8bcfdd9f1a76f29c49ec21abba06974c90cac01c8602eb3a6bb8ab5b35627"
+    }
+   ]
+  },
+  {
+   "slug": "hongaarse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-hongarije",
+   "short": "Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije",
+   "title": "Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije",
+   "url": "https://wetten.overheid.nl/BWBR0004933",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0004933/1991-01-01_0/xml/BWBR0004933_1991-01-01_0.xml",
+     "sha256": "2f76ca4f73401ebc338ca84f9d9212ea25c92ead1350776ae597052eaa0c6c02"
+    }
+   ]
+  },
+  {
+   "slug": "instelling-en-benoeming-commissie-huurders-verhuurders",
+   "short": "Instelling en benoeming Commissie Huurders-Verhuurders",
+   "title": "Instelling en benoeming Commissie Huurders-Verhuurders",
+   "url": "https://wetten.overheid.nl/BWBR0005704",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 1,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005704/1993-01-01_0/xml/BWBR0005704_1993-01-01_0.xml",
+     "sha256": "25b9a489c38d05e2b04906e38bf63aa3f10100eed52d38c16b2540461e790cea"
+    }
+   ]
   }
  ]
 }

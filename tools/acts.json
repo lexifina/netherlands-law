@@ -344830,5 +344830,1085 @@
   "current_label": "2026-05-01_0",
   "as_of": "2026-11-06",
   "single_file": true
+ },
+ "ziektewet": {
+  "bwb": "BWBR0001888",
+  "short": "ZW",
+  "title": "Ziektewet",
+  "current_label": "2026-10-08_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-aanvaarding-statuut-voor-het-koninkrijk-der-nederlanden": {
+  "bwb": "BWBR0002153",
+  "short": "Wet aanvaarding Statuut voor het Koninkrijk der Nederlanden",
+  "title": "Wet aanvaarding Statuut voor het Koninkrijk der Nederlanden",
+  "current_label": "1998-10-09_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-houdende-aanwijzing-van-een-rechter-op-grond-van-artikel-54-van-het-verdrag-van-washin": {
+  "bwb": "BWBR0003351",
+  "short": "Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten",
+  "title": "Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten",
+  "current_label": "2015-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-stichting-lott": {
+  "bwb": "BWBR0004130",
+  "short": "Wet Stichting LOTT",
+  "title": "Wet Stichting LOTT",
+  "current_label": "1987-06-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "kieswet": {
+  "bwb": "BWBR0004627",
+  "short": "KW",
+  "title": "Kieswet",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "mededingingswet": {
+  "bwb": "BWBR0008691",
+  "short": "Mw",
+  "title": "Mededingingswet",
+  "current_label": "2025-09-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "aanpassingswet-derde-tranche-awb-i": {
+  "bwb": "BWBR0008994",
+  "short": "Aanpassingswet derde tranche Awb I",
+  "title": "Aanpassingswet derde tranche Awb I",
+  "current_label": "1998-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "invoeringswet-vreemdelingenwet-2000": {
+  "bwb": "BWBR0011824",
+  "short": "Invoeringswet Vreemdelingenwet 2000",
+  "title": "Invoeringswet Vreemdelingenwet 2000",
+  "current_label": "2001-04-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "aanpassingswet-euro": {
+  "bwb": "BWBR0012859",
+  "short": "Aanpassingswet euro",
+  "title": "Aanpassingswet euro",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "aanpassingswet-wetgeving-aan-herziening-van-het-procesrecht-voor-burgerlijke-zaken": {
+  "bwb": "BWBR0013098",
+  "short": "AW hpbz",
+  "title": "Aanpassingswet wetgeving aan herziening van het procesrecht voor burgerlijke zaken",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "aanpassingswet-modernisering-rechterlijke-organisatie": {
+  "bwb": "BWBR0013101",
+  "short": "Aanpassingswet modernisering rechterlijke organisatie",
+  "title": "Aanpassingswet modernisering rechterlijke organisatie",
+  "current_label": "2011-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "aanpassingswet-vierde-tranche-awb": {
+  "bwb": "BWBR0026055",
+  "short": "Aanpassingswet vierde tranche Awb",
+  "title": "Aanpassingswet vierde tranche Awb",
+  "current_label": "2009-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-onderwijsondersteuning-zieke-leerlingen": {
+  "bwb": "BWBR0052650",
+  "short": "Wet onderwijsondersteuning zieke leerlingen",
+  "title": "Wet onderwijsondersteuning zieke leerlingen",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-invoering-tweestatusstelsel": {
+  "bwb": "BWBR0052675",
+  "short": "Wet invoering tweestatusstelsel",
+  "title": "Wet invoering tweestatusstelsel",
+  "current_label": "2026-06-12_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "uitvoerings-en-implementatiewet-asiel-en-migratiepact-2026": {
+  "bwb": "BWBR0052687",
+  "short": "Uitvoerings- en implementatiewet Asiel- en migratiepact 2026",
+  "title": "Uitvoerings- en implementatiewet Asiel- en migratiepact 2026",
+  "current_label": "2026-06-12_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-herziening-wettelijke-grondslagen-kerndoelen": {
+  "bwb": "BWBR0052698",
+  "short": "Wet herziening wettelijke grondslagen kerndoelen",
+  "title": "Wet herziening wettelijke grondslagen kerndoelen",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiewet-richtlijn-op-afstand-gesloten-overeenkomsten-inzake-financiele-diensten": {
+  "bwb": "BWBR0052728",
+  "short": "Implementatiewet richtlijn op afstand gesloten overeenkomsten inzake financiële diensten",
+  "title": "Implementatiewet richtlijn op afstand gesloten overeenkomsten inzake financiële diensten",
+  "current_label": "2026-06-25_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiewet-richtlijn-betere-duurzaamheidsinformatie-voor-consumenten": {
+  "bwb": "BWBR0052734",
+  "short": "Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten",
+  "title": "Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten",
+  "current_label": "2026-07-16_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-versterking-regie-volkshuisvesting": {
+  "bwb": "BWBR0052753",
+  "short": "Wet versterking regie volkshuisvesting",
+  "title": "Wet versterking regie volkshuisvesting",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "verzamelwet-gegevensbescherming": {
+  "bwb": "BWBR0052755",
+  "short": "Verzamelwet gegevensbescherming",
+  "title": "Verzamelwet gegevensbescherming",
+  "current_label": "2026-09-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-implementatie-europees-centraal-toegangspunt": {
+  "bwb": "BWBR0052854",
+  "short": "Wet implementatie Europees centraal toegangspunt",
+  "title": "Wet implementatie Europees centraal toegangspunt",
+  "current_label": "2026-07-21_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-verbetering-aansluiting-beroepsonderwij": {
+  "bwb": "BWBR0052867",
+  "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (verbetering aansluiting beroepsonderwijs-arbeidsmarkt)",
+  "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (verbetering aansluiting beroepsonderwijs-arbeidsmarkt)",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-weerbaarheid-kritieke-entiteiten": {
+  "bwb": "BWBR0052871",
+  "short": "Wwke",
+  "title": "Wet weerbaarheid kritieke entiteiten",
+  "current_label": "2026-08-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "cyberbeveiligingswet": {
+  "bwb": "BWBR0052872",
+  "short": "Cbw",
+  "title": "Cyberbeveiligingswet",
+  "current_label": "2026-08-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-herindeling-gemeenten-hilversum-en-wijdemeren": {
+  "bwb": "BWBR0052931",
+  "short": "Wet herindeling gemeenten Hilversum en Wijdemeren",
+  "title": "Wet herindeling gemeenten Hilversum en Wijdemeren",
+  "current_label": "2026-09-11_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-op-de-nederlandse-identiteitskaart": {
+  "bwb": "BWBR0052951",
+  "short": "Wet NIK",
+  "title": "Wet op de Nederlandse identiteitskaart",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiewet-herziening-mifid-ii-2026": {
+  "bwb": "BWBR0052969",
+  "short": "Implementatiewet herziening MiFID II 2026",
+  "title": "Implementatiewet herziening MiFID II 2026",
+  "current_label": "2026-09-26_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiewet-noteringen-en-benchmarks": {
+  "bwb": "BWBR0052973",
+  "short": "Implementatiewet noteringen en benchmarks",
+  "title": "Implementatiewet noteringen en benchmarks",
+  "current_label": "2026-09-29_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiewet-kapitaalvereisten-2026": {
+  "bwb": "BWBR0053029",
+  "short": "Implementatiewet kapitaalvereisten 2026",
+  "title": "Implementatiewet kapitaalvereisten 2026",
+  "current_label": "2026-09-22_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-aanpassing-regeling-dienstverlening-aan-huis": {
+  "bwb": "BWBR0053175",
+  "short": "Wet aanpassing Regeling dienstverlening aan huis",
+  "title": "Wet aanpassing Regeling dienstverlening aan huis",
+  "current_label": "2026-10-08_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-terugkeer-en-vreemdelingenbewaring": {
+  "bwb": "BWBR0053231",
+  "short": "Wet terugkeer en vreemdelingenbewaring",
+  "title": "Wet terugkeer en vreemdelingenbewaring",
+  "current_label": "2026-10-16_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-uitvoering-eu-verordening-overbrenging-van-afvalstoffen-en-implementatie-enkele-andere": {
+  "bwb": "BWBR0053235",
+  "short": "Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen",
+  "title": "Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen",
+  "current_label": "2026-10-22_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingswet-wet-terugkeer-en-vreemdelingenbewaring-enz-handhaven-mogelijkheden-maatregel": {
+  "bwb": "BWBR0053236",
+  "short": "Wijzigingswet Wet terugkeer en vreemdelingenbewaring, enz. (handhaven mogelijkheden maatregelen ten aanzien van overlastgevende vreemdelingen, verruimen mogelijkheden ongewenstverklaring en verhogen strafmaximum van artikel 197, Wetboek van Strafrecht)",
+  "title": "Wijzigingswet Wet terugkeer en vreemdelingenbewaring, enz. (handhaven mogelijkheden maatregelen ten aanzien van overlastgevende vreemdelingen, verruimen mogelijkheden ongewenstverklaring en verhogen strafmaximum van artikel 197, Wetboek van Strafrecht)",
+  "current_label": "2026-10-16_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "proclamatie-houdende-plechtige-afkondiging-van-de-nieuwe-rechtsorde-voor-het-koninkrijk": {
+  "bwb": "BWBR0002167",
+  "short": "Proclamatie houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk",
+  "title": "Proclamatie houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk",
+  "current_label": "1954-12-29_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "rijkswet-op-het-nederlanderschap": {
+  "bwb": "BWBR0003738",
+  "short": "RWN",
+  "title": "Rijkswet op het Nederlanderschap",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "rijkswet-aanpassing-rijkswetten-euro": {
+  "bwb": "BWBR0012860",
+  "short": "Rijkswet aanpassing rijkswetten euro",
+  "title": "Rijkswet aanpassing rijkswetten euro",
+  "current_label": "2002-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingswet-paspoortwet-ontvlechting-van-de-nederlandse-identiteitskaart": {
+  "bwb": "BWBR0052947",
+  "short": "Wijzigingswet Paspoortwet (ontvlechting van de Nederlandse identiteitskaart)",
+  "title": "Wijzigingswet Paspoortwet (ontvlechting van de Nederlandse identiteitskaart)",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wet-verhoging-aantal-eilandsraadsleden-en-eilandgedeputeerden": {
+  "bwb": "BWBR0052936",
+  "short": "Wet verhoging aantal eilandsraadsleden en eilandgedeputeerden",
+  "title": "Wet verhoging aantal eilandsraadsleden en eilandgedeputeerden",
+  "current_label": "2026-09-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "tweede-goedkeuringswet-bes": {
+  "bwb": "BWBR0053302",
+  "short": "Tweede goedkeuringswet BES",
+  "title": "Tweede goedkeuringswet BES",
+  "current_label": "2026-11-05_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-nadere-voorschriften-toekennen-adelijke-titels-en-praedikaten": {
+  "bwb": "BWBR0024678",
+  "short": "Besluit nadere voorschriften toekennen adelijke titels en praedikaten",
+  "title": "Besluit nadere voorschriften toekennen adelijke titels en praedikaten",
+  "current_label": "1827-06-23_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-regeling-overgang-adellijke-titels-bij-regt-van-eerstgeboorte": {
+  "bwb": "BWBR0024679",
+  "short": "Besluit regeling overgang adellijke titels bij regt van eerstgeboorte",
+  "title": "Besluit regeling overgang adellijke titels bij regt van eerstgeboorte",
+  "current_label": "1868-04-19_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "aanpassingsbesluit-vierde-tranche-awb": {
+  "bwb": "BWBR0026027",
+  "short": "Aanpassingsbesluit vierde tranche Awb",
+  "title": "Aanpassingsbesluit vierde tranche Awb",
+  "current_label": "2009-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "aanpassingsbesluit-bouwbesluit-2012": {
+  "bwb": "BWBR0031388",
+  "short": "Aanpassingsbesluit Bouwbesluit 2012",
+  "title": "Aanpassingsbesluit Bouwbesluit 2012",
+  "current_label": "2012-04-24_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-aanwijzing-twee-leden-college-van-toezicht-inzake-uitoefening-ouderlijk-gezag-over": {
+  "bwb": "BWBR0035430",
+  "short": "Besluit aanwijzing twee leden College van Toezicht inzake uitoefening ouderlijk gezag over de minderjarige Koning",
+  "title": "Besluit aanwijzing twee leden College van Toezicht inzake uitoefening ouderlijk gezag over de minderjarige Koning",
+  "current_label": "2014-09-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-verhoging-grens-status-organisatie-van-openbaar-belang-woningcorporaties": {
+  "bwb": "BWBR0052628",
+  "short": "Besluit verhoging grens status organisatie van openbaar belang woningcorporaties",
+  "title": "Besluit verhoging grens status organisatie van openbaar belang woningcorporaties",
+  "current_label": "2026-05-20_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-implementatie-gewijzigde-aifm-richtlijn-en-icbe-richtlijn": {
+  "bwb": "BWBR0052655",
+  "short": "Besluit implementatie gewijzigde AIFM-richtlijn en icbe-richtlijn",
+  "title": "Besluit implementatie gewijzigde AIFM-richtlijn en icbe-richtlijn",
+  "current_label": "2026-05-29_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-gegevensverstrekking-douane-voor-uitvoering-van-politie-en-toezichtstaken": {
+  "bwb": "BWBR0052674",
+  "short": "Besluit gegevensverstrekking douane voor uitvoering van politie- en toezichtstaken",
+  "title": "Besluit gegevensverstrekking douane voor uitvoering van politie- en toezichtstaken",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "uitvoerings-en-implementatiebesluit-asiel-en-migratiepact-2026": {
+  "bwb": "BWBR0052697",
+  "short": "Uitvoerings- en implementatiebesluit Asiel- en migratiepact 2026",
+  "title": "Uitvoerings- en implementatiebesluit Asiel- en migratiepact 2026",
+  "current_label": "2026-06-12_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "verzamelbesluit-omgevingswet-lvvn-en-kgg-2026": {
+  "bwb": "BWBR0052747",
+  "short": "Verzamelbesluit Omgevingswet LVVN en KGG 2026",
+  "title": "Verzamelbesluit Omgevingswet LVVN en KGG 2026",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-actualisatie-beleidslijn-grote-rivieren": {
+  "bwb": "BWBR0052752",
+  "short": "Besluit actualisatie Beleidslijn grote rivieren",
+  "title": "Besluit actualisatie Beleidslijn grote rivieren",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "verzamelbesluit-omgevingswet-ienw-bodem-en-water-2026": {
+  "bwb": "BWBR0052756",
+  "short": "Verzamelbesluit Omgevingswet IENW Bodem en Water 2026",
+  "title": "Verzamelbesluit Omgevingswet IENW Bodem en Water 2026",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-veilige-jaarwisseling": {
+  "bwb": "BWBR0052763",
+  "short": "Besluit veilige jaarwisseling",
+  "title": "Besluit veilige jaarwisseling",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-besluit-activiteiten-leefomgeving-enz-bescherming-wolf-en-goudjakhals": {
+  "bwb": "BWBR0052822",
+  "short": "Wijzigingsbesluit Besluit activiteiten leefomgeving enz. (bescherming wolf en goudjakhals)",
+  "title": "Wijzigingsbesluit Besluit activiteiten leefomgeving enz. (bescherming wolf en goudjakhals)",
+  "current_label": "2026-07-11_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-deeltijdverlof-militairen": {
+  "bwb": "BWBR0052842",
+  "short": "Wijzigingsbesluit deeltijdverlof militairen",
+  "title": "Wijzigingsbesluit deeltijdverlof militairen",
+  "current_label": "2026-07-16_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-kerndoelen-primair-en-speciaal-onderwijs-2026": {
+  "bwb": "BWBR0052864",
+  "short": "Besluit kerndoelen primair en speciaal onderwijs 2026",
+  "title": "Besluit kerndoelen primair en speciaal onderwijs 2026",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vernieuwde-kerndoelen-nederlands-en-rekenen-en-wiskunde": {
+  "bwb": "BWBR0052866",
+  "short": "Besluit vernieuwde kerndoelen Nederlands en rekenen en wiskunde",
+  "title": "Besluit vernieuwde kerndoelen Nederlands en rekenen en wiskunde",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "tijdelijk-sanctiebesluit-onrechtmatige-nederzettingen-in-de-door-israel-bezette-gebieden": {
+  "bwb": "BWBR0052870",
+  "short": "Tijdelijk sanctiebesluit onrechtmatige nederzettingen in de door Israël bezette gebieden",
+  "title": "Tijdelijk sanctiebesluit onrechtmatige nederzettingen in de door Israël bezette gebieden",
+  "current_label": "2026-09-22_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-weerbaarheid-kritieke-entiteiten": {
+  "bwb": "BWBR0052874",
+  "short": "Bwke",
+  "title": "Besluit weerbaarheid kritieke entiteiten",
+  "current_label": "2026-08-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "cyberbeveiligingsbesluit": {
+  "bwb": "BWBR0052875",
+  "short": "Cbb",
+  "title": "Cyberbeveiligingsbesluit",
+  "current_label": "2026-08-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-financiele-markten-2026": {
+  "bwb": "BWBR0052889",
+  "short": "Wijzigingsbesluit financiële markten 2026",
+  "title": "Wijzigingsbesluit financiële markten 2026",
+  "current_label": "2026-07-24_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-procedurele-versnellingen-elektriciteitsprojecten": {
+  "bwb": "BWBR0052910",
+  "short": "Besluit procedurele versnellingen elektriciteitsprojecten",
+  "title": "Besluit procedurele versnellingen elektriciteitsprojecten",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "uitvoeringsbesluit-datagovernanceverordening": {
+  "bwb": "BWBR0053040",
+  "short": "Uitvoeringsbesluit datagovernanceverordening",
+  "title": "Uitvoeringsbesluit datagovernanceverordening",
+  "current_label": "2026-08-19_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-arbeidsvoorwaardenakkoorden-defensie-hoofdstuk-2-van-20212023-2024-en-20": {
+  "bwb": "BWBR0053053",
+  "short": "Wijzigingsbesluit arbeidsvoorwaardenakkoorden Defensie hoofdstuk 2 van 2021–2023, 2024 en 2025–2026",
+  "title": "Wijzigingsbesluit arbeidsvoorwaardenakkoorden Defensie hoofdstuk 2 van 2021–2023, 2024 en 2025–2026",
+  "current_label": "2026-08-26_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiebesluit-richtlijn-op-afstand-gesloten-overeenkomsten-inzake-financiele-dienst": {
+  "bwb": "BWBR0053058",
+  "short": "Implementatiebesluit richtlijn op afstand gesloten overeenkomsten inzake financiële diensten",
+  "title": "Implementatiebesluit richtlijn op afstand gesloten overeenkomsten inzake financiële diensten",
+  "current_label": "2026-08-28_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "uitvoeringsbesluit-hoofdstuk-viii-eu-verordening-batterijen": {
+  "bwb": "BWBR0053099",
+  "short": "Uitvoeringsbesluit Hoofdstuk VIII EU-verordening batterijen",
+  "title": "Uitvoeringsbesluit Hoofdstuk VIII EU-verordening batterijen",
+  "current_label": "2026-09-12_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "warenwetbesluit-machines-2026": {
+  "bwb": "BWBR0053112",
+  "short": "Warenwetbesluit machines 2026",
+  "title": "Warenwetbesluit machines 2026",
+  "current_label": "2026-09-17_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiebesluit-kapitaalvereisten-2026": {
+  "bwb": "BWBR0053115",
+  "short": "Implementatiebesluit kapitaalvereisten 2026",
+  "title": "Implementatiebesluit kapitaalvereisten 2026",
+  "current_label": "2026-09-22_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-nederlandse-identiteitskaart": {
+  "bwb": "BWBR0053130",
+  "short": "Besluit NIK",
+  "title": "Besluit Nederlandse identiteitskaart",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiebesluit-herziening-mifid-ii-en-mifir-2026": {
+  "bwb": "BWBR0053137",
+  "short": "Implementatiebesluit herziening MiFID II en MiFIR 2026",
+  "title": "Implementatiebesluit herziening MiFID II en MiFIR 2026",
+  "current_label": "2026-09-26_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "implementatiebesluit-richtlijn-noteringen-en-benchmarks": {
+  "bwb": "BWBR0053159",
+  "short": "Implementatiebesluit richtlijn noteringen en benchmarks",
+  "title": "Implementatiebesluit richtlijn noteringen en benchmarks",
+  "current_label": "2026-09-29_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-eu-verordeningen-wft-2026": {
+  "bwb": "BWBR0053204",
+  "short": "Wijzigingsbesluit EU-verordeningen Wft 2026",
+  "title": "Wijzigingsbesluit EU-verordeningen Wft 2026",
+  "current_label": "2026-10-16_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-toegang-ubo-registers-voor-bestuursorganen-en-rechtspersonen-met-een-ove": {
+  "bwb": "BWBR0053237",
+  "short": "Wijzigingsbesluit toegang UBO-registers voor bestuursorganen en rechtspersonen met een overheidstaak",
+  "title": "Wijzigingsbesluit toegang UBO-registers voor bestuursorganen en rechtspersonen met een overheidstaak",
+  "current_label": "2026-10-24_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-luchthavenverkeerbesluit-schiphol-enz-invoering-regels-preferentieel-baa": {
+  "bwb": "BWBR0053246",
+  "short": "Wijzigingsbesluit Luchthavenverkeerbesluit Schiphol, enz. (invoering regels preferentieel baangebruik, wijziging handhavingspunten geluidsbelasting en de maximum aantallen vliegtuigbewegingen)",
+  "title": "Wijzigingsbesluit Luchthavenverkeerbesluit Schiphol, enz. (invoering regels preferentieel baangebruik, wijziging handhavingspunten geluidsbelasting en de maximum aantallen vliegtuigbewegingen)",
+  "current_label": "2026-11-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-decentralisatie-en-integratie-uitkeringen-2021": {
+  "bwb": "BWBR0053249",
+  "short": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2021",
+  "title": "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2021",
+  "current_label": "2026-10-29_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-kadasterbesluit-verstrekkingsbeperking-persoonsgegevens-via-ontsluiting": {
+  "bwb": "BWBR0053253",
+  "short": "Wijzigingsbesluit Kadasterbesluit (verstrekkingsbeperking persoonsgegevens via ontsluiting op naam en stellen van regels voor afschermen van persoonsgegevens)",
+  "title": "Wijzigingsbesluit Kadasterbesluit (verstrekkingsbeperking persoonsgegevens via ontsluiting op naam en stellen van regels voor afschermen van persoonsgegevens)",
+  "current_label": "2026-10-29_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-implementatie-europees-centraal-toegangspunt": {
+  "bwb": "BWBR0053268",
+  "short": "Besluit implementatie Europees centraal toegangspunt",
+  "title": "Besluit implementatie Europees centraal toegangspunt",
+  "current_label": "2026-10-30_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "wijzigingsbesluit-schepenbesluit-2004-aanpassen-bepalingen-betreffende-het-nationaal-veili": {
+  "bwb": "BWBR0052660",
+  "short": "Wijzigingsbesluit Schepenbesluit 2004 (aanpassen bepalingen betreffende het nationaal veiligheidscertificaat en enige andere wijzigingen)",
+  "title": "Wijzigingsbesluit Schepenbesluit 2004 (aanpassen bepalingen betreffende het nationaal veiligheidscertificaat en enige andere wijzigingen)",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-ter-uitvoering-van-artikel-5-eerste-lid-van-de-faillissementswet-bes": {
+  "bwb": "BWBR0028299",
+  "short": "Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES",
+  "title": "Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES",
+  "current_label": "2010-10-10_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-tijdstip-ex-artikel-1-6-derde-lid-wet-maatregelen-huurwoningmarkt-car": {
+  "bwb": "BWBR0047814",
+  "short": "Besluit vaststelling tijdstip ex artikel 1.6, derde lid, Wet maatregelen huurwoningmarkt Caribisch Nederland voor het openbaar lichaam Bonaire",
+  "title": "Besluit vaststelling tijdstip ex artikel 1.6, derde lid, Wet maatregelen huurwoningmarkt Caribisch Nederland voor het openbaar lichaam Bonaire",
+  "current_label": "2023-01-24_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-instelling-departementen-van-onderwijs-kunsten-en-wetenschappen-en-van-arbeid": {
+  "bwb": "BWBR0001894",
+  "short": "Biokwa",
+  "title": "Besluit instelling departementen van onderwijs, kunsten en wetenschappen en van arbeid",
+  "current_label": "1918-09-27_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-ex-artikel-6-faillissementswet": {
+  "bwb": "BWBR0001932",
+  "short": "Besl.art. 6 FW",
+  "title": "Besluit ex artikel 6 Faillissementswet",
+  "current_label": "2013-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-instelling-ministerie-van-algemene-zaken": {
+  "bwb": "BWBR0002033",
+  "short": "BIMAZ",
+  "title": "Besluit instelling Ministerie van Algemene Zaken",
+  "current_label": "1947-10-13_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-wijziging-taak-departementen-van-economische-zaken-en-buitenlandse-zaken": {
+  "bwb": "BWBR0002100",
+  "short": "BtaakEZBZ",
+  "title": "Besluit wijziging taak Departementen van Economische Zaken en Buitenlandse Zaken",
+  "current_label": "1952-11-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-wijziging-taakverdeling-samenvoeging-en-naamswijziging-van-departementen": {
+  "bwb": "BWBR0002317",
+  "short": "Btsndep",
+  "title": "Besluit wijziging taakverdeling, samenvoeging en naamswijziging van departementen",
+  "current_label": "1959-06-18_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overdracht-bevoegdheden-ingevolge-de-wet-buitengewoon-pensioen-zeeliedenoorlogssla": {
+  "bwb": "BWBR0002348",
+  "short": "BoWbpz",
+  "title": "Besluit overdracht bevoegdheden ingevolge de Wet buitengewoon pensioen zeeliedenoorlogsslachtoffers van de Minister van Verkeer en Waterstaat aan de Minister van Maatschappelijk Werk",
+  "current_label": "1960-10-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-wijziging-taak-departementen-van-volkshuisvesting-en-bouwnijverheid-en-van-verkeer": {
+  "bwb": "BWBR0002446",
+  "short": "BtaakVBVW",
+  "title": "Besluit wijziging taak departementen van Volkshuisvesting en Bouwnijverheid en van Verkeer en Waterstaat",
+  "current_label": "1964-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-wijziging-taak-departementen-van-cultuur-recreatie-en-maatschappelijk-werk-en-van": {
+  "bwb": "BWBR0002492",
+  "short": "BtaakCRMWVRO",
+  "title": "Besluit wijziging taak departementen van Cultuur, Recreatie en Maatschappelijk Werk en van Volkshuisvesting en Ruimtelijke Ordening",
+  "current_label": "1965-06-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overbrenging-aangelegenheden-betreffende-de-doelmatige-organisatie-in-de-rijksdien": {
+  "bwb": "BWBR0002498",
+  "short": "Boado",
+  "title": "Besluit overbrenging aangelegenheden betreffende de doelmatige organisatie in de rijksdienst van het departement van Financiën naar het departement van Binnenlandse Zaken",
+  "current_label": "1965-09-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overbrenging-aangelegenheden-betreffende-enige-instellingen-van-het-departement-va": {
+  "bwb": "BWBR0002549",
+  "short": "Boaei",
+  "title": "Besluit overbrenging aangelegenheden betreffende enige instellingen van het Departement van Cultuur, Recreatie en Maatschappelijk Werk naar het Departement van Onderwijs en Wetenschappen",
+  "current_label": "1967-03-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overbrenging-aangelegenheden-woonschepen-naar-het-departement-van-volkshuisvesting": {
+  "bwb": "BWBR0002736",
+  "short": "Boaws",
+  "title": "Besluit overbrenging aangelegenheden woonschepen naar het departement van Volkshuisvesting en Ruimtelijke Ordening",
+  "current_label": "1971-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overgang-dienst-van-het-kadaster-en-de-openbare-registers-van-het-ministerie-van-f": {
+  "bwb": "BWBR0002885",
+  "short": "BoKad",
+  "title": "Besluit overgang dienst van het Kadaster en de Openbare Registers van het Ministerie van Financiën naar het Ministerie van Volkshuisvesting en Ruimtelijke Ordening",
+  "current_label": "1973-06-21_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overbrenging-zorg-huisvesting-woonwagenbevolking-van-departement-van-cultuur-recre": {
+  "bwb": "BWBR0003335",
+  "short": "Bozhwb",
+  "title": "Besluit overbrenging zorg huisvesting woonwagenbevolking van departement van Cultuur, Recreatie en Maatschappelijk Werk naar departement van Volkshuisvesting en Ruimtelijke Ordening",
+  "current_label": "1980-09-24_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overdracht-centrale-organisatie-toegepast-natuurwetenschappelijk-onderzoek": {
+  "bwb": "BWBR0003380",
+  "short": "Botno",
+  "title": "Besluit overdracht centrale organisatie toegepast natuurwetenschappelijk onderzoek",
+  "current_label": "1981-07-21_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-vormgeving-verzetsherdenkingskruis": {
+  "bwb": "BWBR0003393",
+  "short": "Besluit vaststelling vormgeving Verzetsherdenkingskruis",
+  "title": "Besluit vaststelling vormgeving Verzetsherdenkingskruis",
+  "current_label": "1981-07-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overdracht-coordinatie-emancipatiebeleid-van-het-ministerie-van-cultuur-recreatie": {
+  "bwb": "BWBR0003466",
+  "short": "BoCRMW",
+  "title": "Besluit overdracht coördinatie emancipatiebeleid van het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk aan het Ministerie van Sociale Zaken en Werkgelegenheid",
+  "current_label": "1981-09-11_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overbrenging-zorg-voordeel-woonwagenwet-van-ministerie-van-volkshuisvesting-ruimte": {
+  "bwb": "BWBR0003796",
+  "short": "BoWw",
+  "title": "Besluit overbrenging zorg voordeel Woonwagenwet van Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer naar Ministerie van Binnenlandse Zaken",
+  "current_label": "1985-05-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-overdracht-departementale-taak-spoorwegpensioenwet": {
+  "bwb": "BWBR0006104",
+  "short": "BoSPW",
+  "title": "Besluit overdracht departementale taak Spoorwegpensioenwet",
+  "current_label": "1993-06-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-instemming-landsverordening-nederlandse-antillen": {
+  "bwb": "BWBR0007361",
+  "short": "Besluit instemming landsverordening Nederlandse Antillen",
+  "title": "Besluit instemming landsverordening Nederlandse Antillen",
+  "current_label": "1995-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-houdende-overdracht-van-de-zorg-voor-de-kernenergiewet": {
+  "bwb": "BWBR0010533",
+  "short": "BoKEW",
+  "title": "Besluit houdende overdracht van de zorg voor de Kernenergiewet",
+  "current_label": "1999-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "vaststellingsbesluit-tijdstip-aanvang-fase-2-en-fase-3-wet-overheidspersoneel-onder-de-wer": {
+  "bwb": "BWBR0010615",
+  "short": "Vaststellingsbesluit tijdstip aanvang fase 2 en fase 3 Wet overheidspersoneel onder de werknemersverzekeringen",
+  "title": "Vaststellingsbesluit tijdstip aanvang fase 2 en fase 3 Wet overheidspersoneel onder de werknemersverzekeringen",
+  "current_label": "2002-09-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "vaststellingsbesluit-tijdstip-van-inwerkingtreding-van-de-wijzigingswet-pensioen-en-spaarf": {
+  "bwb": "BWBR0013073",
+  "short": "Vaststellingsbesluit tijdstip van inwerkingtreding van de Wijzigingswet Pensioen- en spaarfondsenwet (recht van keuze voor ouderdomspensioen i.p.v. nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)",
+  "title": "Vaststellingsbesluit tijdstip van inwerkingtreding van de Wijzigingswet Pensioen- en spaarfondsenwet (recht van keuze voor ouderdomspensioen i.p.v. nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)",
+  "current_label": "2001-12-13_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-houdende-vaststelling-tijdstip-van-inwerkingtreding-van-de-wet-dualisering-gemeent": {
+  "bwb": "BWBR0013463",
+  "short": "Besluit houdende vaststelling tijdstip van inwerkingtreding van de Wet dualisering gemeentebestuur",
+  "title": "Besluit houdende vaststelling tijdstip van inwerkingtreding van de Wet dualisering gemeentebestuur",
+  "current_label": "2002-03-07_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-aanwijzing-vijfde-mei-als-nationale-feestdag": {
+  "bwb": "BWBR0031337",
+  "short": "Besluit aanwijzing vijfde mei als nationale feestdag",
+  "title": "Besluit aanwijzing vijfde mei als nationale feestdag",
+  "current_label": "1990-12-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-koninklijk-distinctief": {
+  "bwb": "BWBR0033442",
+  "short": "Besluit vaststelling Koninklijk Distinctief",
+  "title": "Besluit vaststelling Koninklijk Distinctief",
+  "current_label": "2013-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-tijdstip-recht-verzekerde-met-modulair-pakket-op-schoonhouden-woonrui": {
+  "bwb": "BWBR0038914",
+  "short": "Besluit vaststelling tijdstip recht verzekerde met modulair pakket op schoonhouden woonruimte thuis ex Wet langdurige zorg",
+  "title": "Besluit vaststelling tijdstip recht verzekerde met modulair pakket op schoonhouden woonruimte thuis ex Wet langdurige zorg",
+  "current_label": "2017-02-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-verlening-concessie-stichting-regionale-publieke-omroep-voor-de-periode-20192025": {
+  "bwb": "BWBR0041580",
+  "short": "Besluit verlening concessie Stichting Regionale Publieke Omroep voor de periode 2019–2025",
+  "title": "Besluit verlening concessie Stichting Regionale Publieke Omroep voor de periode 2019–2025",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-van-de-tijdstippen-bedoeld-in-de-artikelen-12-24-12-25-en-12-26-van-d": {
+  "bwb": "BWBR0042258",
+  "short": "Besluit vaststelling van de tijdstippen, bedoeld in de artikelen 12.24, 12.25 en 12.26 van de Wet studiefinanciering 2000 en 9.4 van de Wet studiefinanciering BES",
+  "title": "Besluit vaststelling van de tijdstippen, bedoeld in de artikelen 12.24, 12.25 en 12.26 van de Wet studiefinanciering 2000 en 9.4 van de Wet studiefinanciering BES",
+  "current_label": "2019-07-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-tijdstip-recht-verzekerde-met-verblijf-zonder-behandeling-op-mobilite": {
+  "bwb": "BWBR0042876",
+  "short": "Besluit vaststelling tijdstip recht verzekerde met verblijf zonder behandeling op mobiliteitshulpmiddelen ex Wet langdurige zorg",
+  "title": "Besluit vaststelling tijdstip recht verzekerde met verblijf zonder behandeling op mobiliteitshulpmiddelen ex Wet langdurige zorg",
+  "current_label": "2020-02-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-verlening-concessie-aan-stichting-nederlandse-publieke-omroep-voor-de-periode-2022": {
+  "bwb": "BWBR0045991",
+  "short": "Besluit verlening concessie aan Stichting Nederlandse Publieke Omroep voor de periode 2022–2031",
+  "title": "Besluit verlening concessie aan Stichting Nederlandse Publieke Omroep voor de periode 2022–2031",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-verlening-concessie-stichting-regionale-publieke-omroep-voor-de-periode-20262035": {
+  "bwb": "BWBR0051810",
+  "short": "Besluit verlening concessie Stichting Regionale Publieke Omroep voor de periode 2026–2035",
+  "title": "Besluit verlening concessie Stichting Regionale Publieke Omroep voor de periode 2026–2035",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-tot-vaststelling-tijdstip-uiterste-aanvraagdatum-aanvullende-compensatie-of-tegemo": {
+  "bwb": "BWBR0052292",
+  "short": "Besluit tot vaststelling tijdstip uiterste aanvraagdatum aanvullende compensatie of tegemoetkoming voor werkelijke schade Wet hersteloperatie toeslagen",
+  "title": "Besluit tot vaststelling tijdstip uiterste aanvraagdatum aanvullende compensatie of tegemoetkoming voor werkelijke schade Wet hersteloperatie toeslagen",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "instellingsbesluit-productiviteitsraad": {
+  "bwb": "BWBR0052682",
+  "short": "Instellingsbesluit Productiviteitsraad",
+  "title": "Instellingsbesluit Productiviteitsraad",
+  "current_label": "2026-09-05_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-bestanddelen-beeldenaar-van-munten-van-vijf-en-tien-euro-die-in-2026": {
+  "bwb": "BWBR0052700",
+  "short": "Besluit vaststelling bestanddelen beeldenaar van munten van vijf en tien euro die in 2026 worden uitgegeven ter gelegenheid van 25 jaar openstelling van het huwelijk",
+  "title": "Besluit vaststelling bestanddelen beeldenaar van munten van vijf en tien euro die in 2026 worden uitgegeven ter gelegenheid van 25 jaar openstelling van het huwelijk",
+  "current_label": "2026-06-17_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-aanvulling-opschriften-in-vaandel-regiment-genietroepen": {
+  "bwb": "BWBR0052722",
+  "short": "Besluit aanvulling opschriften in vaandel Regiment Genietroepen",
+  "title": "Besluit aanvulling opschriften in vaandel Regiment Genietroepen",
+  "current_label": "2026-06-23_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-herinneringsmedaille-voor-inzet-op-afstand-2026": {
+  "bwb": "BWBR0053117",
+  "short": "Besluit Herinneringsmedaille voor Inzet op Afstand 2026",
+  "title": "Besluit Herinneringsmedaille voor Inzet op Afstand 2026",
+  "current_label": "2026-09-24_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-vaststelling-bestanddelen-beeldenaar-munten-van-vijf-en-tien-euro-met-thema-eise-e": {
+  "bwb": "BWBR0053309",
+  "short": "Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro met thema Eise Eisinga Planetarium in de serie UNESCO Werelderfgoed",
+  "title": "Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro met thema Eise Eisinga Planetarium in de serie UNESCO Werelderfgoed",
+  "current_label": "2026-11-06_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "besluit-achtste-verlenging-samenwerkingsregeling-waarborging-plannen-van-aanpak-landstaken": {
+  "bwb": "BWBR0052925",
+  "short": "Besluit achtste verlenging Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten",
+  "title": "Besluit achtste verlenging Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten",
+  "current_label": "2026-10-10_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "vaststelling-richtlijnen-1986-voor-beoordelen-oprichtingen-en-statutenwijzigingen-van-n-v": {
+  "bwb": "BWBR0003881",
+  "short": "Vaststelling Richtlijnen 1986 voor beoordelen oprichtingen en statutenwijzigingen van n.v.'s en b.v.'s met beperkte aansprakelijkheid",
+  "title": "Vaststelling Richtlijnen 1986 voor beoordelen oprichtingen en statutenwijzigingen van n.v.'s en b.v.'s met beperkte aansprakelijkheid",
+  "current_label": "1998-10-15_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "hongaarse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-hongarije": {
+  "bwb": "BWBR0004933",
+  "short": "Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije",
+  "title": "Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije",
+  "current_label": "1991-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
+ },
+ "instelling-en-benoeming-commissie-huurders-verhuurders": {
+  "bwb": "BWBR0005704",
+  "short": "Instelling en benoeming Commissie Huurders-Verhuurders",
+  "title": "Instelling en benoeming Commissie Huurders-Verhuurders",
+  "current_label": "1993-01-01_0",
+  "as_of": "2026-11-13",
+  "single_file": true,
+  "part": "bwb-now-gap-001"
  }
 }
