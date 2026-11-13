@@ -1,0 +1,6 @@
+# Bedrijvenregeling Vierkant voor Werk
+
+Bedrijvenregeling Vierkant voor Werk · 2 versions, from 2017-03-01 (latest in force: 2018-01-01) · <https://lokaleregelgeving.overheid.nl/CVDR601655>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

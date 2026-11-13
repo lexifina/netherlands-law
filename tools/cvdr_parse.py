@@ -203,8 +203,11 @@ def verify(raw: bytes, units: dict) -> tuple[int, int, list]:
     have: Counter = Counter()
     for k, u in units.items():
         lines = u['text'].split('\n')
+        # Only the units this reader names itself start with a heading of its own; an article's heading is the
+        # article's kop, which is text of the XML.
+        own = re.fullmatch(r'(bijlage-\d+-)?(aanhef|slot|toelichting(-\d+)?|inhoud|tekst)|bijlage-\d+', k)
         first = lines[0][2:] if lines[0].startswith('# ') else lines[0]
-        if first in OWN_HEADS or re.fullmatch(r'Bijlage \d+', first):
+        if own and (first in OWN_HEADS or re.fullmatch(r'Bijlage \d+', first)):
             lines = lines[1:]
         for line in lines:
             have.update(words(line.replace(' | ', ' ')))

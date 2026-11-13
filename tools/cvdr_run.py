@@ -277,7 +277,14 @@ def run(a):
     published = load_published()
     held = set()
     if HELD.exists():
-        held = {json.loads(l)['id'] for l in HELD.read_text(encoding='utf-8').splitlines() if l.strip()}
+        rows = [json.loads(l) for l in HELD.read_text(encoding='utf-8').splitlines() if l.strip()]
+        if a.retry_held:
+            # Held regulations whose reason matches are tried again (after a reader fix); the rest stay held.
+            keep = [r for r in rows if not re.search(a.retry_held, r['reason'])]
+            log(f'retrying {len(rows) - len(keep)} held regulations matching {a.retry_held!r}')
+            HELD.write_text(''.join(json.dumps(r, ensure_ascii=False) + '\n' for r in keep), encoding='utf-8')
+            rows = keep
+        held = {r['id'] for r in rows}
     index_counts: dict = {}
     for w in works.values():
         index_counts[w['auth']] = index_counts.get(w['auth'], 0) + 1
@@ -441,7 +448,12 @@ def run(a):
             if bad:
                 git('update-ref', 'refs/heads/main', head)
                 raise RuntimeError(f'tip check: {bad} regulations differ; batch not pushed')
-            r = subprocess.run(['git', 'push', 'origin', 'main'], cwd=REPO, capture_output=True, encoding='utf-8')
+            for attempt in range(4):  # GitHub sometimes rejects a pack (remote unpack failed): wait and retry
+                r = subprocess.run(['git', 'push', 'origin', 'main'], cwd=REPO, capture_output=True, encoding='utf-8')
+                if not r.returncode:
+                    break
+                log(f'{auth}: push attempt {attempt + 1} failed: {r.stderr.strip()[-200:]}')
+                time.sleep(30 * (attempt + 1))
             if r.returncode:
                 git('update-ref', 'refs/heads/main', head)
                 raise RuntimeError(f'push failed: {r.stderr.strip()[-400:]}')
@@ -502,6 +514,7 @@ if __name__ == '__main__':
     ap.add_argument('--batch', type=int, default=400)
     ap.add_argument('--only', nargs='*')
     ap.add_argument('--max-batches', type=int, default=0)
+    ap.add_argument('--retry-held', default='')
     a = ap.parse_args()
     if a.cmd == 'status':
         status()
