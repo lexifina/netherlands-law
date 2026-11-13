@@ -33,7 +33,7 @@ Every act is a folder `<kind>/<year>/<number>/`, named after its official identi
 | `circulaire-bes/` | circulars for the BES islands | 2 |
 | `grondwet/` | the Constitution (grondwet/1815) | 1 |
 | `statuut/` | the Charter for the Kingdom (statuut/1954) | 1 |
-| `local/<authority>/<year>/<CVDR id>/` | local regulations of provinces, water boards, municipalities and joint arrangements (CVDR) | |
+| `local/<authority>/<year>/<CVDR id>/` | local regulations (CVDR): so far the provinces of Drenthe and Flevoland; municipalities, water boards and the other provinces are not yet here | 467 |
 | `data/` | tables: `paths.json` (every act id to its folder), `versions.json`, `laws.csv`, `commits.csv` | |
 | `tools/` | the builder and the readers | |
 
@@ -43,6 +43,16 @@ Until 2026-11-13 the acts were folders named by their id at the top level (`awb/
 python -c "import json; print(json.load(open('data/paths.json'))['paths']['awb'])"   # wet/1992/315
 git log --follow --oneline -- wet/1992/315/art-01-001.md
 ```
+
+## What is not here yet
+
+Counted against the official listings on 2026-11-13; [PLAN.md](PLAN.md) has every part with its progress. By that count **58.8%** of the plan is published.
+
+- **Local legislation, almost all of it.** 467 of the 285,881 local regulations in the CVDR are here: the provinces of Drenthe and Flevoland. Not yet here: the other 10 provinces, all 342 municipalities (256,270 regulations), the 21 water boards, joint arrangements and the Caribbean public bodies.
+- **Earlier versions of many national acts.** 72,144 of the BWB's 148,873 consolidated versions are here (48%). 12,346 acts lack earlier versions the BWB publishes, and 7,934 of those are held with their current text only, so for them `git log` and `git blame` start at that text, not at the act as first published.
+- **Some national regulations.** 1,784 ministerial regulations, 833 regulations of independent bodies and product boards, 1,616 policy rules, circulars and reglementen, 357 treaties, 26 orders in council and 8 laws; most of them repealed or expired. Of the 24,729 expired BWB regulations, 3,701 are not here.
+- **Not started:** EU law in Dutch and the transposition links; bills, parliamentary papers (Kamerstukken) and drafts in consultation; the Raad van State's advisory opinions; publications of the Nationale ombudsman, the Algemene Rekenkamer and the Kiesraad; the texts of the Staatsblad, Staatscourant and Tractatenblad themselves (each change names its publication).
+- **Case law is kept apart:** about 932,000 decisions in 15 separate repositories (listed in PLAN.md), 95.6% of what data.rechtspraak.nl publishes.
 
 ## What this repository holds, and the plan
 

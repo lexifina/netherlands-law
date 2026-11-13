@@ -2,20 +2,20 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**56.5%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:33 UTC.
+**58.8%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 17:10 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation (national, BWB)** | | | | | |
-| Grondwet, Statuut, codes and formal laws (wetten, rijkswetten, BES-wetten) | grondwet/1815/, statuut/1954/, wet/<year>/<number>/ (e.g. wet/1992/315 = Awb), rijkswet/, wet-bes/ | 16.2% | 3,470 of 3,517 acts (2,767 of 2,807 in force) · 98.7% | the BWB XML as published; history from the oldest BWB version for the codes and most-cited laws, current text for the rest | collecting |
-| Orders in council (AMvB's, Koninklijke Besluiten) | amvb/, kb/, rijksamvb/, rijkskb/, amvb-bes/ (<year>/<number>/) | 9.1% | 4,773 of 4,877 acts (2,505 of 2,584 in force) · 97.9% | the BWB XML as published | collecting |
-| Every consolidated version (toestand) of every BWB regulation | versions in each act folder | 8.1% | 70,046 of 148,873 versions · 47.1% | older versions of acts held with their current text only are back-fills: appended as labelled corrections (needs a decision) | planned |
+| Grondwet, Statuut, codes and formal laws (wetten, rijkswetten, BES-wetten) | grondwet/1815/, statuut/1954/, wet/<year>/<number>/ (e.g. wet/1992/315 = Awb), rijkswet/, wet-bes/ | 16.2% | 3,509 of 3,517 acts (2,806 of 2,807 in force) · 99.8% | the BWB XML as published; history from the oldest BWB version for the codes and most-cited laws, current text for the rest | collecting |
+| Orders in council (AMvB's, Koninklijke Besluiten) | amvb/, kb/, rijksamvb/, rijkskb/, amvb-bes/ (<year>/<number>/) | 9.1% | 4,851 of 4,877 acts (2,583 of 2,584 in force) · 99.5% | the BWB XML as published | collecting |
+| Every consolidated version (toestand) of every BWB regulation | versions in each act folder | 8.1% | 72,144 of 148,873 versions · 48.5% | older versions of acts held with their current text only are back-fills: appended as labelled corrections (needs a decision) | planned |
 | **Secondary legislation (national, BWB)** | | | | | |
-| Ministerial regulations (ministeriële regelingen, incl. BES and archive lists) | ministeriele-regeling/, ministeriele-regeling-bes/, archiefselectielijst/ (<year>/<number>/) | 9.1% | 21,389 of 23,176 regulations (8,848 of 9,327 in force) · 92.3% | the BWB XML as published | collecting |
+| Ministerial regulations (ministeriële regelingen, incl. BES and archive lists) | ministeriele-regeling/, ministeriele-regeling-bes/, archiefselectielijst/ (<year>/<number>/) | 9.1% | 21,392 of 23,176 regulations (8,851 of 9,327 in force) · 92.3% | the BWB XML as published | collecting |
 | Regulations of independent bodies (ZBO) and former product boards (PBO) | zbo/, pbo/ (<year>/<number>/) | 3.0% | 6,520 of 7,353 regulations (2,397 of 2,531 in force) · 88.7% | the BWB XML as published | collecting |
 | Policy rules, circulars and reglementen | beleidsregel/, circulaire/, reglement/, beleidsregel-bes/, circulaire-bes/ (<year>/<number>/) | 3.0% | 2,815 of 4,431 documents (1,422 of 1,485 in force) · 63.5% | the BWB XML as published | collecting |
 | **Local legislation (CVDR)** | | | | | |
-| Provinces (12) | local/provincie-<name>/ | 4.0% | 0 of 9,697 regulations; 0 of 12 authorities; 0 of 17,188 versions · 0.0% | CVDR XML (lokaleregelgeving.overheid.nl), every consolidated version, checked word for word | starting |
+| Provinces (12) | local/provincie-<name>/ | 4.0% | 467 of 9,697 regulations; 2 of 12 authorities; 1,086 of 17,188 versions · 4.8% | CVDR XML (lokaleregelgeving.overheid.nl), every consolidated version, checked word for word | collecting |
 | Water boards (21 today, 29 with former boards) | local/<water board>/ | 2.0% | 0 of 4,882 regulations; 0 of 29 authorities; 0 of 6,941 versions · 0.0% | CVDR XML (lokaleregelgeving.overheid.nl), every consolidated version, checked word for word | starting |
 | Municipalities (342 today, 457 with merged former municipalities) | local/gemeente-<name>/ | 14.1% | 0 of 256,270 regulations; 0 of 457 authorities; 0 of 303,613 versions · 0.0% | CVDR XML (lokaleregelgeving.overheid.nl), every consolidated version, checked word for word | starting |
 | Joint arrangements (gemeenschappelijke regelingen) | local/regio-<name>/ | 1.5% | 0 of 8,634 regulations; 0 of 270 authorities; 0 of 10,394 versions · 0.0% | CVDR XML (lokaleregelgeving.overheid.nl), every consolidated version, checked word for word | starting |
@@ -24,17 +24,17 @@ This is the plan for this repository, part by part, with what is published so fa
 | **Case law** | | | | | |
 | Court decisions (Rechtspraak open data): Hoge Raad, Raad van State, CRvB, CBb, courts of appeal, district courts | 15 separate repositories (see below) | 12.1% | 932,076 commits in 15 repositories; 974,751 ECLIs with a document at data.rechtspraak.nl · 95.6% | one commit per decision, dated the day decided (separate repositories) | collecting |
 | **Treaties and EU** | | | | | |
-| Treaties (BWB treaty texts, Tractatenblad) | verdrag/<year>/<treaty number>/ | 3.0% | 1,371 of 3,706 treaties in the BWB · 37.0% | the BWB treaty XML as published; Tractatenblad references next | collecting |
+| Treaties (BWB treaty texts, Tractatenblad) | verdrag/<year>/<treaty number>/ | 3.0% | 3,349 of 3,706 treaties in the BWB · 90.4% | the BWB treaty XML as published; Tractatenblad references next | collecting |
 | EU law in Dutch and transposition links | eu/, data/eu-transposition.csv | 3.0% | target being counted · 0.0% | EUR-Lex Dutch texts and national transposition measures | planned |
 | **Parliament, gazettes, oversight** | | | | | |
-| Staatsblad / Staatscourant references | Law: and Source: trailers of each commit | 2.0% | the amending publication named on every credited commit (40,338 of 47,060 BWB regulations held); gazette texts themselves not yet · 85.7% | the BWB amendment records (WTI); officielebekendmakingen.nl | collecting |
+| Staatsblad / Staatscourant references | Law: and Source: trailers of each commit | 2.0% | the amending publication named on every credited commit (42,436 of 47,060 BWB regulations held); gazette texts themselves not yet · 90.2% | the BWB amendment records (WTI); officielebekendmakingen.nl | collecting |
 | Bills and parliamentary papers (Kamerstukken), drafts in consultation (labelled "not law") | wetsvoorstel/, consultatie/ | 2.5% | target being counted · 0.0% | officielebekendmakingen.nl Kamerstukken; internetconsultatie.nl | planned |
 | Raad van State advisory opinions on bills | advies-raad-van-state/ | 1.0% | target being counted · 0.0% | raadvanstate.nl / Kamerstukken | planned |
 | Oversight: Nationale ombudsman, Algemene Rekenkamer, Kiesraad | toezicht/<body>/ | 1.0% | target being counted · 0.0% | each body's own publications | planned |
 | **Historical law** | | | | | |
-| Repealed and expired regulations (national and local) | in the same folders, with a repeal commit | 3.8% | 21,028 of 24,729 expired BWB regulations; 0 of 185,341 expired CVDR regulations · 10.0% | last version, then a commit removing the text | collecting |
+| Repealed and expired regulations (national and local) | in the same folders, with a repeal commit | 3.8% | 21,028 of 24,729 expired BWB regulations; 400 of 185,341 expired CVDR regulations · 10.2% | last version, then a commit removing the text | collecting |
 
-Progress counts what is on `main`; targets are the official counts: the BWB's own SRU listing (47,060 regulation ids, 148,873 versions), the CVDR's SRU listing (285,881 regulations of every Dutch municipality, province, water board, joint arrangement and Caribbean public body, 345,599 versions) and data.rechtspraak.nl's ECLI count. 0 CVDR regulations are held back because their text did not pass the word-for-word check; they are retried after reader fixes.
+Progress counts what is on `main`; targets are the official counts: the BWB's own SRU listing (47,060 regulation ids, 148,873 versions), the CVDR's SRU listing (285,881 regulations of every Dutch municipality, province, water board, joint arrangement and Caribbean public body, 345,599 versions) and data.rechtspraak.nl's ECLI count. 19 CVDR regulations are held back because their text did not pass the word-for-word check; they are retried after reader fixes.
 
 ## Case law
 
