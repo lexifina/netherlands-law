@@ -7,13 +7,13 @@ This is the plan for this repository, part by part, with what is published so fa
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation (national, BWB)** | | | | | |
-| Grondwet, Statuut, codes and formal laws (wetten, rijkswetten, BES-wetten) | <act>/ (e.g. grondwet/, bw-boek-6/, awb/) | 16.2% | 3,470 of 3,517 acts (2,767 of 2,807 in force) · 98.7% | the BWB XML as published; history from the oldest BWB version for the codes and most-cited laws, current text for the rest | collecting |
-| Orders in council (AMvB's, Koninklijke Besluiten) | <act>/ | 9.1% | 4,773 of 4,877 acts (2,505 of 2,584 in force) · 97.9% | the BWB XML as published | collecting |
+| Grondwet, Statuut, codes and formal laws (wetten, rijkswetten, BES-wetten) | grondwet/1815/, statuut/1954/, wet/<year>/<number>/ (e.g. wet/1992/315 = Awb), rijkswet/, wet-bes/ | 16.2% | 3,470 of 3,517 acts (2,767 of 2,807 in force) · 98.7% | the BWB XML as published; history from the oldest BWB version for the codes and most-cited laws, current text for the rest | collecting |
+| Orders in council (AMvB's, Koninklijke Besluiten) | amvb/, kb/, rijksamvb/, rijkskb/, amvb-bes/ (<year>/<number>/) | 9.1% | 4,773 of 4,877 acts (2,505 of 2,584 in force) · 97.9% | the BWB XML as published | collecting |
 | Every consolidated version (toestand) of every BWB regulation | versions in each act folder | 8.1% | 70,046 of 148,873 versions · 47.1% | older versions of acts held with their current text only are back-fills: appended as labelled corrections (needs a decision) | planned |
 | **Secondary legislation (national, BWB)** | | | | | |
-| Ministerial regulations (ministeriële regelingen, incl. BES and archive lists) | <act>/ | 9.1% | 21,389 of 23,176 regulations (8,848 of 9,327 in force) · 92.3% | the BWB XML as published | collecting |
-| Regulations of independent bodies (ZBO) and former product boards (PBO) | <act>/ | 3.0% | 6,520 of 7,353 regulations (2,397 of 2,531 in force) · 88.7% | the BWB XML as published | collecting |
-| Policy rules, circulars and reglementen | <act>/ | 3.0% | 2,815 of 4,431 documents (1,422 of 1,485 in force) · 63.5% | the BWB XML as published | collecting |
+| Ministerial regulations (ministeriële regelingen, incl. BES and archive lists) | ministeriele-regeling/, ministeriele-regeling-bes/, archiefselectielijst/ (<year>/<number>/) | 9.1% | 21,389 of 23,176 regulations (8,848 of 9,327 in force) · 92.3% | the BWB XML as published | collecting |
+| Regulations of independent bodies (ZBO) and former product boards (PBO) | zbo/, pbo/ (<year>/<number>/) | 3.0% | 6,520 of 7,353 regulations (2,397 of 2,531 in force) · 88.7% | the BWB XML as published | collecting |
+| Policy rules, circulars and reglementen | beleidsregel/, circulaire/, reglement/, beleidsregel-bes/, circulaire-bes/ (<year>/<number>/) | 3.0% | 2,815 of 4,431 documents (1,422 of 1,485 in force) · 63.5% | the BWB XML as published | collecting |
 | **Local legislation (CVDR)** | | | | | |
 | Provinces (12) | local/provincie-<name>/ | 4.0% | 0 of 9,697 regulations; 0 of 12 authorities; 0 of 17,188 versions · 0.0% | CVDR XML (lokaleregelgeving.overheid.nl), every consolidated version, checked word for word | starting |
 | Water boards (21 today, 29 with former boards) | local/<water board>/ | 2.0% | 0 of 4,882 regulations; 0 of 29 authorities; 0 of 6,941 versions · 0.0% | CVDR XML (lokaleregelgeving.overheid.nl), every consolidated version, checked word for word | starting |
@@ -24,7 +24,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | **Case law** | | | | | |
 | Court decisions (Rechtspraak open data): Hoge Raad, Raad van State, CRvB, CBb, courts of appeal, district courts | 15 separate repositories (see below) | 12.1% | 932,076 commits in 15 repositories; 974,751 ECLIs with a document at data.rechtspraak.nl · 95.6% | one commit per decision, dated the day decided (separate repositories) | collecting |
 | **Treaties and EU** | | | | | |
-| Treaties (BWB treaty texts, Tractatenblad) | <treaty>/ | 3.0% | 1,371 of 3,706 treaties in the BWB · 37.0% | the BWB treaty XML as published; Tractatenblad references next | collecting |
+| Treaties (BWB treaty texts, Tractatenblad) | verdrag/<year>/<treaty number>/ | 3.0% | 1,371 of 3,706 treaties in the BWB · 37.0% | the BWB treaty XML as published; Tractatenblad references next | collecting |
 | EU law in Dutch and transposition links | eu/, data/eu-transposition.csv | 3.0% | target being counted · 0.0% | EUR-Lex Dutch texts and national transposition measures | planned |
 | **Parliament, gazettes, oversight** | | | | | |
 | Staatsblad / Staatscourant references | Law: and Source: trailers of each commit | 2.0% | the amending publication named on every credited commit (40,338 of 47,060 BWB regulations held); gazette texts themselves not yet · 85.7% | the BWB amendment records (WTI); officielebekendmakingen.nl | collecting |
