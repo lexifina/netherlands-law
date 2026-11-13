@@ -154,7 +154,12 @@ def build_work(w: dict, raws: dict, docs_date: str, laws: dict) -> tuple[dict | 
                 return None, f'law key clash {key}'
             laws.setdefault(key, {'label': label, 'kind': 'decree', 'title': None,
                                   'enacted': e['issued'] if re.fullmatch(r'\d{4}-\d\d-\d\d', e['issued'] or '') else None,
-                                  'published': None, 'url': None, 'temporary_until': None, 'restores': None,
+                                  'published': None, 'temporary_until': None, 'restores': None,
+                                  # A publication CVDR names by its official identifier (gmb-2024-123, prb-, wsb-,
+                                  # bgr-, stcrt-) has a page at officielebekendmakingen.nl.
+                                  'url': (f'https://zoek.officielebekendmakingen.nl/{e["pub"].strip()}'
+                                          if re.fullmatch(r'(gmb|prb|wsb|bgr|stcrt|blg|trb|stb)-\d{4}-\d+', e['pub'].strip())
+                                          else None),
                                   'note': None})
         v = {'from': e['from'], 'source_url': e['url'], 'sha256': hashlib.sha256(raw).hexdigest(), 'units': units}
         if versions and versions[-1]['from'] == e['from']:

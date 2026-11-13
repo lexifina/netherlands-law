@@ -4,4 +4,5 @@ Every regulation of the Dutch municipalities, provinces, water boards, joint arr
 
 | Authority | Kind | Published | In CVDR |
 | --- | --- | ---: | ---: |
+| [Drenthe](provincie-drenthe/README.md) | provincie | 367 | 1,171 |
 | [Flevoland](provincie-flevoland/README.md) | provincie | 100 | 534 |
