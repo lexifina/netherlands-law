@@ -30,7 +30,8 @@ De tekst is in het Nederlands, zoals het BWB en het CVDR hem publiceren; verdrag
 
 - **[Vraag Claude naar het Nederlandse recht](https://global-law.lexifina.com/v1/try_claude?country=netherlands)**: opent Claude met een eerste vraag klaar.
 - **[Vraag het ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=netherlands)**: dezelfde vraag in ChatGPT.
-- **[Roep de API aan in uw browser](https://global-law.lexifina.com/v1/search_law?query=vakantiedagen&jurisdictions=netherlands)**: een zoekopdracht naar „vakantiedagen” in het Nederlandse recht, met het antwoord in JSON. De documentatie staat [hier](https://lexifina.com/api/global-law).
+- **[Zoek in het Nederlandse recht op onze site](https://lexifina.com/law?country=netherlands&q=vakantiedagen)**: een zoekopdracht naar „vakantiedagen”, met de tekst van elke bepaling en de versies ervan, zonder account.
+- **[REST-API voor ontwikkelaars](https://global-law.lexifina.com/v1/search_law?query=vakantiedagen&jurisdiction=netherlands)**: dezelfde zoekopdracht als JSON, zonder sleutel. De documentatie staat [hier](https://lexifina.com/api/global-law).
 
 Beide assistenten lezen het archief via de gratis Global law-connector (MCP, `https://global-law.lexifina.com/mcp`); de eerste keer geeft de chat u de link waarmee u de connector toevoegt. Stel uw vraag in het Nederlands of in het Engels.
 
