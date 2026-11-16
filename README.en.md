@@ -61,6 +61,7 @@ Each change is credited to the publication the BWB or the CVDR names for it (`St
 - Every local regulation is checked word for word against the CVDR's XML; one that fails is held back and retried.
 - Every commit's trailers parse; there are no merge commits and no commit dated after the build.
 - History is append-only: `main` only grows, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Dutch law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

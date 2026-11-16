@@ -61,6 +61,7 @@ Elke wijziging wordt toegeschreven aan de publicatie die het BWB of het CVDR erv
 - Elke lokale regeling wordt woord voor woord gecontroleerd tegen de XML van het CVDR; een regeling die niet slaagt, wordt achtergehouden en later opnieuw geprobeerd.
 - De trailers van elke commit zijn geldig; er zijn geen merge-commits en geen commits gedateerd na de build.
 - De geschiedenis wordt alleen aangevuld: `main` groeit alleen, en geen gepubliceerde commit wordt herschreven.
+- [vulnerabilities/](vulnerabilities/): mogelijke redactionele fouten in het Nederlandse recht, gevonden door de detectoren van global-law en met de hand gecontroleerd.
 
 ## Wat er niet in staat
 
