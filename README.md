@@ -87,6 +87,10 @@ Geen enkel AI-model heeft wettekst geschreven of gewijzigd; de scripts zijn gesc
 
 Dit is een vertaling van de Engelse versie ([README.en.md](README.en.md)); bij verschillen geldt de Engelse versie.
 
+## Visualisaties
+
+- [visualisations/](visualisations/): grafieken getekend uit deze repository. Nog niet getekend.
+
 ## Meer
 
 Uit de repository [lexifina/global-law](https://github.com/lexifina/global-law) (in het Engels):
